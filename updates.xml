@@ -1,0 +1,26 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <ignoredBuildNumbers>
+      <item value="213.6777.58" />
+      <item value="213.6461.83" />
+      <item value="213.5744.279" />
+      <item value="212.5712.51" />
+      <item value="212.5457.49" />
+      <item value="212.5284.49" />
+      <item value="212.5080.71" />
+      <item value="212.4746.100" />
+      <item value="213.7172.28" />
+      <item value="221.5080.224" />
+      <item value="221.5591.58" />
+      <item value="221.5787.33" />
+      <item value="221.5921.28" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="PS-211.7628.25" />
+    <option name="LAST_TIME_CHECKED" value="1656295411478" />
+    <pluginHosts>
+      <item value="https://plugins.zhile.io" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

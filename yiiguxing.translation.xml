@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="799" />
+    <option name="newTranslationDialogY" value="471" />
+    <histories>
+      <item value="Specified Commercial Transactions Law" />
+      <item value="Display based on the Specified Commercial Transactions Law" />
+      <item value="metric share of search storefront" />
+      <item value="restricted Stores" />
+      <item value="Get Share Of Search Top Share My Share Extra Data" />
+      <item value="Extra" />
+      <item value="dt Formatted" />
+      <item value="dt Formated" />
+      <item value="set rows for data not in database" />
+      <item value="must have AND combinator with ADS_PLACEMENT.type" />
+      <item value="only GetCampaignInsideData have hiddenFilter, GetAdsPlacementData should not have" />
+      <item value="Pay attention" />
+      <item value="omitted rules" />
+      <item value="true of false, default is false - normally, start date compares with START_TIME_SUFFIX and end date compares with END_TIME_SUFFIX, but if this is true, we will inverse" />
+      <item value="example used in sub-query" />
+      <item value="select Outer" />
+      <item value="de-dup first" />
+      <item value="omitted query" />
+      <item value="storefront restrict" />
+      <item value="more select to support group by aggregation func" />
+      <item value="authorization based on query directly on root-management" />
+      <item value="user store restriction" />
+      <item value="ADS PLACEMENT" />
+      <item value="hello" />
+      <item value="hee" />
+      <item value="identity" />
+      <item value="Definition Controller" />
+      <item value="storefront" />
+      <item value="This shouldn't ever cause an issue, but may as well not go through the rules." />
+      <item value="STORE FRONT" />
+      <item value="STOREFRONT" />
+      <item value="invert" />
+      <item value="build Up Returned Fields" />
+      <item value="ELOQUENT" />
+      <item value="quick fix, add field in sorts into headers if not existed" />
+      <item value="noted that marketplace is just a temporary value here, it maybe not correct" />
+      <item value="Which checking type of Perio Dentist is using?" />
+      <item value="medical record" />
+      <item value="test change password incorrect current pass" />
+      <item value="test forgot pass with is not exist email" />
+      <item value="is Weekday" />
+      <item value="saturday" />
+      <item value="Get an array of the subscription's invoices, including pending invoices." />
+      <item value="commission" />
+      <item value="pickup charge" />
+      <item value="pick up charge" />
+      <item value="See Less" />
+      <item value="Concerns" />
+      <item value="Commission" />
+      <item value="Comission" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="97" />
+        <entry key="CATALAN" value="1" />
+        <entry key="JAPANESE" value="13" />
+        <entry key="VIETNAMESE" value="90" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1655092371718" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="VIETNAMESE" />
+      </google-translate>
+    </option>
+  </component>
+</application>
