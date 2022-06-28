@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="apache" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
