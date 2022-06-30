@@ -6,6 +6,7 @@
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
