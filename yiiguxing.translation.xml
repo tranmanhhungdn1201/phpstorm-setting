@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="SLAVE" />
       <item value="Specified Commercial Transactions Law" />
       <item value="Display based on the Specified Commercial Transactions Law" />
       <item value="metric share of search storefront" />
@@ -53,19 +54,18 @@
       <item value="See Less" />
       <item value="Concerns" />
       <item value="Commission" />
-      <item value="Comission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="13" />
-        <entry key="VIETNAMESE" value="90" />
+        <entry key="VIETNAMESE" value="91" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655092371718" />
+    <option name="lastTrimTime" value="1657006340530" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
