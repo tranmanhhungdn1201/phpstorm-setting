@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="is changed info" />
       <item value="エクステンド sass内の重複記述は極力、共通化する。その際はextendで共通化する。 →　extendは%extend-を接頭語として記述。" />
       <item value="ログインしているとき・していないときで、データを取得するキーを変える" />
       <item value="SLAVE" />
@@ -53,19 +54,18 @@
       <item value="commission" />
       <item value="pickup charge" />
       <item value="pick up charge" />
-      <item value="See Less" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="16" />
-        <entry key="VIETNAMESE" value="93" />
+        <entry key="VIETNAMESE" value="94" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657006340530" />
+    <option name="lastTrimTime" value="1657525288845" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
