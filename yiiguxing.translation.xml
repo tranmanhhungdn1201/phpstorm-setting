@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="電話番号スキャン用に" />
+      <item value="宛名" />
+      <item value="宛名スキャン用に" />
+      <item value="宛名スキャン用に、項目に?が含まれていたらエラーを返す" />
+      <item value="データに?が含まれていたら、false,okならtrueを返す" />
+      <item value="'電話番号がありません。" />
+      <item value="住所データ" />
       <item value="Each PHP statement must be on a line by itself" />
       <item value="is changed info" />
       <item value="エクステンド sass内の重複記述は極力、共通化する。その際はextendで共通化する。 →　extendは%extend-を接頭語として記述。" />
@@ -47,19 +54,12 @@
       <item value="noted that marketplace is just a temporary value here, it maybe not correct" />
       <item value="Which checking type of Perio Dentist is using?" />
       <item value="medical record" />
-      <item value="test change password incorrect current pass" />
-      <item value="test forgot pass with is not exist email" />
-      <item value="is Weekday" />
-      <item value="saturday" />
-      <item value="Get an array of the subscription's invoices, including pending invoices." />
-      <item value="commission" />
-      <item value="pickup charge" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="100" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="16" />
+        <entry key="JAPANESE" value="24" />
         <entry key="VIETNAMESE" value="95" />
       </map>
     </option>
