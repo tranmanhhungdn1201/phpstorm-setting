@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="It checks if the language is either English or Japanese, and if it is, it sets a cookie with the language" />
+      <item value="Find a billable model by its Stripe ID" />
+      <item value="The data is being returned as an array." />
+      <item value="payload The payload that was sent to the webhook." />
+      <item value="It takes a payload and a tenant object and returns an array of data to be used to create a new payment record" />
       <item value="電話番号スキャン用に" />
       <item value="宛名" />
       <item value="宛名スキャン用に" />
@@ -49,23 +54,18 @@
       <item value="STOREFRONT" />
       <item value="invert" />
       <item value="build Up Returned Fields" />
-      <item value="ELOQUENT" />
-      <item value="quick fix, add field in sorts into headers if not existed" />
-      <item value="noted that marketplace is just a temporary value here, it maybe not correct" />
-      <item value="Which checking type of Perio Dentist is using?" />
-      <item value="medical record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="24" />
-        <entry key="VIETNAMESE" value="95" />
+        <entry key="VIETNAMESE" value="101" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657525288845" />
+    <option name="lastTrimTime" value="1658112890088" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
