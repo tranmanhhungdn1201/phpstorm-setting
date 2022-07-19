@@ -73,5 +73,6 @@
         <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
