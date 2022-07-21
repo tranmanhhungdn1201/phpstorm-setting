@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Spy an instance of an object in the container." />
+      <item value="Instruct the container to forget a previously mocked spied instance of an object." />
       <item value="data Valid" />
       <item value="It checks if the language is either English or Japanese, and if it is, it sets a cookie with the language" />
       <item value="Find a billable model by its Stripe ID" />
@@ -52,15 +54,13 @@
       <item value="storefront" />
       <item value="This shouldn't ever cause an issue, but may as well not go through the rules." />
       <item value="STORE FRONT" />
-      <item value="STOREFRONT" />
-      <item value="invert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="107" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="24" />
-        <entry key="VIETNAMESE" value="102" />
+        <entry key="VIETNAMESE" value="104" />
       </map>
     </option>
   </component>
