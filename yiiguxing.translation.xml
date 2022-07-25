@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="ローカル環境での開発で使います。apiは`2022 n`を向いています" />
       <item value="現在ログインしているユーザーは非アクティブです。 システム管理者にお問い合わせください。..に移動する" />
       <item value="Get" />
       <item value="Spy an instance of an object in the container." />
@@ -53,19 +54,18 @@
       <item value="hee" />
       <item value="identity" />
       <item value="Definition Controller" />
-      <item value="storefront" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="110" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="25" />
+        <entry key="JAPANESE" value="26" />
         <entry key="VIETNAMESE" value="105" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658112890088" />
+    <option name="lastTrimTime" value="1658721961869" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
