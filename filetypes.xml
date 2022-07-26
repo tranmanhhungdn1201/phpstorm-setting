@@ -4,7 +4,6 @@
       <mapping pattern="apache" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
-      <mapping ext="ng" type="HTML" />
       <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
