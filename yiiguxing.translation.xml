@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="粗楷体简" />
       <item value="ローカル環境での開発で使います。apiは`2022 n`を向いています" />
       <item value="現在ログインしているユーザーは非アクティブです。 システム管理者にお問い合わせください。..に移動する" />
       <item value="Get" />
@@ -53,10 +54,10 @@
       <item value="hello" />
       <item value="hee" />
       <item value="identity" />
-      <item value="Definition Controller" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="110" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="26" />
