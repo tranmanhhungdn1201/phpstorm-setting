@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="scope Query By Condition Params" />
+      <item value="scope Query By Params Condition" />
       <item value="粗楷体简" />
       <item value="ローカル環境での開発で使います。apiは`2022 n`を向いています" />
       <item value="現在ログインしているユーザーは非アクティブです。 システム管理者にお問い合わせください。..に移動する" />
@@ -52,16 +54,14 @@
       <item value="user store restriction" />
       <item value="ADS PLACEMENT" />
       <item value="hello" />
-      <item value="hee" />
-      <item value="identity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="26" />
-        <entry key="VIETNAMESE" value="105" />
+        <entry key="VIETNAMESE" value="107" />
       </map>
     </option>
   </component>
