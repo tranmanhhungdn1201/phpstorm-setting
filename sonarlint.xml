@@ -9,16 +9,6 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="https://quality.enablestartup.io" />
-          <token>dfccdfcfdfc8df9edfcbdf98df9ddf9bdfc9df9adf9ddf92dfc8dfcfdfcbdf92df9ddf9cdf9fdfcfdfc8df98df98dfcbdfcfdfcfdfcedf98df9adfcfdfcedf9edf9cdf9fdfcbdf93df92df9fdf9ddf9c</token>
-          <option name="name" value="es" />
-        </SonarQubeServer>
-      </list>
-    </option>
     <rules>
       <Rule active="false" key="javascript:S3504" />
     </rules>
