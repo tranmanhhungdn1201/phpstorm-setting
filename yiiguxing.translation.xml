@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="アプリ接続" />
+      <item value="通常接続" />
+      <item value="ヘッダー・フッダー処理" />
+      <item value="決済・配達・お届け商品のトラブル" />
+      <item value="アプリ障害・不具合の報告" />
       <item value="テンプレート設定" />
       <item value="お問い合わせ内容を確認する" />
       <item value="scope Query By Condition Params" />
@@ -49,18 +54,13 @@
       <item value="example used in sub-query" />
       <item value="select Outer" />
       <item value="de-dup first" />
-      <item value="omitted query" />
-      <item value="storefront restrict" />
-      <item value="more select to support group by aggregation func" />
-      <item value="authorization based on query directly on root-management" />
-      <item value="user store restriction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="112" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="28" />
+        <entry key="JAPANESE" value="36" />
         <entry key="VIETNAMESE" value="107" />
       </map>
     </option>
