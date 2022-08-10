@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="電話番号" />
       <item value="文字化けするかもしれないのでUTF-8に変換" />
       <item value="先頭と末尾のスラッシュを削除する" />
       <item value="アプリ接続" />
@@ -53,14 +54,13 @@
       <item value="Pay attention" />
       <item value="omitted rules" />
       <item value="true of false, default is false - normally, start date compares with START_TIME_SUFFIX and end date compares with END_TIME_SUFFIX, but if this is true, we will inverse" />
-      <item value="example used in sub-query" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="112" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="38" />
+        <entry key="JAPANESE" value="39" />
         <entry key="VIETNAMESE" value="109" />
       </map>
     </option>
