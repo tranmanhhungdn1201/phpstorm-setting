@@ -2,6 +2,11 @@
   <component name="SonarLintGlobalSettings">
     <option name="rulesByKey">
       <map>
+        <entry key="Web:BoldAndItalicTagsCheck">
+          <value>
+            <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+          </value>
+        </entry>
         <entry key="javascript:S3504">
           <value>
             <Rule active="false" key="javascript:S3504" />
@@ -10,6 +15,7 @@
       </map>
     </option>
     <rules>
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="javascript:S3504" />
     </rules>
   </component>
