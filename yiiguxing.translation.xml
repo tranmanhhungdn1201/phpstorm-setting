@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="DKからはsidとしてくるため、tokenに書き換えてあげる" />
       <item value="アプリ接続" />
       <item value="電話番号" />
       <item value="文字化けするかもしれないのでUTF-8に変換" />
@@ -53,15 +54,14 @@
       <item value="only GetCampaignInsideData have hiddenFilter, GetAdsPlacementData should not have" />
       <item value="Pay attention" />
       <item value="omitted rules" />
-      <item value="true of false, default is false - normally, start date compares with START_TIME_SUFFIX and end date compares with END_TIME_SUFFIX, but if this is true, we will inverse" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="112" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="40" />
-        <entry key="VIETNAMESE" value="109" />
+        <entry key="JAPANESE" value="41" />
+        <entry key="VIETNAMESE" value="110" />
       </map>
     </option>
   </component>
