@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="アプリをインストール済みでも自動で起動しない場合は" />
       <item value="セッションに保存" />
       <item value="セッションスタート" />
       <item value="DKからはsidとしてくるため、tokenに書き換えてあげる" />
@@ -53,14 +54,13 @@
       <item value="dt Formated" />
       <item value="set rows for data not in database" />
       <item value="must have AND combinator with ADS_PLACEMENT.type" />
-      <item value="only GetCampaignInsideData have hiddenFilter, GetAdsPlacementData should not have" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="112" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="43" />
+        <entry key="JAPANESE" value="44" />
         <entry key="VIETNAMESE" value="110" />
       </map>
     </option>
@@ -74,6 +74,5 @@
         <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
