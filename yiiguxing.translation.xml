@@ -4,10 +4,10 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="アプリ接続" />
       <item value="電話番号" />
       <item value="文字化けするかもしれないのでUTF-8に変換" />
       <item value="先頭と末尾のスラッシュを削除する" />
-      <item value="アプリ接続" />
       <item value="通常接続" />
       <item value="ヘッダー・フッダー処理" />
       <item value="決済・配達・お届け商品のトラブル" />
@@ -60,7 +60,7 @@
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="112" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="39" />
+        <entry key="JAPANESE" value="40" />
         <entry key="VIETNAMESE" value="109" />
       </map>
     </option>
