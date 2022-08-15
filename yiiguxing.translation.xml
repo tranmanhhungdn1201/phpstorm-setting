@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="抽選結果を見る" />
+      <item value="未購入時の処理" />
+      <item value="注文済み" />
       <item value="毎日10名に当たる！全額無料 11.1(月)から12.31(金)まで" />
       <item value="僋乕億儞_奣梫_10寧" />
       <item value="EDF Index Notes" />
@@ -51,9 +54,6 @@
       <item value="宛名スキャン用に、項目に?が含まれていたらエラーを返す" />
       <item value="データに?が含まれていたら、false,okならtrueを返す" />
       <item value="'電話番号がありません。" />
-      <item value="住所データ" />
-      <item value="Each PHP statement must be on a line by itself" />
-      <item value="is changed info" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="ENGLISH" value="118" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="49" />
+        <entry key="JAPANESE" value="52" />
         <entry key="VIETNAMESE" value="118" />
       </map>
     </option>
