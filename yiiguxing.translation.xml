@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="ハガキを注⽂するとキャンペーンには⾃動でエントリーされます" />
+      <item value="coupon code" />
+      <item value="以下のクーポンをうけとりました。" />
+      <item value="Jumbotron" />
+      <item value="11月 LINE COUPON 500" />
       <item value="キャンペーン対象外です" />
       <item value="クーポン受領済みです" />
       <item value="抽選結果を見る" />
@@ -15,7 +20,6 @@
       <item value="10月 LINE COUPON 500円" />
       <item value="説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文" />
       <item value="beforelogin" />
-      <item value="ハガキを注⽂するとキャンペーンには⾃動でエントリーされます" />
       <item value="deeplink" />
       <item value="linecoupon" />
       <item value="notarget" />
@@ -50,19 +54,15 @@
       <item value="The data is being returned as an array." />
       <item value="payload The payload that was sent to the webhook." />
       <item value="It takes a payload and a tenant object and returns an array of data to be used to create a new payment record" />
-      <item value="電話番号スキャン用に" />
-      <item value="宛名" />
-      <item value="宛名スキャン用に" />
-      <item value="宛名スキャン用に、項目に?が含まれていたらエラーを返す" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="120" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="54" />
-        <entry key="VIETNAMESE" value="118" />
+        <entry key="JAPANESE" value="57" />
+        <entry key="VIETNAMESE" value="120" />
       </map>
     </option>
   </component>
