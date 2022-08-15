@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="EDF Index Notes" />
       <item value="10月 LINE COUPON 500円" />
       <item value="説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文" />
       <item value="beforelogin" />
@@ -53,21 +54,20 @@
       <item value="is changed info" />
       <item value="エクステンド sass内の重複記述は極力、共通化する。その際はextendで共通化する。 →　extendは%extend-を接頭語として記述。" />
       <item value="ログインしているとき・していないときで、データを取得するキーを変える" />
-      <item value="SLAVE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="48" />
-        <entry key="VIETNAMESE" value="117" />
+        <entry key="VIETNAMESE" value="118" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660103506716" />
+    <option name="lastTrimTime" value="1660537440532" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
