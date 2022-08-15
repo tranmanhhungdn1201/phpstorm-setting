@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="beforelogin" />
+      <item value="ハガキを注⽂するとキャンペーンには⾃動でエントリーされます" />
+      <item value="deeplink" />
+      <item value="linecoupon" />
+      <item value="notarget" />
       <item value="hello" />
       <item value="he" />
       <item value="heelo" />
@@ -49,19 +54,15 @@
       <item value="SLAVE" />
       <item value="Specified Commercial Transactions Law" />
       <item value="Display based on the Specified Commercial Transactions Law" />
-      <item value="metric share of search storefront" />
-      <item value="restricted Stores" />
-      <item value="Get Share Of Search Top Share My Share Extra Data" />
-      <item value="Extra" />
-      <item value="dt Formatted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="ENGLISH" value="116" />
+        <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="44" />
-        <entry key="VIETNAMESE" value="111" />
+        <entry key="JAPANESE" value="46" />
+        <entry key="VIETNAMESE" value="116" />
       </map>
     </option>
   </component>
@@ -69,6 +70,7 @@
     <option name="lastTrimTime" value="1660103506716" />
   </component>
   <component name="Settings">
+    <option name="foldOriginal" value="true" />
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="VIETNAMESE" />
