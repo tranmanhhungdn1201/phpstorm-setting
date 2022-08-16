@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="november" />
+      <item value="novembar" />
       <item value="キャンペーン対象外です" />
       <item value="キャンペーン対象外です&quot;&gt;キャンペーン対象外です" />
       <item value="クーポン受領済みです" />
@@ -52,15 +54,14 @@
       <item value="Spy an instance of an object in the container." />
       <item value="Instruct the container to forget a previously mocked spied instance of an object." />
       <item value="data Valid" />
-      <item value="It checks if the language is either English or Japanese, and if it is, it sets a cookie with the language" />
-      <item value="Find a billable model by its Stripe ID" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="CROATIAN" value="1" />
         <entry key="JAPANESE" value="62" />
         <entry key="VIETNAMESE" value="124" />
       </map>
