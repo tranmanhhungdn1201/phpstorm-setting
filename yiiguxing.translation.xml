@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="キャンペーン対象外です" />
+      <item value="キャンペーン対象外です&quot;&gt;キャンペーン対象外です" />
+      <item value="クーポン受領済みです" />
       <item value="未ログイン時の処理" />
       <item value="EDF Index Lead" />
       <item value="以下のクーポンをうけとりました。" />
@@ -11,8 +14,6 @@
       <item value="coupon code" />
       <item value="Jumbotron" />
       <item value="11月 LINE COUPON 500" />
-      <item value="キャンペーン対象外です" />
-      <item value="クーポン受領済みです" />
       <item value="抽選結果を見る" />
       <item value="未購入時の処理" />
       <item value="注文済み" />
@@ -53,16 +54,15 @@
       <item value="data Valid" />
       <item value="It checks if the language is either English or Japanese, and if it is, it sets a cookie with the language" />
       <item value="Find a billable model by its Stripe ID" />
-      <item value="The data is being returned as an array." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="123" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="59" />
-        <entry key="VIETNAMESE" value="121" />
+        <entry key="JAPANESE" value="62" />
+        <entry key="VIETNAMESE" value="124" />
       </map>
     </option>
   </component>
