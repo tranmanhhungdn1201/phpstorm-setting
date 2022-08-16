@@ -4,9 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="以下のクーポンをうけとりました。" />
       <item value="ハガキを注⽂するとキャンペーンには⾃動でエントリーされます" />
       <item value="coupon code" />
-      <item value="以下のクーポンをうけとりました。" />
       <item value="Jumbotron" />
       <item value="11月 LINE COUPON 500" />
       <item value="キャンペーン対象外です" />
@@ -61,8 +61,8 @@
         <entry key="ENGLISH" value="120" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="JAPANESE" value="57" />
-        <entry key="VIETNAMESE" value="120" />
+        <entry key="JAPANESE" value="58" />
+        <entry key="VIETNAMESE" value="121" />
       </map>
     </option>
   </component>
