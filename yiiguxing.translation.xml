@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="EDF Index Lead" />
       <item value="以下のクーポンをうけとりました。" />
       <item value="ハガキを注⽂するとキャンペーンには⾃動でエントリーされます" />
       <item value="coupon code" />
@@ -53,12 +54,11 @@
       <item value="Find a billable model by its Stripe ID" />
       <item value="The data is being returned as an array." />
       <item value="payload The payload that was sent to the webhook." />
-      <item value="It takes a payload and a tenant object and returns an array of data to be used to create a new payment record" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="JAPANESE" value="58" />
