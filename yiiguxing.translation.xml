@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="ダブルクリック防止とセットで必要 ブラウザの戻るボタンなどで戻ったときにスタイルが残ってしまうことがあるのでその防止" />
       <item value="チャット規約同意画面の場合はchat()を実行。indexの場合はinit()を実行。" />
       <item value="NN-Serverリポジトリのsubmoduleとして運用" />
       <item value="ネットで年賀状のスタンプ画像とそのリストを管理" />
@@ -53,7 +54,6 @@
       <item value="粗楷体简" />
       <item value="ローカル環境での開発で使います。apiは`2022 n`を向いています" />
       <item value="現在ログインしているユーザーは非アクティブです。 システム管理者にお問い合わせください。..に移動する" />
-      <item value="Get" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,8 +62,8 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="65" />
-        <entry key="VIETNAMESE" value="125" />
+        <entry key="JAPANESE" value="66" />
+        <entry key="VIETNAMESE" value="126" />
       </map>
     </option>
   </component>
