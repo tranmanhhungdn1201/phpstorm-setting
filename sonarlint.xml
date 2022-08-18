@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="fileExclusions">
+      <list>
+        <option value="public/css/plugins/**" />
+        <option value="public/js/plugins/**" />
+        <option value="tests/**" />
+        <option value="resources/lang/**" />
+        <option value="storage" />
+      </list>
+    </option>
     <option name="rulesByKey">
       <map>
         <entry key="Web:BoldAndItalicTagsCheck">
@@ -14,7 +24,6 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="javascript:S3504" />
