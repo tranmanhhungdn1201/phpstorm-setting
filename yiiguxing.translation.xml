@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="スマートフォンUA" />
+      <item value="携帯かチェック" />
+      <item value="機種判別" />
       <item value="respond" />
       <item value="sanity check on input parameters" />
       <item value="ダブルクリック防止とセットで必要 ブラウザの戻るボタンなどで戻ったときにスタイルが残ってしまうことがあるのでその防止" />
@@ -51,9 +54,6 @@
       <item value="アプリ障害・不具合の報告" />
       <item value="テンプレート設定" />
       <item value="お問い合わせ内容を確認する" />
-      <item value="scope Query By Condition Params" />
-      <item value="scope Query By Params Condition" />
-      <item value="粗楷体简" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,13 +62,13 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="66" />
+        <entry key="JAPANESE" value="70" />
         <entry key="VIETNAMESE" value="127" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660537440532" />
+    <option name="lastTrimTime" value="1661228368971" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
