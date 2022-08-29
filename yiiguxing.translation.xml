@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Utils" />
       <item value="スマートフォンUA" />
       <item value="携帯かチェック" />
       <item value="機種判別" />
@@ -53,22 +54,21 @@
       <item value="決済・配達・お届け商品のトラブル" />
       <item value="アプリ障害・不具合の報告" />
       <item value="テンプレート設定" />
-      <item value="お問い合わせ内容を確認する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="JAPANESE" value="70" />
-        <entry key="VIETNAMESE" value="127" />
+        <entry key="VIETNAMESE" value="128" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661228368971" />
+    <option name="lastTrimTime" value="1661738523790" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
