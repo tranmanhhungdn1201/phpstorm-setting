@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="provide" />
+      <item value="ke Khai Chi Tieu By Provide" />
+      <item value="Provide" />
       <item value="Utils" />
       <item value="スマートフォンUA" />
       <item value="携帯かチェック" />
@@ -51,19 +54,17 @@
       <item value="先頭と末尾のスラッシュを削除する" />
       <item value="通常接続" />
       <item value="ヘッダー・フッダー処理" />
-      <item value="決済・配達・お届け商品のトラブル" />
-      <item value="アプリ障害・不具合の報告" />
-      <item value="テンプレート設定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="ENGLISH" value="130" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="JAPANESE" value="70" />
-        <entry key="VIETNAMESE" value="128" />
+        <entry key="HINDI" value="1" />
+        <entry key="VIETNAMESE" value="130" />
       </map>
     </option>
   </component>
