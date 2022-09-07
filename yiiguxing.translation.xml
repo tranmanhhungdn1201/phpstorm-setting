@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="スマホでつくって、ハガキでお届け" />
       <item value="{ NEWS セクション }" />
       <item value="provide" />
       <item value="ke Khai Chi Tieu By Provide" />
@@ -53,7 +54,6 @@
       <item value="電話番号" />
       <item value="文字化けするかもしれないのでUTF-8に変換" />
       <item value="先頭と末尾のスラッシュを削除する" />
-      <item value="通常接続" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="71" />
+        <entry key="JAPANESE" value="72" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="130" />
       </map>
