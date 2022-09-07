@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="年賀状受付期間中は、翌日発送、最短翌々日にお届けします" />
       <item value="スマホでつくって、ハガキでお届け" />
       <item value="{ NEWS セクション }" />
       <item value="provide" />
@@ -53,7 +54,6 @@
       <item value="アプリ接続" />
       <item value="電話番号" />
       <item value="文字化けするかもしれないのでUTF-8に変換" />
-      <item value="先頭と末尾のスラッシュを削除する" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,9 +62,9 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="72" />
+        <entry key="JAPANESE" value="73" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="130" />
+        <entry key="VIETNAMESE" value="131" />
       </map>
     </option>
   </component>
