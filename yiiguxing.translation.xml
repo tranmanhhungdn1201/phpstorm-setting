@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="年賀状アプリダウンロード数No.1「スマホで年賀状」挨拶状版！" />
+      <item value="年賀状アプリ利用者数No.1「スマホで年賀状」配信中！" />
       <item value="今年の年賀状はアプリひとつで準備万端！利用者数No.1の年賀状アプリです" />
       <item value="st-attention" />
       <item value="年賀状受付期間中は、翌日発送、最短翌々日にお届けします" />
@@ -52,8 +54,6 @@
       <item value="アプリをインストール済みでも自動で起動しない場合は" />
       <item value="セッションに保存" />
       <item value="セッションスタート" />
-      <item value="DKからはsidとしてくるため、tokenに書き換えてあげる" />
-      <item value="アプリ接続" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="74" />
+        <entry key="JAPANESE" value="76" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="131" />
       </map>
