@@ -15,10 +15,10 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.sql</mask>
-    <mask>*.css</mask>
     <mask>*.pug</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.tpl</mask>
+    <mask>*.css</mask>
   </component>
 </application>
