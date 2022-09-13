@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="手数料200円（税込220円）" />
       <item value="年賀期 (nenga_mode が true) の場合" />
       <item value="年賀状アプリダウンロード数No.1「スマホで年賀状」挨拶状版！" />
       <item value="年賀状アプリ利用者数No.1「スマホで年賀状」配信中！" />
@@ -53,7 +54,6 @@
       <item value="he" />
       <item value="heelo" />
       <item value="アプリをインストール済みでも自動で起動しない場合は" />
-      <item value="セッションに保存" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,14 +62,14 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="77" />
+        <entry key="JAPANESE" value="78" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="131" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662458960370" />
+    <option name="lastTrimTime" value="1663043928035" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
