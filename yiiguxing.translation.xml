@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
       <item value="literal" />
       <item value="手数料200円（税込220円）" />
       <item value="年賀期 (nenga_mode が true) の場合" />
@@ -53,7 +54,6 @@
       <item value="notarget" />
       <item value="hello" />
       <item value="he" />
-      <item value="heelo" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="JAPANESE" value="78" />
+        <entry key="JAPANESE" value="79" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="132" />
       </map>
