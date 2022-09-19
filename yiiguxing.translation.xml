@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="forge" />
       <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
       <item value="literal" />
       <item value="手数料200円（税込220円）" />
@@ -53,23 +54,22 @@
       <item value="linecoupon" />
       <item value="notarget" />
       <item value="hello" />
-      <item value="he" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="JAPANESE" value="79" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="132" />
+        <entry key="VIETNAMESE" value="133" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663043928035" />
+    <option name="lastTrimTime" value="1663555132272" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
