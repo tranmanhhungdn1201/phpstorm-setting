@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="customer id" />
       <item value="Whether requests should be treated as crossorigin" />
       <item value="お知らせIDからお知らせ詳細を取得する" />
       <item value="forge" />
@@ -53,18 +54,17 @@
       <item value="説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文説明文" />
       <item value="beforelogin" />
       <item value="deeplink" />
-      <item value="linecoupon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="JAPANESE" value="80" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="134" />
+        <entry key="VIETNAMESE" value="135" />
       </map>
     </option>
   </component>
