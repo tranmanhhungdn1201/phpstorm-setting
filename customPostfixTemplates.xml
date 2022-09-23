@@ -180,6 +180,10 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}/php/user.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.array" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/array.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/php/xylo.array.postfixTemplates" />
