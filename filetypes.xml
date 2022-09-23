@@ -4,6 +4,7 @@
       <mapping pattern="apache" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
+      <mapping pattern="UserStatus" type="PHP" />
       <mapping pattern=".gitigore" type="PLAIN_TEXT" />
       <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
