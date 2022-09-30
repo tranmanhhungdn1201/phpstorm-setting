@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Copy existing application directory permissions" />
       <item value="Could not determine a user with identifier" />
       <item value="could Not Determine User" />
       <item value="Api Responser" />
@@ -53,19 +54,18 @@
       <item value="抽選結果を見る" />
       <item value="未購入時の処理" />
       <item value="注文済み" />
-      <item value="毎日10名に当たる！全額無料 11.1(月)から12.31(金)まで" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="80" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="140" />
+        <entry key="VIETNAMESE" value="141" />
       </map>
     </option>
   </component>
