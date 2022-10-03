@@ -17,8 +17,8 @@
     <mask>*.sql</mask>
     <mask>*.pug</mask>
     <mask>*.js</mask>
-    <mask>*.tpl</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
