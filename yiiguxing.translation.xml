@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="宛先情報の1件目をpreviewに表示" />
       <item value="PRECISION" />
       <item value="QUESTION HAS_2_PRECISION" />
       <item value="通常接続" />
@@ -53,7 +54,6 @@
       <item value="EDF Index Lead" />
       <item value="以下のクーポンをうけとりました。" />
       <item value="ハガキを注⽂するとキャンペーンには⾃動でエントリーされます" />
-      <item value="coupon code" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="82" />
+        <entry key="JAPANESE" value="83" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="144" />
       </map>
