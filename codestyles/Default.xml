@@ -1,1 +1,9 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_NAMED_ARGUMENTS" value="true" />
+    <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
