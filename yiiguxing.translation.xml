@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="password Attachment" />
       <item value="inverse" />
       <item value="set Handler" />
       <item value="宛先情報の1件目をpreviewに表示" />
@@ -53,12 +54,11 @@
       <item value="キャンペーン対象外です&quot;&gt;キャンペーン対象外です" />
       <item value="クーポン受領済みです" />
       <item value="未ログイン時の処理" />
-      <item value="EDF Index Lead" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="83" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="145" />
+        <entry key="VIETNAMESE" value="146" />
       </map>
     </option>
   </component>
