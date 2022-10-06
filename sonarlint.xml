@@ -16,9 +16,15 @@
             <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
           </value>
         </entry>
+        <entry key="php:S100">
+          <value>
+            <Rule active="false" key="php:S100" />
+          </value>
+        </entry>
       </map>
     </option>
     <rules>
+      <Rule active="false" key="php:S100" />
       <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
     </rules>
   </component>
