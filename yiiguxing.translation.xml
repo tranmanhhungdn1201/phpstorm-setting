@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="omit in toc" />
       <item value="password Attachment" />
       <item value="inverse" />
       <item value="set Handler" />
@@ -53,12 +54,11 @@
       <item value="キャンペーン対象外です" />
       <item value="キャンペーン対象外です&quot;&gt;キャンペーン対象外です" />
       <item value="クーポン受領済みです" />
-      <item value="未ログイン時の処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,12 +66,12 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="83" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="146" />
+        <entry key="VIETNAMESE" value="147" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664764666069" />
+    <option name="lastTrimTime" value="1665372401480" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />

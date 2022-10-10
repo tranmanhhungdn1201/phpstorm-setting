@@ -8,7 +8,6 @@
       <mapping pattern="hasUuid" type="PHP" />
       <mapping pattern=".gitigore" type="PLAIN_TEXT" />
       <mapping pattern=".gitingnore" type="PLAIN_TEXT" />
-      <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
