@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Generate" />
       <item value="omit in toc" />
       <item value="password Attachment" />
       <item value="inverse" />
@@ -53,12 +54,11 @@
       <item value="novembar" />
       <item value="キャンペーン対象外です" />
       <item value="キャンペーン対象外です&quot;&gt;キャンペーン対象外です" />
-      <item value="クーポン受領済みです" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="83" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="147" />
+        <entry key="VIETNAMESE" value="148" />
       </map>
     </option>
   </component>
