@@ -10,7 +10,10 @@
   </component>
   <component name="Instance" id="ab709dfe-0abd-4742-8b7f-907edd71b313" version="2020.3.206" />
   <component name="UsageLog">
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2022-10-11T02:12:18.656259158Z">
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2022-10-11T03:21:54.838887495Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2022-10-11T03:24:51.199616906Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
   </component>
