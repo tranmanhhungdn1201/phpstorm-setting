@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="pristine" />
       <item value="ダイアログ" />
       <item value="自宅で印刷する" />
       <item value="印刷内容を確認する、からの保存" />
@@ -53,12 +54,11 @@
       <item value="チャット規約同意画面の場合はchat()を実行。indexの場合はinit()を実行。" />
       <item value="NN-Serverリポジトリのsubmoduleとして運用" />
       <item value="ネットで年賀状のスタンプ画像とそのリストを管理" />
-      <item value="november" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,12 +66,12 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="86" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="148" />
+        <entry key="VIETNAMESE" value="149" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665372401480" />
+    <option name="lastTrimTime" value="1665999795117" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
