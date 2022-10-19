@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="phuocnguyen2106" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev1.bb-f.net" />
+          <option name="userName" value="t.vo@asoljp.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
