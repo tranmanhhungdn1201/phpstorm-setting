@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="check Money And Contract Money" />
       <item value="Configure the rate limiters for the application." />
       <item value="記事は準備中です" />
       <item value="title" />
@@ -53,12 +54,11 @@
       <item value="機種判別" />
       <item value="respond" />
       <item value="sanity check on input parameters" />
-      <item value="ダブルクリック防止とセットで必要 ブラウザの戻るボタンなどで戻ったときにスタイルが残ってしまうことがあるのでその防止" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="87" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="151" />
+        <entry key="VIETNAMESE" value="152" />
       </map>
     </option>
   </component>
