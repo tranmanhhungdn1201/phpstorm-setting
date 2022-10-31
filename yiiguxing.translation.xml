@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Retrieve the model for a bound value." />
       <item value="check Money And Contract Money" />
       <item value="Configure the rate limiters for the application." />
       <item value="記事は準備中です" />
@@ -53,12 +54,11 @@
       <item value="携帯かチェック" />
       <item value="機種判別" />
       <item value="respond" />
-      <item value="sanity check on input parameters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,12 +66,12 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="87" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="152" />
+        <entry key="VIETNAMESE" value="153" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666579467468" />
+    <option name="lastTrimTime" value="1667186978095" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
