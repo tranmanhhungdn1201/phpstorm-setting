@@ -13,10 +13,8 @@
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext="csv" type="CSV" />
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext="tsv" type="TSV" />
     </extensionMap>
   </component>
 </application>
