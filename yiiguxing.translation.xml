@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="value Arrays" />
+      <item value="values Array" />
       <item value="Retrieve the model for a bound value." />
       <item value="check Money And Contract Money" />
       <item value="Configure the rate limiters for the application." />
@@ -52,13 +54,11 @@
       <item value="Utils" />
       <item value="スマートフォンUA" />
       <item value="携帯かチェック" />
-      <item value="機種判別" />
-      <item value="respond" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="ENGLISH" value="155" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="87" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="153" />
+        <entry key="VIETNAMESE" value="155" />
       </map>
     </option>
   </component>
