@@ -18,8 +18,8 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.tpl</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
   </component>
 </application>
