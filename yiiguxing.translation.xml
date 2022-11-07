@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="IPから国を取得" />
       <item value="value Arrays" />
       <item value="values Array" />
       <item value="Retrieve the model for a bound value." />
@@ -53,7 +54,6 @@
       <item value="Provide" />
       <item value="Utils" />
       <item value="スマートフォンUA" />
-      <item value="携帯かチェック" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,14 +64,14 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="87" />
+        <entry key="JAPANESE" value="88" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="155" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667186978095" />
+    <option name="lastTrimTime" value="1667806431087" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
