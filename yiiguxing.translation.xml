@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="forge" />
       <item value="IPから国を取得" />
       <item value="value Arrays" />
       <item value="values Array" />
@@ -37,7 +38,6 @@
       <item value="customer id" />
       <item value="Whether requests should be treated as crossorigin" />
       <item value="お知らせIDからお知らせ詳細を取得する" />
-      <item value="forge" />
       <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
       <item value="literal" />
       <item value="手数料200円（税込220円）" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="88" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="155" />
+        <entry key="VIETNAMESE" value="156" />
       </map>
     </option>
   </component>
