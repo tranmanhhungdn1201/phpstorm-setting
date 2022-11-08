@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="forge" />
+      <item value="IPから国を取得" />
+      <item value="value Arrays" />
+      <item value="values Array" />
+      <item value="Retrieve the model for a bound value." />
       <item value="check Money And Contract Money" />
       <item value="Configure the rate limiters for the application." />
       <item value="記事は準備中です" />
@@ -33,7 +38,6 @@
       <item value="customer id" />
       <item value="Whether requests should be treated as crossorigin" />
       <item value="お知らせIDからお知らせ詳細を取得する" />
-      <item value="forge" />
       <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
       <item value="literal" />
       <item value="手数料200円（税込220円）" />
@@ -50,28 +54,24 @@
       <item value="Provide" />
       <item value="Utils" />
       <item value="スマートフォンUA" />
-      <item value="携帯かチェック" />
-      <item value="機種判別" />
-      <item value="respond" />
-      <item value="sanity check on input parameters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="156" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="87" />
+        <entry key="JAPANESE" value="88" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="152" />
+        <entry key="VIETNAMESE" value="156" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666579467468" />
+    <option name="lastTrimTime" value="1667806431087" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />

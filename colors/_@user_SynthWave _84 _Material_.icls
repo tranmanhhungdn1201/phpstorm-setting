@@ -4,7 +4,7 @@
     <property name="created">2022-09-23T10:46:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-09-23T10:46:42</property>
+    <property name="modified">2022-10-31T15:11:09</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -76,14 +76,18 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="72f1b8" />
     <option name="FILESTATUS_MERGED" value="36f9f6" />
     <option name="FILESTATUS_MODIFIED" value="f92aad" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b893ce" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b893ce" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="fede5d" />
     <option name="FILESTATUS_SUPPRESSED" value="848bbd" />
     <option name="FILESTATUS_SWITCHED" value="fede5d" />
-    <option name="FILESTATUS_UNKNOWN" value="b893ce" />
+    <option name="FILESTATUS_UNKNOWN" value="999999" />
     <option name="FILESTATUS_addedOutside" value="3edf9" />
     <option name="FILESTATUS_changelistConflict" value="a148ab" />
     <option name="FILESTATUS_modifiedOutside" value="a148ab" />
@@ -261,9 +265,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f92aad" />
@@ -544,8 +548,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
@@ -1333,10 +1337,6 @@
         <option name="FOREGROUND" value="ff7edb" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="f97e72" />
@@ -2104,14 +2104,14 @@
         <option name="FOREGROUND" value="e4f3fa" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
@@ -2197,14 +2197,14 @@
         <option name="FOREGROUND" value="ff7edb" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="463564" />
@@ -2984,7 +2984,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />
