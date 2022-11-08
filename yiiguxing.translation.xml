@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="お気に入り商品削除 ログイン必須" />
       <item value="forge" />
       <item value="IPから国を取得" />
       <item value="value Arrays" />
@@ -53,7 +54,6 @@
       <item value="ke Khai Chi Tieu By Provide" />
       <item value="Provide" />
       <item value="Utils" />
-      <item value="スマートフォンUA" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="88" />
+        <entry key="JAPANESE" value="89" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="156" />
       </map>
