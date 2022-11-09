@@ -1,8 +1,22 @@
 <application>
   <component name="StringManipulationState">
+    <option name="columnAlignerHistory">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1667985828986" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
+    </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.align.AlignCenterAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.SortAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
