@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="sanitize the data if needed" />
       <item value="受付完了インタフェース" />
       <item value="ユーザ認証結果取得インタフェース" />
       <item value="注文情報取得インタフェース" />
@@ -53,12 +54,11 @@
       <item value="st-attention" />
       <item value="年賀状受付期間中は、翌日発送、最短翌々日にお届けします" />
       <item value="スマホでつくって、ハガキでお届け" />
-      <item value="{ NEWS セクション }" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
