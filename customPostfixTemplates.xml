@@ -176,7 +176,7 @@
               <list>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}/php/user.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\php\user.postfixTemplates" />
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
