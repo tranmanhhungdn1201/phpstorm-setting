@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="associate" />
+      <item value="performed On" />
+      <item value="normalize Causer" />
+      <item value="causer" />
+      <item value="subject" />
       <item value="difference" />
       <item value="smartyのディレクトリを設定" />
       <item value="sanitize the data if needed" />
@@ -49,24 +54,20 @@
       <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
       <item value="literal" />
       <item value="手数料200円（税込220円）" />
-      <item value="年賀期 (nenga_mode が true) の場合" />
-      <item value="年賀状アプリダウンロード数No.1「スマホで年賀状」挨拶状版！" />
-      <item value="年賀状アプリ利用者数No.1「スマホで年賀状」配信中！" />
-      <item value="今年の年賀状はアプリひとつで準備万端！利用者数No.1の年賀状アプリです" />
-      <item value="st-attention" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="163" />
         <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="97" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="160" />
+        <entry key="VIETNAMESE" value="163" />
       </map>
     </option>
   </component>
