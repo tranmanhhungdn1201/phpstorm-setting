@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="difference" />
       <item value="smartyのディレクトリを設定" />
       <item value="sanitize the data if needed" />
       <item value="受付完了インタフェース" />
@@ -53,12 +54,11 @@
       <item value="年賀状アプリ利用者数No.1「スマホで年賀状」配信中！" />
       <item value="今年の年賀状はアプリひとつで準備万端！利用者数No.1の年賀状アプリです" />
       <item value="st-attention" />
-      <item value="年賀状受付期間中は、翌日発送、最短翌々日にお届けします" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
