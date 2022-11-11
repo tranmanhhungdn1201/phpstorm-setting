@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="implements" />
       <item value="associate" />
       <item value="performed On" />
       <item value="normalize Causer" />
@@ -53,12 +54,11 @@
       <item value="お知らせIDからお知らせ詳細を取得する" />
       <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
       <item value="literal" />
-      <item value="手数料200円（税込220円）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="97" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="163" />
+        <entry key="VIETNAMESE" value="164" />
       </map>
     </option>
   </component>
