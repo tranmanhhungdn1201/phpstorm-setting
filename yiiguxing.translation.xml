@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="handle Tracking Plan Data" />
+      <item value="revenue" />
+      <item value="program size" />
       <item value="hieroglyph flag" />
       <item value="microchipped刻印" />
       <item value="2022年6月1日から、ブリーダーやペットショップ等からお迎えした犬や猫について、マイクロチップの装着が義務化されました。ブリーダーやペットショップ等で購入した犬や猫にはマイクロチップが装着されており、飼い主になる際には、ご自身の情報に変更する必要があります。さらに、他者から犬や猫を譲り受けて、その犬や猫にご自身が獣医師に依頼してマイクロチップを装着した場合には、ご自身の情報の登録が必要となっています。" />
@@ -51,14 +54,11 @@
       <item value="forbidden" />
       <item value="Copy existing application directory permissions" />
       <item value="Could not determine a user with identifier" />
-      <item value="could Not Determine User" />
-      <item value="Api Responser" />
-      <item value="You have signed up successfully" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="ENGLISH" value="176" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="99" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="173" />
+        <entry key="VIETNAMESE" value="176" />
       </map>
     </option>
   </component>
