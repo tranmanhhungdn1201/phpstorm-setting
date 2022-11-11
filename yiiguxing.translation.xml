@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="normalize" />
       <item value="handle Tracking Plan Data" />
       <item value="revenue" />
       <item value="program size" />
@@ -53,12 +54,11 @@
       <item value="アプリ接続" />
       <item value="forbidden" />
       <item value="Copy existing application directory permissions" />
-      <item value="Could not determine a user with identifier" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="99" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="176" />
+        <entry key="VIETNAMESE" value="177" />
       </map>
     </option>
   </component>
