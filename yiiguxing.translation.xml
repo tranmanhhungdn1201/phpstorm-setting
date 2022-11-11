@@ -5,9 +5,9 @@
     <option name="newTranslationDialogY" value="471" />
     <histories>
       <item value="tracking Plan" />
-      <item value="departments" />
       <item value="projects" />
       <item value="implements" />
+      <item value="departments" />
       <item value="associate" />
       <item value="performed On" />
       <item value="normalize Causer" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="ENGLISH" value="171" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="97" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="168" />
+        <entry key="VIETNAMESE" value="171" />
       </map>
     </option>
   </component>
