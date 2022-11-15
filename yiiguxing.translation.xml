@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="全プラグイン共通" />
+      <item value="Google Analyticsが読み込まれていない場合は、何もしない" />
+      <item value="タグに設定されている属性のプレフィックスをつけてキーを取得" />
       <item value="tracking Plan For Programs" />
       <item value="implements For Projects" />
       <item value="tracking Plan" />
@@ -51,9 +54,6 @@
       <item value="set Handler" />
       <item value="宛先情報の1件目をpreviewに表示" />
       <item value="PRECISION" />
-      <item value="QUESTION HAS_2_PRECISION" />
-      <item value="通常接続" />
-      <item value="アプリ接続" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,9 +65,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="99" />
+        <entry key="JAPANESE" value="102" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="180" />
+        <entry key="VIETNAMESE" value="181" />
       </map>
     </option>
   </component>
