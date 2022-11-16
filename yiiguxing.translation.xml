@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Tracking Cost" />
       <item value="station" />
       <item value="全プラグイン共通" />
       <item value="Google Analyticsが読み込まれていない場合は、何もしない" />
@@ -53,12 +54,11 @@
       <item value="password Attachment" />
       <item value="inverse" />
       <item value="set Handler" />
-      <item value="宛先情報の1件目をpreviewに表示" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="102" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="181" />
+        <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
   </component>
