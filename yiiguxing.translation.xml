@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="ご依頼主のお名前" />
+      <item value="生年月日の日" />
       <item value="Sift取引判断結果連携CSVアップロード" />
       <item value="CMS 受注変更" />
       <item value="Tracking Cost" />
@@ -52,8 +54,6 @@
       <item value="自宅で印刷する" />
       <item value="印刷内容を確認する、からの保存" />
       <item value="Generate" />
-      <item value="omit in toc" />
-      <item value="password Attachment" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="104" />
+        <entry key="JAPANESE" value="106" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="183" />
       </map>
