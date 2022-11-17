@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="799" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="CMS 受注変更" />
       <item value="Tracking Cost" />
       <item value="station" />
       <item value="全プラグイン共通" />
@@ -53,7 +54,6 @@
       <item value="omit in toc" />
       <item value="password Attachment" />
       <item value="inverse" />
-      <item value="set Handler" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,9 +65,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="102" />
+        <entry key="JAPANESE" value="103" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="182" />
+        <entry key="VIETNAMESE" value="183" />
       </map>
     </option>
   </component>
