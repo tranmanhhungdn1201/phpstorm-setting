@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="is Add Continuous" />
       <item value="result Grouped" />
       <item value="file Validate" />
       <item value="ご依頼主のお名前" />
@@ -53,12 +54,11 @@
       <item value="title" />
       <item value="pristine" />
       <item value="ダイアログ" />
-      <item value="自宅で印刷する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="106" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="184" />
+        <entry key="VIETNAMESE" value="185" />
       </map>
     </option>
   </component>
