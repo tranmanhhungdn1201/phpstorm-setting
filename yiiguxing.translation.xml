@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="subject" />
       <item value="is Add Continuous" />
       <item value="result Grouped" />
       <item value="file Validate" />
@@ -34,7 +35,6 @@
       <item value="performed On" />
       <item value="normalize Causer" />
       <item value="causer" />
-      <item value="subject" />
       <item value="difference" />
       <item value="smartyのディレクトリを設定" />
       <item value="sanitize the data if needed" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="106" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="185" />
+        <entry key="VIETNAMESE" value="186" />
       </map>
     </option>
   </component>
