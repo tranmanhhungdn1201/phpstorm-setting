@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="ゼウスからの戻りかを判定" />
       <item value="subject" />
       <item value="is Add Continuous" />
       <item value="result Grouped" />
@@ -53,7 +54,6 @@
       <item value="記事は準備中です" />
       <item value="title" />
       <item value="pristine" />
-      <item value="ダイアログ" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,14 +65,14 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="106" />
+        <entry key="JAPANESE" value="107" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="186" />
+        <entry key="VIETNAMESE" value="187" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669000822215" />
+    <option name="lastTrimTime" value="1669607845392" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
