@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Stores the name of the operation to be run on the server" />
       <item value="Finds whether a variable is a scalar" />
       <item value="Convert scalar value to its literal in graphql" />
       <item value="Append empty line at the beginning if it's not the first item on the list" />
@@ -53,12 +54,11 @@
       <item value="お気に入り商品削除 ログイン必須" />
       <item value="forge" />
       <item value="IPから国を取得" />
-      <item value="value Arrays" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="110" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="190" />
+        <entry key="VIETNAMESE" value="191" />
       </map>
     </option>
   </component>
