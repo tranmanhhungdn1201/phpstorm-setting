@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Finds whether a variable is a scalar" />
+      <item value="Convert scalar value to its literal in graphql" />
       <item value="Append empty line at the beginning if it's not the first item on the list" />
       <item value="Stores the name of the type of the operation to be executed on the GraphQL server" />
       <item value="Enrol Reqを作成して送信" />
@@ -52,13 +54,11 @@
       <item value="forge" />
       <item value="IPから国を取得" />
       <item value="value Arrays" />
-      <item value="values Array" />
-      <item value="Retrieve the model for a bound value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="ENGLISH" value="190" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="110" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="188" />
+        <entry key="VIETNAMESE" value="190" />
       </map>
     </option>
   </component>
