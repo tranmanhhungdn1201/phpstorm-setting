@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Stores the name of the type of the operation to be executed on the GraphQL server" />
       <item value="Enrol Reqを作成して送信" />
       <item value="リスクベース認証用追加パラメータを設定" />
       <item value="Pay Reqを作成して送信" />
@@ -53,12 +54,11 @@
       <item value="values Array" />
       <item value="Retrieve the model for a bound value." />
       <item value="check Money And Contract Money" />
-      <item value="Configure the rate limiters for the application." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
