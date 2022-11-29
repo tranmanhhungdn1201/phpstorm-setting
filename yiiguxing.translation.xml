@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="Stores the list of arguments used when querying data" />
+      <item value="Stores the object being queried for" />
+      <item value="build Selection" />
+      <item value="build Selection Set" />
+      <item value="generate Signature" />
+      <item value="Private member that's not accessible from outside the class, used internally to deduce if query is nested or not" />
+      <item value="Stores the selection set desired to get from the query, can include nested queries" />
+      <item value="construct Selection Set" />
+      <item value="One or more of the arguments provided for creating the query does not have a key, which represents argument name" />
+      <item value="if no value is provided for the field name an empty query object is assumed" />
       <item value="Stores the name of the operation to be run on the server" />
       <item value="Finds whether a variable is a scalar" />
       <item value="Convert scalar value to its literal in graphql" />
@@ -44,21 +54,11 @@
       <item value="performed On" />
       <item value="normalize Causer" />
       <item value="causer" />
-      <item value="difference" />
-      <item value="smartyのディレクトリを設定" />
-      <item value="sanitize the data if needed" />
-      <item value="受付完了インタフェース" />
-      <item value="ユーザ認証結果取得インタフェース" />
-      <item value="注文情報取得インタフェース" />
-      <item value="認証応答" />
-      <item value="お気に入り商品削除 ログイン必須" />
-      <item value="forge" />
-      <item value="IPから国を取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="ENGLISH" value="201" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="110" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="191" />
+        <entry key="VIETNAMESE" value="201" />
       </map>
     </option>
   </component>
