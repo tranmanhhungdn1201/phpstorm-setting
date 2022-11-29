@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="ストアID" />
+      <item value="カートID" />
       <item value="Stores the list of arguments used when querying data" />
       <item value="Stores the object being queried for" />
       <item value="build Selection" />
@@ -52,8 +54,6 @@
       <item value="departments" />
       <item value="associate" />
       <item value="performed On" />
-      <item value="normalize Causer" />
-      <item value="causer" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,9 +65,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="110" />
+        <entry key="JAPANESE" value="112" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="201" />
+        <entry key="VIETNAMESE" value="202" />
       </map>
     </option>
   </component>
