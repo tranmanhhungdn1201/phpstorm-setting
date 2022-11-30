@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="String Literal Formatter" />
       <item value="ストアID" />
       <item value="カートID" />
       <item value="Stores the list of arguments used when querying data" />
@@ -53,12 +54,11 @@
       <item value="implements" />
       <item value="departments" />
       <item value="associate" />
-      <item value="performed On" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
