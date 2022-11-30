@@ -16,7 +16,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.SortAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.ShiftQuoteAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
