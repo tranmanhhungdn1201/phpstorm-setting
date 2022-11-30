@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="constraints String" />
+      <item value="Convert argument values to graphql string literal equivalent" />
+      <item value="Convert PHP array to its array representation in graphql arguments" />
       <item value="String Literal Formatter" />
       <item value="ストアID" />
       <item value="カートID" />
@@ -51,14 +54,11 @@
       <item value="2022年6月1日から、ブリーダーやペットショップ等からお迎えした犬や猫について、マイクロチップの装着が義務化されました。ブリーダーやペットショップ等で購入した犬や猫にはマイクロチップが装着されており、飼い主になる際には、ご自身の情報に変更する必要があります。さらに、他者から犬や猫を譲り受けて、その犬や猫にご自身が獣医師に依頼してマイクロチップを装着した場合には、ご自身の情報の登録が必要となっています。" />
       <item value="decision code" />
       <item value="projects" />
-      <item value="implements" />
-      <item value="departments" />
-      <item value="associate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="ENGLISH" value="205" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="112" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="202" />
+        <entry key="VIETNAMESE" value="205" />
       </map>
     </option>
   </component>
