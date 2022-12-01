@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="に、記載されているファイル名のファイルを documentssql以下から探して初期データとして登録されるので、 必要なファイルを記載（または不要なものを削除）する" />
+      <item value="docker imageを作成" />
       <item value="カートから受注を登録する処理で、受注を登録完了した後の処理" />
       <item value="Sift関連処理 Model." />
       <item value="novelty" />
@@ -52,8 +54,6 @@
       <item value="file Validate" />
       <item value="ご依頼主のお名前" />
       <item value="生年月日の日" />
-      <item value="Sift取引判断結果連携CSVアップロード" />
-      <item value="CMS 受注変更" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="128" />
+        <entry key="JAPANESE" value="130" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="213" />
       </map>
