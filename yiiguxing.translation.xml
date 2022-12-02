@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="カスタマイズ" />
       <item value="pensaki" />
       <item value="'ゴールド': 'Ni-Au', 'シルバー': 'Ni-Cr', 'ホワイト': 'PDC1Y311-2', 'レッド': 'ASK-4-9256', 'ブラック': 'PDC9X089', 'ブラウン': 'PDC9X087', 'ネイビー': 'PDC6Y407-3', 'クリアナチュラル': 'クリアナチュラル', 'クリアレッド': 'クリアレッド', 'クリアブルー': 'クリアブルー', 'クリアグリーン': 'クリアグリーン', 'クリアブランド': 'クリアブランド', 'メタル': 'メタル'," />
       <item value="レギュラー" />
@@ -21,7 +22,6 @@
       <item value="を用意して 変更が必要な設定値を書き換える" />
       <item value="や" />
       <item value="fuelappconfigdpay.php や fuelappconfigtestdpay.php を用意して 変更が必要な設定値を書き換える (fuelpackagesdpayconfigdpay.php 参照)" />
-      <item value="カスタマイズ" />
       <item value="有効化" />
       <item value="dpay 連携モジュール" />
       <item value="always_load.packages に dpay を追加 (bbfpkg より後に)" />
@@ -65,7 +65,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="135" />
+        <entry key="JAPANESE" value="136" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="213" />
       </map>
