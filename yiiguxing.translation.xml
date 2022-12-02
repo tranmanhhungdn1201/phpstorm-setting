@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="カスタマイズ：選択項目による画像透過処理" />
       <item value="カスタマイズ" />
       <item value="pensaki" />
       <item value="'ゴールド': 'Ni-Au', 'シルバー': 'Ni-Cr', 'ホワイト': 'PDC1Y311-2', 'レッド': 'ASK-4-9256', 'ブラック': 'PDC9X089', 'ブラウン': 'PDC9X087', 'ネイビー': 'PDC6Y407-3', 'クリアナチュラル': 'クリアナチュラル', 'クリアレッド': 'クリアレッド', 'クリアブルー': 'クリアブルー', 'クリアグリーン': 'クリアグリーン', 'クリアブランド': 'クリアブランド', 'メタル': 'メタル'," />
@@ -53,7 +54,6 @@
       <item value="リスクベース認証用追加パラメータを設定" />
       <item value="Pay Reqを作成して送信" />
       <item value="ゼウスからの戻りかを判定" />
-      <item value="subject" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="136" />
+        <entry key="JAPANESE" value="137" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="213" />
       </map>
