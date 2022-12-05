@@ -4,9 +4,14 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="変更する" />
+      <item value="カスタマイズ" />
+      <item value="の後に以下を追加" />
+      <item value="に以下を追加" />
+      <item value="always_load.packages に ltvlab を追加 (bbfpkg より後に)" />
+      <item value="Ltvlab 連携モジュール" />
       <item value="商品ID" />
       <item value="カスタマイズ：選択項目による画像透過処理" />
-      <item value="カスタマイズ" />
       <item value="pensaki" />
       <item value="'ゴールド': 'Ni-Au', 'シルバー': 'Ni-Cr', 'ホワイト': 'PDC1Y311-2', 'レッド': 'ASK-4-9256', 'ブラック': 'PDC9X089', 'ブラウン': 'PDC9X087', 'ネイビー': 'PDC6Y407-3', 'クリアナチュラル': 'クリアナチュラル', 'クリアレッド': 'クリアレッド', 'クリアブルー': 'クリアブルー', 'クリアグリーン': 'クリアグリーン', 'クリアブランド': 'クリアブランド', 'メタル': 'メタル'," />
       <item value="レギュラー" />
@@ -49,11 +54,6 @@
       <item value="Stores the name of the operation to be run on the server" />
       <item value="Finds whether a variable is a scalar" />
       <item value="Convert scalar value to its literal in graphql" />
-      <item value="Append empty line at the beginning if it's not the first item on the list" />
-      <item value="Stores the name of the type of the operation to be executed on the GraphQL server" />
-      <item value="Enrol Reqを作成して送信" />
-      <item value="リスクベース認証用追加パラメータを設定" />
-      <item value="Pay Reqを作成して送信" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="137" />
+        <entry key="JAPANESE" value="143" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="213" />
       </map>
