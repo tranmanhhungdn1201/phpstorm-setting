@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="bbfcore の smarty_plugin を上書きするために bbfcore の前に挿入" />
+      <item value="smartyのディレクトリを設定" />
       <item value="変更する" />
       <item value="カスタマイズ" />
       <item value="の後に以下を追加" />
@@ -52,8 +54,6 @@
       <item value="One or more of the arguments provided for creating the query does not have a key, which represents argument name" />
       <item value="if no value is provided for the field name an empty query object is assumed" />
       <item value="Stores the name of the operation to be run on the server" />
-      <item value="Finds whether a variable is a scalar" />
-      <item value="Convert scalar value to its literal in graphql" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="143" />
+        <entry key="JAPANESE" value="145" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="213" />
       </map>
