@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2668" />
     <option name="newTranslationDialogY" value="293" />
     <histories>
+      <item value="決済前後のエラー取得" />
       <item value="If the constant exists, set the static property to the value of the constant and return a new instance of the class" />
       <item value="public static function get(enum): Enum { if (static::constantExists(enum)) { static::enum = enum; return new static; } throw new \Exception(&quot;Enum &quot; . enum .&quot; not Found&quot;); }" />
       <item value="bbfcore の smarty_plugin を上書きするために bbfcore の前に挿入" />
@@ -53,7 +54,6 @@
       <item value="Private member that's not accessible from outside the class, used internally to deduce if query is nested or not" />
       <item value="Stores the selection set desired to get from the query, can include nested queries" />
       <item value="construct Selection Set" />
-      <item value="One or more of the arguments provided for creating the query does not have a key, which represents argument name" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,9 +65,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="145" />
+        <entry key="JAPANESE" value="146" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="214" />
+        <entry key="VIETNAMESE" value="215" />
       </map>
     </option>
   </component>
