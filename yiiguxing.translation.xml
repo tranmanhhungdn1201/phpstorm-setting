@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="1177" />
-    <option name="newTranslationDialogY" value="378" />
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="2715" />
+    <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="商品ページ埋め込みコンテンツ1&#10;商品説明２" />
+      <item value="商品ページ埋め込みコンテンツ1" />
       <item value="The Admin Master Real Shop Upload Controller." />
       <item value="画像ディレクトリ２" />
       <item value="画像ディレクトリ１" />
-      <item value="商品ページ埋め込みコンテンツ1" />
       <item value="決済前後のエラー取得" />
       <item value="If the constant exists, set the static property to the value of the constant and return a new instance of the class" />
       <item value="public static function get(enum): Enum { if (static::constantExists(enum)) { static::enum = enum; return new static; } throw new \Exception(&quot;Enum &quot; . enum .&quot; not Found&quot;); }" />
@@ -54,7 +55,6 @@
       <item value="Stores the list of arguments used when querying data" />
       <item value="Stores the object being queried for" />
       <item value="build Selection" />
-      <item value="build Selection Set" />
     </histories>
     <option name="languageScores">
       <map>
