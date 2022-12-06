@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="recommend item" />
+      <item value="recommend text" />
+      <item value="Sazaby 商品データ連携（連携フォーマット）" />
+      <item value="Sazaby 商品データ連携（取り込み用フォーマット）" />
       <item value="属性名" />
       <item value="性別ID" />
       <item value="商品ページ埋め込みコンテンツ1&#10;商品説明２" />
@@ -51,24 +55,20 @@
       <item value="constraints String" />
       <item value="Convert argument values to graphql string literal equivalent" />
       <item value="Convert PHP array to its array representation in graphql arguments" />
-      <item value="String Literal Formatter" />
-      <item value="ストアID" />
-      <item value="カートID" />
-      <item value="Stores the list of arguments used when querying data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="ENGLISH" value="217" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="146" />
+        <entry key="JAPANESE" value="149" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="216" />
+        <entry key="VIETNAMESE" value="217" />
       </map>
     </option>
   </component>
