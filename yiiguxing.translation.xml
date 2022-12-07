@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="受注属性を登録する" />
       <item value="受注配送先を取得" />
       <item value="-- Sift 取引判断結果連携" />
       <item value="recommend item" />
@@ -54,7 +55,6 @@
       <item value="dpay 連携モジュール 有効化 fuelappconfigconfig.php always_load.packages に dpay を追加 (bbfpkg より後に) ddl sqldpay.sql カスタマイズ 1. fuelappconfigdpay.php や fuelappconfigtestdpay.php を用意して 変更が必要な設定値を書き換える (fuelpackagesdpayconfigdpay.php 参照) ※特にpayment_option_id" />
       <item value="It takes an array and returns a string that represents the array in a format that can be used in a GraphQL query" />
       <item value="It takes a value and returns a string that can be used in a GraphQL query" />
-      <item value="constraints String" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="151" />
+        <entry key="JAPANESE" value="152" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="218" />
       </map>
