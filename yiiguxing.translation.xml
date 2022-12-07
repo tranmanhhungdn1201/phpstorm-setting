@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="キャンセル（decisionの送信）" />
+      <item value="自動連携チェック" />
+      <item value="戻り値" />
       <item value="エラーメッセージ" />
       <item value="キャンセル・返品可能な商品(受注明細)を含むかどうかの判定" />
       <item value="注文キャンセル可否判定" />
@@ -52,9 +55,6 @@
       <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
       <item value="参照" />
       <item value="を用意して 変更が必要な設定値を書き換える" />
-      <item value="や" />
-      <item value="fuelappconfigdpay.php や fuelappconfigtestdpay.php を用意して 変更が必要な設定値を書き換える (fuelpackagesdpayconfigdpay.php 参照)" />
-      <item value="有効化" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="158" />
+        <entry key="JAPANESE" value="161" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="218" />
       </map>
