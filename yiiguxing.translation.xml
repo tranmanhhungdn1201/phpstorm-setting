@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="-- Sift 取引判断結果連携" />
       <item value="recommend item" />
       <item value="recommend text" />
       <item value="Sazaby 商品データ連携（連携フォーマット）" />
@@ -54,7 +55,6 @@
       <item value="It takes a value and returns a string that can be used in a GraphQL query" />
       <item value="constraints String" />
       <item value="Convert argument values to graphql string literal equivalent" />
-      <item value="Convert PHP array to its array representation in graphql arguments" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,9 +66,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="149" />
+        <entry key="JAPANESE" value="150" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="217" />
+        <entry key="VIETNAMESE" value="218" />
       </map>
     </option>
   </component>
