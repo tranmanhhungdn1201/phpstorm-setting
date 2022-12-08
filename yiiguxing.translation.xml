@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="閉じる" />
+      <item value="カートに進む" />
       <item value="キャンセル（decisionの送信）" />
       <item value="自動連携チェック" />
       <item value="戻り値" />
@@ -53,8 +55,6 @@
       <item value="recomputation" />
       <item value="アルファベット、数字、アンダースコア以外" />
       <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
-      <item value="参照" />
-      <item value="を用意して 変更が必要な設定値を書き換える" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="161" />
+        <entry key="JAPANESE" value="163" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="218" />
       </map>
