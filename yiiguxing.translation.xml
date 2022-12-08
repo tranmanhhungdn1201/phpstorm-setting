@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="エラーメッセージ表示処理" />
+      <item value="カート登録ボタン押下イベント" />
       <item value="閉じる" />
       <item value="カートに進む" />
       <item value="キャンセル（decisionの送信）" />
@@ -53,8 +55,6 @@
       <item value="Sift関連処理 Model." />
       <item value="novelty" />
       <item value="recomputation" />
-      <item value="アルファベット、数字、アンダースコア以外" />
-      <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="163" />
+        <entry key="JAPANESE" value="165" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="218" />
       </map>
