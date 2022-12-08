@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="redirect to cart when egift btn pressed" />
+      <item value="nomal" />
+      <item value="LTV-Labトラッキング" />
       <item value="エラーメッセージ表示処理" />
       <item value="カート登録ボタン押下イベント" />
       <item value="閉じる" />
@@ -52,23 +55,20 @@
       <item value="に、記載されているファイル名のファイルを documentssql以下から探して初期データとして登録されるので、 必要なファイルを記載（または不要なものを削除）する" />
       <item value="docker imageを作成" />
       <item value="カートから受注を登録する処理で、受注を登録完了した後の処理" />
-      <item value="Sift関連処理 Model." />
-      <item value="novelty" />
-      <item value="recomputation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="165" />
+        <entry key="JAPANESE" value="166" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="218" />
+        <entry key="VIETNAMESE" value="219" />
       </map>
     </option>
   </component>
