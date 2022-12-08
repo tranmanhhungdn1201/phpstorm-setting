@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="カート" />
       <item value="すでに通常購入の商品がカートに入っています" />
       <item value="すでにeギフトで贈る商品がカートに入っています" />
       <item value="有効期限切れで在庫が解放された" />
@@ -54,7 +55,6 @@
       <item value="画像ディレクトリ１" />
       <item value="決済前後のエラー取得" />
       <item value="If the constant exists, set the static property to the value of the constant and return a new instance of the class" />
-      <item value="public static function get(enum): Enum { if (static::constantExists(enum)) { static::enum = enum; return new static; } throw new \Exception(&quot;Enum &quot; . enum .&quot; not Found&quot;); }" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="181" />
+        <entry key="JAPANESE" value="182" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="225" />
       </map>
