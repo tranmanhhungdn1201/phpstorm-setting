@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="すでに通常購入の商品がカートに入っています" />
+      <item value="すでにeギフトで贈る商品がカートに入っています" />
+      <item value="有効期限切れで在庫が解放された" />
+      <item value="カート：有効期限切れで在庫が解放された" />
+      <item value="Because it is not possible to put more than one item of different or non-bundled items in the cart at the same time, please put it in the cart again after payment is completed." />
+      <item value="Reserved items cannot be bundled with other items" />
+      <item value="is reserve" />
+      <item value="同じ商品がすでに登録されている" />
+      <item value="カートに入れようとしている商品の同梱グループを取得" />
+      <item value="すでにカートに入っている商品の同梱グループを取得" />
+      <item value="カートにすでに商品が入っている場合" />
+      <item value="数量エラー" />
+      <item value="品切れ" />
+      <item value="在庫が存在する商品を取得" />
+      <item value="商品が存在しない" />
+      <item value="cart same goods" />
+      <item value="エラーが無い" />
       <item value="icon addition" />
       <item value="redirect to cart when egift btn pressed" />
       <item value="nomal" />
@@ -38,37 +55,20 @@
       <item value="決済前後のエラー取得" />
       <item value="If the constant exists, set the static property to the value of the constant and return a new instance of the class" />
       <item value="public static function get(enum): Enum { if (static::constantExists(enum)) { static::enum = enum; return new static; } throw new \Exception(&quot;Enum &quot; . enum .&quot; not Found&quot;); }" />
-      <item value="bbfcore の smarty_plugin を上書きするために bbfcore の前に挿入" />
-      <item value="smartyのディレクトリを設定" />
-      <item value="変更する" />
-      <item value="カスタマイズ" />
-      <item value="の後に以下を追加" />
-      <item value="に以下を追加" />
-      <item value="always_load.packages に ltvlab を追加 (bbfpkg より後に)" />
-      <item value="Ltvlab 連携モジュール" />
-      <item value="商品ID" />
-      <item value="カスタマイズ：選択項目による画像透過処理" />
-      <item value="pensaki" />
-      <item value="'ゴールド': 'Ni-Au', 'シルバー': 'Ni-Cr', 'ホワイト': 'PDC1Y311-2', 'レッド': 'ASK-4-9256', 'ブラック': 'PDC9X089', 'ブラウン': 'PDC9X087', 'ネイビー': 'PDC6Y407-3', 'クリアナチュラル': 'クリアナチュラル', 'クリアレッド': 'クリアレッド', 'クリアブルー': 'クリアブルー', 'クリアグリーン': 'クリアグリーン', 'クリアブランド': 'クリアブランド', 'メタル': 'メタル'," />
-      <item value="レギュラー" />
-      <item value="長刀" />
-      <item value="ペン先" />
-      <item value="に、記載されているファイル名のファイルを documentssql以下から探して初期データとして登録されるので、 必要なファイルを記載（または不要なものを削除）する" />
-      <item value="docker imageを作成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="ENGLISH" value="224" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="166" />
+        <entry key="JAPANESE" value="181" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="219" />
+        <entry key="VIETNAMESE" value="225" />
       </map>
     </option>
   </component>
