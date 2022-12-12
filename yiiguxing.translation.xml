@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="query Product Gql" />
       <item value="すでに通常購入の商品がカートに入っています" />
       <item value="キャンセル" />
       <item value="とつ異" />
@@ -54,12 +55,11 @@
       <item value="商品ページ埋め込みコンテンツ1&#10;商品説明２" />
       <item value="商品ページ埋め込みコンテンツ1" />
       <item value="The Admin Master Real Shop Upload Controller." />
-      <item value="画像ディレクトリ２" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
