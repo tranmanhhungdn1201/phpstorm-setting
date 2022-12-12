@@ -5,11 +5,11 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="すでに通常購入の商品がカートに入っています" />
       <item value="キャンセル" />
       <item value="とつ異" />
       <item value="レンタル商品かを判定" />
       <item value="カート" />
-      <item value="すでに通常購入の商品がカートに入っています" />
       <item value="すでにeギフトで贈る商品がカートに入っています" />
       <item value="有効期限切れで在庫が解放された" />
       <item value="カート：有効期限切れで在庫が解放された" />
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="185" />
+        <entry key="JAPANESE" value="186" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="225" />
       </map>
