@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Sazaby 商品データ連携（連携フォーマット）" />
+      <item value="Sazaby 商品データ連携（取り込み用フォーマット）" />
       <item value="trả về giá trị của enum" />
       <item value="tra" />
       <item value="trar" />
@@ -53,8 +55,6 @@
       <item value="受注属性を登録する" />
       <item value="受注配送先を取得" />
       <item value="-- Sift 取引判断結果連携" />
-      <item value="recommend item" />
-      <item value="recommend text" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,9 +66,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="187" />
+        <entry key="JAPANESE" value="189" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="228" />
+        <entry key="VIETNAMESE" value="229" />
       </map>
     </option>
   </component>
