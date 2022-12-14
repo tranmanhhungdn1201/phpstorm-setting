@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="エラーが無かった場合" />
       <item value="コーディネートの商品詳細リストを取得" />
       <item value="fieldset nameが配列の場合は１番目の文字列を取得" />
       <item value="fieldset名として設定する名前を取得" />
@@ -54,7 +55,6 @@
       <item value="エラーメッセージ" />
       <item value="キャンセル・返品可能な商品(受注明細)を含むかどうかの判定" />
       <item value="注文キャンセル可否判定" />
-      <item value="受注属性を登録" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="193" />
+        <entry key="JAPANESE" value="194" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="229" />
       </map>
