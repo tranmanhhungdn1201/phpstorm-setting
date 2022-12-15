@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="あらかじめご了承ください" />
+      <item value="ギフトラッピングを希望されたご注文は、キャンセル・返品は承れません。" />
       <item value="利用者本人からの返品申請でない場合" />
       <item value="ギフトラッピングサービスをご利用のうえ、ご注文いただいた商品" />
       <item value="返品の条件" />
@@ -53,8 +55,6 @@
       <item value="LTV-Labトラッキング" />
       <item value="エラーメッセージ表示処理" />
       <item value="カート登録ボタン押下イベント" />
-      <item value="閉じる" />
-      <item value="カートに進む" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="200" />
+        <entry key="JAPANESE" value="202" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="229" />
       </map>
