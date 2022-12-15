@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="利用者本人からの返品申請でない場合" />
+      <item value="ギフトラッピングサービスをご利用のうえ、ご注文いただいた商品" />
+      <item value="返品の条件" />
       <item value="対象の商品に在庫があるかを判定" />
       <item value=":label は :option 文字以下で入力して下さい。" />
       <item value="validationの対象となるレコードを取得" />
@@ -52,9 +55,6 @@
       <item value="カート登録ボタン押下イベント" />
       <item value="閉じる" />
       <item value="カートに進む" />
-      <item value="キャンセル（decisionの送信）" />
-      <item value="自動連携チェック" />
-      <item value="戻り値" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="197" />
+        <entry key="JAPANESE" value="200" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="229" />
       </map>
