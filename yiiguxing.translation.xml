@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ブラック" />
+      <item value="ゴールド" />
+      <item value="シルバー" />
       <item value="あらかじめご了承ください" />
       <item value="ギフトラッピングを希望されたご注文は、キャンセル・返品は承れません。" />
       <item value="利用者本人からの返品申請でない場合" />
@@ -52,9 +55,6 @@
       <item value="icon addition" />
       <item value="redirect to cart when egift btn pressed" />
       <item value="nomal" />
-      <item value="LTV-Labトラッキング" />
-      <item value="エラーメッセージ表示処理" />
-      <item value="カート登録ボタン押下イベント" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="202" />
+        <entry key="JAPANESE" value="210" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="229" />
       </map>
