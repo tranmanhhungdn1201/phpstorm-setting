@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="オールブラック" />
+      <item value="蓋栓「ブラック」" />
       <item value="数量" />
       <item value="check goods is rental" />
       <item value="ブラック" />
@@ -53,8 +55,6 @@
       <item value="品切れ" />
       <item value="在庫が存在する商品を取得" />
       <item value="商品が存在しない" />
-      <item value="cart same goods" />
-      <item value="エラーが無い" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="214" />
+        <entry key="JAPANESE" value="216" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="230" />
       </map>
