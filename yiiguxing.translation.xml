@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数量" />
       <item value="check goods is rental" />
       <item value="ブラック" />
       <item value="レッド" />
@@ -54,11 +55,10 @@
       <item value="商品が存在しない" />
       <item value="cart same goods" />
       <item value="エラーが無い" />
-      <item value="icon addition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="229" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -68,7 +68,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="214" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="229" />
+        <entry key="VIETNAMESE" value="230" />
       </map>
     </option>
   </component>
