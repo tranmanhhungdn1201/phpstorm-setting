@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="商品一覧" />
+      <item value="カートに保存済みの商品一覧" />
       <item value="メタル" />
       <item value="ネイビー" />
       <item value="クリアナチュラル" />
@@ -53,8 +55,6 @@
       <item value="カート" />
       <item value="すでにeギフトで贈る商品がカートに入っています" />
       <item value="有効期限切れで在庫が解放された" />
-      <item value="カート：有効期限切れで在庫が解放された" />
-      <item value="Because it is not possible to put more than one item of different or non-bundled items in the cart at the same time, please put it in the cart again after payment is completed." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,9 +66,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="230" />
+        <entry key="JAPANESE" value="232" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="231" />
+        <entry key="VIETNAMESE" value="232" />
       </map>
     </option>
   </component>
