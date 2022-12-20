@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="check goods is rental" />
       <item value="ブラック" />
       <item value="レッド" />
       <item value="ゴールド" />
@@ -54,12 +55,11 @@
       <item value="cart same goods" />
       <item value="エラーが無い" />
       <item value="icon addition" />
-      <item value="redirect to cart when egift btn pressed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670813750534" />
+    <option name="lastTrimTime" value="1671502167412" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
