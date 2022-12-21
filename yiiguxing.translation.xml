@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="入荷リクエスト" />
       <item value="選択サイズが予約品か否かでカートボタンラベルを切り替える" />
       <item value="Smarty からの呼び出しに対応" />
       <item value="サイズ直しを行う場合はほかの商品と同梱できません" />
@@ -54,7 +55,6 @@
       <item value="public function __toString() { return static::enum; }" />
       <item value="It returns a string that represents the query" />
       <item value="カートから受注を登録する処理で、受注を登録完了した後の処理" />
-      <item value="query Product Gql" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,9 +66,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="239" />
+        <entry key="JAPANESE" value="240" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="237" />
+        <entry key="VIETNAMESE" value="238" />
       </map>
     </option>
   </component>
