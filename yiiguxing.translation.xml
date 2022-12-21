@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="カート" />
+      <item value="品切れ" />
+      <item value="有効期限切れで在庫が解放された" />
+      <item value="goods error can't use egift function" />
+      <item value="Product error can't use egift . function" />
+      <item value="数量エラー" />
       <item value="入荷リクエスト" />
       <item value="選択サイズが予約品か否かでカートボタンラベルを切り替える" />
       <item value="Smarty からの呼び出しに対応" />
@@ -49,26 +55,20 @@
       <item value="Sazaby 商品データ連携（連携フォーマット）" />
       <item value="Sazaby 商品データ連携（取り込み用フォーマット）" />
       <item value="trả về giá trị của enum" />
-      <item value="tra" />
-      <item value="trar" />
-      <item value="tr" />
-      <item value="public function __toString() { return static::enum; }" />
-      <item value="It returns a string that represents the query" />
-      <item value="カートから受注を登録する処理で、受注を登録完了した後の処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="ENGLISH" value="236" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="240" />
+        <entry key="JAPANESE" value="244" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="238" />
+        <entry key="VIETNAMESE" value="244" />
       </map>
     </option>
   </component>
