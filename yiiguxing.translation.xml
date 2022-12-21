@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="予約商品" />
       <item value="Response Content Disposition" />
       <item value="star icon" />
       <item value="商品一覧" />
@@ -54,19 +55,18 @@
       <item value="キャンセル" />
       <item value="とつ異" />
       <item value="レンタル商品かを判定" />
-      <item value="カート" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="232" />
+        <entry key="JAPANESE" value="233" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="233" />
       </map>
