@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="117" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hookしたメソッドの戻り値" />
+      <item value="\Bbf\Model\Cart オブジェクト" />
       <item value="カート" />
       <item value="品切れ" />
       <item value="有効期限切れで在庫が解放された" />
@@ -53,8 +55,6 @@
       <item value="fieldset名として設定する名前を取得" />
       <item value="fieldset名として設定する名前を取得 fieldset_nameが配列の場合は１番目の文字列を取得 @param mixed fieldset_names fieldset configの名前の文字列、もしくは配列" />
       <item value="Sazaby 商品データ連携（連携フォーマット）" />
-      <item value="Sazaby 商品データ連携（取り込み用フォーマット）" />
-      <item value="trả về giá trị của enum" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,9 +66,9 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="244" />
+        <entry key="JAPANESE" value="246" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="244" />
+        <entry key="VIETNAMESE" value="246" />
       </map>
     </option>
   </component>
