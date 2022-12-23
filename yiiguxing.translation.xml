@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="action sender received" />
       <item value="受注配送先更新" />
       <item value="入金状態が変更された場合" />
       <item value="受注状態が変更された場合" />
@@ -97,9 +98,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="6" />
         <entry key="JAPANESE" value="5" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
