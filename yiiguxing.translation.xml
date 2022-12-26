@@ -87,8 +87,13 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1671764754058" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="VIETNAMESE" />
+  </component>
   <component name="Translation.States">
     <histories>
+      <item value="desired" />
+      <item value="desired webhook type is" />
       <item value="desired webhook type is abc but received cdf" />
       <item value="受注配送先属性を登録" />
       <item value="action sender received" />
@@ -100,9 +105,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="12" />
         <entry key="JAPANESE" value="9" />
-        <entry key="VIETNAMESE" value="8" />
+        <entry key="VIETNAMESE" value="10" />
       </map>
     </option>
   </component>
