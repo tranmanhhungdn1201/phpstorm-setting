@@ -85,13 +85,14 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671764754058" />
+    <option name="lastTrimTime" value="1672211725381" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="profiling" />
       <item value="フリーワード検索項目1 : フリーワード検索項目1" />
       <item value="desired" />
       <item value="desired webhook type is" />
@@ -106,9 +107,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="10" />
+        <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
   </component>
