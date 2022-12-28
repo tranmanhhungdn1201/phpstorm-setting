@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="フリーワード検索項目1 : フリーワード検索項目1" />
       <item value="desired" />
       <item value="desired webhook type is" />
       <item value="desired webhook type is abc but received cdf" />
@@ -106,7 +107,7 @@
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="ENGLISH" value="12" />
-        <entry key="JAPANESE" value="9" />
+        <entry key="JAPANESE" value="10" />
         <entry key="VIETNAMESE" value="10" />
       </map>
     </option>
