@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="This package provides extend macros" />
       <item value="profiling" />
       <item value="フリーワード検索項目1 : フリーワード検索項目1" />
       <item value="desired" />
@@ -107,9 +108,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="11" />
+        <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
   </component>
