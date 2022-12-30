@@ -1,77 +1,79 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="799" />
-    <option name="newTranslationDialogY" value="471" />
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="3241" />
+    <option name="newTranslationDialogY" value="117" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="forge" />
-      <item value="IPから国を取得" />
-      <item value="value Arrays" />
-      <item value="values Array" />
-      <item value="Retrieve the model for a bound value." />
-      <item value="check Money And Contract Money" />
-      <item value="Configure the rate limiters for the application." />
-      <item value="記事は準備中です" />
-      <item value="title" />
-      <item value="pristine" />
-      <item value="ダイアログ" />
-      <item value="自宅で印刷する" />
-      <item value="印刷内容を確認する、からの保存" />
-      <item value="Generate" />
-      <item value="omit in toc" />
-      <item value="password Attachment" />
-      <item value="inverse" />
-      <item value="set Handler" />
-      <item value="宛先情報の1件目をpreviewに表示" />
-      <item value="PRECISION" />
-      <item value="QUESTION HAS_2_PRECISION" />
-      <item value="通常接続" />
-      <item value="アプリ接続" />
-      <item value="forbidden" />
-      <item value="Copy existing application directory permissions" />
-      <item value="Could not determine a user with identifier" />
-      <item value="could Not Determine User" />
-      <item value="Api Responser" />
-      <item value="You have signed up successfully" />
-      <item value="sign up failed" />
-      <item value="ACTIVE" />
-      <item value="customer id" />
-      <item value="Whether requests should be treated as crossorigin" />
-      <item value="お知らせIDからお知らせ詳細を取得する" />
-      <item value="今年の年賀状は アプリひとつで準備万端！ 利用者数No.1の年賀状アプリです" />
-      <item value="literal" />
-      <item value="手数料200円（税込220円）" />
-      <item value="年賀期 (nenga_mode が true) の場合" />
-      <item value="年賀状アプリダウンロード数No.1「スマホで年賀状」挨拶状版！" />
-      <item value="年賀状アプリ利用者数No.1「スマホで年賀状」配信中！" />
-      <item value="今年の年賀状はアプリひとつで準備万端！利用者数No.1の年賀状アプリです" />
-      <item value="st-attention" />
-      <item value="年賀状受付期間中は、翌日発送、最短翌々日にお届けします" />
-      <item value="スマホでつくって、ハガキでお届け" />
-      <item value="{ NEWS セクション }" />
-      <item value="provide" />
-      <item value="ke Khai Chi Tieu By Provide" />
-      <item value="Provide" />
-      <item value="Utils" />
-      <item value="スマートフォンUA" />
+      <item value="hookしたメソッドの戻り値" />
+      <item value="\Bbf\Model\Cart オブジェクト" />
+      <item value="カート" />
+      <item value="品切れ" />
+      <item value="有効期限切れで在庫が解放された" />
+      <item value="goods error can't use egift function" />
+      <item value="Product error can't use egift . function" />
+      <item value="数量エラー" />
+      <item value="入荷リクエスト" />
+      <item value="選択サイズが予約品か否かでカートボタンラベルを切り替える" />
+      <item value="Smarty からの呼び出しに対応" />
+      <item value="サイズ直しを行う場合はほかの商品と同梱できません" />
+      <item value="サイズ直し商品かを判定" />
+      <item value="予約商品" />
+      <item value="Response Content Disposition" />
+      <item value="star icon" />
+      <item value="商品一覧" />
+      <item value="カートに保存済みの商品一覧" />
+      <item value="メタル" />
+      <item value="ネイビー" />
+      <item value="クリアナチュラル" />
+      <item value="ゴールド" />
+      <item value="カスタマイズ：ペン先長刀選択時挙動" />
+      <item value="スタマイズ：ペン先長刀選択時挙動" />
+      <item value="カスタマイズ：選択項目による画像透過処理" />
+      <item value="長刀クリック" />
+      <item value="字幅部分クリック" />
+      <item value="金属部分クリック" />
+      <item value="カスタマイズ：吹き出し表示" />
+      <item value="オールブラック" />
+      <item value="蓋栓「ブラック」" />
+      <item value="数量" />
+      <item value="check goods is rental" />
+      <item value="ブラック" />
+      <item value="レッド" />
+      <item value="シルバー" />
+      <item value="あらかじめご了承ください" />
+      <item value="ギフトラッピングを希望されたご注文は、キャンセル・返品は承れません。" />
+      <item value="利用者本人からの返品申請でない場合" />
+      <item value="ギフトラッピングサービスをご利用のうえ、ご注文いただいた商品" />
+      <item value="返品の条件" />
+      <item value="対象の商品に在庫があるかを判定" />
+      <item value=":label は :option 文字以下で入力して下さい。" />
+      <item value="validationの対象となるレコードを取得" />
+      <item value="エラーが無かった場合" />
+      <item value="コーディネートの商品詳細リストを取得" />
+      <item value="fieldset nameが配列の場合は１番目の文字列を取得" />
+      <item value="fieldset名として設定する名前を取得" />
+      <item value="fieldset名として設定する名前を取得 fieldset_nameが配列の場合は１番目の文字列を取得 @param mixed fieldset_names fieldset configの名前の文字列、もしくは配列" />
+      <item value="Sazaby 商品データ連携（連携フォーマット）" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="236" />
         <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="JAPANESE" value="88" />
+        <entry key="JAPANESE" value="246" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="156" />
+        <entry key="VIETNAMESE" value="246" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667806431087" />
+    <option name="lastTrimTime" value="1671502167412" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
@@ -79,6 +81,37 @@
       <google-translate>
         <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
+    </option>
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1672211725381" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="VIETNAMESE" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="This package provides extend macros" />
+      <item value="profiling" />
+      <item value="フリーワード検索項目1 : フリーワード検索項目1" />
+      <item value="desired" />
+      <item value="desired webhook type is" />
+      <item value="desired webhook type is abc but received cdf" />
+      <item value="受注配送先属性を登録" />
+      <item value="action sender received" />
+      <item value="受注配送先更新" />
+      <item value="入金状態が変更された場合" />
+      <item value="受注状態が変更された場合" />
+      <item value="確認画面" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ARABIC" value="1" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="JAPANESE" value="10" />
+        <entry key="VIETNAMESE" value="12" />
+      </map>
     </option>
   </component>
 </application>
