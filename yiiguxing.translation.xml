@@ -92,6 +92,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="trailing" />
+      <item value="trailing Zero" />
       <item value="precision" />
       <item value="add Separator" />
       <item value="This package provides extend macros" />
@@ -110,9 +112,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="18" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="14" />
+        <entry key="VIETNAMESE" value="16" />
       </map>
     </option>
   </component>
