@@ -85,13 +85,15 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672211725381" />
+    <option name="lastTrimTime" value="1672732797303" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="precision" />
+      <item value="add Separator" />
       <item value="This package provides extend macros" />
       <item value="profiling" />
       <item value="フリーワード検索項目1 : フリーワード検索項目1" />
@@ -108,9 +110,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="16" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="12" />
+        <entry key="VIETNAMESE" value="14" />
       </map>
     </option>
   </component>
