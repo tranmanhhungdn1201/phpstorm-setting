@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-01-07T16:42:31</property>
+    <property name="created">2022-02-07T09:26:45</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.2.4.0.0</property>
-    <property name="modified">2023-01-07T16:43:57</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2022-10-28T13:38:51</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -31,36 +31,20 @@
     <option name="ActionButton.hoverBackground" value="425b67c0" />
     <option name="ActionButton.iconTextForeground" value="607d86" />
     <option name="ActionButton.pressedBackground" value="425b67" />
-    <option name="Bookmark.Mnemonic.iconBackground" value="314549" />
-    <option name="Bookmark.Mnemonic.iconBorderColor" value="314549" />
-    <option name="Bookmark.Mnemonic.iconForeground" value="fffbf7" />
-    <option name="Bookmark.iconBackground" value="9688" />
     <option name="BookmarkIcon.background" value="9688" />
-    <option name="BookmarkMnemonicIcon.background" value="314549" />
-    <option name="BookmarkMnemonicIcon.borderColor" value="314549" />
-    <option name="BookmarkMnemonicIcon.foreground" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="1b2529" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c792ea" />
-    <option name="DIAGRAM_COARSE_GRID" value="546e7a" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="c3cee3" />
-    <option name="DIAGRAM_FINE_GRID" value="37474f" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="ffcb6b" />
-    <option name="DIAGRAM_HOT_SPOTS" value="ffcb6b" />
     <option name="DIAGRAM_INNER_EDGE" value="82aaff" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="263238" />
-    <option name="DIAGRAM_NODE_BORDER" value="37474f" />
-    <option name="DIAGRAM_NODE_HEADER" value="32424a" />
-    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="425b67" />
+    <option name="DIAGRAM_NODE_HEADER" value="546e7a" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="263238" />
     <option name="DIAGRAM_NOTE_BORDER" value="c3cee3" />
-    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="425b67" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="f07178" />
-    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="9688" />
-    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="9688" />
-    <option name="DIAGRAM_SNAPPING_LINES" value="9688" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="32424a" />
@@ -76,10 +60,15 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -92,17 +81,8 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="263238" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="546e7a" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="314549" />
-    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="9688" />
-    <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="425b67" />
-    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="32424a" />
-    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="f78c6c" />
-    <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="80cbc4" />
-    <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="9688" />
-    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="2a373e" />
-    <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="607d8b" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
-    <option name="LOOKUP_COLOR" value="32424a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="9688" />
@@ -143,24 +123,24 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="10968880" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="968880" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="968880" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.thumbColor" value="109688c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="9688c0" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="9688c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Transparent.thumbColor" value="10968880" />
+    <option name="ScrollBar.Transparent.thumbColor" value="968880" />
     <option name="ScrollBar.Transparent.trackColor" value="263238" />
-    <option name="ScrollBar.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.hoverThumbColor" value="968880" />
     <option name="ScrollBar.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.thumbColor" value="109688c0" />
+    <option name="ScrollBar.thumbColor" value="9688c0" />
     <option name="ScrollBar.trackColor" value="263238" />
     <option name="TAB_UNDERLINE" value="9688" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="109688c0" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="9688" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="TOOLTIP" value="32424a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
@@ -240,12 +220,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="9c88" />
+        <option name="EFFECT_COLOR" value="9688" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
@@ -279,7 +259,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9c88" />
+        <option name="BACKGROUND" value="9688" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -295,8 +275,8 @@
     </option>
     <option name="BROWSEWORDATCARET">
       <value>
-        <option name="FOREGROUND" value="9c88" />
-        <option name="EFFECT_COLOR" value="9c88" />
+        <option name="FOREGROUND" value="9688" />
+        <option name="EFFECT_COLOR" value="9688" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -317,7 +297,7 @@
     </option>
     <option name="CODE_VISION_HOVERED">
       <value>
-        <option name="FOREGROUND" value="9c88" />
+        <option name="FOREGROUND" value="9688" />
       </value>
     </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
@@ -497,8 +477,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
@@ -826,7 +806,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1271,7 +1251,7 @@
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9c88" />
+        <option name="BACKGROUND" value="9688" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
@@ -1412,12 +1392,6 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
-    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
-      <value>
-        <option name="FOREGROUND" value="b0bec5" />
-        <option name="BACKGROUND" value="2e3c43" />
-      </value>
-    </option>
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="32424a" />
@@ -1500,9 +1474,7 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value>
-        <option name="FOREGROUND" value="b2ccd6" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -3073,10 +3045,10 @@
         <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -3087,33 +3059,9 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.AS">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PY.ASYNC">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
-    <option name="PY.IF_ELSE">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PY.IMPORT">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -3139,18 +3087,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.RAISE">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PY.RETURN">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -3165,18 +3101,6 @@
     <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
-      </value>
-    </option>
-    <option name="PY.TRY">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PY.WITH">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
@@ -3215,14 +3139,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="415967" />
@@ -3430,11 +3354,6 @@
         <option name="EFFECT_COLOR" value="ff5370" />
         <option name="ERROR_STRIPE_COLOR" value="ff5370" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="R_NAMED_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
@@ -3940,8 +3859,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />

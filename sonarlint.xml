@@ -1,0 +1,32 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="fileExclusions">
+      <list>
+        <option value="public/css/plugins/**" />
+        <option value="public/js/plugins/**" />
+        <option value="tests/**" />
+        <option value="resources/lang/**" />
+        <option value="storage" />
+      </list>
+    </option>
+    <option name="rulesByKey">
+      <map>
+        <entry key="Web:BoldAndItalicTagsCheck">
+          <value>
+            <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+          </value>
+        </entry>
+        <entry key="php:S100">
+          <value>
+            <Rule active="false" key="php:S100" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="php:S100" />
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+    </rules>
+  </component>
+</application>

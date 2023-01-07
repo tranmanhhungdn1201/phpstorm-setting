@@ -1,0 +1,125 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="3241" />
+    <option name="newTranslationDialogY" value="117" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="hookしたメソッドの戻り値" />
+      <item value="\Bbf\Model\Cart オブジェクト" />
+      <item value="カート" />
+      <item value="品切れ" />
+      <item value="有効期限切れで在庫が解放された" />
+      <item value="goods error can't use egift function" />
+      <item value="Product error can't use egift . function" />
+      <item value="数量エラー" />
+      <item value="入荷リクエスト" />
+      <item value="選択サイズが予約品か否かでカートボタンラベルを切り替える" />
+      <item value="Smarty からの呼び出しに対応" />
+      <item value="サイズ直しを行う場合はほかの商品と同梱できません" />
+      <item value="サイズ直し商品かを判定" />
+      <item value="予約商品" />
+      <item value="Response Content Disposition" />
+      <item value="star icon" />
+      <item value="商品一覧" />
+      <item value="カートに保存済みの商品一覧" />
+      <item value="メタル" />
+      <item value="ネイビー" />
+      <item value="クリアナチュラル" />
+      <item value="ゴールド" />
+      <item value="カスタマイズ：ペン先長刀選択時挙動" />
+      <item value="スタマイズ：ペン先長刀選択時挙動" />
+      <item value="カスタマイズ：選択項目による画像透過処理" />
+      <item value="長刀クリック" />
+      <item value="字幅部分クリック" />
+      <item value="金属部分クリック" />
+      <item value="カスタマイズ：吹き出し表示" />
+      <item value="オールブラック" />
+      <item value="蓋栓「ブラック」" />
+      <item value="数量" />
+      <item value="check goods is rental" />
+      <item value="ブラック" />
+      <item value="レッド" />
+      <item value="シルバー" />
+      <item value="あらかじめご了承ください" />
+      <item value="ギフトラッピングを希望されたご注文は、キャンセル・返品は承れません。" />
+      <item value="利用者本人からの返品申請でない場合" />
+      <item value="ギフトラッピングサービスをご利用のうえ、ご注文いただいた商品" />
+      <item value="返品の条件" />
+      <item value="対象の商品に在庫があるかを判定" />
+      <item value=":label は :option 文字以下で入力して下さい。" />
+      <item value="validationの対象となるレコードを取得" />
+      <item value="エラーが無かった場合" />
+      <item value="コーディネートの商品詳細リストを取得" />
+      <item value="fieldset nameが配列の場合は１番目の文字列を取得" />
+      <item value="fieldset名として設定する名前を取得" />
+      <item value="fieldset名として設定する名前を取得 fieldset_nameが配列の場合は１番目の文字列を取得 @param mixed fieldset_names fieldset configの名前の文字列、もしくは配列" />
+      <item value="Sazaby 商品データ連携（連携フォーマット）" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="236" />
+        <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="JAPANESE" value="246" />
+        <entry key="HINDI" value="1" />
+        <entry key="VIETNAMESE" value="246" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1671502167412" />
+  </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="VIETNAMESE" />
+      </google-translate>
+    </option>
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1672732797303" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="VIETNAMESE" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="If this setting is enabled, Cashier will automatically notify customers | whose payments require additional verification. You should listen to | Stripe's webhooks in order for this feature to function correctly." />
+      <item value="Handle payment action required for invoice." />
+      <item value="retutn" />
+      <item value="Request" />
+      <item value="trailing" />
+      <item value="trailing Zero" />
+      <item value="precision" />
+      <item value="add Separator" />
+      <item value="This package provides extend macros" />
+      <item value="profiling" />
+      <item value="フリーワード検索項目1 : フリーワード検索項目1" />
+      <item value="desired" />
+      <item value="desired webhook type is" />
+      <item value="desired webhook type is abc but received cdf" />
+      <item value="受注配送先属性を登録" />
+      <item value="action sender received" />
+      <item value="受注配送先更新" />
+      <item value="入金状態が変更された場合" />
+      <item value="受注状態が変更された場合" />
+      <item value="確認画面" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ARABIC" value="1" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="JAPANESE" value="10" />
+        <entry key="VIETNAMESE" value="20" />
+      </map>
+    </option>
+  </component>
+</application>

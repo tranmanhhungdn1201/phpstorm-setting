@@ -1,7 +1,10 @@
 <application>
   <component name="FindSettings">
-    <mask>*.css</mask>
-    <mask>*.html</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.php4</mask>
     <mask>*.phtml</mask>
@@ -10,6 +13,13 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
+    <mask>*.sql</mask>
+    <mask>*.pug</mask>
+    <mask>*.scss</mask>
+    <mask>*.html</mask>
+    <mask>*.css</mask>
+    <mask>*.js</mask>
+    <mask>*.tpl</mask>
     <mask>*.php</mask>
   </component>
 </application>

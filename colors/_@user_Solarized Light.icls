@@ -1,9 +1,9 @@
 <scheme name="_@user_Solarized Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2023-01-07T16:42:31</property>
+    <property name="created">2022-02-07T09:24:32</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.2.4.0.0</property>
-    <property name="modified">2023-01-07T16:43:56</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2022-09-23T10:46:41</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <colors>
@@ -142,6 +142,23 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
+    <option name="BUILDOUT.KEY">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BUILDOUT.SECTION_NAME">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BUILDOUT.VALUE">
+      <value>
+        <option name="FOREGROUND" value="8f9d6a" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -1321,6 +1338,38 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MAKO.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MAKO.CONTROL_STRUCTURE_ID">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MAKO.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MAKO.SUBSTITUTION">
+      <value>
+        <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
+    <option name="MAKO.TAG">
+      <value />
+    </option>
+    <option name="MAKO.TAG_ID">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1468,7 +1517,7 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>

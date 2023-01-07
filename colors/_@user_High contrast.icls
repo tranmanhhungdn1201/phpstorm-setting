@@ -1,19 +1,16 @@
 <scheme name="_@user_High contrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-01-07T16:42:31</property>
+    <property name="created">2022-02-07T09:24:32</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.2.4.0.0</property>
-    <property name="modified">2023-01-07T16:43:56</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2022-09-23T10:46:41</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="9924" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="ActionButton.iconTextForeground" value="ffffff" />
-    <option name="Bookmark.Mnemonic.iconBackground" value="0" />
-    <option name="Bookmark.Mnemonic.iconBorderColor" value="e0861f" />
-    <option name="Bookmark.Mnemonic.iconForeground" value="ffffff" />
-    <option name="Bookmark.iconBackground" value="e0861f" />
+    <option name="BookmarkIcon.background" value="e0861f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
@@ -47,6 +44,9 @@
     <option name="LOOKUP_COLOR" value="281a33" />
     <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
     <option name="MODIFIED_LINES_COLOR" value="1aabff" />
+    <option name="MnemonicIcon.background" value="0" />
+    <option name="MnemonicIcon.borderColor" value="e0861f" />
+    <option name="MnemonicIcon.foreground" value="ffffff" />
     <option name="NOTIFICATION_BACKGROUND" value="80" />
     <option name="QUESTION_HINT" value="5380" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
@@ -74,7 +74,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -470,43 +470,6 @@
       <value>
         <option name="FOREGROUND" value="aaff" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GO_COMMENT_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="7ec3e6" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GO_EXPORTED_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="edb98e" />
-      </value>
-    </option>
-    <option name="GO_LOCAL_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="edb98e" />
-      </value>
-    </option>
-    <option name="GO_METHOD_RECEIVER">
-      <value>
-        <option name="FOREGROUND" value="3db8ff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="GO_PACKAGE">
-      <value>
-        <option name="FOREGROUND" value="a8cc5c" />
-      </value>
-    </option>
-    <option name="GO_SHADOWING_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="38d996" />
-      </value>
-    </option>
-    <option name="GO_TYPE_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="73d0e6" />
       </value>
     </option>
     <option name="GRID_NULL_VALUE">

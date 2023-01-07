@@ -1,10 +1,10 @@
 <scheme name="_@user_GitHub (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-01-07T16:42:31</property>
+    <property name="created">2022-02-07T09:24:32</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.2.4.0.0</property>
-    <property name="modified">2023-01-07T16:43:56</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2022-09-23T10:46:41</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -31,33 +31,18 @@
     <option name="ActionButton.hoverBackground" value="cce5ff50" />
     <option name="ActionButton.iconTextForeground" value="292d31" />
     <option name="ActionButton.pressedBackground" value="cce5ff" />
-    <option name="Bookmark.Mnemonic.iconBackground" value="dfecfe" />
-    <option name="Bookmark.Mnemonic.iconBorderColor" value="dfecfe" />
-    <option name="Bookmark.iconBackground" value="cce5ff" />
     <option name="BookmarkIcon.background" value="cce5ff" />
-    <option name="BookmarkMnemonicIcon.background" value="dfecfe" />
-    <option name="BookmarkMnemonicIcon.borderColor" value="dfecfe" />
-    <option name="BookmarkMnemonicIcon.foreground" value="0" />
     <option name="CARET_COLOR" value="24292e" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="DELETED_LINES_COLOR" value="d73a49" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="32f62" />
-    <option name="DIAGRAM_COARSE_GRID" value="ececec" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="32f62" />
-    <option name="DIAGRAM_FINE_GRID" value="dddddd" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="5cc5" />
-    <option name="DIAGRAM_HOT_SPOTS" value="5cc5" />
     <option name="DIAGRAM_INNER_EDGE" value="6f42c1" />
-    <option name="DIAGRAM_NODE_BORDER" value="dddddd" />
-    <option name="DIAGRAM_NODE_HEADER" value="f3f3f3" />
-    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="cce5ff" />
+    <option name="DIAGRAM_NODE_HEADER" value="ececec" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="ffffff" />
     <option name="DIAGRAM_NOTE_BORDER" value="32f62" />
-    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="cce5ff" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="d73a49" />
-    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="cce5ff" />
-    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="cce5ff" />
-    <option name="DIAGRAM_SNAPPING_LINES" value="cce5ff" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="fafafa" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="fafafa" />
     <option name="DOCUMENTATION_COLOR" value="f3f3f3" />
@@ -92,17 +77,8 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="ffffff" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cce5ff" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="ececec" />
-    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="79cb60" />
-    <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="cce5ff" />
-    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="f3f3f3" />
-    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="e36209" />
-    <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="5cc5" />
-    <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="79cb60" />
-    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="dfe1e4" />
-    <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="292d31" />
     <option name="LINE_NUMBERS_COLOR" value="aaaaaa" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="1b1f23" />
-    <option name="LOOKUP_COLOR" value="f3f3f3" />
     <option name="METHOD_SEPARATORS_COLOR" value="dddddd" />
     <option name="MODIFIED_LINES_COLOR" value="5cc5" />
     <option name="MODIFIED_TAB_ICON" value="cce5ff" />
@@ -130,7 +106,6 @@
     <option name="MT_FILESTATUS_modifiedOutside" value="6f42c1" />
     <option name="MnemonicIcon.background" value="dfecfe" />
     <option name="MnemonicIcon.borderColor" value="dfecfe" />
-    <option name="MnemonicIcon.foreground" value="0" />
     <option name="NOTIFICATION_BACKGROUND" value="f5e9ab" />
     <option name="PROMOTION_PANE" value="dfecfe" />
     <option name="QUESTION_HINT" value="cce5ff" />
@@ -330,7 +305,6 @@
         <option name="FOREGROUND" value="6f42c1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="5cc4" />
@@ -611,13 +585,14 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="BACKGROUND" value="e4e4e4" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="BACKGROUND" value="dddddd" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="24292e" />
+        <option name="BACKGROUND" value="d1d5da" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -1348,12 +1323,6 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
-      <value>
-        <option name="FOREGROUND" value="5b6168" />
-        <option name="BACKGROUND" value="edf1f5" />
-      </value>
-    </option>
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="e4e4e4" />
@@ -1434,9 +1403,7 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value>
-        <option name="FOREGROUND" value="5cc5" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -1485,17 +1452,17 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="c9e67f" />
+        <option name="BACKGROUND" value="a5c261" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="ff4b4c" />
+        <option name="BACKGROUND" value="bc3f3c" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="d2ff" />
+        <option name="BACKGROUND" value="c6e5ff" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -2995,11 +2962,6 @@
         <option name="FOREGROUND" value="d73a49" />
       </value>
     </option>
-    <option name="PY.IMPORT">
-      <value>
-        <option name="FOREGROUND" value="d73a49" />
-      </value>
-    </option>
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -3248,11 +3210,6 @@
         <option name="EFFECT_COLOR" value="c30000" />
         <option name="ERROR_STRIPE_COLOR" value="c30000" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="R_NAMED_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="e36209" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">

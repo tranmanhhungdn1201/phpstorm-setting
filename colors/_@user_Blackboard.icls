@@ -1,9 +1,9 @@
 <scheme name="_@user_Blackboard" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-01-07T16:42:31</property>
+    <property name="created">2022-02-07T09:24:32</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.2.4.0.0</property>
-    <property name="modified">2023-01-07T16:43:56</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2022-09-23T10:46:41</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -26,6 +26,31 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
+      </value>
+    </option>
+    <option name="BUILDOUT.KEY">
+      <value>
+        <option name="FOREGROUND" value="fbde2d" />
+      </value>
+    </option>
+    <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
+      <value>
+        <option name="FOREGROUND" value="fbde2d" />
+      </value>
+    </option>
+    <option name="BUILDOUT.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="aeaeae" />
+      </value>
+    </option>
+    <option name="BUILDOUT.SECTION_NAME">
+      <value>
+        <option name="FOREGROUND" value="d8fa3c" />
+      </value>
+    </option>
+    <option name="BUILDOUT.VALUE">
+      <value>
+        <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -991,8 +1016,8 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ff6400" />
