@@ -85,13 +85,14 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672732797303" />
+    <option name="lastTrimTime" value="1673189060273" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="extend Save Data Thumbnail" />
       <item value="Indicates if Thumbnail migrations will be run." />
       <item value="Indicates if Cashier migrations will be run." />
       <item value="except" />
@@ -119,9 +120,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="23" />
+        <entry key="VIETNAMESE" value="24" />
       </map>
     </option>
   </component>
