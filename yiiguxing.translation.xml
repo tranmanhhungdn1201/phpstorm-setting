@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="except" />
       <item value="If this setting is enabled, Cashier will automatically notify customers | whose payments require additional verification. You should listen to | Stripe's webhooks in order for this feature to function correctly." />
       <item value="Handle payment action required for invoice." />
       <item value="retutn" />
@@ -116,9 +117,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="20" />
+        <entry key="VIETNAMESE" value="21" />
       </map>
     </option>
   </component>
