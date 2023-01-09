@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The file to generate the thumbnail from" />
       <item value="thumbnail Update Will Overwrite" />
       <item value="thumbnail Updated Would Overwrite" />
       <item value="thumbnail Updated Should Overwrite" />
@@ -124,9 +125,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="28" />
+        <entry key="VIETNAMESE" value="29" />
       </map>
     </option>
   </component>
