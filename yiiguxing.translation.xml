@@ -92,6 +92,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="すべてのサービスポート" />
+      <item value="おまじない" />
+      <item value="データのマウント" />
+      <item value="s 3のpresigned Urlを利用するためにはtestにしなければいけない" />
       <item value="ctype lower" />
       <item value="オーダー時必須情報の登録があるかを判定" />
       <item value="顧客登録済であるかどうか" />
@@ -130,9 +134,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="34" />
-        <entry key="JAPANESE" value="12" />
-        <entry key="VIETNAMESE" value="33" />
+        <entry key="ENGLISH" value="35" />
+        <entry key="JAPANESE" value="16" />
+        <entry key="VIETNAMESE" value="35" />
       </map>
     </option>
   </component>
