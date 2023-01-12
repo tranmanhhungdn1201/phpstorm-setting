@@ -92,6 +92,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="オーダー時必須情報の登録があるかを判定" />
+      <item value="顧客登録済であるかどうか" />
       <item value="Publish" />
       <item value="visibility" />
       <item value="The file to generate the thumbnail from" />
@@ -128,8 +130,8 @@
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="ENGLISH" value="33" />
-        <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="31" />
+        <entry key="JAPANESE" value="12" />
+        <entry key="VIETNAMESE" value="32" />
       </map>
     </option>
   </component>
