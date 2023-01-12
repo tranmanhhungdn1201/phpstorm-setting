@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ctype lower" />
       <item value="オーダー時必須情報の登録があるかを判定" />
       <item value="顧客登録済であるかどうか" />
       <item value="Publish" />
@@ -129,9 +130,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="JAPANESE" value="12" />
-        <entry key="VIETNAMESE" value="32" />
+        <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
   </component>
