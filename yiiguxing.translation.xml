@@ -85,13 +85,27 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673189060273" />
+    <option name="lastTrimTime" value="1674010171327" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="商品ペン先" />
+      <item value="商品蓋栓飾り" />
+      <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
+      <item value="JPEGをキャンバスの大きさにリサイズして同じファイル名で保存する" />
+      <item value="すべてのサービスポート" />
+      <item value="おまじない" />
+      <item value="データのマウント" />
+      <item value="s 3のpresigned Urlを利用するためにはtestにしなければいけない" />
+      <item value="ctype lower" />
+      <item value="オーダー時必須情報の登録があるかを判定" />
+      <item value="顧客登録済であるかどうか" />
+      <item value="Publish" />
+      <item value="visibility" />
+      <item value="The file to generate the thumbnail from" />
       <item value="thumbnail Update Will Overwrite" />
       <item value="thumbnail Updated Would Overwrite" />
       <item value="thumbnail Updated Should Overwrite" />
@@ -124,9 +138,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="30" />
-        <entry key="JAPANESE" value="10" />
-        <entry key="VIETNAMESE" value="28" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="JAPANESE" value="21" />
+        <entry key="VIETNAMESE" value="38" />
       </map>
     </option>
   </component>

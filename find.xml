@@ -19,7 +19,7 @@
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
