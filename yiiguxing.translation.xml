@@ -92,6 +92,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="商品ペン先" />
+      <item value="商品蓋栓飾り" />
       <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
       <item value="JPEGをキャンバスの大きさにリサイズして同じファイル名で保存する" />
       <item value="すべてのサービスポート" />
@@ -136,9 +138,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="35" />
-        <entry key="JAPANESE" value="19" />
-        <entry key="VIETNAMESE" value="36" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="JAPANESE" value="21" />
+        <entry key="VIETNAMESE" value="38" />
       </map>
     </option>
   </component>
