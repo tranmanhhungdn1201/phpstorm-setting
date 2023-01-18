@@ -85,13 +85,15 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673189060273" />
+    <option name="lastTrimTime" value="1674010171327" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
+      <item value="JPEGをキャンバスの大きさにリサイズして同じファイル名で保存する" />
       <item value="すべてのサービスポート" />
       <item value="おまじない" />
       <item value="データのマウント" />
@@ -135,8 +137,8 @@
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="ENGLISH" value="35" />
-        <entry key="JAPANESE" value="16" />
-        <entry key="VIETNAMESE" value="35" />
+        <entry key="JAPANESE" value="19" />
+        <entry key="VIETNAMESE" value="36" />
       </map>
     </option>
   </component>
