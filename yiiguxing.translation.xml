@@ -92,6 +92,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
+      <item value="determine the file cache path" />
       <item value="商品ペン先" />
       <item value="商品蓋栓飾り" />
       <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
@@ -138,9 +140,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="37" />
-        <entry key="JAPANESE" value="21" />
-        <entry key="VIETNAMESE" value="38" />
+        <entry key="ENGLISH" value="38" />
+        <entry key="JAPANESE" value="22" />
+        <entry key="VIETNAMESE" value="39" />
       </map>
     </option>
   </component>
