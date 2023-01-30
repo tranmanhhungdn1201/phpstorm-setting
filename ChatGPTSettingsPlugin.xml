@@ -1,0 +1,6 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.SettingsState">
+    <option name="urlType" value="OFFICIAL" />
+    <option name="connectionTimeout" value="50000" />
+  </component>
+</application>
