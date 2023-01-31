@@ -85,13 +85,15 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674010171327" />
+    <option name="lastTrimTime" value="1675138964734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="String Literal Formatter" />
+      <item value="It takes a value and returns a string that can be used in a GraphQL query" />
       <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
       <item value="determine the file cache path" />
       <item value="商品ペン先" />
@@ -140,9 +142,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="40" />
         <entry key="JAPANESE" value="22" />
-        <entry key="VIETNAMESE" value="39" />
+        <entry key="VIETNAMESE" value="40" />
       </map>
     </option>
   </component>
