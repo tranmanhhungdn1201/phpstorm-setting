@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="FROM句を設定" />
       <item value="カート追加件数" />
       <item value="カラーコード" />
       <item value="顧客ID" />
@@ -141,14 +142,13 @@
       <item value="受注配送先更新" />
       <item value="入金状態が変更された場合" />
       <item value="受注状態が変更された場合" />
-      <item value="確認画面" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="24" />
+        <entry key="JAPANESE" value="25" />
         <entry key="VIETNAMESE" value="40" />
       </map>
     </option>
