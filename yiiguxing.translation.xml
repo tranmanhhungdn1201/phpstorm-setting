@@ -92,6 +92,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カートレポートタイプ毎の、ダウンロードタイプ" />
+      <item value="カート集計を取得" />
+      <item value="日付でグルーピングするもの" />
+      <item value="It returns a query object that can be used to get a report of the cart" />
+      <item value="WHERE句を設定" />
       <item value="このクラス内のメソッドがあればそれを実行" />
       <item value="カート集計を取得 日付でグルーピングするもの" />
       <item value="FROM句を設定" />
@@ -137,19 +142,14 @@
       <item value="profiling" />
       <item value="フリーワード検索項目1 : フリーワード検索項目1" />
       <item value="desired" />
-      <item value="desired webhook type is" />
-      <item value="desired webhook type is abc but received cdf" />
-      <item value="受注配送先属性を登録" />
-      <item value="action sender received" />
-      <item value="受注配送先更新" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="27" />
-        <entry key="VIETNAMESE" value="40" />
+        <entry key="ENGLISH" value="41" />
+        <entry key="JAPANESE" value="31" />
+        <entry key="VIETNAMESE" value="41" />
       </map>
     </option>
   </component>
