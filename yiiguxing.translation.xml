@@ -92,6 +92,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カート追加件数" />
+      <item value="カラーコード" />
+      <item value="顧客ID" />
       <item value="年月" />
       <item value="String Literal Formatter" />
       <item value="It takes a value and returns a string that can be used in a GraphQL query" />
@@ -143,9 +146,9 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="22" />
+        <entry key="JAPANESE" value="24" />
         <entry key="VIETNAMESE" value="40" />
       </map>
     </option>
