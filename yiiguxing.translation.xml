@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="年月" />
       <item value="String Literal Formatter" />
       <item value="It takes a value and returns a string that can be used in a GraphQL query" />
       <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
@@ -142,6 +143,7 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
+        <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="40" />
         <entry key="JAPANESE" value="22" />
         <entry key="VIETNAMESE" value="40" />
