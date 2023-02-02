@@ -92,6 +92,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="set conversion rate" />
       <item value="カートレポートタイプ毎の、ダウンロードタイプ" />
       <item value="カート集計を取得" />
       <item value="日付でグルーピングするもの" />
@@ -141,15 +142,14 @@
       <item value="This package provides extend macros" />
       <item value="profiling" />
       <item value="フリーワード検索項目1 : フリーワード検索項目1" />
-      <item value="desired" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="JAPANESE" value="31" />
-        <entry key="VIETNAMESE" value="41" />
+        <entry key="VIETNAMESE" value="42" />
       </map>
     </option>
   </component>
