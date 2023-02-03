@@ -85,13 +85,31 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674010171327" />
+    <option name="lastTrimTime" value="1675138964734" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="2重に実行されないようにuniqueにする" />
+      <item value="フッタ行を出力する" />
+      <item value="受注情報変更処理" />
+      <item value="set conversion rate" />
+      <item value="カートレポートタイプ毎の、ダウンロードタイプ" />
+      <item value="カート集計を取得" />
+      <item value="日付でグルーピングするもの" />
+      <item value="It returns a query object that can be used to get a report of the cart" />
+      <item value="WHERE句を設定" />
+      <item value="このクラス内のメソッドがあればそれを実行" />
+      <item value="カート集計を取得 日付でグルーピングするもの" />
+      <item value="FROM句を設定" />
+      <item value="カート追加件数" />
+      <item value="カラーコード" />
+      <item value="顧客ID" />
+      <item value="年月" />
+      <item value="String Literal Formatter" />
+      <item value="It takes a value and returns a string that can be used in a GraphQL query" />
       <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
       <item value="determine the file cache path" />
       <item value="商品ペン先" />
@@ -124,25 +142,14 @@
       <item value="trailing Zero" />
       <item value="precision" />
       <item value="add Separator" />
-      <item value="This package provides extend macros" />
-      <item value="profiling" />
-      <item value="フリーワード検索項目1 : フリーワード検索項目1" />
-      <item value="desired" />
-      <item value="desired webhook type is" />
-      <item value="desired webhook type is abc but received cdf" />
-      <item value="受注配送先属性を登録" />
-      <item value="action sender received" />
-      <item value="受注配送先更新" />
-      <item value="入金状態が変更された場合" />
-      <item value="受注状態が変更された場合" />
-      <item value="確認画面" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="ENGLISH" value="38" />
-        <entry key="JAPANESE" value="22" />
-        <entry key="VIETNAMESE" value="39" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="JAPANESE" value="34" />
+        <entry key="VIETNAMESE" value="42" />
       </map>
     </option>
   </component>
