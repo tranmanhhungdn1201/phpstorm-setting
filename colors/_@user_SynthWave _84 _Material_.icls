@@ -4,7 +4,7 @@
     <property name="created">2022-09-23T10:46:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-10-31T15:11:09</property>
+    <property name="modified">2023-02-04T22:20:20</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2104,14 +2104,14 @@
         <option name="FOREGROUND" value="e4f3fa" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
@@ -2838,8 +2838,6 @@
         <option name="FOREGROUND" value="848bbd" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff7edb" />
