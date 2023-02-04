@@ -10,8 +10,6 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="6b727d" />
     <entry key="editor.focus.mode.color.dark" value="6b727d" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
   <component name="StatusBar">
