@@ -18,6 +18,8 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="TranslationWidget" value="false" />
+        <entry key="php.debug.status.widget" value="false" />
       </map>
     </option>
   </component>

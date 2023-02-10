@@ -91,11 +91,22 @@
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="2716" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="kiểm tra sản phẩm có được sử dụng egift hay không" />
+      <item value="kiểm tra sản phẩm có được sử dụng egift hay " />
+      <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay " />
+      <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay không?" />
+      <item value="kiểm tra thử xem sản phẩm có được sử dụng egì" />
+      <item value="kiểm tra thử xem sản phẩm có được sử dụng efig" />
+      <item value="kiểm tra thử xem sản phẩm có " />
+      <item value="kiểm tra thử xem " />
+      <item value="kiểm tra " />
+      <item value="kieerm t" />
+      <item value="カートにすでに商品が入っている場合" />
       <item value="お気に入りデータを取得する" />
       <item value="都道府県" />
       <item value="カート" />
@@ -135,25 +146,14 @@
       <item value="s 3のpresigned Urlを利用するためにはtestにしなければいけない" />
       <item value="ctype lower" />
       <item value="オーダー時必須情報の登録があるかを判定" />
-      <item value="顧客登録済であるかどうか" />
-      <item value="Publish" />
-      <item value="visibility" />
-      <item value="The file to generate the thumbnail from" />
-      <item value="thumbnail Update Will Overwrite" />
-      <item value="thumbnail Updated Would Overwrite" />
-      <item value="thumbnail Updated Should Overwrite" />
-      <item value="thumbnail Updated Overwrite" />
-      <item value="extend Save Data Thumbnail" />
-      <item value="Indicates if Thumbnail migrations will be run." />
-      <item value="Indicates if Cashier migrations will be run." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="46" />
-        <entry key="JAPANESE" value="41" />
-        <entry key="VIETNAMESE" value="46" />
+        <entry key="ENGLISH" value="52" />
+        <entry key="JAPANESE" value="42" />
+        <entry key="VIETNAMESE" value="52" />
       </map>
     </option>
   </component>
