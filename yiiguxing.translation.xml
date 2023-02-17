@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Account Limit Hit" />
+      <item value="has Sufficient Funds To Subtract Amount" />
       <item value="dependencies" />
       <item value="kiểm tra sản phẩm có được sử dụng egift hay không" />
       <item value="kiểm tra sản phẩm có được sử dụng egift hay " />
@@ -144,16 +146,14 @@
       <item value="すべてのサービスポート" />
       <item value="おまじない" />
       <item value="データのマウント" />
-      <item value="s 3のpresigned Urlを利用するためにはtestにしなければいけない" />
-      <item value="ctype lower" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="55" />
         <entry key="JAPANESE" value="42" />
-        <entry key="VIETNAMESE" value="53" />
+        <entry key="VIETNAMESE" value="55" />
       </map>
     </option>
   </component>
