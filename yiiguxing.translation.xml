@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Eager load relation's column aggregations on the model." />
+      <item value="qualify Column" />
       <item value="Account Limit Hit" />
       <item value="has Sufficient Funds To Subtract Amount" />
       <item value="dependencies" />
@@ -144,16 +146,14 @@
       <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
       <item value="JPEGをキャンバスの大きさにリサイズして同じファイル名で保存する" />
       <item value="すべてのサービスポート" />
-      <item value="おまじない" />
-      <item value="データのマウント" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="57" />
         <entry key="JAPANESE" value="42" />
-        <entry key="VIETNAMESE" value="55" />
+        <entry key="VIETNAMESE" value="57" />
       </map>
     </option>
   </component>
