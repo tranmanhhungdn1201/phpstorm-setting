@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676532555019" />
+    <option name="lastTrimTime" value="1677056843001" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -96,6 +96,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Worldshopping非表示フラグ" />
+      <item value="Worldshopping非表示" />
+      <item value="再入荷" />
+      <item value="返品不可" />
+      <item value="limitedフラグ" />
       <item value="Eager load relation's column aggregations on the model." />
       <item value="qualify Column" />
       <item value="Account Limit Hit" />
@@ -141,18 +146,13 @@
       <item value="It takes a value and returns a string that can be used in a GraphQL query" />
       <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
       <item value="determine the file cache path" />
-      <item value="商品ペン先" />
-      <item value="商品蓋栓飾り" />
-      <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
-      <item value="JPEGをキャンバスの大きさにリサイズして同じファイル名で保存する" />
-      <item value="すべてのサービスポート" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="42" />
+        <entry key="JAPANESE" value="47" />
         <entry key="VIETNAMESE" value="57" />
       </map>
     </option>
