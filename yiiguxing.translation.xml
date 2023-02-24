@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="寄付先についての詳細はこちら" />
       <item value="Worldshopping非表示フラグ" />
       <item value="Worldshopping非表示" />
       <item value="再入荷" />
@@ -145,14 +146,13 @@
       <item value="String Literal Formatter" />
       <item value="It takes a value and returns a string that can be used in a GraphQL query" />
       <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
-      <item value="determine the file cache path" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="47" />
+        <entry key="JAPANESE" value="48" />
         <entry key="VIETNAMESE" value="57" />
       </map>
     </option>
