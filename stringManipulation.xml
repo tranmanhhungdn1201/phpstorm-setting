@@ -56,7 +56,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.DiacriticsToAsciiAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
