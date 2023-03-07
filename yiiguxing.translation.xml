@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="注文キャンセル・返品対象外" />
       <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
       <item value="表示確認用" />
       <item value="再入荷されたかを確認する" />
@@ -145,15 +146,14 @@
       <item value="このクラス内のメソッドがあればそれを実行" />
       <item value="カート集計を取得 日付でグルーピングするもの" />
       <item value="FROM句を設定" />
-      <item value="カート追加件数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="63" />
-        <entry key="JAPANESE" value="51" />
-        <entry key="VIETNAMESE" value="64" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="JAPANESE" value="52" />
+        <entry key="VIETNAMESE" value="65" />
       </map>
     </option>
   </component>
