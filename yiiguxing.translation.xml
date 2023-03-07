@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677552918890" />
+    <option name="lastTrimTime" value="1678183066676" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
+      <item value="表示確認用" />
       <item value="再入荷されたかを確認する" />
       <item value="This package comes with a migration file that is used to create the thumbnails table which is used to store records of the recently created thumbnail." />
       <item value="Unauthorized Exception" />
@@ -144,16 +146,14 @@
       <item value="カート集計を取得 日付でグルーピングするもの" />
       <item value="FROM句を設定" />
       <item value="カート追加件数" />
-      <item value="カラーコード" />
-      <item value="顧客ID" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="62" />
-        <entry key="JAPANESE" value="49" />
-        <entry key="VIETNAMESE" value="63" />
+        <entry key="ENGLISH" value="63" />
+        <entry key="JAPANESE" value="51" />
+        <entry key="VIETNAMESE" value="64" />
       </map>
     </option>
   </component>
