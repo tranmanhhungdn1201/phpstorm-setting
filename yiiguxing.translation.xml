@@ -96,9 +96,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
       <item value="ネコポス配送リンク" />
       <item value="注文キャンセル・返品対象外" />
-      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
       <item value="表示確認用" />
       <item value="再入荷されたかを確認する" />
       <item value="This package comes with a migration file that is used to create the thumbnails table which is used to store records of the recently created thumbnail." />
@@ -152,8 +152,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="65" />
-        <entry key="JAPANESE" value="53" />
-        <entry key="VIETNAMESE" value="65" />
+        <entry key="JAPANESE" value="54" />
+        <entry key="VIETNAMESE" value="66" />
       </map>
     </option>
   </component>
