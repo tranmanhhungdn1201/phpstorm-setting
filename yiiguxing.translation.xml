@@ -96,6 +96,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="シリーズ" />
+      <item value="カテゴリーのシリーズタグを表示" />
+      <item value="category_id が指定の category_code の子孫か否かを返す @params array params category_id: カテゴリID ancestor_category_code: 先祖カテゴリコード" />
+      <item value="&quot;カテゴリ&quot;に属するカテゴリがなければ0番目のカテゴリ" />
+      <item value="に属するカテゴリがなければ0番目のカテゴリ" />
       <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
       <item value="ネコポス配送リンク" />
       <item value="注文キャンセル・返品対象外" />
@@ -141,19 +146,14 @@
       <item value="set conversion rate" />
       <item value="カートレポートタイプ毎の、ダウンロードタイプ" />
       <item value="カート集計を取得" />
-      <item value="日付でグルーピングするもの" />
-      <item value="It returns a query object that can be used to get a report of the cart" />
-      <item value="WHERE句を設定" />
-      <item value="このクラス内のメソッドがあればそれを実行" />
-      <item value="カート集計を取得 日付でグルーピングするもの" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="65" />
-        <entry key="JAPANESE" value="54" />
-        <entry key="VIETNAMESE" value="66" />
+        <entry key="ENGLISH" value="68" />
+        <entry key="JAPANESE" value="59" />
+        <entry key="VIETNAMESE" value="68" />
       </map>
     </option>
   </component>
