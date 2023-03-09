@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="商品名" />
+      <item value="カテゴリID" />
       <item value="シリーズ" />
       <item value="カテゴリーのシリーズタグを表示" />
       <item value="category_id が指定の category_code の子孫か否かを返す @params array params category_id: カテゴリID ancestor_category_code: 先祖カテゴリコード" />
@@ -144,15 +146,13 @@
       <item value="フッタ行を出力する" />
       <item value="受注情報変更処理" />
       <item value="set conversion rate" />
-      <item value="カートレポートタイプ毎の、ダウンロードタイプ" />
-      <item value="カート集計を取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="5" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="68" />
-        <entry key="JAPANESE" value="59" />
+        <entry key="JAPANESE" value="60" />
         <entry key="VIETNAMESE" value="68" />
       </map>
     </option>
