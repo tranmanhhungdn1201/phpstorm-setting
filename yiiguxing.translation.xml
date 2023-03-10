@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="固定値:0:通常入荷" />
       <item value="商品名" />
       <item value="カテゴリID" />
       <item value="シリーズ" />
@@ -145,14 +146,13 @@
       <item value="2重に実行されないようにuniqueにする" />
       <item value="フッタ行を出力する" />
       <item value="受注情報変更処理" />
-      <item value="set conversion rate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="68" />
-        <entry key="JAPANESE" value="60" />
+        <entry key="JAPANESE" value="61" />
         <entry key="VIETNAMESE" value="68" />
       </map>
     </option>
