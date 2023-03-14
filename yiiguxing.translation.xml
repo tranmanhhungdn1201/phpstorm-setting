@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="詳細コード" />
+      <item value="エラー区分" />
       <item value="'is_holiday' =&gt; '休日設定されているため出力しませんでした : %s'," />
       <item value="休日設定されているため出力しませんでした" />
       <item value="メンテナンスのお知らせ" />
@@ -144,15 +146,13 @@
       <item value="都道府県" />
       <item value="カート" />
       <item value="カートデータを取得する" />
-      <item value="最終更新日時" />
-      <item value="favorite" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="68" />
-        <entry key="JAPANESE" value="67" />
+        <entry key="JAPANESE" value="69" />
         <entry key="VIETNAMESE" value="68" />
       </map>
     </option>
