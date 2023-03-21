@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678696368216" />
+    <option name="lastTrimTime" value="1679382219707" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Utils" />
       <item value="有料ラッピング対象外" />
       <item value="配送予定日" />
       <item value="詳細コード" />
@@ -145,15 +146,14 @@
       <item value="kieerm t" />
       <item value="カートにすでに商品が入っている場合" />
       <item value="お気に入りデータを取得する" />
-      <item value="都道府県" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="JAPANESE" value="71" />
-        <entry key="VIETNAMESE" value="68" />
+        <entry key="VIETNAMESE" value="69" />
       </map>
     </option>
   </component>
