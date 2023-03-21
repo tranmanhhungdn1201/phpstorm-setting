@@ -56,7 +56,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.DiacriticsToAsciiAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
