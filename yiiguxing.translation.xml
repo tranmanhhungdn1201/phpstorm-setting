@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="2023年3月31日（火）PM10時00分 ～ AM10時00分（仮）" />
+      <item value="023年3月31日(金) 22時00分～4月1日(土) 10時00分" />
       <item value="Utils" />
       <item value="有料ラッピング対象外" />
       <item value="配送予定日" />
@@ -144,16 +146,14 @@
       <item value="kiểm tra thử xem " />
       <item value="kiểm tra " />
       <item value="kieerm t" />
-      <item value="カートにすでに商品が入っている場合" />
-      <item value="お気に入りデータを取得する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="6" />
+        <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="71" />
-        <entry key="JAPANESE" value="71" />
-        <entry key="VIETNAMESE" value="69" />
+        <entry key="JAPANESE" value="72" />
+        <entry key="VIETNAMESE" value="70" />
       </map>
     </option>
   </component>
