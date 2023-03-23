@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="AWS USE PATH STYLE ENDPOINT" />
       <item value="Concerns" />
       <item value="Constraint" />
       <item value="visibility" />
@@ -145,15 +146,14 @@
       <item value="kiểm tra sản phẩm có được sử dụng egift hay không" />
       <item value="kiểm tra sản phẩm có được sử dụng egift hay " />
       <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay " />
-      <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay không?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="JAPANESE" value="73" />
-        <entry key="VIETNAMESE" value="75" />
+        <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
   </component>
