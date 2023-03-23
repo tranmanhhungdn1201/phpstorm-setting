@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Concerns" />
+      <item value="Constraint" />
       <item value="visibility" />
       <item value="verify" />
       <item value="scope By Parent" />
@@ -144,16 +146,14 @@
       <item value="kiểm tra sản phẩm có được sử dụng egift hay " />
       <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay " />
       <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay không?" />
-      <item value="kiểm tra thử xem sản phẩm có được sử dụng egì" />
-      <item value="kiểm tra thử xem sản phẩm có được sử dụng efig" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="77" />
         <entry key="JAPANESE" value="73" />
-        <entry key="VIETNAMESE" value="73" />
+        <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
   </component>
