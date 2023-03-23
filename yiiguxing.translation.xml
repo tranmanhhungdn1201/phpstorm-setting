@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="verify" />
       <item value="scope By Parent" />
       <item value="品番" />
       <item value="2023年3月31日（火）PM10時00分 ～ AM10時00分（仮）" />
@@ -145,15 +146,14 @@
       <item value="kiểm tra thử xem sản phẩm có được sử dụng egì" />
       <item value="kiểm tra thử xem sản phẩm có được sử dụng efig" />
       <item value="kiểm tra thử xem sản phẩm có " />
-      <item value="kiểm tra thử xem " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="JAPANESE" value="73" />
-        <entry key="VIETNAMESE" value="71" />
+        <entry key="VIETNAMESE" value="72" />
       </map>
     </option>
   </component>
