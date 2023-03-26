@@ -85,71 +85,75 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675138964734" />
+    <option name="lastTrimTime" value="1679382219707" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="2716" />
+    <option name="newTranslationDialogY" value="450" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="レスポンスデータをログテーブルに書き込み" />
-      <item value="2重に実行されないようにuniqueにする" />
-      <item value="フッタ行を出力する" />
-      <item value="受注情報変更処理" />
-      <item value="set conversion rate" />
-      <item value="カートレポートタイプ毎の、ダウンロードタイプ" />
-      <item value="カート集計を取得" />
-      <item value="日付でグルーピングするもの" />
-      <item value="It returns a query object that can be used to get a report of the cart" />
-      <item value="WHERE句を設定" />
-      <item value="このクラス内のメソッドがあればそれを実行" />
-      <item value="カート集計を取得 日付でグルーピングするもの" />
-      <item value="FROM句を設定" />
-      <item value="カート追加件数" />
-      <item value="カラーコード" />
-      <item value="顧客ID" />
-      <item value="年月" />
-      <item value="String Literal Formatter" />
-      <item value="It takes a value and returns a string that can be used in a GraphQL query" />
-      <item value="期限切れになってから再作成するまでの秒数 10秒に設定した場合、期限切れ1秒後に10%の～5秒後に50%～10秒後に100%、の確率で再作成する" />
-      <item value="determine the file cache path" />
-      <item value="商品ペン先" />
-      <item value="商品蓋栓飾り" />
-      <item value="画像をキャンバスの大きさにリサイズして同じファイル名で保存する" />
-      <item value="JPEGをキャンバスの大きさにリサイズして同じファイル名で保存する" />
-      <item value="すべてのサービスポート" />
-      <item value="おまじない" />
-      <item value="データのマウント" />
-      <item value="s 3のpresigned Urlを利用するためにはtestにしなければいけない" />
-      <item value="ctype lower" />
-      <item value="オーダー時必須情報の登録があるかを判定" />
-      <item value="顧客登録済であるかどうか" />
-      <item value="Publish" />
+      <item value="AWS USE PATH STYLE ENDPOINT" />
+      <item value="Concerns" />
+      <item value="Constraint" />
       <item value="visibility" />
-      <item value="The file to generate the thumbnail from" />
-      <item value="thumbnail Update Will Overwrite" />
-      <item value="thumbnail Updated Would Overwrite" />
-      <item value="thumbnail Updated Should Overwrite" />
-      <item value="thumbnail Updated Overwrite" />
-      <item value="extend Save Data Thumbnail" />
-      <item value="Indicates if Thumbnail migrations will be run." />
-      <item value="Indicates if Cashier migrations will be run." />
-      <item value="except" />
-      <item value="If this setting is enabled, Cashier will automatically notify customers | whose payments require additional verification. You should listen to | Stripe's webhooks in order for this feature to function correctly." />
-      <item value="Handle payment action required for invoice." />
-      <item value="retutn" />
-      <item value="Request" />
-      <item value="trailing" />
-      <item value="trailing Zero" />
-      <item value="precision" />
+      <item value="verify" />
+      <item value="scope By Parent" />
+      <item value="品番" />
+      <item value="2023年3月31日（火）PM10時00分 ～ AM10時00分（仮）" />
+      <item value="023年3月31日(金) 22時00分～4月1日(土) 10時00分" />
+      <item value="Utils" />
+      <item value="有料ラッピング対象外" />
+      <item value="配送予定日" />
+      <item value="詳細コード" />
+      <item value="エラー区分" />
+      <item value="'is_holiday' =&gt; '休日設定されているため出力しませんでした : %s'," />
+      <item value="休日設定されているため出力しませんでした" />
+      <item value="メンテナンスのお知らせ" />
+      <item value="アップロードされたCSVを配列に変換" />
+      <item value="eport項目 or 固定値をBBF項目用の変数に設定" />
+      <item value="商品コード" />
+      <item value="固定値:0:通常入荷" />
+      <item value="商品名" />
+      <item value="カテゴリID" />
+      <item value="シリーズ" />
+      <item value="カテゴリーのシリーズタグを表示" />
+      <item value="category_id が指定の category_code の子孫か否かを返す @params array params category_id: カテゴリID ancestor_category_code: 先祖カテゴリコード" />
+      <item value="&quot;カテゴリ&quot;に属するカテゴリがなければ0番目のカテゴリ" />
+      <item value="に属するカテゴリがなければ0番目のカテゴリ" />
+      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
+      <item value="ネコポス配送リンク" />
+      <item value="注文キャンセル・返品対象外" />
+      <item value="表示確認用" />
+      <item value="再入荷されたかを確認する" />
+      <item value="This package comes with a migration file that is used to create the thumbnails table which is used to store records of the recently created thumbnail." />
+      <item value="Unauthorized Exception" />
+      <item value="Unauthorized" />
+      <item value="寄付先についての詳細はこちら" />
+      <item value="Worldshopping非表示フラグ" />
+      <item value="Worldshopping非表示" />
+      <item value="再入荷" />
+      <item value="返品不可" />
+      <item value="limitedフラグ" />
+      <item value="Eager load relation's column aggregations on the model." />
+      <item value="qualify Column" />
+      <item value="Account Limit Hit" />
+      <item value="has Sufficient Funds To Subtract Amount" />
+      <item value="dependencies" />
+      <item value="kiểm tra sản phẩm có được sử dụng egift hay không" />
+      <item value="kiểm tra sản phẩm có được sử dụng egift hay " />
+      <item value="kiểm tra thử xem sản phẩm có được sử dụng egift hay " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="42" />
-        <entry key="JAPANESE" value="35" />
-        <entry key="VIETNAMESE" value="42" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="78" />
+        <entry key="JAPANESE" value="73" />
+        <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
   </component>
