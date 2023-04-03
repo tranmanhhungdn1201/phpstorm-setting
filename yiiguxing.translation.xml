@@ -96,8 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="石の有無" />
       <item value="お問い合わせ内容詳細" />
+      <item value="石の有無" />
       <item value="hygiene" />
       <item value="手洗い、アルコール消毒、入浴などの際のご着用" />
       <item value="stressful" />
@@ -152,7 +152,7 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="84" />
-        <entry key="JAPANESE" value="82" />
+        <entry key="JAPANESE" value="83" />
         <entry key="VIETNAMESE" value="84" />
       </map>
     </option>
