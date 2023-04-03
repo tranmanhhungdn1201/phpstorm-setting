@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679884372099" />
+    <option name="lastTrimTime" value="1680491790632" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -96,6 +96,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="お問い合わせ内容詳細" />
+      <item value="hygiene" />
+      <item value="手洗い、アルコール消毒、入浴などの際のご着用" />
+      <item value="stressful" />
+      <item value="負荷がかかった状況があったか" />
+      <item value="破損時の状況" />
+      <item value="石の有無" />
+      <item value="situation" />
       <item value="2023年4月1日(土) 0時00分～10時00分" />
       <item value="set Is Suspended Job" />
       <item value="path" />
@@ -138,22 +146,14 @@
       <item value="寄付先についての詳細はこちら" />
       <item value="Worldshopping非表示フラグ" />
       <item value="Worldshopping非表示" />
-      <item value="再入荷" />
-      <item value="返品不可" />
-      <item value="limitedフラグ" />
-      <item value="Eager load relation's column aggregations on the model." />
-      <item value="qualify Column" />
-      <item value="Account Limit Hit" />
-      <item value="has Sufficient Funds To Subtract Amount" />
-      <item value="dependencies" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="80" />
-        <entry key="JAPANESE" value="73" />
-        <entry key="VIETNAMESE" value="79" />
+        <entry key="ENGLISH" value="83" />
+        <entry key="JAPANESE" value="81" />
+        <entry key="VIETNAMESE" value="84" />
       </map>
     </option>
   </component>
