@@ -96,13 +96,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="石の有無" />
       <item value="お問い合わせ内容詳細" />
       <item value="hygiene" />
       <item value="手洗い、アルコール消毒、入浴などの際のご着用" />
       <item value="stressful" />
       <item value="負荷がかかった状況があったか" />
       <item value="破損時の状況" />
-      <item value="石の有無" />
       <item value="situation" />
       <item value="2023年4月1日(土) 0時00分～10時00分" />
       <item value="set Is Suspended Job" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="83" />
-        <entry key="JAPANESE" value="81" />
+        <entry key="ENGLISH" value="84" />
+        <entry key="JAPANESE" value="82" />
         <entry key="VIETNAMESE" value="84" />
       </map>
     </option>
