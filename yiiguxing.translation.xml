@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="一定期間購入がない通知" />
       <item value="伊勢丹新宿店 ウィメンズ" />
       <item value="お問い合わせ内容詳細" />
       <item value="石の有無" />
@@ -145,14 +146,13 @@
       <item value="Unauthorized Exception" />
       <item value="Unauthorized" />
       <item value="寄付先についての詳細はこちら" />
-      <item value="Worldshopping非表示フラグ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="84" />
-        <entry key="JAPANESE" value="84" />
+        <entry key="JAPANESE" value="85" />
         <entry key="VIETNAMESE" value="84" />
       </map>
     </option>
