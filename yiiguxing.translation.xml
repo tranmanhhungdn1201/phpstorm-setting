@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="即時決済のクレジット購入があるか確認" />
+      <item value="slaveに変更する" />
       <item value="convert Lyric" />
       <item value="一定期間購入がない通知" />
       <item value="伊勢丹新宿店 ウィメンズ" />
@@ -144,16 +146,14 @@
       <item value="表示確認用" />
       <item value="再入荷されたかを確認する" />
       <item value="This package comes with a migration file that is used to create the thumbnails table which is used to store records of the recently created thumbnail." />
-      <item value="Unauthorized Exception" />
-      <item value="Unauthorized" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="85" />
-        <entry key="JAPANESE" value="85" />
-        <entry key="VIETNAMESE" value="85" />
+        <entry key="ENGLISH" value="86" />
+        <entry key="JAPANESE" value="87" />
+        <entry key="VIETNAMESE" value="86" />
       </map>
     </option>
   </component>
