@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="でエラーが発生しました" />
+      <item value="購入アラート（2時間）" />
       <item value="エラー" />
       <item value="一定期間購入がない支払方法の通知" />
       <item value="一定期間購入がない支払方法の通知メール送信バッチ" />
@@ -144,15 +146,13 @@
       <item value="&quot;カテゴリ&quot;に属するカテゴリがなければ0番目のカテゴリ" />
       <item value="に属するカテゴリがなければ0番目のカテゴリ" />
       <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
-      <item value="ネコポス配送リンク" />
-      <item value="注文キャンセル・返品対象外" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="90" />
-        <entry key="JAPANESE" value="91" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="JAPANESE" value="93" />
         <entry key="VIETNAMESE" value="87" />
       </map>
     </option>
