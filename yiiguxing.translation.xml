@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="一定期間購入がない通知" />
       <item value="でエラーが発生しました" />
       <item value="購入アラート（2時間）" />
       <item value="エラー" />
@@ -104,7 +105,6 @@
       <item value="即時決済のクレジット購入があるか確認" />
       <item value="slaveに変更する" />
       <item value="convert Lyric" />
-      <item value="一定期間購入がない通知" />
       <item value="伊勢丹新宿店 ウィメンズ" />
       <item value="お問い合わせ内容詳細" />
       <item value="石の有無" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="92" />
-        <entry key="JAPANESE" value="93" />
+        <entry key="ENGLISH" value="94" />
+        <entry key="JAPANESE" value="95" />
         <entry key="VIETNAMESE" value="87" />
       </map>
     </option>
