@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="受注全体に適用されるプロモーションを判定" />
       <item value="加算ポイントを金額に戻し再度ポイントを計算" />
       <item value="クーポンが適用できるものであれば情報を取得" />
       <item value="先行購入可能期間（秒） : 先行購入可能期間（秒）" />
@@ -146,15 +147,14 @@
       <item value="eport項目 or 固定値をBBF項目用の変数に設定" />
       <item value="商品コード" />
       <item value="固定値:0:通常入荷" />
-      <item value="商品名" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="101" />
-        <entry key="JAPANESE" value="104" />
-        <entry key="VIETNAMESE" value="90" />
+        <entry key="JAPANESE" value="105" />
+        <entry key="VIETNAMESE" value="91" />
       </map>
     </option>
   </component>
