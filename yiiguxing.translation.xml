@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680491790632" />
+    <option name="lastTrimTime" value="1681102948677" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mailmagazinetemplate" />
       <item value="受注全体に適用されるプロモーションを判定" />
       <item value="加算ポイントを金額に戻し再度ポイントを計算" />
       <item value="クーポンが適用できるものであれば情報を取得" />
@@ -146,15 +147,14 @@
       <item value="アップロードされたCSVを配列に変換" />
       <item value="eport項目 or 固定値をBBF項目用の変数に設定" />
       <item value="商品コード" />
-      <item value="固定値:0:通常入荷" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="JAPANESE" value="105" />
-        <entry key="VIETNAMESE" value="91" />
+        <entry key="VIETNAMESE" value="92" />
       </map>
     </option>
   </component>
