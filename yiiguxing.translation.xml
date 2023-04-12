@@ -85,10 +85,11 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679884372099" />
+    <option name="lastTrimTime" value="1681102948677" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
+    <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="596" />
@@ -96,6 +97,44 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
+      <item value="チャットでご相談" />
+      <item value="カートに進む" />
+      <item value="お気に入り登録ボタン" />
+      <item value="再入荷メールをリクエストする" />
+      <item value="新作入荷メールを受け取る" />
+      <item value="チャームカスタマイズページはこちら" />
+      <item value="再入荷不可フラグあり&amp;在庫切れの場合に表示" />
+      <item value="飛脚ゆうパケット便配送とは" />
+      <item value="ネコポス配送とは" />
+      <item value="THE ANOTHER MUSEUM ご来店予約サイトへ移動します..." />
+      <item value="Mailmagazinetemplate" />
+      <item value="受注全体に適用されるプロモーションを判定" />
+      <item value="加算ポイントを金額に戻し再度ポイントを計算" />
+      <item value="クーポンが適用できるものであれば情報を取得" />
+      <item value="先行購入可能期間（秒） : 先行購入可能期間（秒）" />
+      <item value="ポイント付与率 : ポイント付与率" />
+      <item value="一定期間購入がない通知メール送信バッチ" />
+      <item value="エラーメール送信処理" />
+      <item value="受注検索期間: 24時間" />
+      <item value="一定期間購入がない通知" />
+      <item value="でエラーが発生しました" />
+      <item value="購入アラート（2時間）" />
+      <item value="エラー" />
+      <item value="一定期間購入がない支払方法の通知" />
+      <item value="一定期間購入がない支払方法の通知メール送信バッチ" />
+      <item value="即時決済のクレジット購入があるか確認" />
+      <item value="slaveに変更する" />
+      <item value="convert Lyric" />
+      <item value="伊勢丹新宿店 ウィメンズ" />
+      <item value="お問い合わせ内容詳細" />
+      <item value="石の有無" />
+      <item value="hygiene" />
+      <item value="手洗い、アルコール消毒、入浴などの際のご着用" />
+      <item value="stressful" />
+      <item value="負荷がかかった状況があったか" />
+      <item value="破損時の状況" />
+      <item value="situation" />
       <item value="2023年4月1日(土) 0時00分～10時00分" />
       <item value="set Is Suspended Job" />
       <item value="path" />
@@ -108,52 +147,14 @@
       <item value="品番" />
       <item value="2023年3月31日（火）PM10時00分 ～ AM10時00分（仮）" />
       <item value="023年3月31日(金) 22時00分～4月1日(土) 10時00分" />
-      <item value="Utils" />
-      <item value="有料ラッピング対象外" />
-      <item value="配送予定日" />
-      <item value="詳細コード" />
-      <item value="エラー区分" />
-      <item value="'is_holiday' =&gt; '休日設定されているため出力しませんでした : %s'," />
-      <item value="休日設定されているため出力しませんでした" />
-      <item value="メンテナンスのお知らせ" />
-      <item value="アップロードされたCSVを配列に変換" />
-      <item value="eport項目 or 固定値をBBF項目用の変数に設定" />
-      <item value="商品コード" />
-      <item value="固定値:0:通常入荷" />
-      <item value="商品名" />
-      <item value="カテゴリID" />
-      <item value="シリーズ" />
-      <item value="カテゴリーのシリーズタグを表示" />
-      <item value="category_id が指定の category_code の子孫か否かを返す @params array params category_id: カテゴリID ancestor_category_code: 先祖カテゴリコード" />
-      <item value="&quot;カテゴリ&quot;に属するカテゴリがなければ0番目のカテゴリ" />
-      <item value="に属するカテゴリがなければ0番目のカテゴリ" />
-      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
-      <item value="ネコポス配送リンク" />
-      <item value="注文キャンセル・返品対象外" />
-      <item value="表示確認用" />
-      <item value="再入荷されたかを確認する" />
-      <item value="This package comes with a migration file that is used to create the thumbnails table which is used to store records of the recently created thumbnail." />
-      <item value="Unauthorized Exception" />
-      <item value="Unauthorized" />
-      <item value="寄付先についての詳細はこちら" />
-      <item value="Worldshopping非表示フラグ" />
-      <item value="Worldshopping非表示" />
-      <item value="再入荷" />
-      <item value="返品不可" />
-      <item value="limitedフラグ" />
-      <item value="Eager load relation's column aggregations on the model." />
-      <item value="qualify Column" />
-      <item value="Account Limit Hit" />
-      <item value="has Sufficient Funds To Subtract Amount" />
-      <item value="dependencies" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="80" />
-        <entry key="JAPANESE" value="73" />
-        <entry key="VIETNAMESE" value="79" />
+        <entry key="ENGLISH" value="102" />
+        <entry key="JAPANESE" value="119" />
+        <entry key="VIETNAMESE" value="106" />
       </map>
     </option>
   </component>
