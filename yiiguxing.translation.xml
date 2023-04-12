@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="チャットでご相談" />
       <item value="カートに進む" />
       <item value="お気に入り登録ボタン" />
       <item value="再入荷メールをリクエストする" />
@@ -105,7 +106,6 @@
       <item value="再入荷不可フラグあり&amp;在庫切れの場合に表示" />
       <item value="飛脚ゆうパケット便配送とは" />
       <item value="ネコポス配送とは" />
-      <item value="チャットでご相談" />
       <item value="THE ANOTHER MUSEUM ご来店予約サイトへ移動します..." />
       <item value="Mailmagazinetemplate" />
       <item value="受注全体に適用されるプロモーションを判定" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="117" />
-        <entry key="VIETNAMESE" value="104" />
+        <entry key="JAPANESE" value="118" />
+        <entry key="VIETNAMESE" value="105" />
       </map>
     </option>
   </component>
