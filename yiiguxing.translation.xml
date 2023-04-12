@@ -97,6 +97,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="お気に入り登録ボタン" />
+      <item value="再入荷メールをリクエストする" />
+      <item value="新作入荷メールを受け取る" />
+      <item value="チャームカスタマイズページはこちら" />
+      <item value="再入荷不可フラグあり&amp;在庫切れの場合に表示" />
       <item value="飛脚ゆうパケット便配送とは" />
       <item value="ネコポス配送とは" />
       <item value="チャットでご相談" />
@@ -142,19 +147,14 @@
       <item value="023年3月31日(金) 22時00分～4月1日(土) 10時00分" />
       <item value="Utils" />
       <item value="有料ラッピング対象外" />
-      <item value="配送予定日" />
-      <item value="詳細コード" />
-      <item value="エラー区分" />
-      <item value="'is_holiday' =&gt; '休日設定されているため出力しませんでした : %s'," />
-      <item value="休日設定されているため出力しませんでした" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="109" />
-        <entry key="VIETNAMESE" value="96" />
+        <entry key="JAPANESE" value="116" />
+        <entry key="VIETNAMESE" value="103" />
       </map>
     </option>
   </component>
