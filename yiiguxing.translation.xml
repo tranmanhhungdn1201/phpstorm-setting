@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="カートに進む" />
       <item value="お気に入り登録ボタン" />
       <item value="再入荷メールをリクエストする" />
       <item value="新作入荷メールを受け取る" />
@@ -146,15 +147,14 @@
       <item value="2023年3月31日（火）PM10時00分 ～ AM10時00分（仮）" />
       <item value="023年3月31日(金) 22時00分～4月1日(土) 10時00分" />
       <item value="Utils" />
-      <item value="有料ラッピング対象外" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="116" />
-        <entry key="VIETNAMESE" value="103" />
+        <entry key="JAPANESE" value="117" />
+        <entry key="VIETNAMESE" value="104" />
       </map>
     </option>
   </component>
