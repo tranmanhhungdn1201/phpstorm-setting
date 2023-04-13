@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="オンラインストアで購入したものは返品・交換できますか？" />
+      <item value="オンラインサイトで購入したものは返品・交換できますか？" />
+      <item value="オンラインVISITとは？" />
       <item value="追加" />
       <item value="こちら" />
       <item value="ポイントに有効期限はありますか" />
@@ -144,17 +147,14 @@
       <item value="AWS USE PATH STYLE ENDPOINT" />
       <item value="Concerns" />
       <item value="Constraint" />
-      <item value="visibility" />
-      <item value="verify" />
-      <item value="scope By Parent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="122" />
-        <entry key="VIETNAMESE" value="109" />
+        <entry key="JAPANESE" value="125" />
+        <entry key="VIETNAMESE" value="112" />
       </map>
     </option>
   </component>
