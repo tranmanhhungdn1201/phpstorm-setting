@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新作ジュエリーの先行予約権" />
       <item value="商品ページに「ギフト包装不可」のマークが表示されている商品はご利用できません" />
       <item value="※リングサイズのお直しが可能なリングは商品ページに「お直し可」のマークが表示されている商品に限ります。予め商品ページをご確認くださいませ" />
       <item value="オンラインストアで購入したものは返品・交換できますか？" />
@@ -146,15 +147,14 @@
       <item value="2023年4月1日(土) 0時00分～10時00分" />
       <item value="set Is Suspended Job" />
       <item value="path" />
-      <item value="AWS USE PATH STYLE ENDPOINT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="127" />
-        <entry key="VIETNAMESE" value="114" />
+        <entry key="JAPANESE" value="128" />
+        <entry key="VIETNAMESE" value="115" />
       </map>
     </option>
   </component>
