@@ -97,6 +97,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="飛脚ゆうパケット便配送とは" />
+      <item value="シングル販売" />
+      <item value="シングル（片耳）販売商品" />
+      <item value="こちらの商品はペアでの販売となります" />
+      <item value="ギフトラッピング無料（ ギフトラッピング対象外商品と同時購入の場合を除く）" />
+      <item value="ギフトラッピング対象外" />
       <item value="單擊此處了解有關捐贈對象的詳細信息" />
       <item value="サイズ直し" />
       <item value="お修理" />
@@ -117,7 +123,6 @@
       <item value="新作入荷メールを受け取る" />
       <item value="チャームカスタマイズページはこちら" />
       <item value="再入荷不可フラグあり&amp;在庫切れの場合に表示" />
-      <item value="飛脚ゆうパケット便配送とは" />
       <item value="ネコポス配送とは" />
       <item value="THE ANOTHER MUSEUM ご来店予約サイトへ移動します..." />
       <item value="Mailmagazinetemplate" />
@@ -142,19 +147,14 @@
       <item value="お問い合わせ内容詳細" />
       <item value="石の有無" />
       <item value="hygiene" />
-      <item value="手洗い、アルコール消毒、入浴などの際のご着用" />
-      <item value="stressful" />
-      <item value="負荷がかかった状況があったか" />
-      <item value="破損時の状況" />
-      <item value="situation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="130" />
-        <entry key="VIETNAMESE" value="118" />
+        <entry key="JAPANESE" value="136" />
+        <entry key="VIETNAMESE" value="124" />
       </map>
     </option>
   </component>

@@ -17,10 +17,10 @@
     <mask>*.pug</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*blade.php</mask>
     <mask>*.css</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
