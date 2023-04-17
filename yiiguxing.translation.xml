@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681102948677" />
+    <option name="lastTrimTime" value="1681715686412" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="單擊此處了解有關捐贈對象的詳細信息" />
       <item value="サイズ直し" />
       <item value="お修理" />
       <item value="新作ジュエリーの先行予約権" />
@@ -146,15 +147,14 @@
       <item value="負荷がかかった状況があったか" />
       <item value="破損時の状況" />
       <item value="situation" />
-      <item value="2023年4月1日(土) 0時00分～10時00分" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="8" />
+        <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="102" />
         <entry key="JAPANESE" value="130" />
-        <entry key="VIETNAMESE" value="117" />
+        <entry key="VIETNAMESE" value="118" />
       </map>
     </option>
   </component>
