@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="飛脚ゆうメール便対象" />
       <item value="会員ランクの詳細は、Membershipよりご確認いただけます。" />
       <item value="会員ランクによってポイント還元率が異なります。" />
       <item value="会員ランクは年間お買上げ金額に応じて決定され、 会員ランクによってポイント還元率が異なります。 会員ランクの詳細は、Membershipよりご確認いただけます。" />
@@ -146,15 +147,14 @@
       <item value="エラー" />
       <item value="一定期間購入がない支払方法の通知" />
       <item value="一定期間購入がない支払方法の通知メール送信バッチ" />
-      <item value="即時決済のクレジット購入があるか確認" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="142" />
-        <entry key="VIETNAMESE" value="130" />
+        <entry key="JAPANESE" value="143" />
+        <entry key="VIETNAMESE" value="131" />
       </map>
     </option>
   </component>
