@@ -62,6 +62,16 @@
             </Z>
           </value>
         </entry>
+        <entry key="f169f02c-9e66-44d8-8f73-5db57bfc3fa6">
+          <value>
+            <Z>
+              <option name="content" value="GET /categories_1682327748/_search&#10;{&#10;  &quot;from&quot;: 0,&#10;  &quot;size&quot;: 50,&#10;  &quot;query&quot;: {&#10;    &quot;match_all&quot;: {}&#10;  }&#10;}&#10;" />
+              <option name="id" value="f169f02c-9e66-44d8-8f73-5db57bfc3fa6" />
+              <option name="onlyClusterId" value="a8cc0446-7dc8-4ffc-901f-9ac17730f6fd" />
+              <option name="providedName" value="categories_1682327748" />
+            </Z>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="version" value="1" />
