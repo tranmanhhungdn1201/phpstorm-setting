@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="where Private" />
       <item value="whether to keep" />
       <item value="whether" />
       <item value="Scout" />
@@ -146,15 +147,14 @@
       <item value="エラーメール送信処理" />
       <item value="受注検索期間: 24時間" />
       <item value="一定期間購入がない通知" />
-      <item value="でエラーが発生しました" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="JAPANESE" value="144" />
-        <entry key="VIETNAMESE" value="135" />
+        <entry key="VIETNAMESE" value="136" />
       </map>
     </option>
   </component>
