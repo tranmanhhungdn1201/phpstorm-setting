@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681715686412" />
+    <option name="lastTrimTime" value="1682388336624" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="whether to keep" />
+      <item value="whether" />
+      <item value="Scout" />
       <item value="対象商品を1点ご購入で＜途上国支援＞＜森林保全＞＜医療支援＞、3つの寄付先からご購入時に選択し、最大1,100円を寄付できます" />
       <item value="飛脚ゆうメール便対象" />
       <item value="会員ランクの詳細は、Membershipよりご確認いただけます。" />
@@ -144,17 +147,14 @@
       <item value="受注検索期間: 24時間" />
       <item value="一定期間購入がない通知" />
       <item value="でエラーが発生しました" />
-      <item value="購入アラート（2時間）" />
-      <item value="エラー" />
-      <item value="一定期間購入がない支払方法の通知" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="105" />
         <entry key="JAPANESE" value="144" />
-        <entry key="VIETNAMESE" value="132" />
+        <entry key="VIETNAMESE" value="135" />
       </map>
     </option>
   </component>
