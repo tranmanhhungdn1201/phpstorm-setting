@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="購入する" />
       <item value="お問い合わせ確認メール（管理者へ送信）" />
       <item value="カテゴリ" />
       <item value="excluded" />
@@ -146,15 +147,14 @@
       <item value="クーポンが適用できるものであれば情報を取得" />
       <item value="先行購入可能期間（秒） : 先行購入可能期間（秒）" />
       <item value="ポイント付与率 : ポイント付与率" />
-      <item value="一定期間購入がない通知メール送信バッチ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="107" />
-        <entry key="JAPANESE" value="146" />
-        <entry key="VIETNAMESE" value="139" />
+        <entry key="JAPANESE" value="147" />
+        <entry key="VIETNAMESE" value="140" />
       </map>
     </option>
   </component>
