@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="こちらの商品はペアでの販売となります" />
+      <item value="シングル（片耳）販売商品" />
+      <item value="シングル販売" />
       <item value="失敗" />
       <item value="実行中" />
       <item value="SFTPでアップロードするときのファイルディレクトリ" />
@@ -129,9 +132,6 @@
       <item value="会員ランクは年間お買上げ金額に応じて決定され" />
       <item value="対象外" />
       <item value="飛脚ゆうパケット便配送とは" />
-      <item value="シングル販売" />
-      <item value="シングル（片耳）販売商品" />
-      <item value="こちらの商品はペアでの販売となります" />
       <item value="ギフトラッピング無料（ ギフトラッピング対象外商品と同時購入の場合を除く）" />
       <item value="ギフトラッピング対象外" />
       <item value="單擊此處了解有關捐贈對象的詳細信息" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="107" />
-        <entry key="JAPANESE" value="159" />
-        <entry key="VIETNAMESE" value="155" />
+        <entry key="JAPANESE" value="163" />
+        <entry key="VIETNAMESE" value="159" />
       </map>
     </option>
   </component>
