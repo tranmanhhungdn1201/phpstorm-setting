@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="購入する" />
       <item value="pankuzu list" />
       <item value="こちらの商品はペアでの販売となります" />
       <item value="こちらの商品は再入荷の予定がございません" />
@@ -117,7 +118,6 @@
       <item value="客都合全返品" />
       <item value="サイト都合全返品" />
       <item value="送信中" />
-      <item value="購入する" />
       <item value="お問い合わせ確認メール（管理者へ送信）" />
       <item value="カテゴリ" />
       <item value="excluded" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="108" />
-        <entry key="JAPANESE" value="168" />
-        <entry key="VIETNAMESE" value="165" />
+        <entry key="JAPANESE" value="169" />
+        <entry key="VIETNAMESE" value="166" />
       </map>
     </option>
   </component>
