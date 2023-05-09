@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="pankuzu list" />
       <item value="こちらの商品はペアでの販売となります" />
       <item value="こちらの商品は再入荷の予定がございません" />
       <item value="シングル販売" />
@@ -146,15 +147,14 @@
       <item value="オンラインVISITとは？" />
       <item value="追加" />
       <item value="こちら" />
-      <item value="ポイントに有効期限はありますか" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="JAPANESE" value="168" />
-        <entry key="VIETNAMESE" value="164" />
+        <entry key="VIETNAMESE" value="165" />
       </map>
     </option>
   </component>
