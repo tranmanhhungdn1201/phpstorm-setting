@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683195651570" />
+    <option name="lastTrimTime" value="1683704280788" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hook get unprocessed logs" />
+      <item value="Paidyでweb hookで送信された決済情報を処理" />
+      <item value="Paidyでweb hookで送信された決済情報を処理 Paidyでweb hookで送信された決済情報のうち受注が作成さ" />
+      <item value="payment idに対応した処理クラスを定義：\Bbf\Model\Payment Processを継承したクラス" />
+      <item value="Paidyで決済が行えませんでした" />
+      <item value="smartpayモジュール用のルーティング設定" />
       <item value="購入する" />
       <item value="pankuzu list" />
       <item value="こちらの商品はペアでの販売となります" />
@@ -141,20 +147,14 @@
       <item value="お修理" />
       <item value="新作ジュエリーの先行予約権" />
       <item value="商品ページに「ギフト包装不可」のマークが表示されている商品はご利用できません" />
-      <item value="※リングサイズのお直しが可能なリングは商品ページに「お直し可」のマークが表示されている商品に限ります。予め商品ページをご確認くださいませ" />
-      <item value="オンラインストアで購入したものは返品・交換できますか？" />
-      <item value="オンラインサイトで購入したものは返品・交換できますか？" />
-      <item value="オンラインVISITとは？" />
-      <item value="追加" />
-      <item value="こちら" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="108" />
-        <entry key="JAPANESE" value="172" />
-        <entry key="VIETNAMESE" value="169" />
+        <entry key="ENGLISH" value="109" />
+        <entry key="JAPANESE" value="177" />
+        <entry key="VIETNAMESE" value="175" />
       </map>
     </option>
   </component>
