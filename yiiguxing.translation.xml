@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Paidy パブリックキー（API KEY）" />
+      <item value="Paidy翌月払い（コンビニ銀行）" />
+      <item value="Paidy翌月払い" />
       <item value="リクエスト種別" />
       <item value="メールテンプレートタイプ" />
       <item value="画面説明追加" />
@@ -144,17 +147,14 @@
       <item value="whether to keep" />
       <item value="whether" />
       <item value="Scout" />
-      <item value="対象商品を1点ご購入で＜途上国支援＞＜森林保全＞＜医療支援＞、3つの寄付先からご購入時に選択し、最大1,100円を寄付できます" />
-      <item value="飛脚ゆうメール便対象" />
-      <item value="会員ランクの詳細は、Membershipよりご確認いただけます。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="109" />
-        <entry key="JAPANESE" value="192" />
-        <entry key="VIETNAMESE" value="190" />
+        <entry key="JAPANESE" value="195" />
+        <entry key="VIETNAMESE" value="193" />
       </map>
     </option>
   </component>
