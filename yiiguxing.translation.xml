@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ランキング" />
+      <item value="アイテム" />
       <item value="Geo IPクラスが存在すれば、geoipでIPから国コードを判定" />
       <item value="ipが海外、langがja" />
       <item value="言語：英語" />
@@ -145,16 +147,14 @@
       <item value="会員ランクは年間お買上げ金額に応じて決定され、 会員ランクによってポイント還元率が異なります。 会員ランクの詳細は、Membershipよりご確認いただけます。" />
       <item value="会員ランクに応じ、ポイントを付与させていただきます" />
       <item value="会員ランクは年間お買上げ金額に応じて決定され" />
-      <item value="対象外" />
-      <item value="飛脚ゆうパケット便配送とは" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="109" />
-        <entry key="JAPANESE" value="184" />
-        <entry key="VIETNAMESE" value="182" />
+        <entry key="JAPANESE" value="186" />
+        <entry key="VIETNAMESE" value="184" />
       </map>
     </option>
   </component>
