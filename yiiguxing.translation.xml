@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Geo IPクラスが存在すれば、geoipでIPから国コードを判定" />
+      <item value="ipが海外、langがja" />
+      <item value="言語：英語" />
       <item value="Siftログを取得" />
       <item value="3Dセキュア未使用 かつ Siftの場合" />
       <item value="決済実行" />
@@ -144,17 +147,14 @@
       <item value="会員ランクは年間お買上げ金額に応じて決定され" />
       <item value="対象外" />
       <item value="飛脚ゆうパケット便配送とは" />
-      <item value="ギフトラッピング無料（ ギフトラッピング対象外商品と同時購入の場合を除く）" />
-      <item value="ギフトラッピング対象外" />
-      <item value="單擊此處了解有關捐贈對象的詳細信息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="109" />
-        <entry key="JAPANESE" value="181" />
-        <entry key="VIETNAMESE" value="179" />
+        <entry key="JAPANESE" value="184" />
+        <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
   </component>
