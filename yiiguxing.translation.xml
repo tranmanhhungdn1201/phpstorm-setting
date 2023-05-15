@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数量" />
       <item value="59,800(税込)から" />
       <item value="処理対象のレコードを取得" />
       <item value="1プロセスで処理するのは10件までに制限（予期せぬ無限ループ回避）" />
@@ -146,15 +147,14 @@
       <item value="お問い合わせ確認メール（管理者へ送信）" />
       <item value="カテゴリ" />
       <item value="excluded" />
-      <item value="where Private" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="12" />
+        <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="109" />
         <entry key="JAPANESE" value="198" />
-        <entry key="VIETNAMESE" value="196" />
+        <entry key="VIETNAMESE" value="197" />
       </map>
     </option>
   </component>
