@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="カート：warrantyの異なる商品同梱不可" />
+      <item value="登録されている住所の顧客IDとログイン中の顧客IDの不一致" />
       <item value="商品コード" />
       <item value="Silver Egg:受注日時" />
       <item value="is release flag" />
@@ -145,16 +147,14 @@
       <item value="一部返品" />
       <item value="一部返品開始日日時" />
       <item value="客都合キャンセル" />
-      <item value="サイト都合キャンセル" />
-      <item value="受取辞退" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="110" />
-        <entry key="JAPANESE" value="205" />
-        <entry key="VIETNAMESE" value="205" />
+        <entry key="JAPANESE" value="207" />
+        <entry key="VIETNAMESE" value="207" />
       </map>
     </option>
   </component>
