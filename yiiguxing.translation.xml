@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Silver Egg:受注日時" />
+      <item value="is release flag" />
       <item value="クーポン適用後の商品金額が表示されています。" />
       <item value="ポイント" />
       <item value="お時間" />
@@ -145,16 +147,14 @@
       <item value="サイト都合キャンセル" />
       <item value="受取辞退" />
       <item value="長期不在" />
-      <item value="客都合全返品" />
-      <item value="サイト都合全返品" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="109" />
-        <entry key="JAPANESE" value="203" />
-        <entry key="VIETNAMESE" value="202" />
+        <entry key="ENGLISH" value="110" />
+        <entry key="JAPANESE" value="204" />
+        <entry key="VIETNAMESE" value="204" />
       </map>
     </option>
   </component>
