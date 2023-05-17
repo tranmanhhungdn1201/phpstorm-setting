@@ -97,6 +97,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数量" />
+      <item value="保証" />
+      <item value="web hookのリクエストを処理" />
+      <item value="受注コード : 受注コード" />
+      <item value="払い戻しの理由 : 払い戻しの理由" />
+      <item value="checkoutのときに指定したorder_ref : checkoutのときに指定したorder_ref" />
       <item value="カート：warrantyの異なる商品同梱不可" />
       <item value="登録されている住所の顧客IDとログイン中の顧客IDの不一致" />
       <item value="商品コード" />
@@ -106,7 +112,6 @@
       <item value="ポイント" />
       <item value="お時間" />
       <item value="お届け日時" />
-      <item value="数量" />
       <item value="59,800(税込)から" />
       <item value="処理対象のレコードを取得" />
       <item value="1プロセスで処理するのは10件までに制限（予期せぬ無限ループ回避）" />
@@ -142,19 +147,14 @@
       <item value="実行中" />
       <item value="SFTPでアップロードするときのファイルディレクトリ" />
       <item value="広告用データフィード" />
-      <item value="再計算" />
-      <item value="初めからやり直す" />
-      <item value="一部返品" />
-      <item value="一部返品開始日日時" />
-      <item value="客都合キャンセル" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="13" />
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="110" />
-        <entry key="JAPANESE" value="207" />
-        <entry key="VIETNAMESE" value="207" />
+        <entry key="JAPANESE" value="212" />
+        <entry key="VIETNAMESE" value="213" />
       </map>
     </option>
   </component>
