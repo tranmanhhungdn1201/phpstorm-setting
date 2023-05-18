@@ -97,6 +97,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ご注文内容確認" />
+      <item value="小計（税抜き）" />
+      <item value="小計" />
+      <item value="小計（税抜）" />
       <item value="smartyのtemplateのキャッシュを削除" />
       <item value="個別指定" />
       <item value="exclude" />
@@ -143,18 +147,14 @@
       <item value="購入する" />
       <item value="pankuzu list" />
       <item value="こちらの商品はペアでの販売となります" />
-      <item value="こちらの商品は再入荷の予定がございません" />
-      <item value="シングル販売" />
-      <item value="シングル（片耳）販売商品" />
-      <item value="失敗" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="111" />
-        <entry key="JAPANESE" value="213" />
-        <entry key="VIETNAMESE" value="213" />
+        <entry key="JAPANESE" value="216" />
+        <entry key="VIETNAMESE" value="216" />
       </map>
     </option>
   </component>
