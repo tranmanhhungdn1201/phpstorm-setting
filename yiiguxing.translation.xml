@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="smartyのtemplateのキャッシュを削除" />
+      <item value="個別指定" />
+      <item value="exclude" />
       <item value="数量" />
       <item value="保証" />
       <item value="web hookのリクエストを処理" />
@@ -144,16 +147,13 @@
       <item value="シングル販売" />
       <item value="シングル（片耳）販売商品" />
       <item value="失敗" />
-      <item value="実行中" />
-      <item value="SFTPでアップロードするときのファイルディレクトリ" />
-      <item value="広告用データフィード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="110" />
-        <entry key="JAPANESE" value="212" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="111" />
+        <entry key="JAPANESE" value="213" />
         <entry key="VIETNAMESE" value="213" />
       </map>
     </option>
