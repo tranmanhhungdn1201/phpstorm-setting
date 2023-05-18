@@ -97,6 +97,13 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="商品合計金額" />
+      <item value="送料" />
+      <item value="包装料" />
+      <item value="代引き手数料" />
+      <item value="価格が同じ場合はプロパーと同じ表示にする" />
+      <item value="price、current priceが設定されていればそれを使用" />
+      <item value="商品価格状態判定" />
       <item value="ご注文内容確認" />
       <item value="小計（税抜き）" />
       <item value="小計" />
@@ -140,21 +147,14 @@
       <item value="3 Dセキュアなし" />
       <item value="hook get unprocessed logs" />
       <item value="Paidyでweb hookで送信された決済情報を処理" />
-      <item value="Paidyでweb hookで送信された決済情報を処理 Paidyでweb hookで送信された決済情報のうち受注が作成さ" />
-      <item value="payment idに対応した処理クラスを定義：\Bbf\Model\Payment Processを継承したクラス" />
-      <item value="Paidyで決済が行えませんでした" />
-      <item value="smartpayモジュール用のルーティング設定" />
-      <item value="購入する" />
-      <item value="pankuzu list" />
-      <item value="こちらの商品はペアでの販売となります" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="111" />
-        <entry key="JAPANESE" value="216" />
-        <entry key="VIETNAMESE" value="216" />
+        <entry key="JAPANESE" value="222" />
+        <entry key="VIETNAMESE" value="222" />
       </map>
     </option>
   </component>
