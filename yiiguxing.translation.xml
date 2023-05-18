@@ -97,6 +97,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ご注文内容の更新に失敗しました" />
+      <item value="注文変更のお知らせ" />
+      <item value="注文キャンセルのお知らせ" />
+      <item value="返品不可フラグ" />
+      <item value="OTS連携済みかの判定" />
       <item value="商品合計金額" />
       <item value="送料" />
       <item value="包装料" />
@@ -142,19 +147,14 @@
       <item value="ipが海外、langがja" />
       <item value="言語：英語" />
       <item value="Siftログを取得" />
-      <item value="3Dセキュア未使用 かつ Siftの場合" />
-      <item value="決済実行" />
-      <item value="3 Dセキュアなし" />
-      <item value="hook get unprocessed logs" />
-      <item value="Paidyでweb hookで送信された決済情報を処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="111" />
-        <entry key="JAPANESE" value="222" />
-        <entry key="VIETNAMESE" value="222" />
+        <entry key="JAPANESE" value="227" />
+        <entry key="VIETNAMESE" value="227" />
       </map>
     </option>
   </component>
