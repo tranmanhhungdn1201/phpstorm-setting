@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="配送準備完了" />
       <item value="ご注文内容の更新に失敗しました" />
       <item value="注文変更のお知らせ" />
       <item value="注文キャンセルのお知らせ" />
@@ -146,15 +147,14 @@
       <item value="Geo IPクラスが存在すれば、geoipでIPから国コードを判定" />
       <item value="ipが海外、langがja" />
       <item value="言語：英語" />
-      <item value="Siftログを取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="17" />
+        <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="111" />
         <entry key="JAPANESE" value="227" />
-        <entry key="VIETNAMESE" value="227" />
+        <entry key="VIETNAMESE" value="228" />
       </map>
     </option>
   </component>
