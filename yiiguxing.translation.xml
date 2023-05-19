@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="お値引につきましては、税抜価格から値引した後、税込価格を計算しております" />
       <item value="社員番号を入力してください" />
       <item value="商品合計金額（税抜）からポイント値引き" />
       <item value="合計金額（税込）からポイント値引き" />
@@ -146,15 +147,14 @@
       <item value="Paidy翌月払い（コンビニ銀行）" />
       <item value="Paidy翌月払い" />
       <item value="リクエスト種別" />
-      <item value="メールテンプレートタイプ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="111" />
-        <entry key="JAPANESE" value="239" />
-        <entry key="VIETNAMESE" value="239" />
+        <entry key="JAPANESE" value="240" />
+        <entry key="VIETNAMESE" value="240" />
       </map>
     </option>
   </component>
