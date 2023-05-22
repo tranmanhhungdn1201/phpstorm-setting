@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="レスポンスデータをログテーブルに書き込み" />
       <item value="明細数の取得" />
       <item value="detailsに配列追加" />
       <item value="APIを飛ばす" />
@@ -146,15 +147,14 @@
       <item value="ポイント" />
       <item value="お時間" />
       <item value="お届け日時" />
-      <item value="59,800(税込)から" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="111" />
-        <entry key="JAPANESE" value="247" />
-        <entry key="VIETNAMESE" value="247" />
+        <entry key="JAPANESE" value="249" />
+        <entry key="VIETNAMESE" value="249" />
       </map>
     </option>
   </component>
