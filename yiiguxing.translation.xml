@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684230960087" />
+    <option name="lastTrimTime" value="1684731218552" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="処理終了" />
+      <item value="処理開始" />
       <item value="お値引につきましては、税抜価格から値引した後、税込価格を計算しております" />
       <item value="社員番号を入力してください" />
       <item value="商品合計金額（税抜）からポイント値引き" />
@@ -145,16 +147,14 @@
       <item value="1プロセスで処理するのは10件までに制限（予期せぬ無限ループ回避）" />
       <item value="Paidy パブリックキー（API KEY）" />
       <item value="Paidy翌月払い（コンビニ銀行）" />
-      <item value="Paidy翌月払い" />
-      <item value="リクエスト種別" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="111" />
-        <entry key="JAPANESE" value="240" />
-        <entry key="VIETNAMESE" value="240" />
+        <entry key="JAPANESE" value="242" />
+        <entry key="VIETNAMESE" value="242" />
       </map>
     </option>
   </component>
