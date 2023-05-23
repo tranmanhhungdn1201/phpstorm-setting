@@ -1,3 +1,9 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="elasticsearch">
+      <url-template name="default" template="jdbc:elasticsearch://[http://|https://][{host::localhost}[:{port::9200}]]/{prefix:param/[^?]*}[?&lt;&amp;,user={user},password={password},{:identifier/[^&amp;=]+}={:identifier/[^&amp;]*}&gt;]" disable="true" />
+      <url-template name="default" template="jdbc:es://[http://|https://][{host::localhost}[:{port::9200}]]/{prefix:param/[^?]*}[?&lt;&amp;,user={user},password={password},{:identifier/[^&amp;=]+}={:identifier/[^&amp;]*}&gt;]" disable="true" />
+      <artifact id="Elasticsearch" name="Elasticsearch" channel="fixed" rolling="false" use="true" version="7.10.2" />
+    </driver>
+  </component>
 </application>

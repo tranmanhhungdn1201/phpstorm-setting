@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681102948677" />
+    <option name="lastTrimTime" value="1684731218552" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,64 +97,64 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="予約品の場合はカスタマイズ対象商品の見せ方をしない" />
-      <item value="チャットでご相談" />
-      <item value="カートに進む" />
-      <item value="お気に入り登録ボタン" />
-      <item value="再入荷メールをリクエストする" />
-      <item value="新作入荷メールを受け取る" />
-      <item value="チャームカスタマイズページはこちら" />
-      <item value="再入荷不可フラグあり&amp;在庫切れの場合に表示" />
-      <item value="飛脚ゆうパケット便配送とは" />
-      <item value="ネコポス配送とは" />
-      <item value="THE ANOTHER MUSEUM ご来店予約サイトへ移動します..." />
-      <item value="Mailmagazinetemplate" />
-      <item value="受注全体に適用されるプロモーションを判定" />
-      <item value="加算ポイントを金額に戻し再度ポイントを計算" />
-      <item value="クーポンが適用できるものであれば情報を取得" />
-      <item value="先行購入可能期間（秒） : 先行購入可能期間（秒）" />
-      <item value="ポイント付与率 : ポイント付与率" />
-      <item value="一定期間購入がない通知メール送信バッチ" />
-      <item value="エラーメール送信処理" />
-      <item value="受注検索期間: 24時間" />
-      <item value="一定期間購入がない通知" />
-      <item value="でエラーが発生しました" />
-      <item value="購入アラート（2時間）" />
-      <item value="エラー" />
-      <item value="一定期間購入がない支払方法の通知" />
-      <item value="一定期間購入がない支払方法の通知メール送信バッチ" />
-      <item value="即時決済のクレジット購入があるか確認" />
-      <item value="slaveに変更する" />
-      <item value="convert Lyric" />
-      <item value="伊勢丹新宿店 ウィメンズ" />
-      <item value="お問い合わせ内容詳細" />
-      <item value="石の有無" />
-      <item value="hygiene" />
-      <item value="手洗い、アルコール消毒、入浴などの際のご着用" />
-      <item value="stressful" />
-      <item value="負荷がかかった状況があったか" />
-      <item value="破損時の状況" />
-      <item value="situation" />
-      <item value="2023年4月1日(土) 0時00分～10時00分" />
-      <item value="set Is Suspended Job" />
-      <item value="path" />
-      <item value="AWS USE PATH STYLE ENDPOINT" />
-      <item value="Concerns" />
-      <item value="Constraint" />
-      <item value="visibility" />
-      <item value="verify" />
-      <item value="scope By Parent" />
-      <item value="品番" />
-      <item value="2023年3月31日（火）PM10時00分 ～ AM10時00分（仮）" />
-      <item value="023年3月31日(金) 22時00分～4月1日(土) 10時00分" />
+      <item value="新規会員登録" />
+      <item value="Member Privileges" />
+      <item value="会員特典" />
+      <item value="レスポンスデータをログテーブルに書き込み" />
+      <item value="明細数の取得" />
+      <item value="detailsに配列追加" />
+      <item value="APIを飛ばす" />
+      <item value="発行ポイント取得のAPIを飛ばす" />
+      <item value="処理終了" />
+      <item value="処理開始" />
+      <item value="お値引につきましては、税抜価格から値引した後、税込価格を計算しております" />
+      <item value="社員番号を入力してください" />
+      <item value="商品合計金額（税抜）からポイント値引き" />
+      <item value="合計金額（税込）からポイント値引き" />
+      <item value="discountの値引き対象を税込金額→税抜金額に変更" />
+      <item value="total price:値引き前の合計金額" />
+      <item value="税をリセット" />
+      <item value="商品合計の税を保持" />
+      <item value="配送準備完了" />
+      <item value="ご注文内容の更新に失敗しました" />
+      <item value="注文変更のお知らせ" />
+      <item value="注文キャンセルのお知らせ" />
+      <item value="返品不可フラグ" />
+      <item value="OTS連携済みかの判定" />
+      <item value="商品合計金額" />
+      <item value="送料" />
+      <item value="包装料" />
+      <item value="代引き手数料" />
+      <item value="価格が同じ場合はプロパーと同じ表示にする" />
+      <item value="price、current priceが設定されていればそれを使用" />
+      <item value="商品価格状態判定" />
+      <item value="ご注文内容確認" />
+      <item value="小計（税抜き）" />
+      <item value="小計" />
+      <item value="小計（税抜）" />
+      <item value="smartyのtemplateのキャッシュを削除" />
+      <item value="個別指定" />
+      <item value="exclude" />
+      <item value="数量" />
+      <item value="保証" />
+      <item value="web hookのリクエストを処理" />
+      <item value="受注コード : 受注コード" />
+      <item value="払い戻しの理由 : 払い戻しの理由" />
+      <item value="checkoutのときに指定したorder_ref : checkoutのときに指定したorder_ref" />
+      <item value="カート：warrantyの異なる商品同梱不可" />
+      <item value="登録されている住所の顧客IDとログイン中の顧客IDの不一致" />
+      <item value="商品コード" />
+      <item value="Silver Egg:受注日時" />
+      <item value="is release flag" />
+      <item value="クーポン適用後の商品金額が表示されています。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="102" />
-        <entry key="JAPANESE" value="119" />
-        <entry key="VIETNAMESE" value="106" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="112" />
+        <entry key="JAPANESE" value="251" />
+        <entry key="VIETNAMESE" value="251" />
       </map>
     </option>
   </component>
