@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新規会員登録" />
       <item value="Member Privileges" />
       <item value="会員特典" />
       <item value="レスポンスデータをログテーブルに書き込み" />
@@ -146,14 +147,13 @@
       <item value="Silver Egg:受注日時" />
       <item value="is release flag" />
       <item value="クーポン適用後の商品金額が表示されています。" />
-      <item value="ポイント" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="112" />
-        <entry key="JAPANESE" value="250" />
+        <entry key="JAPANESE" value="251" />
         <entry key="VIETNAMESE" value="251" />
       </map>
     </option>
