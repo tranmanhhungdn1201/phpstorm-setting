@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
       <item value="閉じるボタン分の width はそのまま残したいので、`display: none;`は使用せず、不可視 + 無効とする" />
       <item value="新規会員登録" />
       <item value="Member Privileges" />
@@ -146,15 +147,14 @@
       <item value="登録されている住所の顧客IDとログイン中の顧客IDの不一致" />
       <item value="商品コード" />
       <item value="Silver Egg:受注日時" />
-      <item value="is release flag" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="112" />
-        <entry key="JAPANESE" value="252" />
-        <entry key="VIETNAMESE" value="252" />
+        <entry key="JAPANESE" value="253" />
+        <entry key="VIETNAMESE" value="253" />
       </map>
     </option>
   </component>
