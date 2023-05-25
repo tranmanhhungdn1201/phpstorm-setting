@@ -97,9 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="消費税" />
-      <item value="税別" />
       <item value="税込" />
+      <item value="税別" />
+      <item value="消費税" />
       <item value="利用ポイント" />
       <item value="からご相談です" />
       <item value="予約商品" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="20" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="262" />
-        <entry key="VIETNAMESE" value="263" />
+        <entry key="JAPANESE" value="264" />
+        <entry key="VIETNAMESE" value="264" />
       </map>
     </option>
   </component>
