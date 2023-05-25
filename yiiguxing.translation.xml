@@ -97,6 +97,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="消費税" />
+      <item value="税別" />
+      <item value="税込" />
+      <item value="利用ポイント" />
       <item value="からご相談です" />
       <item value="予約商品" />
       <item value="check reserved product" />
@@ -143,18 +147,14 @@
       <item value="exclude" />
       <item value="数量" />
       <item value="保証" />
-      <item value="web hookのリクエストを処理" />
-      <item value="受注コード : 受注コード" />
-      <item value="払い戻しの理由 : 払い戻しの理由" />
-      <item value="checkoutのときに指定したorder_ref : checkoutのときに指定したorder_ref" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="255" />
-        <entry key="VIETNAMESE" value="255" />
+        <entry key="JAPANESE" value="262" />
+        <entry key="VIETNAMESE" value="263" />
       </map>
     </option>
   </component>
