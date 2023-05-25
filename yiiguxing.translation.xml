@@ -97,10 +97,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="お支払い合計" />
-      <item value="値引き" />
       <item value="代引き手数料" />
       <item value="配送料" />
+      <item value="お支払い合計" />
+      <item value="値引き" />
       <item value="全商品の税抜き合計金額を合算した後に税を計算" />
       <item value="全商品の税抜き合計金額を合算した後に税を計算するかを判定" />
       <item value="ポイントの値引き額" />
@@ -151,10 +151,10 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="21" />
+        <entry key="CHINESE" value="22" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="274" />
-        <entry key="VIETNAMESE" value="274" />
+        <entry key="JAPANESE" value="276" />
+        <entry key="VIETNAMESE" value="276" />
       </map>
     </option>
   </component>
