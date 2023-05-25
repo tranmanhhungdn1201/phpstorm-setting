@@ -97,6 +97,12 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="お支払い合計" />
+      <item value="値引き" />
+      <item value="代引き手数料" />
+      <item value="配送料" />
+      <item value="全商品の税抜き合計金額を合算した後に税を計算" />
+      <item value="全商品の税抜き合計金額を合算した後に税を計算するかを判定" />
       <item value="ポイントの値引き額" />
       <item value="商品代金" />
       <item value="ギフト包装希望フラグ" />
@@ -138,23 +144,17 @@
       <item value="商品合計金額" />
       <item value="送料" />
       <item value="包装料" />
-      <item value="代引き手数料" />
       <item value="価格が同じ場合はプロパーと同じ表示にする" />
       <item value="price、current priceが設定されていればそれを使用" />
       <item value="商品価格状態判定" />
-      <item value="ご注文内容確認" />
-      <item value="小計（税抜き）" />
-      <item value="小計" />
-      <item value="小計（税抜）" />
-      <item value="smartyのtemplateのキャッシュを削除" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="20" />
+        <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="268" />
-        <entry key="VIETNAMESE" value="268" />
+        <entry key="JAPANESE" value="274" />
+        <entry key="VIETNAMESE" value="274" />
       </map>
     </option>
   </component>
