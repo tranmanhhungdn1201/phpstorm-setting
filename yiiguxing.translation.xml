@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="GMO会員削除エラー" />
       <item value="管理者登録完了のお知らせ" />
       <item value="発送完了（管理者へ送信）" />
       <item value="発送完了" />
@@ -146,15 +147,14 @@
       <item value="社員番号を入力してください" />
       <item value="商品合計金額（税抜）からポイント値引き" />
       <item value="合計金額（税込）からポイント値引き" />
-      <item value="discountの値引き対象を税込金額→税抜金額に変更" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="26" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="289" />
-        <entry key="VIETNAMESE" value="289" />
+        <entry key="JAPANESE" value="290" />
+        <entry key="VIETNAMESE" value="290" />
       </map>
     </option>
   </component>
