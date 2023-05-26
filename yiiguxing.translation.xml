@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="税込価格の合計を計算 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params order_customer_detail：受注詳細、store_id：ストアID、datetime：基準日、tax_rate：税率、tax_calc_rule：税計算方法" />
       <item value="合計" />
       <item value="クール便" />
       <item value="クール" />
@@ -146,15 +147,14 @@
       <item value="注文変更のお知らせ" />
       <item value="注文キャンセルのお知らせ" />
       <item value="返品不可フラグ" />
-      <item value="OTS連携済みかの判定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="282" />
-        <entry key="VIETNAMESE" value="282" />
+        <entry key="JAPANESE" value="283" />
+        <entry key="VIETNAMESE" value="283" />
       </map>
     </option>
   </component>
