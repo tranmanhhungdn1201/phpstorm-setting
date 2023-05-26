@@ -97,6 +97,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="管理者登録完了のお知らせ" />
+      <item value="発送完了（管理者へ送信）" />
+      <item value="発送完了" />
+      <item value="パスワードリマインダー" />
+      <item value="会員変更完了のお知らせ" />
+      <item value="会員登録完了のお知らせ" />
+      <item value="注文受付完了のお知らせ（管理者へ送信）" />
+      <item value="注文受付完了のお知らせ" />
       <item value="税込価格の合計を計算 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params order_customer_detail：受注詳細、store_id：ストアID、datetime：基準日、tax_rate：税率、tax_calc_rule：税計算方法" />
       <item value="合計" />
       <item value="クール便" />
@@ -139,22 +147,14 @@
       <item value="商品合計金額（税抜）からポイント値引き" />
       <item value="合計金額（税込）からポイント値引き" />
       <item value="discountの値引き対象を税込金額→税抜金額に変更" />
-      <item value="total price:値引き前の合計金額" />
-      <item value="税をリセット" />
-      <item value="商品合計の税を保持" />
-      <item value="配送準備完了" />
-      <item value="ご注文内容の更新に失敗しました" />
-      <item value="注文変更のお知らせ" />
-      <item value="注文キャンセルのお知らせ" />
-      <item value="返品不可フラグ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="26" />
         <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="283" />
-        <entry key="VIETNAMESE" value="283" />
+        <entry key="JAPANESE" value="289" />
+        <entry key="VIETNAMESE" value="289" />
       </map>
     </option>
   </component>
