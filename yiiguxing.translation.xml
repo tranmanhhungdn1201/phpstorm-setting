@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="予約商品" />
       <item value="小計" />
       <item value="予約受注の場合は専用のメールテンプレート" />
       <item value="予約注文受付完了のお知らせ" />
@@ -142,7 +143,6 @@
       <item value="消費税" />
       <item value="利用ポイント" />
       <item value="からご相談です" />
-      <item value="予約商品" />
       <item value="check reserved product" />
       <item value="check rental" />
       <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="117" />
-        <entry key="JAPANESE" value="314" />
-        <entry key="VIETNAMESE" value="314" />
+        <entry key="JAPANESE" value="316" />
+        <entry key="VIETNAMESE" value="316" />
       </map>
     </option>
   </component>
