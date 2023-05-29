@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="小計" />
       <item value="予約受注の場合は専用のメールテンプレート" />
       <item value="予約注文受付完了のお知らせ" />
       <item value="reserve order flag" />
@@ -130,7 +131,6 @@
       <item value="値引き" />
       <item value="包装料" />
       <item value="代引き手数料" />
-      <item value="小計" />
       <item value="配送料" />
       <item value="お支払い合計" />
       <item value="全商品の税抜き合計金額を合算した後に税を計算" />
@@ -151,10 +151,10 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="26" />
+        <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="117" />
         <entry key="JAPANESE" value="314" />
-        <entry key="VIETNAMESE" value="313" />
+        <entry key="VIETNAMESE" value="314" />
       </map>
     </option>
   </component>
