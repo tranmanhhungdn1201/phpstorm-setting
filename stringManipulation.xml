@@ -54,9 +54,11 @@
         </ColumnAlignerModel>
       </list>
     </option>
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
+        <option name="description" value="To Upper Case" />
+        <option name="textWithMnemonic" value="To UPPER CASE" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
