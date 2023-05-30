@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="受注状態が変更される" />
       <item value="canceled" />
       <item value="Paidy決済（ペイメント）IDとstatusが同じ場合だけ成功" />
       <item value="Paidy決済ログを保存" />
@@ -146,15 +147,14 @@
       <item value="発送完了のお知らせ" />
       <item value="注文受付完了の確認メール" />
       <item value="GMO会員削除エラー" />
-      <item value="管理者登録完了のお知らせ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="29" />
         <entry key="ENGLISH" value="128" />
-        <entry key="JAPANESE" value="340" />
-        <entry key="VIETNAMESE" value="340" />
+        <entry key="JAPANESE" value="341" />
+        <entry key="VIETNAMESE" value="341" />
       </map>
     </option>
   </component>
