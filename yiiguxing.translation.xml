@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="南本町" />
+      <item value="大阪市中央区" />
       <item value="d払いからの戻り" />
       <item value="楽天ペイ決済ログを保存" />
       <item value="楽天からの戻りかを判定" />
@@ -145,16 +147,14 @@
       <item value="税込価格の合計を計算 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params order_customer_detail：受注詳細、store_id：ストアID、datetime：基準日、tax_rate：税率、tax_calc_rule：税計算方法" />
       <item value="合計" />
       <item value="クール便" />
-      <item value="クール" />
-      <item value="値引き" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="28" />
+        <entry key="CHINESE" value="29" />
         <entry key="ENGLISH" value="127" />
-        <entry key="JAPANESE" value="329" />
-        <entry key="VIETNAMESE" value="327" />
+        <entry key="JAPANESE" value="330" />
+        <entry key="VIETNAMESE" value="329" />
       </map>
     </option>
   </component>
