@@ -97,6 +97,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="東京都" />
+      <item value="administrative Area" />
+      <item value="港区" />
+      <item value="sub Locality" />
       <item value="認証要求" />
       <item value="d払い関連処理" />
       <item value="Smartpay決済（ペイメント）IDとstatusが同じ場合だけ成功" />
@@ -143,18 +147,14 @@
       <item value="商品代金" />
       <item value="ギフト包装希望フラグ" />
       <item value="希望する" />
-      <item value="消費税" />
-      <item value="利用ポイント" />
-      <item value="からご相談です" />
-      <item value="check reserved product" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="117" />
-        <entry key="JAPANESE" value="319" />
-        <entry key="VIETNAMESE" value="319" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="121" />
+        <entry key="JAPANESE" value="321" />
+        <entry key="VIETNAMESE" value="321" />
       </map>
     </option>
   </component>
