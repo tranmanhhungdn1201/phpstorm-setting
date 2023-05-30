@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684731218552" />
+    <option name="lastTrimTime" value="1685328408406" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,64 +97,64 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="新規会員登録" />
-      <item value="Member Privileges" />
-      <item value="会員特典" />
-      <item value="レスポンスデータをログテーブルに書き込み" />
-      <item value="明細数の取得" />
-      <item value="detailsに配列追加" />
-      <item value="APIを飛ばす" />
-      <item value="発行ポイント取得のAPIを飛ばす" />
-      <item value="処理終了" />
-      <item value="処理開始" />
-      <item value="お値引につきましては、税抜価格から値引した後、税込価格を計算しております" />
-      <item value="社員番号を入力してください" />
-      <item value="商品合計金額（税抜）からポイント値引き" />
-      <item value="合計金額（税込）からポイント値引き" />
-      <item value="discountの値引き対象を税込金額→税抜金額に変更" />
-      <item value="total price:値引き前の合計金額" />
-      <item value="税をリセット" />
-      <item value="商品合計の税を保持" />
-      <item value="配送準備完了" />
-      <item value="ご注文内容の更新に失敗しました" />
-      <item value="注文変更のお知らせ" />
-      <item value="注文キャンセルのお知らせ" />
-      <item value="返品不可フラグ" />
-      <item value="OTS連携済みかの判定" />
-      <item value="商品合計金額" />
+      <item value="予約商品" />
+      <item value="小計" />
+      <item value="予約受注の場合は専用のメールテンプレート" />
+      <item value="予約注文受付完了のお知らせ" />
+      <item value="reserve order flag" />
+      <item value="税込" />
+      <item value="税抜" />
+      <item value="税別" />
+      <item value="ポイント値引き" />
+      <item value="使用ポイント" />
+      <item value="合計金額" />
+      <item value="決済手数料" />
       <item value="送料" />
+      <item value="返品の決済取消に失敗した時エラーメール送信" />
+      <item value="一部返品時メール送信" />
+      <item value="返品手続きのお知らせ" />
+      <item value="ご注文ありがとうございます" />
+      <item value="発送完了のお知らせ" />
+      <item value="注文受付完了の確認メール" />
+      <item value="GMO会員削除エラー" />
+      <item value="管理者登録完了のお知らせ" />
+      <item value="発送完了（管理者へ送信）" />
+      <item value="発送完了" />
+      <item value="パスワードリマインダー" />
+      <item value="会員変更完了のお知らせ" />
+      <item value="会員登録完了のお知らせ" />
+      <item value="注文受付完了のお知らせ（管理者へ送信）" />
+      <item value="注文受付完了のお知らせ" />
+      <item value="税込価格の合計を計算 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params order_customer_detail：受注詳細、store_id：ストアID、datetime：基準日、tax_rate：税率、tax_calc_rule：税計算方法" />
+      <item value="合計" />
+      <item value="クール便" />
+      <item value="クール" />
+      <item value="値引き" />
       <item value="包装料" />
       <item value="代引き手数料" />
-      <item value="価格が同じ場合はプロパーと同じ表示にする" />
-      <item value="price、current priceが設定されていればそれを使用" />
-      <item value="商品価格状態判定" />
-      <item value="ご注文内容確認" />
-      <item value="小計（税抜き）" />
-      <item value="小計" />
-      <item value="小計（税抜）" />
-      <item value="smartyのtemplateのキャッシュを削除" />
-      <item value="個別指定" />
-      <item value="exclude" />
-      <item value="数量" />
-      <item value="保証" />
-      <item value="web hookのリクエストを処理" />
-      <item value="受注コード : 受注コード" />
-      <item value="払い戻しの理由 : 払い戻しの理由" />
-      <item value="checkoutのときに指定したorder_ref : checkoutのときに指定したorder_ref" />
-      <item value="カート：warrantyの異なる商品同梱不可" />
-      <item value="登録されている住所の顧客IDとログイン中の顧客IDの不一致" />
-      <item value="商品コード" />
-      <item value="Silver Egg:受注日時" />
-      <item value="is release flag" />
-      <item value="クーポン適用後の商品金額が表示されています。" />
+      <item value="配送料" />
+      <item value="お支払い合計" />
+      <item value="全商品の税抜き合計金額を合算した後に税を計算" />
+      <item value="全商品の税抜き合計金額を合算した後に税を計算するかを判定" />
+      <item value="ポイントの値引き額" />
+      <item value="商品代金" />
+      <item value="ギフト包装希望フラグ" />
+      <item value="希望する" />
+      <item value="消費税" />
+      <item value="利用ポイント" />
+      <item value="からご相談です" />
+      <item value="check reserved product" />
+      <item value="check rental" />
+      <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
+      <item value="閉じるボタン分の width はそのまま残したいので、`display: none;`は使用せず、不可視 + 無効とする" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="112" />
-        <entry key="JAPANESE" value="251" />
-        <entry key="VIETNAMESE" value="251" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="117" />
+        <entry key="JAPANESE" value="316" />
+        <entry key="VIETNAMESE" value="316" />
       </map>
     </option>
   </component>
