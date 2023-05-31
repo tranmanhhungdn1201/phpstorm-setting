@@ -97,6 +97,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="直接APIが叩かれた場合" />
       <item value="受注ID" />
       <item value="d払い決済セッションを取得" />
       <item value="加盟店トークン（smartpay payment sessions id）からd払い決済セッションを取得" />
@@ -137,7 +138,6 @@
       <item value="エラーの値にリダイレクト用のURLを設定" />
       <item value="dアカウントへ遷移する" />
       <item value="Front Cart Step 04_Identification Return" />
-      <item value="直接APIが叩かれた場合" />
       <item value="reference" />
       <item value="東京都" />
       <item value="administrative Area" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="129" />
-        <entry key="JAPANESE" value="361" />
-        <entry key="VIETNAMESE" value="361" />
+        <entry key="JAPANESE" value="362" />
+        <entry key="VIETNAMESE" value="362" />
       </map>
     </option>
   </component>
