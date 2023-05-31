@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="step4登録処理 メールを送信しない" />
+      <item value="クーポンコードを復元" />
       <item value="直接APIが叩かれた場合" />
       <item value="受注ID" />
       <item value="d払い決済セッションを取得" />
@@ -145,16 +147,14 @@
       <item value="sub Locality" />
       <item value="認証要求" />
       <item value="d払い関連処理" />
-      <item value="Smartpay決済（ペイメント）IDとstatusが同じ場合だけ成功" />
-      <item value="予約商品" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="129" />
-        <entry key="JAPANESE" value="362" />
-        <entry key="VIETNAMESE" value="362" />
+        <entry key="JAPANESE" value="365" />
+        <entry key="VIETNAMESE" value="365" />
       </map>
     </option>
   </component>
