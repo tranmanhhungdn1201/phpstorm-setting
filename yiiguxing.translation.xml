@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="d払い決済セッションを取得" />
+      <item value="加盟店トークン（smartpay payment sessions id）からd払い決済セッションを取得" />
+      <item value="d払い加盟店トークン" />
       <item value="値引き額" />
       <item value="消費税" />
       <item value="使用ポイント" />
@@ -144,17 +147,14 @@
       <item value="Smartpay決済（ペイメント）IDとstatusが同じ場合だけ成功" />
       <item value="予約商品" />
       <item value="小計" />
-      <item value="予約受注の場合は専用のメールテンプレート" />
-      <item value="reserve order flag" />
-      <item value="税込" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="129" />
-        <entry key="JAPANESE" value="357" />
-        <entry key="VIETNAMESE" value="357" />
+        <entry key="JAPANESE" value="360" />
+        <entry key="VIETNAMESE" value="360" />
       </map>
     </option>
   </component>
