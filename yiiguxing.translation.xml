@@ -97,6 +97,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="値引き額" />
+      <item value="消費税" />
+      <item value="使用ポイント" />
       <item value="カートから受注を登録する処理で、受注を登録完了した後の処理" />
       <item value="管理者へのメール" />
       <item value="予約注文受付完了のお知らせ" />
@@ -144,17 +147,14 @@
       <item value="予約受注の場合は専用のメールテンプレート" />
       <item value="reserve order flag" />
       <item value="税込" />
-      <item value="税抜" />
-      <item value="税別" />
-      <item value="ポイント値引き" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="29" />
+        <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="129" />
-        <entry key="JAPANESE" value="355" />
-        <entry key="VIETNAMESE" value="355" />
+        <entry key="JAPANESE" value="357" />
+        <entry key="VIETNAMESE" value="357" />
       </map>
     </option>
   </component>
