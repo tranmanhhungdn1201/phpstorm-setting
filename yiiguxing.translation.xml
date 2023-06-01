@@ -97,6 +97,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="楽天レスポンス用：正常:0、エラー:1 ※BBFと反対なので注意" />
+      <item value="3 dセキュアコールバック処理中の場合はZeusにPOSTしたデータからカート内容を復元。" />
+      <item value="hook元の関数でcart goods listが取得出来ていない場合は復元しない。" />
+      <item value="楽天Payコールバック処理中の場合は楽天にPOSTしたデータに適用されたプロモーションも読み込む。" />
       <item value="該当するsmartpay payment logのレコードも取得する" />
       <item value="hookログの未処理のオーソリ完了ログを取得" />
       <item value="管理者へエラーメールを送る" />
@@ -143,18 +147,14 @@
       <item value="Paidy決済ログを保存" />
       <item value="決済情報を取得して検証" />
       <item value="EC側で受注登録失敗した場合はLINE Payにオーソリ無効(void)を実行" />
-      <item value="EC側で受注登録失敗した場合はLINE" />
-      <item value="step 4登録処理" />
-      <item value="LINE Pay 決済Confirm" />
-      <item value="confirm URLでない(cartstep 3からのPOST)の場合" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="379" />
-        <entry key="VIETNAMESE" value="379" />
+        <entry key="JAPANESE" value="383" />
+        <entry key="VIETNAMESE" value="383" />
       </map>
     </option>
   </component>
