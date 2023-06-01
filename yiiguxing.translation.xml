@@ -97,6 +97,11 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="イベントが生成された日時" />
+      <item value="0：キャンセル、1：未処理、2：開始処理済み、3：完了" />
+      <item value="イベント種類" />
+      <item value="発生した決済イベントの種類と結果を示すフィールド" />
+      <item value="Smartpay決済（ペイメント）ID" />
       <item value="log threshold" />
       <item value="threshold" />
       <item value="下記のボタンよりd払い決済へ進んでください" />
@@ -142,19 +147,14 @@
       <item value="南本町" />
       <item value="大阪市中央区" />
       <item value="楽天ペイ決済ログを保存" />
-      <item value="楽天からの戻りかを判定" />
-      <item value="保存していたパラメータ取得" />
-      <item value="エラーの値にリダイレクト用のURLを設定" />
-      <item value="dアカウントへ遷移する" />
-      <item value="Front Cart Step 04_Identification Return" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="369" />
-        <entry key="VIETNAMESE" value="370" />
+        <entry key="JAPANESE" value="375" />
+        <entry key="VIETNAMESE" value="375" />
       </map>
     </option>
   </component>
