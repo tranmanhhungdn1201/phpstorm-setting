@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="該当するsmartpay payment logのレコードも取得する" />
+      <item value="hookログの未処理のオーソリ完了ログを取得" />
       <item value="管理者へエラーメールを送る" />
       <item value="楽天キャンセル処理を実行" />
       <item value="イベントが生成された日時" />
@@ -145,16 +147,14 @@
       <item value="step 4登録処理" />
       <item value="LINE Pay 決済Confirm" />
       <item value="confirm URLでない(cartstep 3からのPOST)の場合" />
-      <item value="confirm URL(LINE Payサーバからのリダイレクト)の場合" />
-      <item value="南本町" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="377" />
-        <entry key="VIETNAMESE" value="377" />
+        <entry key="JAPANESE" value="379" />
+        <entry key="VIETNAMESE" value="379" />
       </map>
     </option>
   </component>
