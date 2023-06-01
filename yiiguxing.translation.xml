@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="下記のボタンよりd払い決済へ進んでください" />
+      <item value="d払いお客様認証が完了しました" />
       <item value="非公開" />
       <item value="プレビュー" />
       <item value="公開" />
@@ -145,16 +147,14 @@
       <item value="Front Cart Step 04_Identification Return" />
       <item value="reference" />
       <item value="東京都" />
-      <item value="administrative Area" />
-      <item value="港区" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="129" />
-        <entry key="JAPANESE" value="367" />
-        <entry key="VIETNAMESE" value="367" />
+        <entry key="JAPANESE" value="369" />
+        <entry key="VIETNAMESE" value="369" />
       </map>
     </option>
   </component>

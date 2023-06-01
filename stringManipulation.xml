@@ -54,9 +54,11 @@
         </ColumnAlignerModel>
       </list>
     </option>
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.align.AlignSelectionsAction" />
+        <option name="description" value="Align selections from both sides by inserting spaces" />
+        <option name="textWithMnemonic" value="Align Selections" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
