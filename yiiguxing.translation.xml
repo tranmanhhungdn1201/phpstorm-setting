@@ -97,6 +97,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="管理者へエラーメールを送る" />
+      <item value="楽天キャンセル処理を実行" />
       <item value="イベントが生成された日時" />
       <item value="0：キャンセル、1：未処理、2：開始処理済み、3：完了" />
       <item value="イベント種類" />
@@ -145,16 +147,14 @@
       <item value="confirm URLでない(cartstep 3からのPOST)の場合" />
       <item value="confirm URL(LINE Payサーバからのリダイレクト)の場合" />
       <item value="南本町" />
-      <item value="大阪市中央区" />
-      <item value="楽天ペイ決済ログを保存" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="375" />
-        <entry key="VIETNAMESE" value="375" />
+        <entry key="JAPANESE" value="377" />
+        <entry key="VIETNAMESE" value="377" />
       </map>
     </option>
   </component>
