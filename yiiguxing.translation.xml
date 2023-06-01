@@ -97,6 +97,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="楽天からのコールバックに対応するデータが存在しません" />
+      <item value="すでに処理が完了しているレコードに対してコールバックが来た場合" />
+      <item value="存在しないデータに対するコールバックが来た場合" />
+      <item value="終了済" />
+      <item value="未処理" />
+      <item value="callback処理終了フラグ" />
+      <item value="開始済" />
+      <item value="callback処理開始フラグ" />
       <item value="楽天レスポンス用：正常:0、エラー:1 ※BBFと反対なので注意" />
       <item value="3 dセキュアコールバック処理中の場合はZeusにPOSTしたデータからカート内容を復元。" />
       <item value="hook元の関数でcart goods listが取得出来ていない場合は復元しない。" />
@@ -139,22 +147,14 @@
       <item value="らの戻り" />
       <item value="d払いからの戻り" />
       <item value="d払いPOST情報" />
-      <item value="merchant token" />
-      <item value="d払いドコモ指定パラメータ" />
-      <item value="受注状態が変更される" />
-      <item value="canceled" />
-      <item value="Paidy決済（ペイメント）IDとstatusが同じ場合だけ成功" />
-      <item value="Paidy決済ログを保存" />
-      <item value="決済情報を取得して検証" />
-      <item value="EC側で受注登録失敗した場合はLINE Payにオーソリ無効(void)を実行" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="383" />
-        <entry key="VIETNAMESE" value="383" />
+        <entry key="JAPANESE" value="392" />
+        <entry key="VIETNAMESE" value="392" />
       </map>
     </option>
   </component>
