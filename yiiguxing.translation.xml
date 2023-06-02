@@ -97,6 +97,18 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="リクエストテキスト" />
+      <item value="レスポンステキスト" />
+      <item value="受注コード" />
+      <item value="リクエスト種別" />
+      <item value="d払い加盟店トークン" />
+      <item value="d払い決済要求日時" />
+      <item value="加盟店受注コードを作成" />
+      <item value="d払い加盟店注文番号" />
+      <item value="受注詳細取得" />
+      <item value="成功" />
+      <item value="エラー" />
+      <item value="Smartpay決済ログタイプ" />
       <item value="注文完了・出荷・キャンセル等" />
       <item value="注文完了" />
       <item value="決済認証" />
@@ -135,26 +147,14 @@
       <item value="d払いお客様認証が完了しました" />
       <item value="非公開" />
       <item value="プレビュー" />
-      <item value="公開" />
-      <item value="step4登録処理 メールを送信しない" />
-      <item value="クーポンコードを復元" />
-      <item value="直接APIが叩かれた場合" />
-      <item value="受注ID" />
-      <item value="d払い決済セッションを取得" />
-      <item value="加盟店トークン（smartpay payment sessions id）からd払い決済セッションを取得" />
-      <item value="d払い加盟店トークン" />
-      <item value="値引き額" />
-      <item value="消費税" />
-      <item value="使用ポイント" />
-      <item value="カートから受注を登録する処理で、受注を登録完了した後の処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="402" />
-        <entry key="VIETNAMESE" value="402" />
+        <entry key="JAPANESE" value="414" />
+        <entry key="VIETNAMESE" value="414" />
       </map>
     </option>
   </component>
