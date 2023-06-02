@@ -97,22 +97,26 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="smartpay加盟店注文番号" />
+      <item value="成功" />
+      <item value="エラー" />
+      <item value="トークン払い出し（BBF→docomo）" />
+      <item value="認証応答（ブラウザ→BBF）" />
+      <item value="認証要求（ブラウザ→docomo" />
+      <item value="ユーザ認証" />
+      <item value="リクエスト種別" />
       <item value="リクエストテキスト" />
       <item value="レスポンステキスト" />
       <item value="受注コード" />
-      <item value="リクエスト種別" />
       <item value="d払い加盟店トークン" />
       <item value="d払い決済要求日時" />
       <item value="加盟店受注コードを作成" />
       <item value="d払い加盟店注文番号" />
       <item value="受注詳細取得" />
-      <item value="成功" />
-      <item value="エラー" />
       <item value="Smartpay決済ログタイプ" />
       <item value="注文完了・出荷・キャンセル等" />
       <item value="注文完了" />
       <item value="決済認証" />
-      <item value="ユーザ認証" />
       <item value="該当決済ログ存在判定（注文情報取得IF）" />
       <item value="仮受注のステータス確認（未入金・配送保留）" />
       <item value="d払いからの戻り" />
@@ -143,18 +147,14 @@
       <item value="Smartpay決済（ペイメント）ID" />
       <item value="log threshold" />
       <item value="threshold" />
-      <item value="下記のボタンよりd払い決済へ進んでください" />
-      <item value="d払いお客様認証が完了しました" />
-      <item value="非公開" />
-      <item value="プレビュー" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="131" />
-        <entry key="JAPANESE" value="414" />
-        <entry key="VIETNAMESE" value="414" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="134" />
+        <entry key="JAPANESE" value="421" />
+        <entry key="VIETNAMESE" value="421" />
       </map>
     </option>
   </component>
