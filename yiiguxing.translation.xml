@@ -93,10 +93,22 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="267" />
-    <option name="newTranslationDialogWidth" value="696" />
-    <option name="newTranslationDialogX" value="2716" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="694" />
+    <option name="newTranslationDialogX" value="2859" />
+    <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="payment id" />
+      <item value="p" />
+      <item value="may" />
+      <item value="paym" />
+      <item value="pay" />
+      <item value="smartpay加盟店トークン" />
+      <item value="Paidy決済（ペイメント）ID" />
+      <item value="stripeレスポンスID" />
+      <item value="対象のログが存在する場合、決済番号をセットする" />
+      <item value="ユーザ認証結果取得（docomo→BBF）" />
+      <item value="決済ID" />
+      <item value="対象決済ログを取得" />
       <item value="申し訳ございません。&lt;br&gt;お客様のご注文は、すでに完了している可能性がございます。&lt;br&gt;お手数ですが、注文履歴画面にてご注文情報をご確認ください" />
       <item value="Smartpay決済中にエラーが発生しました。&lt;br&gt;大変恐れ入りますが、下記お問い合わせまでご連絡ください。&lt;br&gt;&lt;br&gt;お問い合わせは『&lt;a href=\&quot;:contact_link\&quot; style=\&quot;color: F00; font-weight: bold;\&quot;&gt;こちら&lt;a&gt;』から" />
       <item value="上限金額エラー" />
@@ -135,26 +147,14 @@
       <item value="認証要求（ブラウザ→docomo" />
       <item value="ユーザ認証" />
       <item value="リクエスト種別" />
-      <item value="リクエストテキスト" />
-      <item value="レスポンステキスト" />
-      <item value="受注コード" />
-      <item value="d払い加盟店トークン" />
-      <item value="d払い決済要求日時" />
-      <item value="加盟店受注コードを作成" />
-      <item value="d払い加盟店注文番号" />
-      <item value="受注詳細取得" />
-      <item value="Smartpay決済ログタイプ" />
-      <item value="注文完了・出荷・キャンセル等" />
-      <item value="注文完了" />
-      <item value="決済認証" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="134" />
-        <entry key="JAPANESE" value="449" />
-        <entry key="VIETNAMESE" value="449" />
+        <entry key="JAPANESE" value="457" />
+        <entry key="VIETNAMESE" value="456" />
       </map>
     </option>
   </component>
