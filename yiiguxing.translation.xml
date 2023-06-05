@@ -97,12 +97,12 @@
     <option name="newTranslationDialogX" value="2716" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="成功" />
+      <item value="エラー" />
       <item value="API 注文通知受取 Controller." />
       <item value="注文通知受取" />
       <item value="レスポンス" />
       <item value="smartpay加盟店注文番号" />
-      <item value="成功" />
-      <item value="エラー" />
       <item value="トークン払い出し（BBF→docomo）" />
       <item value="認証応答（ブラウザ→BBF）" />
       <item value="認証要求（ブラウザ→docomo" />
@@ -151,10 +151,10 @@
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="134" />
-        <entry key="JAPANESE" value="425" />
-        <entry key="VIETNAMESE" value="425" />
+        <entry key="JAPANESE" value="426" />
+        <entry key="VIETNAMESE" value="427" />
       </map>
     </option>
   </component>
