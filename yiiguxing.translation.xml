@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2716" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="d払いについて" />
       <item value="在庫引当済、入金済の場合は配送準備完了" />
       <item value="受注ステータスを仮引当済みの状態にする" />
       <item value="予約受注" />
@@ -146,15 +147,14 @@
       <item value="終了済" />
       <item value="未処理" />
       <item value="callback処理終了フラグ" />
-      <item value="開始済" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="134" />
-        <entry key="JAPANESE" value="436" />
-        <entry key="VIETNAMESE" value="436" />
+        <entry key="JAPANESE" value="437" />
+        <entry key="VIETNAMESE" value="437" />
       </map>
     </option>
   </component>
