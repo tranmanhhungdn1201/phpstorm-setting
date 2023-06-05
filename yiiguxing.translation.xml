@@ -97,6 +97,19 @@
     <option name="newTranslationDialogX" value="2716" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="申し訳ございません。&lt;br&gt;お客様のご注文は、すでに完了している可能性がございます。&lt;br&gt;お手数ですが、注文履歴画面にてご注文情報をご確認ください" />
+      <item value="Smartpay決済中にエラーが発生しました。&lt;br&gt;大変恐れ入りますが、下記お問い合わせまでご連絡ください。&lt;br&gt;&lt;br&gt;お問い合わせは『&lt;a href=\&quot;:contact_link\&quot; style=\&quot;color: F00; font-weight: bold;\&quot;&gt;こちら&lt;a&gt;』から" />
+      <item value="上限金額エラー" />
+      <item value="Smartpay決済をご利用いただける上限金額を超えています" />
+      <item value="Smartpay決済の確定処理に失敗しました" />
+      <item value="Smartpay決済のキャンセル処理に失敗しました" />
+      <item value="Smartpay決済のお客様認証に失敗しました" />
+      <item value="お手数ですが、再度ショッピングバッグに商品を追加し、他の支払方法を選択してご購入ください。" />
+      <item value="再度ショッピングバッグに商品を追加し" />
+      <item value="お手数ですが、再度ショッピングバッグに商品を追加し、他の支払方法を選択してご購入ください" />
+      <item value="d払い決済でエラーが発生しました" />
+      <item value="d払い決済がキャンセルされました。&lt;br&gt;商品をご購入いただく場合は、再度ショッピングバッグに追加してください。" />
+      <item value="d払い決済中にエラーが発生しました。&lt;br&gt;大変恐れ入りますが、下記お問い合わせまでご連絡ください。&lt;br&gt;&lt;br&gt;お問い合わせは『&lt;a href=\&quot;:contact_link\&quot; style=\&quot;color: F00; font-weight: bold;\&quot;&gt;こちら&lt;a&gt;』から&quot;" />
       <item value="d払いについて" />
       <item value="在庫引当済、入金済の場合は配送準備完了" />
       <item value="受注ステータスを仮引当済みの状態にする" />
@@ -134,27 +147,14 @@
       <item value="注文完了・出荷・キャンセル等" />
       <item value="注文完了" />
       <item value="決済認証" />
-      <item value="該当決済ログ存在判定（注文情報取得IF）" />
-      <item value="仮受注のステータス確認（未入金・配送保留）" />
-      <item value="d払いからの戻り" />
-      <item value="受注コードに対して受注作成処理をロック" />
-      <item value="Inputへd払い関係の値を追加" />
-      <item value="受注の状態を未入金、配送保留で仮受注を作成" />
-      <item value="受注の状態を未入金" />
-      <item value="楽天からのコールバックに対応するデータが存在しません" />
-      <item value="すでに処理が完了しているレコードに対してコールバックが来た場合" />
-      <item value="存在しないデータに対するコールバックが来た場合" />
-      <item value="終了済" />
-      <item value="未処理" />
-      <item value="callback処理終了フラグ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="134" />
-        <entry key="JAPANESE" value="437" />
-        <entry key="VIETNAMESE" value="437" />
+        <entry key="JAPANESE" value="449" />
+        <entry key="VIETNAMESE" value="449" />
       </map>
     </option>
   </component>
