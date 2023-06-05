@@ -97,6 +97,19 @@
     <option name="newTranslationDialogX" value="2716" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="在庫引当済、入金済の場合は配送準備完了" />
+      <item value="受注ステータスを仮引当済みの状態にする" />
+      <item value="予約受注" />
+      <item value="受注状態を変更" />
+      <item value="マスター在庫を使用する場合の後処理" />
+      <item value="梱包済" />
+      <item value="配送準備完了" />
+      <item value="配送保留" />
+      <item value="本引当済" />
+      <item value="発注済" />
+      <item value="仮引当済" />
+      <item value="新規受注（未引当）" />
+      <item value="新規受注" />
       <item value="成功" />
       <item value="エラー" />
       <item value="API 注文通知受取 Controller." />
@@ -134,27 +147,14 @@
       <item value="未処理" />
       <item value="callback処理終了フラグ" />
       <item value="開始済" />
-      <item value="callback処理開始フラグ" />
-      <item value="楽天レスポンス用：正常:0、エラー:1 ※BBFと反対なので注意" />
-      <item value="3 dセキュアコールバック処理中の場合はZeusにPOSTしたデータからカート内容を復元。" />
-      <item value="hook元の関数でcart goods listが取得出来ていない場合は復元しない。" />
-      <item value="楽天Payコールバック処理中の場合は楽天にPOSTしたデータに適用されたプロモーションも読み込む。" />
-      <item value="該当するsmartpay payment logのレコードも取得する" />
-      <item value="hookログの未処理のオーソリ完了ログを取得" />
-      <item value="管理者へエラーメールを送る" />
-      <item value="楽天キャンセル処理を実行" />
-      <item value="イベントが生成された日時" />
-      <item value="0：キャンセル、1：未処理、2：開始処理済み、3：完了" />
-      <item value="イベント種類" />
-      <item value="発生した決済イベントの種類と結果を示すフィールド" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="134" />
-        <entry key="JAPANESE" value="426" />
-        <entry key="VIETNAMESE" value="427" />
+        <entry key="JAPANESE" value="436" />
+        <entry key="VIETNAMESE" value="436" />
       </map>
     </option>
   </component>
