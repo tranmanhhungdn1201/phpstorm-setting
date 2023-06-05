@@ -85,76 +85,76 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685328408406" />
+    <option name="lastTrimTime" value="1685931179212" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="VIETNAMESE" />
+    <option name="primaryLanguage" value="ENGLISH" />
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogHeight" value="267" />
+    <option name="newTranslationDialogWidth" value="696" />
     <option name="newTranslationDialogX" value="2716" />
     <option name="newTranslationDialogY" value="450" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="予約商品" />
-      <item value="小計" />
-      <item value="予約受注の場合は専用のメールテンプレート" />
-      <item value="予約注文受付完了のお知らせ" />
-      <item value="reserve order flag" />
-      <item value="税込" />
-      <item value="税抜" />
-      <item value="税別" />
-      <item value="ポイント値引き" />
-      <item value="使用ポイント" />
-      <item value="合計金額" />
-      <item value="決済手数料" />
-      <item value="送料" />
-      <item value="返品の決済取消に失敗した時エラーメール送信" />
-      <item value="一部返品時メール送信" />
-      <item value="返品手続きのお知らせ" />
-      <item value="ご注文ありがとうございます" />
-      <item value="発送完了のお知らせ" />
-      <item value="注文受付完了の確認メール" />
-      <item value="GMO会員削除エラー" />
-      <item value="管理者登録完了のお知らせ" />
-      <item value="発送完了（管理者へ送信）" />
-      <item value="発送完了" />
-      <item value="パスワードリマインダー" />
-      <item value="会員変更完了のお知らせ" />
-      <item value="会員登録完了のお知らせ" />
-      <item value="注文受付完了のお知らせ（管理者へ送信）" />
-      <item value="注文受付完了のお知らせ" />
-      <item value="税込価格の合計を計算 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params order_customer_detail：受注詳細、store_id：ストアID、datetime：基準日、tax_rate：税率、tax_calc_rule：税計算方法" />
-      <item value="合計" />
-      <item value="クール便" />
-      <item value="クール" />
-      <item value="値引き" />
-      <item value="包装料" />
-      <item value="代引き手数料" />
-      <item value="配送料" />
-      <item value="お支払い合計" />
-      <item value="全商品の税抜き合計金額を合算した後に税を計算" />
-      <item value="全商品の税抜き合計金額を合算した後に税を計算するかを判定" />
-      <item value="ポイントの値引き額" />
-      <item value="商品代金" />
-      <item value="ギフト包装希望フラグ" />
-      <item value="希望する" />
-      <item value="消費税" />
-      <item value="利用ポイント" />
-      <item value="からご相談です" />
-      <item value="check reserved product" />
-      <item value="check rental" />
-      <item value="Dpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
-      <item value="閉じるボタン分の width はそのまま残したいので、`display: none;`は使用せず、不可視 + 無効とする" />
+      <item value="d払いについて" />
+      <item value="在庫引当済、入金済の場合は配送準備完了" />
+      <item value="受注ステータスを仮引当済みの状態にする" />
+      <item value="予約受注" />
+      <item value="受注状態を変更" />
+      <item value="マスター在庫を使用する場合の後処理" />
+      <item value="梱包済" />
+      <item value="配送準備完了" />
+      <item value="配送保留" />
+      <item value="本引当済" />
+      <item value="発注済" />
+      <item value="仮引当済" />
+      <item value="新規受注（未引当）" />
+      <item value="新規受注" />
+      <item value="成功" />
+      <item value="エラー" />
+      <item value="API 注文通知受取 Controller." />
+      <item value="注文通知受取" />
+      <item value="レスポンス" />
+      <item value="smartpay加盟店注文番号" />
+      <item value="トークン払い出し（BBF→docomo）" />
+      <item value="認証応答（ブラウザ→BBF）" />
+      <item value="認証要求（ブラウザ→docomo" />
+      <item value="ユーザ認証" />
+      <item value="リクエスト種別" />
+      <item value="リクエストテキスト" />
+      <item value="レスポンステキスト" />
+      <item value="受注コード" />
+      <item value="d払い加盟店トークン" />
+      <item value="d払い決済要求日時" />
+      <item value="加盟店受注コードを作成" />
+      <item value="d払い加盟店注文番号" />
+      <item value="受注詳細取得" />
+      <item value="Smartpay決済ログタイプ" />
+      <item value="注文完了・出荷・キャンセル等" />
+      <item value="注文完了" />
+      <item value="決済認証" />
+      <item value="該当決済ログ存在判定（注文情報取得IF）" />
+      <item value="仮受注のステータス確認（未入金・配送保留）" />
+      <item value="d払いからの戻り" />
+      <item value="受注コードに対して受注作成処理をロック" />
+      <item value="Inputへd払い関係の値を追加" />
+      <item value="受注の状態を未入金、配送保留で仮受注を作成" />
+      <item value="受注の状態を未入金" />
+      <item value="楽天からのコールバックに対応するデータが存在しません" />
+      <item value="すでに処理が完了しているレコードに対してコールバックが来た場合" />
+      <item value="存在しないデータに対するコールバックが来た場合" />
+      <item value="終了済" />
+      <item value="未処理" />
+      <item value="callback処理終了フラグ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="117" />
-        <entry key="JAPANESE" value="316" />
-        <entry key="VIETNAMESE" value="316" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="134" />
+        <entry key="JAPANESE" value="437" />
+        <entry key="VIETNAMESE" value="437" />
       </map>
     </option>
   </component>
