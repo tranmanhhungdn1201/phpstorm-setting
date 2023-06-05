@@ -97,6 +97,10 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="オーソリ無効API" />
+      <item value="authorizations" />
+      <item value="GMO決済ログを保存(金額変更)" />
+      <item value="GMO決済ログを保存" />
       <item value="payment id" />
       <item value="p" />
       <item value="may" />
@@ -143,18 +147,14 @@
       <item value="レスポンス" />
       <item value="smartpay加盟店注文番号" />
       <item value="トークン払い出し（BBF→docomo）" />
-      <item value="認証応答（ブラウザ→BBF）" />
-      <item value="認証要求（ブラウザ→docomo" />
-      <item value="ユーザ認証" />
-      <item value="リクエスト種別" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="134" />
-        <entry key="JAPANESE" value="457" />
-        <entry key="VIETNAMESE" value="456" />
+        <entry key="ENGLISH" value="135" />
+        <entry key="JAPANESE" value="460" />
+        <entry key="VIETNAMESE" value="459" />
       </map>
     </option>
   </component>
