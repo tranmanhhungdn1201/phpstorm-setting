@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="新規受注" />
       <item value="00（受付完了）の場合は正常終了として処理" />
       <item value="レスポンスが200以外だった場合（エラー）" />
       <item value="売上確定(GMOと連携)" />
@@ -142,7 +143,6 @@
       <item value="発注済" />
       <item value="仮引当済" />
       <item value="新規受注（未引当）" />
-      <item value="新規受注" />
       <item value="成功" />
       <item value="エラー" />
       <item value="API 注文通知受取 Controller." />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="136" />
-        <entry key="JAPANESE" value="463" />
-        <entry key="VIETNAMESE" value="462" />
+        <entry key="JAPANESE" value="464" />
+        <entry key="VIETNAMESE" value="463" />
       </map>
     </option>
   </component>
