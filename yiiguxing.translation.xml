@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="クエリオブジェクト" />
       <item value="セキュア文字列判定" />
       <item value="処理結果、falseの場合はNG" />
       <item value="web hookのリクエストを処理" />
@@ -146,7 +147,6 @@
       <item value="smartpay加盟店トークン" />
       <item value="Paidy決済（ペイメント）ID" />
       <item value="stripeレスポンスID" />
-      <item value="対象のログが存在する場合、決済番号をセットする" />
     </histories>
     <option name="languageScores">
       <map>
