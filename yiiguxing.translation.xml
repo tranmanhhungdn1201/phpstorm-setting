@@ -97,6 +97,15 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="step 04へのpost内容をDBへ退避" />
+      <item value="Smartpayからの戻り" />
+      <item value="ゼウスからの戻りかを判定" />
+      <item value="楽天からの戻りかを判定" />
+      <item value="決済方法がd払いの場合" />
+      <item value="dアカウントへ遷移する" />
+      <item value="楽天Pay moduleと実装が重複しているが楽天Pay moduleが無くても動作するように実装." />
+      <item value="Smartpayサーバへ遷移する" />
+      <item value="LINE Payサーバへ遷移する" />
       <item value="注文完了メールを作成して送信" />
       <item value="リクエストを解析" />
       <item value="step4登録処理 メールを送信しない" />
@@ -138,23 +147,14 @@
       <item value="判定に用いる支払い方法ID" />
       <item value="エラーの値にリダイレクト用のURLを設定" />
       <item value="LINE Pay Reserve(決済予約)" />
-      <item value="reserve" />
-      <item value="ポイント支払" />
-      <item value="商品合計金額" />
-      <item value="LINE Pay Void API(オーソリ無効API)" />
-      <item value="在庫を変更" />
-      <item value="KAFKA OFFSETS TOPIC REPLICATION FACTOR" />
-      <item value="オーソリ無効API" />
-      <item value="authorizations" />
-      <item value="GMO決済ログを保存(金額変更)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="153" />
-        <entry key="JAPANESE" value="507" />
-        <entry key="VIETNAMESE" value="506" />
+        <entry key="ENGLISH" value="156" />
+        <entry key="JAPANESE" value="516" />
+        <entry key="VIETNAMESE" value="513" />
       </map>
     </option>
   </component>
