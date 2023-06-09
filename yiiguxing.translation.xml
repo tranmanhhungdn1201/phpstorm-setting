@@ -97,6 +97,13 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="Smartpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
+      <item value="smartpayモジュール用のルーティング設定" />
+      <item value="受付完了（エラー）" />
+      <item value="smartpay checkout error" />
+      <item value="認証キャンセル" />
+      <item value="キャンセル処理エラー" />
+      <item value="発送完了処理エラー" />
       <item value="step 04へのpost内容をDBへ退避" />
       <item value="Smartpayからの戻り" />
       <item value="ゼウスからの戻りかを判定" />
@@ -140,21 +147,14 @@
       <item value="payment idに対応した処理クラスを定義：\Bbf\Model\Payment Processを継承したクラス" />
       <item value="出荷明細書の決済方法" />
       <item value="決済番号" />
-      <item value="受注明細：支払方法名" />
-      <item value="受注明細：備考＋クーポンコード" />
-      <item value="通貨コードの取得" />
-      <item value="Smartpayでweb hookで送信された決済情報のうち受注が作成されていないものをキャンセルする" />
-      <item value="判定に用いる支払い方法ID" />
-      <item value="エラーの値にリダイレクト用のURLを設定" />
-      <item value="LINE Pay Reserve(決済予約)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="156" />
-        <entry key="JAPANESE" value="516" />
-        <entry key="VIETNAMESE" value="513" />
+        <entry key="ENGLISH" value="157" />
+        <entry key="JAPANESE" value="522" />
+        <entry key="VIETNAMESE" value="520" />
       </map>
     </option>
   </component>
