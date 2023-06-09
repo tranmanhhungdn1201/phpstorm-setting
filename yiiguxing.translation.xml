@@ -97,12 +97,15 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="注文完了メールを作成して送信" />
+      <item value="リクエストを解析" />
+      <item value="step4登録処理 メールを送信しない" />
+      <item value="仮受注を登録" />
       <item value="仮受注をキャンセルする" />
       <item value="対象受注存在判定" />
       <item value="受注の状態を未入金、配送保留で仮受注を作成" />
       <item value="Inputへ楽天関係の値を追加" />
       <item value="登録" />
-      <item value="注文完了メールを作成して送信" />
       <item value="クエリオブジェクト" />
       <item value="セキュア文字列判定" />
       <item value="処理結果、falseの場合はNG" />
@@ -144,17 +147,14 @@
       <item value="オーソリ無効API" />
       <item value="authorizations" />
       <item value="GMO決済ログを保存(金額変更)" />
-      <item value="GMO決済ログを保存" />
-      <item value="payment id" />
-      <item value="p" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="151" />
-        <entry key="JAPANESE" value="501" />
-        <entry key="VIETNAMESE" value="501" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="JAPANESE" value="507" />
+        <entry key="VIETNAMESE" value="506" />
       </map>
     </option>
   </component>
