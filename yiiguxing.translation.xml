@@ -97,6 +97,28 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="セキュア文字列判定" />
+      <item value="処理結果、falseの場合はNG" />
+      <item value="web hookのリクエストを処理" />
+      <item value="受注コード" />
+      <item value="リクエスト種別" />
+      <item value="非顧客ID" />
+      <item value="顧客ID" />
+      <item value="smartpay決済ログID" />
+      <item value="smartpay取引ID" />
+      <item value="WHERE句を設定" />
+      <item value="ログを取得" />
+      <item value="ログが取得出来た場合は、課金番号を設定する" />
+      <item value="課金番号を取得する" />
+      <item value="forge" />
+      <item value="購入完了画面を出力" />
+      <item value="完了画面" />
+      <item value="受付完了インタフェース" />
+      <item value="認証キャンセル通知インタフェース" />
+      <item value="ログ追加" />
+      <item value="レスポンス" />
+      <item value="注文通知受取" />
+      <item value="payment idに対応した処理クラスを定義：\Bbf\Model\Payment Processを継承したクラス" />
       <item value="出荷明細書の決済方法" />
       <item value="決済番号" />
       <item value="受注明細：支払方法名" />
@@ -125,36 +147,14 @@
       <item value="Paidy決済（ペイメント）ID" />
       <item value="stripeレスポンスID" />
       <item value="対象のログが存在する場合、決済番号をセットする" />
-      <item value="ユーザ認証結果取得（docomo→BBF）" />
-      <item value="決済ID" />
-      <item value="対象決済ログを取得" />
-      <item value="申し訳ございません。&lt;br&gt;お客様のご注文は、すでに完了している可能性がございます。&lt;br&gt;お手数ですが、注文履歴画面にてご注文情報をご確認ください" />
-      <item value="Smartpay決済中にエラーが発生しました。&lt;br&gt;大変恐れ入りますが、下記お問い合わせまでご連絡ください。&lt;br&gt;&lt;br&gt;お問い合わせは『&lt;a href=\&quot;:contact_link\&quot; style=\&quot;color: F00; font-weight: bold;\&quot;&gt;こちら&lt;a&gt;』から" />
-      <item value="上限金額エラー" />
-      <item value="Smartpay決済をご利用いただける上限金額を超えています" />
-      <item value="Smartpay決済の確定処理に失敗しました" />
-      <item value="Smartpay決済のキャンセル処理に失敗しました" />
-      <item value="Smartpay決済のお客様認証に失敗しました" />
-      <item value="お手数ですが、再度ショッピングバッグに商品を追加し、他の支払方法を選択してご購入ください。" />
-      <item value="再度ショッピングバッグに商品を追加し" />
-      <item value="お手数ですが、再度ショッピングバッグに商品を追加し、他の支払方法を選択してご購入ください" />
-      <item value="d払い決済でエラーが発生しました" />
-      <item value="d払い決済がキャンセルされました。&lt;br&gt;商品をご購入いただく場合は、再度ショッピングバッグに追加してください。" />
-      <item value="d払い決済中にエラーが発生しました。&lt;br&gt;大変恐れ入りますが、下記お問い合わせまでご連絡ください。&lt;br&gt;&lt;br&gt;お問い合わせは『&lt;a href=\&quot;:contact_link\&quot; style=\&quot;color: F00; font-weight: bold;\&quot;&gt;こちら&lt;a&gt;』から&quot;" />
-      <item value="d払いについて" />
-      <item value="在庫引当済、入金済の場合は配送準備完了" />
-      <item value="受注ステータスを仮引当済みの状態にする" />
-      <item value="予約受注" />
-      <item value="受注状態を変更" />
-      <item value="マスター在庫を使用する場合の後処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="141" />
-        <entry key="JAPANESE" value="473" />
-        <entry key="VIETNAMESE" value="473" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="151" />
+        <entry key="JAPANESE" value="494" />
+        <entry key="VIETNAMESE" value="494" />
       </map>
     </option>
   </component>
