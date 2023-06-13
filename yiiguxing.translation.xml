@@ -85,7 +85,7 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685931179212" />
+    <option name="lastTrimTime" value="1686652702798" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="ポイント値引" />
       <item value="Smartpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
       <item value="smartpayモジュール用のルーティング設定" />
       <item value="受付完了（エラー）" />
@@ -146,14 +147,13 @@
       <item value="注文通知受取" />
       <item value="payment idに対応した処理クラスを定義：\Bbf\Model\Payment Processを継承したクラス" />
       <item value="出荷明細書の決済方法" />
-      <item value="決済番号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="157" />
-        <entry key="JAPANESE" value="522" />
+        <entry key="ENGLISH" value="158" />
+        <entry key="JAPANESE" value="523" />
         <entry key="VIETNAMESE" value="520" />
       </map>
     </option>
