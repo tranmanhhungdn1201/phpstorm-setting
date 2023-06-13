@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="合計金額（税込）からポイント値引き" />
+      <item value="合計金額（税込）を計算" />
       <item value="ポイント値引" />
       <item value="Smartpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
       <item value="smartpayモジュール用のルーティング設定" />
@@ -145,16 +147,14 @@
       <item value="ログ追加" />
       <item value="レスポンス" />
       <item value="注文通知受取" />
-      <item value="payment idに対応した処理クラスを定義：\Bbf\Model\Payment Processを継承したクラス" />
-      <item value="出荷明細書の決済方法" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="158" />
-        <entry key="JAPANESE" value="523" />
-        <entry key="VIETNAMESE" value="520" />
+        <entry key="ENGLISH" value="159" />
+        <entry key="JAPANESE" value="525" />
+        <entry key="VIETNAMESE" value="522" />
       </map>
     </option>
   </component>
