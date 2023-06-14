@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="発行ポイント取得のAPIを飛ばす" />
       <item value="合計金額（税込）からポイント値引き" />
       <item value="合計金額（税込）を計算" />
       <item value="ポイント値引" />
@@ -146,15 +147,14 @@
       <item value="認証キャンセル通知インタフェース" />
       <item value="ログ追加" />
       <item value="レスポンス" />
-      <item value="注文通知受取" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="159" />
-        <entry key="JAPANESE" value="525" />
-        <entry key="VIETNAMESE" value="522" />
+        <entry key="ENGLISH" value="160" />
+        <entry key="JAPANESE" value="526" />
+        <entry key="VIETNAMESE" value="523" />
       </map>
     </option>
   </component>
