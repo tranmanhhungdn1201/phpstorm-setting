@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="出荷完了から10日後付与ポイント確定API" />
+      <item value="ポイント加算・減算日次バッチ" />
+      <item value="会員情報取得(PINコード対応版)" />
       <item value="再送信予約" />
       <item value="max use point max from price" />
       <item value="金額から最大使用ポイントを計算する" />
@@ -144,17 +147,14 @@
       <item value="ログが取得出来た場合は、課金番号を設定する" />
       <item value="課金番号を取得する" />
       <item value="forge" />
-      <item value="購入完了画面を出力" />
-      <item value="完了画面" />
-      <item value="受付完了インタフェース" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="161" />
-        <entry key="JAPANESE" value="528" />
-        <entry key="VIETNAMESE" value="526" />
+        <entry key="ENGLISH" value="163" />
+        <entry key="JAPANESE" value="531" />
+        <entry key="VIETNAMESE" value="528" />
       </map>
     </option>
   </component>
