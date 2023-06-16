@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="管理者へのメール" />
+      <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
+      <item value="clear recipients" />
       <item value="楽天ペイコールバックエラー" />
       <item value="スマートペイ注文作成時のエラー" />
       <item value="楽天キャンセル処理を実行" />
@@ -144,17 +147,14 @@
       <item value="受注の状態を未入金、配送保留で仮受注を作成" />
       <item value="Inputへ楽天関係の値を追加" />
       <item value="登録" />
-      <item value="クエリオブジェクト" />
-      <item value="セキュア文字列判定" />
-      <item value="処理結果、falseの場合はNG" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="167" />
-        <entry key="JAPANESE" value="545" />
-        <entry key="VIETNAMESE" value="540" />
+        <entry key="ENGLISH" value="168" />
+        <entry key="JAPANESE" value="547" />
+        <entry key="VIETNAMESE" value="543" />
       </map>
     </option>
   </component>
