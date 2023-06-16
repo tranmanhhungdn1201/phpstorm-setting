@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="提醒住在台灣的客人們&lt;br&gt; 依據台灣關務署規定，為確保海外購物能夠如期收到包裹，請您務必先下載APP「易利委(Ez Way)」完成實名認證作業。&lt;br&gt; 完成實名制登記後，DHL快遞將貨品入關後會傳簡訊與您聯絡，請注意手機簡訊。&lt;br&gt;" />
+      <item value="台湾向けメッセージ" />
+      <item value="ご注文ありがとうございました" />
       <item value="Smartpayモジュールが存在すると認識させるためにpackage下のモジュールをロード" />
       <item value="出荷完了から10日後付与ポイント確定API" />
       <item value="ポイント加算・減算日次バッチ" />
@@ -144,17 +147,14 @@
       <item value="smartpay取引ID" />
       <item value="WHERE句を設定" />
       <item value="ログを取得" />
-      <item value="ログが取得出来た場合は、課金番号を設定する" />
-      <item value="課金番号を取得する" />
-      <item value="forge" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="164" />
-        <entry key="JAPANESE" value="532" />
-        <entry key="VIETNAMESE" value="528" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="167" />
+        <entry key="JAPANESE" value="534" />
+        <entry key="VIETNAMESE" value="529" />
       </map>
     </option>
   </component>
