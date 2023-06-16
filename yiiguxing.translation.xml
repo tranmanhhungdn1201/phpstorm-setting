@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="会員ID" />
+      <item value="エラーメールを送信する" />
       <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
       <item value="管理者へのメール" />
       <item value="clear recipients" />
@@ -145,16 +147,14 @@
       <item value="仮受注をキャンセルする" />
       <item value="対象受注存在判定" />
       <item value="受注の状態を未入金、配送保留で仮受注を作成" />
-      <item value="Inputへ楽天関係の値を追加" />
-      <item value="登録" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="168" />
-        <entry key="JAPANESE" value="548" />
-        <entry key="VIETNAMESE" value="544" />
+        <entry key="JAPANESE" value="550" />
+        <entry key="VIETNAMESE" value="546" />
       </map>
     </option>
   </component>
