@@ -97,6 +97,11 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="楽天ペイコールバックエラー" />
+      <item value="スマートペイ注文作成時のエラー" />
+      <item value="楽天キャンセル処理を実行" />
+      <item value="管理者へエラーメールを送る" />
+      <item value="作業結果をメールで送信" />
       <item value="Webhook のステータスが無効な場合はエラーを返します" />
       <item value="マーチャントトークンが存在しない場合はウェイを返す" />
       <item value="成功したリクエストからmerchant token情報を取得する" />
@@ -142,19 +147,14 @@
       <item value="クエリオブジェクト" />
       <item value="セキュア文字列判定" />
       <item value="処理結果、falseの場合はNG" />
-      <item value="web hookのリクエストを処理" />
-      <item value="受注コード" />
-      <item value="リクエスト種別" />
-      <item value="非顧客ID" />
-      <item value="顧客ID" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="167" />
-        <entry key="JAPANESE" value="538" />
-        <entry key="VIETNAMESE" value="533" />
+        <entry key="JAPANESE" value="545" />
+        <entry key="VIETNAMESE" value="540" />
       </map>
     </option>
   </component>
