@@ -97,8 +97,8 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
-      <item value="管理者へのメール" />
       <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
+      <item value="管理者へのメール" />
       <item value="clear recipients" />
       <item value="楽天ペイコールバックエラー" />
       <item value="スマートペイ注文作成時のエラー" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="168" />
-        <entry key="JAPANESE" value="547" />
-        <entry key="VIETNAMESE" value="543" />
+        <entry key="JAPANESE" value="548" />
+        <entry key="VIETNAMESE" value="544" />
       </map>
     </option>
   </component>
