@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="マーブルグリーン" />
+      <item value="マーブルレッド" />
+      <item value="レッド" />
       <item value="カスタマイズ：選択項目による画像透過処理" />
       <item value="尾栓" />
       <item value="このシークレットを使用すると、エンドポイントに送信された Webhook がサードパーティではなく Smartpay によって送信されたことを確認できます。" />
@@ -144,17 +147,14 @@
       <item value="dアカウントへ遷移する" />
       <item value="楽天Pay moduleと実装が重複しているが楽天Pay moduleが無くても動作するように実装." />
       <item value="Smartpayサーバへ遷移する" />
-      <item value="LINE Payサーバへ遷移する" />
-      <item value="注文完了メールを作成して送信" />
-      <item value="リクエストを解析" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="172" />
-        <entry key="JAPANESE" value="555" />
-        <entry key="VIETNAMESE" value="548" />
+        <entry key="ENGLISH" value="174" />
+        <entry key="JAPANESE" value="559" />
+        <entry key="VIETNAMESE" value="552" />
       </map>
     </option>
   </component>
