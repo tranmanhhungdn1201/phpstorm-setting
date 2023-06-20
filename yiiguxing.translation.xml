@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="ブラック" />
       <item value="インク" />
       <item value="商品蓋栓飾り" />
       <item value="商品クリップ" />
@@ -146,15 +147,14 @@
       <item value="smartpayモジュール用のルーティング設定" />
       <item value="受付完了（エラー）" />
       <item value="smartpay checkout error" />
-      <item value="認証キャンセル" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="176" />
-        <entry key="JAPANESE" value="569" />
-        <entry key="VIETNAMESE" value="561" />
+        <entry key="JAPANESE" value="570" />
+        <entry key="VIETNAMESE" value="562" />
       </map>
     </option>
   </component>
