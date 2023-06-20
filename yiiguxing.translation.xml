@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="商品尾栓" />
       <item value="Enrol Reqを作成して送信" />
       <item value="クリアナチュラル" />
       <item value="※但し、商品合計金額（税込）が30万円以上、および飛脚ゆうパケット便配送対象の場合は、商品代金引換払いはご利用いただけません" />
@@ -146,15 +147,14 @@
       <item value="キャンセル処理エラー" />
       <item value="発送完了処理エラー" />
       <item value="step 04へのpost内容をDBへ退避" />
-      <item value="Smartpayからの戻り" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="176" />
-        <entry key="JAPANESE" value="565" />
-        <entry key="VIETNAMESE" value="557" />
+        <entry key="JAPANESE" value="566" />
+        <entry key="VIETNAMESE" value="558" />
       </map>
     </option>
   </component>
