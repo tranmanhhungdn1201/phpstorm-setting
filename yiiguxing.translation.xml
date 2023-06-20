@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="サイズ直しチェック" />
+      <item value="サイズ直し" />
       <item value="check cart include bridal customize" />
       <item value="予約商品" />
       <item value="予約商品の場合は先に引当" />
@@ -145,16 +147,14 @@
       <item value="金額から最大使用ポイントを計算する" />
       <item value="発行ポイント取得のAPIを飛ばす" />
       <item value="合計金額（税込）からポイント値引き" />
-      <item value="合計金額（税込）を計算" />
-      <item value="ポイント値引" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="177" />
-        <entry key="JAPANESE" value="574" />
-        <entry key="VIETNAMESE" value="567" />
+        <entry key="JAPANESE" value="577" />
+        <entry key="VIETNAMESE" value="570" />
       </map>
     </option>
   </component>
