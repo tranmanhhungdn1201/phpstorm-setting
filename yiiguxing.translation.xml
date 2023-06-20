@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="※但し、商品合計金額（税込）が30万円以上、および飛脚ゆうパケット便配送対象の場合は、商品代金引換払いはご利用いただけません" />
+      <item value="クレジットカード払い、商品代金引換払い、Paidy、Amazon Pay、楽天ペイ、LINE pay、d払い、Smartpayがご利用いただけます" />
+      <item value="お支払い方法の種類について" />
       <item value="在庫週数合計と消化率合計を表示 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params stock_end：ストアID、row_count：価格" />
       <item value="マーブルグリーン" />
       <item value="マーブルレッド" />
@@ -144,17 +147,14 @@
       <item value="Smartpayからの戻り" />
       <item value="ゼウスからの戻りかを判定" />
       <item value="楽天からの戻りかを判定" />
-      <item value="決済方法がd払いの場合" />
-      <item value="dアカウントへ遷移する" />
-      <item value="楽天Pay moduleと実装が重複しているが楽天Pay moduleが無くても動作するように実装." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="175" />
-        <entry key="JAPANESE" value="560" />
-        <entry key="VIETNAMESE" value="552" />
+        <entry key="ENGLISH" value="176" />
+        <entry key="JAPANESE" value="563" />
+        <entry key="VIETNAMESE" value="555" />
       </map>
     </option>
   </component>
