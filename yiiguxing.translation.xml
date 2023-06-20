@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="クリアナチュラル" />
       <item value="※但し、商品合計金額（税込）が30万円以上、および飛脚ゆうパケット便配送対象の場合は、商品代金引換払いはご利用いただけません" />
       <item value="クレジットカード払い、商品代金引換払い、Paidy、Amazon Pay、楽天ペイ、LINE pay、d払い、Smartpayがご利用いただけます" />
       <item value="お支払い方法の種類について" />
@@ -146,15 +147,14 @@
       <item value="step 04へのpost内容をDBへ退避" />
       <item value="Smartpayからの戻り" />
       <item value="ゼウスからの戻りかを判定" />
-      <item value="楽天からの戻りかを判定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="176" />
-        <entry key="JAPANESE" value="563" />
-        <entry key="VIETNAMESE" value="555" />
+        <entry key="JAPANESE" value="564" />
+        <entry key="VIETNAMESE" value="556" />
       </map>
     </option>
   </component>
