@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="在庫週数合計と消化率合計を表示 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params stock_end：ストアID、row_count：価格" />
       <item value="マーブルグリーン" />
       <item value="マーブルレッド" />
       <item value="レッド" />
@@ -146,14 +147,13 @@
       <item value="決済方法がd払いの場合" />
       <item value="dアカウントへ遷移する" />
       <item value="楽天Pay moduleと実装が重複しているが楽天Pay moduleが無くても動作するように実装." />
-      <item value="Smartpayサーバへ遷移する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="174" />
-        <entry key="JAPANESE" value="559" />
+        <entry key="ENGLISH" value="175" />
+        <entry key="JAPANESE" value="560" />
         <entry key="VIETNAMESE" value="552" />
       </map>
     </option>
