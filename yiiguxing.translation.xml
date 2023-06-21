@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="入力値" />
+      <item value="受信されたパラメータからMDとPa Resを取り出す" />
       <item value="有効なメッセージを返す" />
       <item value="Webhook のステータスが無効な場合はエラーを返します" />
       <item value="のステータスが無効な場合はエラーを返します" />
@@ -145,16 +147,14 @@
       <item value="マーブルグリーン" />
       <item value="マーブルレッド" />
       <item value="レッド" />
-      <item value="カスタマイズ：選択項目による画像透過処理" />
-      <item value="尾栓" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="185" />
-        <entry key="JAPANESE" value="603" />
-        <entry key="VIETNAMESE" value="597" />
+        <entry key="JAPANESE" value="605" />
+        <entry key="VIETNAMESE" value="599" />
       </map>
     </option>
   </component>
