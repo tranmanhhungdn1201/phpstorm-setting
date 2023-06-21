@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="有効なメッセージを返す" />
+      <item value="Webhook のステータスが無効な場合はエラーを返します" />
+      <item value="のステータスが無効な場合はエラーを返します" />
       <item value="成功したリクエストからmerchant token情報を取得する" />
       <item value="直接このURLが叩かれた場合" />
       <item value="完了画面へ表示する情報を取得" />
@@ -144,17 +147,14 @@
       <item value="レッド" />
       <item value="カスタマイズ：選択項目による画像透過処理" />
       <item value="尾栓" />
-      <item value="このシークレットを使用すると、エンドポイントに送信された Webhook がサードパーティではなく Smartpay によって送信されたことを確認できます。" />
-      <item value="エンドポイントに送信された" />
-      <item value="このシークレットを使用すると" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="185" />
-        <entry key="JAPANESE" value="600" />
-        <entry key="VIETNAMESE" value="594" />
+        <entry key="JAPANESE" value="603" />
+        <entry key="VIETNAMESE" value="597" />
       </map>
     </option>
   </component>
