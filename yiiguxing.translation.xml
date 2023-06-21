@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="2重に実行されないようにuniqueにする" />
       <item value="hookで扱う引数や戻り値を保持するクラスを設定 class名 =&gt; array(メソッド名 =&gt; hook_stateクラス名)を指定 指定が無い場合は、defaultで設定されたクラスを使用する 例）" />
       <item value="大先" />
       <item value="サイズ直しチェック" />
@@ -146,15 +147,14 @@
       <item value="会員情報取得(PINコード対応版)" />
       <item value="再送信予約" />
       <item value="max use point max from price" />
-      <item value="金額から最大使用ポイントを計算する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="179" />
-        <entry key="JAPANESE" value="579" />
-        <entry key="VIETNAMESE" value="572" />
+        <entry key="ENGLISH" value="180" />
+        <entry key="JAPANESE" value="580" />
+        <entry key="VIETNAMESE" value="573" />
       </map>
     </option>
   </component>
