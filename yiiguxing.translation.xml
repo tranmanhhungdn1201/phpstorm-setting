@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="スマートペイが利用できる商品か確認する" />
       <item value="Webhook が EC に送信されていない場合は進行中を返します" />
       <item value="会員,登録,確認,注文完了" />
       <item value="注文完了ページ" />
@@ -146,15 +147,14 @@
       <item value="成功したリクエストからmerchant token情報を取得する" />
       <item value="チェックアウト セッションの作成中にエラーが発生しました" />
       <item value="提醒住在台灣的客人們&lt;br&gt; 依據台灣關務署規定，為確保海外購物能夠如期收到包裹，請您務必先下載APP「易利委(Ez Way)」完成實名認證作業。&lt;br&gt; 完成實名制登記後，DHL快遞將貨品入關後會傳簡訊與您聯絡，請注意手機簡訊。&lt;br&gt;" />
-      <item value="台湾向けメッセージ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="180" />
-        <entry key="JAPANESE" value="586" />
-        <entry key="VIETNAMESE" value="580" />
+        <entry key="JAPANESE" value="587" />
+        <entry key="VIETNAMESE" value="581" />
       </map>
     </option>
   </component>
