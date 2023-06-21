@@ -97,6 +97,12 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="Paidy決済（ペイメント）IDとstatusが同じ場合だけ成功" />
+      <item value="支払い金額を更新" />
+      <item value="予約受注" />
+      <item value="RESERVE ORDER" />
+      <item value="受注詳細作成" />
+      <item value="受注配送先作成" />
       <item value="hookされるメソッドの一覧を表示" />
       <item value="支払方法「d払い」の場合に追加" />
       <item value="{ 拡張eコマース：purchaseイベント発火 }" />
@@ -141,20 +147,14 @@
       <item value="管理者へのメール" />
       <item value="clear recipients" />
       <item value="楽天ペイコールバックエラー" />
-      <item value="スマートペイ注文作成時のエラー" />
-      <item value="楽天キャンセル処理を実行" />
-      <item value="管理者へエラーメールを送る" />
-      <item value="作業結果をメールで送信" />
-      <item value="Webhook のステータスが無効な場合はエラーを返します" />
-      <item value="マーチャントトークンが存在しない場合はウェイを返す" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="180" />
-        <entry key="JAPANESE" value="590" />
-        <entry key="VIETNAMESE" value="584" />
+        <entry key="ENGLISH" value="184" />
+        <entry key="JAPANESE" value="595" />
+        <entry key="VIETNAMESE" value="588" />
       </map>
     </option>
   </component>
