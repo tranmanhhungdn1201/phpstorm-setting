@@ -97,6 +97,10 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="成功したリクエストからmerchant token情報を取得する" />
+      <item value="直接このURLが叩かれた場合" />
+      <item value="完了画面へ表示する情報を取得" />
+      <item value="楽天用" />
       <item value="受注を作成しています。&lt;br&gt; そのままお待ちください。&lt;br&gt; ※再読み込み等の操作を行うと正常にご注文がお受けできない場合がございますのでご注意ください。" />
       <item value="is self post" />
       <item value="Paidy決済（ペイメント）IDとstatusが同じ場合だけ成功" />
@@ -143,18 +147,14 @@
       <item value="このシークレットを使用すると、エンドポイントに送信された Webhook がサードパーティではなく Smartpay によって送信されたことを確認できます。" />
       <item value="エンドポイントに送信された" />
       <item value="このシークレットを使用すると" />
-      <item value="会員ID" />
-      <item value="エラーメールを送信する" />
-      <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
-      <item value="管理者へのメール" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="185" />
-        <entry key="JAPANESE" value="596" />
-        <entry key="VIETNAMESE" value="590" />
+        <entry key="JAPANESE" value="600" />
+        <entry key="VIETNAMESE" value="594" />
       </map>
     </option>
   </component>
