@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="支払方法「d払い」の場合に追加" />
       <item value="{ 拡張eコマース：purchaseイベント発火 }" />
       <item value="スマートペイが利用できる商品か確認する" />
       <item value="Webhook が EC に送信されていない場合は進行中を返します" />
@@ -146,15 +147,14 @@
       <item value="Webhook のステータスが無効な場合はエラーを返します" />
       <item value="マーチャントトークンが存在しない場合はウェイを返す" />
       <item value="成功したリクエストからmerchant token情報を取得する" />
-      <item value="チェックアウト セッションの作成中にエラーが発生しました" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="180" />
-        <entry key="JAPANESE" value="588" />
-        <entry key="VIETNAMESE" value="582" />
+        <entry key="JAPANESE" value="589" />
+        <entry key="VIETNAMESE" value="583" />
       </map>
     </option>
   </component>
