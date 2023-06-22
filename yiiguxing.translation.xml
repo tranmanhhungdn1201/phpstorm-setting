@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="受注ステータスが「発送準備完了」の場合のみ キャンセル可能" />
+      <item value="注文内容の確認・変更" />
       <item value="認証情報が不足している場合はNG" />
       <item value="デフォルトの処理が行われます" />
       <item value="入力値" />
@@ -145,16 +147,14 @@
       <item value="※但し、商品合計金額（税込）が30万円以上、および飛脚ゆうパケット便配送対象の場合は、商品代金引換払いはご利用いただけません" />
       <item value="クレジットカード払い、商品代金引換払い、Paidy、Amazon Pay、楽天ペイ、LINE pay、d払い、Smartpayがご利用いただけます" />
       <item value="お支払い方法の種類について" />
-      <item value="在庫週数合計と消化率合計を表示 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params stock_end：ストアID、row_count：価格" />
-      <item value="マーブルグリーン" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="187" />
-        <entry key="JAPANESE" value="607" />
-        <entry key="VIETNAMESE" value="600" />
+        <entry key="JAPANESE" value="609" />
+        <entry key="VIETNAMESE" value="602" />
       </map>
     </option>
   </component>
