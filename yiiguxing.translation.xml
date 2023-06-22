@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="認証情報が不足している場合はNG" />
       <item value="デフォルトの処理が行われます" />
       <item value="入力値" />
       <item value="受信されたパラメータからMDとPa Resを取り出す" />
@@ -146,15 +147,14 @@
       <item value="お支払い方法の種類について" />
       <item value="在庫週数合計と消化率合計を表示 tax_rateとtax_calc_ruleが両方指定されている時はDBから税率を取得しない（datetimeは無視される） @params array params stock_end：ストアID、row_count：価格" />
       <item value="マーブルグリーン" />
-      <item value="マーブルレッド" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="186" />
-        <entry key="JAPANESE" value="606" />
-        <entry key="VIETNAMESE" value="599" />
+        <entry key="ENGLISH" value="187" />
+        <entry key="JAPANESE" value="607" />
+        <entry key="VIETNAMESE" value="600" />
       </map>
     </option>
   </component>
