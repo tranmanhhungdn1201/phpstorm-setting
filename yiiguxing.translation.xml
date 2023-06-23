@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="お問い合わせ関連のconfig" />
       <item value="canonical出力なし" />
       <item value="顧客がゲストの場合かつ、ストアがAand Sモール以外の場合" />
       <item value="変更不可" />
@@ -146,15 +147,14 @@
       <item value="商品クリップ" />
       <item value="商品尾栓" />
       <item value="Enrol Reqを作成して送信" />
-      <item value="クリアナチュラル" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="189" />
-        <entry key="JAPANESE" value="612" />
-        <entry key="VIETNAMESE" value="604" />
+        <entry key="JAPANESE" value="613" />
+        <entry key="VIETNAMESE" value="605" />
       </map>
     </option>
   </component>
