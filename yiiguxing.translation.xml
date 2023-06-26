@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="商品について | お問合せ ｜A&amp;amp;S COMPANY（株式会社サザビーリーグ エーアンドエスカンパニー）" />
       <item value="青森県" />
       <item value="お問い合わせ関連のconfig" />
       <item value="canonical出力なし" />
@@ -146,14 +147,13 @@
       <item value="インク" />
       <item value="商品蓋栓飾り" />
       <item value="商品クリップ" />
-      <item value="商品尾栓" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="190" />
-        <entry key="JAPANESE" value="614" />
+        <entry key="ENGLISH" value="191" />
+        <entry key="JAPANESE" value="615" />
         <entry key="VIETNAMESE" value="605" />
       </map>
     </option>
