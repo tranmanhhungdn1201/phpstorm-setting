@@ -20,7 +20,7 @@
     <mask>*blade.php</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
