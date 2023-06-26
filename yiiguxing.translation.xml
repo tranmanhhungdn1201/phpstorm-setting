@@ -97,6 +97,10 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="URLパターンからIP言語を設定" />
+      <item value="言語設定が使用されていない場合はreturn" />
+      <item value="現在の言語" />
+      <item value="翻訳機能を使用するか" />
       <item value="agete 熊倉 由美" />
       <item value="商品について | お問合せ ｜A&amp;amp;S COMPANY（株式会社サザビーリーグ エーアンドエスカンパニー）" />
       <item value="青森県" />
@@ -143,17 +147,13 @@
       <item value="サイズ直し" />
       <item value="check cart include bridal customize" />
       <item value="予約商品" />
-      <item value="予約商品の場合は先に引当" />
-      <item value="ブラック" />
-      <item value="インク" />
-      <item value="商品蓋栓飾り" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="192" />
-        <entry key="JAPANESE" value="616" />
+        <entry key="ENGLISH" value="196" />
+        <entry key="JAPANESE" value="620" />
         <entry key="VIETNAMESE" value="605" />
       </map>
     </option>
