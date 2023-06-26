@@ -6,6 +6,11 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="ALIGN_NAMED_ARGUMENTS" value="true" />
