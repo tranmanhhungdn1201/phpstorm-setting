@@ -97,6 +97,11 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="デバッグを行う場合にcookieに書き込まれているキーに対する国コード" />
+      <item value="海外の非表示ページ" />
+      <item value="IP強制切り替えのデフォルト言語" />
+      <item value="IP強制切り替えURLパターン" />
+      <item value="ip switch urls" />
       <item value="URLパターンからIP言語を設定" />
       <item value="言語設定が使用されていない場合はreturn" />
       <item value="現在の言語" />
@@ -142,19 +147,14 @@
       <item value="受注を登録" />
       <item value="2重に実行されないようにuniqueにする" />
       <item value="hookで扱う引数や戻り値を保持するクラスを設定 class名 =&gt; array(メソッド名 =&gt; hook_stateクラス名)を指定 指定が無い場合は、defaultで設定されたクラスを使用する 例）" />
-      <item value="大先" />
-      <item value="サイズ直しチェック" />
-      <item value="サイズ直し" />
-      <item value="check cart include bridal customize" />
-      <item value="予約商品" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="196" />
-        <entry key="JAPANESE" value="620" />
-        <entry key="VIETNAMESE" value="605" />
+        <entry key="ENGLISH" value="199" />
+        <entry key="JAPANESE" value="624" />
+        <entry key="VIETNAMESE" value="609" />
       </map>
     </option>
   </component>
