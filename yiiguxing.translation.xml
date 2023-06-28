@@ -97,9 +97,11 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="ご住所" />
+      <item value="内容を確認」ボタンを押してください" />
+      <item value="ロックが解除されました" />
       <item value="「内容を確認」ボタンを押すことができます。" />
       <item value="を右にスライドさせると" />
-      <item value="ご住所" />
       <item value="電話番号" />
       <item value="携帯メールへの返信を希望される方へ" />
       <item value="確認ボタンを押してください" />
@@ -145,16 +147,14 @@
       <item value="hookされるメソッドの一覧を表示" />
       <item value="支払方法「d払い」の場合に追加" />
       <item value="{ 拡張eコマース：purchaseイベント発火 }" />
-      <item value="スマートペイが利用できる商品か確認する" />
-      <item value="Webhook が EC に送信されていない場合は進行中を返します" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="200" />
-        <entry key="JAPANESE" value="631" />
-        <entry key="VIETNAMESE" value="617" />
+        <entry key="JAPANESE" value="634" />
+        <entry key="VIETNAMESE" value="620" />
       </map>
     </option>
   </component>
