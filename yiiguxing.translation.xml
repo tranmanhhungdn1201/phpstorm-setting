@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="お名前" />
       <item value="現在の言語" />
       <item value="ご住所" />
       <item value="内容を確認」ボタンを押してください" />
@@ -146,15 +147,14 @@
       <item value="受注配送先作成" />
       <item value="hookされるメソッドの一覧を表示" />
       <item value="支払方法「d払い」の場合に追加" />
-      <item value="{ 拡張eコマース：purchaseイベント発火 }" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="200" />
-        <entry key="JAPANESE" value="635" />
-        <entry key="VIETNAMESE" value="621" />
+        <entry key="JAPANESE" value="636" />
+        <entry key="VIETNAMESE" value="622" />
       </map>
     </option>
   </component>
