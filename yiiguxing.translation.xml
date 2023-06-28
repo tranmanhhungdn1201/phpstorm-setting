@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="選択" />
+      <item value="会員登録済み" />
+      <item value="電話番号" />
       <item value="入力内容を確認" />
       <item value="送信する" />
       <item value="海外" />
@@ -108,7 +111,6 @@
       <item value="ロックが解除されました" />
       <item value="「内容を確認」ボタンを押すことができます。" />
       <item value="を右にスライドさせると" />
-      <item value="電話番号" />
       <item value="携帯メールへの返信を希望される方へ" />
       <item value="確認ボタンを押してください" />
       <item value="必須" />
@@ -145,16 +147,14 @@
       <item value="is self post" />
       <item value="Paidy決済（ペイメント）IDとstatusが同じ場合だけ成功" />
       <item value="支払い金額を更新" />
-      <item value="予約受注" />
-      <item value="RESERVE ORDER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="200" />
-        <entry key="JAPANESE" value="640" />
-        <entry key="VIETNAMESE" value="626" />
+        <entry key="ENGLISH" value="201" />
+        <entry key="JAPANESE" value="643" />
+        <entry key="VIETNAMESE" value="629" />
       </map>
     </option>
   </component>
