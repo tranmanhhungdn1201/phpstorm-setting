@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="送信する" />
       <item value="海外" />
       <item value="都道府県" />
       <item value="お名前" />
@@ -146,15 +147,14 @@
       <item value="予約受注" />
       <item value="RESERVE ORDER" />
       <item value="受注詳細作成" />
-      <item value="受注配送先作成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="200" />
-        <entry key="JAPANESE" value="638" />
-        <entry key="VIETNAMESE" value="624" />
+        <entry key="JAPANESE" value="639" />
+        <entry key="VIETNAMESE" value="625" />
       </map>
     </option>
   </component>
