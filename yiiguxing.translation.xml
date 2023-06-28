@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="トップページへ" />
+      <item value="送信が完了いたしました" />
+      <item value="お問い合せありがとうございます" />
       <item value="選択" />
       <item value="会員登録済み" />
       <item value="電話番号" />
@@ -144,16 +147,13 @@
       <item value="完了画面へ表示する情報を取得" />
       <item value="楽天用" />
       <item value="受注を作成しています。&lt;br&gt; そのままお待ちください。&lt;br&gt; ※再読み込み等の操作を行うと正常にご注文がお受けできない場合がございますのでご注意ください。" />
-      <item value="is self post" />
-      <item value="Paidy決済（ペイメント）IDとstatusが同じ場合だけ成功" />
-      <item value="支払い金額を更新" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="201" />
-        <entry key="JAPANESE" value="643" />
+        <entry key="ENGLISH" value="204" />
+        <entry key="JAPANESE" value="646" />
         <entry key="VIETNAMESE" value="629" />
       </map>
     </option>
