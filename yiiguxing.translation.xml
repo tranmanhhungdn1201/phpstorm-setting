@@ -97,11 +97,11 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="shutdown イベントに関数を登録する" />
       <item value="Smartpay決済ログに登録" />
       <item value="GMO決済ログに登録" />
       <item value="controller_finished イベントに関数を登録する" />
       <item value="イベントに関数を登録する" />
-      <item value="shutdown イベントに関数を登録する" />
       <item value="成功したリクエストからmerchant token情報を取得する" />
       <item value="チェックアウト セッションが正常に完了した場合に顧客がリダイレクトされる URL。" />
       <item value="直接このURLが叩かれた場合" />
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="206" />
-        <entry key="JAPANESE" value="654" />
-        <entry key="VIETNAMESE" value="636" />
+        <entry key="JAPANESE" value="655" />
+        <entry key="VIETNAMESE" value="637" />
       </map>
     </option>
   </component>
