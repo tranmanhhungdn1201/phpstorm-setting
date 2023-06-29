@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="成功したリクエストからmerchant token情報を取得する" />
       <item value="チェックアウト セッションが正常に完了した場合に顧客がリダイレクトされる URL。" />
       <item value="直接このURLが叩かれた場合" />
       <item value="トップページへ" />
@@ -144,7 +145,6 @@
       <item value="有効なメッセージを返す" />
       <item value="Webhook のステータスが無効な場合はエラーを返します" />
       <item value="のステータスが無効な場合はエラーを返します" />
-      <item value="成功したリクエストからmerchant token情報を取得する" />
       <item value="完了画面へ表示する情報を取得" />
       <item value="楽天用" />
     </histories>
@@ -153,8 +153,8 @@
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="206" />
-        <entry key="JAPANESE" value="648" />
-        <entry key="VIETNAMESE" value="630" />
+        <entry key="JAPANESE" value="649" />
+        <entry key="VIETNAMESE" value="631" />
       </map>
     </option>
   </component>
