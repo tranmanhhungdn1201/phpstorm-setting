@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="配送状況を確認" />
       <item value="注文履歴詳細" />
       <item value="shutdown イベントに関数を登録する" />
       <item value="Smartpay決済ログに登録" />
@@ -146,14 +147,13 @@
       <item value="注文内容の確認・変更" />
       <item value="認証情報が不足している場合はNG" />
       <item value="デフォルトの処理が行われます" />
-      <item value="入力値" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="206" />
-        <entry key="JAPANESE" value="656" />
+        <entry key="ENGLISH" value="208" />
+        <entry key="JAPANESE" value="658" />
         <entry key="VIETNAMESE" value="638" />
       </map>
     </option>
