@@ -97,6 +97,9 @@
     <option name="newTranslationDialogX" value="2859" />
     <option name="newTranslationDialogY" value="540" />
     <histories>
+      <item value="step 04処理開始フラグ　0：未処理、1：開始済" />
+      <item value="エラー、1：成功" />
+      <item value="Webhook が EC に送信されていない場合は進行中を返します" />
       <item value="決済を完了する事が出来ませんでした。お問い合わせからご連絡ください" />
       <item value="楽天のコールバック処理が終わっていない" />
       <item value="完了画面へ表示する情報を取得" />
@@ -144,17 +147,14 @@
       <item value="翻訳機能を使用するか" />
       <item value="agete 熊倉 由美" />
       <item value="商品について | お問合せ ｜A&amp;amp;S COMPANY（株式会社サザビーリーグ エーアンドエスカンパニー）" />
-      <item value="青森県" />
-      <item value="お問い合わせ関連のconfig" />
-      <item value="canonical出力なし" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ARABIC" value="1" />
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="209" />
-        <entry key="JAPANESE" value="664" />
-        <entry key="VIETNAMESE" value="644" />
+        <entry key="JAPANESE" value="667" />
+        <entry key="VIETNAMESE" value="647" />
       </map>
     </option>
   </component>
