@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="会員登録済み" />
       <item value="同意" />
       <item value="選択" />
       <item value="かな" />
@@ -16,7 +17,7 @@
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="6" />
-        <entry key="JAPANESE" value="6" />
+        <entry key="JAPANESE" value="7" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
