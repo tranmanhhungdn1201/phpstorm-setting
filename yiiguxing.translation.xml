@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="購入履歴から選ぶ" />
       <item value="この内容で送信" />
       <item value="入力内容を確認" />
       <item value="processing" />
@@ -11,7 +12,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="JAPANESE" value="2" />
+        <entry key="JAPANESE" value="3" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
