@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="入力内容のご確認" />
       <item value="電話番号" />
       <item value="会員登録済み" />
       <item value="同意" />
@@ -17,8 +18,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="7" />
-        <entry key="JAPANESE" value="8" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="JAPANESE" value="10" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
