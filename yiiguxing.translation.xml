@@ -4,12 +4,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="選択" />
       <item value="prefの&lt;option&gt;に指定するリストを作成" />
       <item value="入力内容のご確認" />
       <item value="電話番号" />
       <item value="会員登録済み" />
       <item value="同意" />
-      <item value="選択" />
       <item value="かな" />
       <item value="入力内容を確認" />
       <item value="購入履歴から選ぶ" />
@@ -19,8 +19,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="10" />
-        <entry key="JAPANESE" value="11" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="JAPANESE" value="12" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
