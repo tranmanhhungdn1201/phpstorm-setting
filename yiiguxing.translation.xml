@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="お問い合わせ内容" />
       <item value="メールが届かない場合は、ご入力されたメールアドレスに誤りがある・迷惑メールフォルダに" />
       <item value="自動振り分けされている等の可能性がございます" />
       <item value="ご確認の上、再度お問合せいただきますようお願い申し上げます。" />
@@ -26,8 +27,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="17" />
-        <entry key="JAPANESE" value="18" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="JAPANESE" value="19" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
