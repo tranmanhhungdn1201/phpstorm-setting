@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="※ 注文キャンセル・返品対象外" />
       <item value="メール設定確認済み" />
       <item value="お問い合わせ内容" />
       <item value="メールが届かない場合は、ご入力されたメールアドレスに誤りがある・迷惑メールフォルダに" />
@@ -28,8 +29,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="19" />
-        <entry key="JAPANESE" value="20" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="JAPANESE" value="21" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
