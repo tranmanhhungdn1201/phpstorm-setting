@@ -4,6 +4,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="&lt;br&gt;両耳用のピアス・イヤリング・ピアスチャームの場合は、ペアでお送りください" />
+      <item value="郵便番号" />
       <item value="IPが日本の時、または海外発送を選択した時" />
       <item value="OTS送信済みフラグ 1：送信済み" />
       <item value="OTS連携済みかの判定" />
@@ -32,8 +34,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="23" />
-        <entry key="JAPANESE" value="24" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="JAPANESE" value="26" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
