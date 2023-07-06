@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="IPが日本の時、または海外発送を選択した時" />
       <item value="OTS送信済みフラグ 1：送信済み" />
       <item value="OTS連携済みかの判定" />
       <item value="※ 注文キャンセル・返品対象外" />
@@ -31,8 +32,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="22" />
-        <entry key="JAPANESE" value="23" />
+        <entry key="ENGLISH" value="23" />
+        <entry key="JAPANESE" value="24" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
