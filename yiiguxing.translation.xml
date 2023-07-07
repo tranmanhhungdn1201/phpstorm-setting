@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="郵便番号" />
       <item value="仕上げ直し" />
       <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
       <item value="有" />
@@ -19,7 +20,6 @@
       <item value="不明" />
       <item value="お修理品の品番" />
       <item value="&lt;br&gt;両耳用のピアス・イヤリング・ピアスチャームの場合は、ペアでお送りください" />
-      <item value="郵便番号" />
       <item value="IPが日本の時、または海外発送を選択した時" />
       <item value="OTS送信済みフラグ 1：送信済み" />
       <item value="OTS連携済みかの判定" />
@@ -48,8 +48,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="35" />
-        <entry key="JAPANESE" value="36" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="JAPANESE" value="37" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
