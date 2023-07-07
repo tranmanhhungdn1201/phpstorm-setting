@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="石の有無" />
       <item value="郵便番号" />
       <item value="仕上げ直し" />
       <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
@@ -48,9 +49,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="36" />
-        <entry key="JAPANESE" value="37" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="JAPANESE" value="38" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
