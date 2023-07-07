@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="石取れ石割れ" />
       <item value="時間が遅れる" />
       <item value="刻印" />
       <item value="※注意" />
@@ -43,8 +44,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="31" />
-        <entry key="JAPANESE" value="32" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="JAPANESE" value="33" />
         <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
