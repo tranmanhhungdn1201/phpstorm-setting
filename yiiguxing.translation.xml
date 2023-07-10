@@ -1,9 +1,11 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688307204118" />
+    <option name="lastTrimTime" value="1688958145569" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="全返品（decisionの送信）" />
+      <item value="Sift情報連携" />
       <item value="石の有無" />
       <item value="郵便番号" />
       <item value="仕上げ直し" />
@@ -49,9 +51,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="37" />
-        <entry key="JAPANESE" value="38" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="ENGLISH" value="39" />
+        <entry key="JAPANESE" value="40" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
