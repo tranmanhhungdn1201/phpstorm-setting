@@ -4,6 +4,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="decisionを実行" />
+      <item value="商品変更" />
+      <item value="マスター在庫を使用する場合の後処理" />
       <item value="異常 時間停止" />
       <item value="全返品（decisionの送信）" />
       <item value="Sift情報連携" />
@@ -52,9 +55,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="40" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="JAPANESE" value="43" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
