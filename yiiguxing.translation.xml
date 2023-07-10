@@ -4,6 +4,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="片方作製のデメリット" />
+      <item value="片方作製" />
+      <item value="有" />
       <item value="decisionを実行" />
       <item value="商品変更" />
       <item value="マスター在庫を使用する場合の後処理" />
@@ -14,8 +17,6 @@
       <item value="郵便番号" />
       <item value="仕上げ直し" />
       <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
-      <item value="有" />
-      <item value="片方作製のデメリット" />
       <item value="石取れ石割れ" />
       <item value="時間が遅れる" />
       <item value="刻印" />
@@ -54,9 +55,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="42" />
-        <entry key="JAPANESE" value="43" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="JAPANESE" value="45" />
         <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
