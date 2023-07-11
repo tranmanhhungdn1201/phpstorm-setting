@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="インク" />
       <item value="会員登録について" />
       <item value="長刀" />
       <item value="レギュラー" />
@@ -57,14 +58,13 @@
       <item value="電話番号" />
       <item value="会員登録済み" />
       <item value="同意" />
-      <item value="かな" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="48" />
-        <entry key="JAPANESE" value="52" />
-        <entry key="VIETNAMESE" value="11" />
+        <entry key="JAPANESE" value="53" />
+        <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
   </component>
