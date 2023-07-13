@@ -61,10 +61,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
+        <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="51" />
         <entry key="JAPANESE" value="57" />
-        <entry key="VIETNAMESE" value="16" />
+        <entry key="VIETNAMESE" value="17" />
       </map>
     </option>
   </component>
