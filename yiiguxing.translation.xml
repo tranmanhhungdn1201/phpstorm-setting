@@ -1,14 +1,70 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689267980835" />
+    <option name="lastTrimTime" value="1688958145569" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="ENGLISH" />
+    <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="interceptors" />
+      <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
+      <item value="商品詳細" />
+      <item value="商品特徴" />
+      <item value="keはお客様が仕様や色などを指定" />
+      <item value="SAILOR bespokeはお客様が仕様や色などを指定することができるカスタマイズ商品となります為、イメージが違う等のお客様都合による返品はお受けいたしかねます。 品質管理には万全を期しておりますが、万一商品に不具合がございましたら、商品到着日から７日以内にご連絡をお願いいたします。" />
+      <item value="– テンプレートのファイルパス" />
+      <item value="インク" />
+      <item value="会員登録について" />
+      <item value="長刀" />
+      <item value="レギュラー" />
+      <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
+      <item value="カスタマイズ：ペン先長刀選択時挙動" />
+      <item value="メタル" />
+      <item value="片方作製のデメリット" />
+      <item value="片方作製" />
+      <item value="有" />
+      <item value="decisionを実行" />
+      <item value="商品変更" />
+      <item value="マスター在庫を使用する場合の後処理" />
+      <item value="異常 時間停止" />
+      <item value="全返品（decisionの送信）" />
+      <item value="Sift情報連携" />
+      <item value="石の有無" />
+      <item value="郵便番号" />
+      <item value="仕上げ直し" />
+      <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
+      <item value="石取れ石割れ" />
+      <item value="時間が遅れる" />
+      <item value="刻印" />
+      <item value="※注意" />
+      <item value="号サイズへお直し希望" />
+      <item value="石が付いたお修理のデメリット" />
+      <item value="月" />
+      <item value="年" />
+      <item value="不明" />
+      <item value="お修理品の品番" />
+      <item value="&lt;br&gt;両耳用のピアス・イヤリング・ピアスチャームの場合は、ペアでお送りください" />
+      <item value="IPが日本の時、または海外発送を選択した時" />
+      <item value="OTS送信済みフラグ 1：送信済み" />
+      <item value="OTS連携済みかの判定" />
+      <item value="※ 注文キャンセル・返品対象外" />
+      <item value="メール設定確認済み" />
+      <item value="お問い合わせ内容" />
+      <item value="メールが届かない場合は、ご入力されたメールアドレスに誤りがある・迷惑メールフォルダに" />
+      <item value="自動振り分けされている等の可能性がございます" />
+      <item value="ご確認の上、再度お問合せいただきますようお願い申し上げます。" />
+      <item value="内容を確認の上、担当者よりあらためてご連絡いたします。" />
+      <item value="お問合せありがとうございます" />
+      <item value="送信完了" />
+      <item value="お問合せブランド" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="JAPANESE" value="58" />
+        <entry key="VIETNAMESE" value="18" />
       </map>
     </option>
   </component>
