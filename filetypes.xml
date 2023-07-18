@@ -4,6 +4,7 @@
       <mapping pattern="apache" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
+      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern="UserStatus" type="PHP" />
       <mapping pattern="hasUuid" type="PHP" />
       <mapping pattern=".gitigore" type="PLAIN_TEXT" />
