@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="特別価格" />
       <item value="会員登録する" />
       <item value="商品を選択してください" />
       <item value="商品一覧" />
@@ -57,13 +58,12 @@
       <item value="お問い合わせ内容" />
       <item value="メールが届かない場合は、ご入力されたメールアドレスに誤りがある・迷惑メールフォルダに" />
       <item value="自動振り分けされている等の可能性がございます" />
-      <item value="ご確認の上、再度お問合せいただきますようお願い申し上げます。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="53" />
-        <entry key="JAPANESE" value="62" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="JAPANESE" value="63" />
         <entry key="VIETNAMESE" value="21" />
       </map>
     </option>
