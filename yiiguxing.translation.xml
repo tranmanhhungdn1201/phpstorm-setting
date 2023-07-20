@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="受注状態が変更された場合の決済 処理" />
       <item value="STEP 03のチェック" />
       <item value="受注作成" />
       <item value="受注作成ロックを解除" />
@@ -57,14 +58,13 @@
       <item value="石が付いたお修理のデメリット" />
       <item value="月" />
       <item value="年" />
-      <item value="不明" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="75" />
-        <entry key="VIETNAMESE" value="32" />
+        <entry key="JAPANESE" value="76" />
+        <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
   </component>
