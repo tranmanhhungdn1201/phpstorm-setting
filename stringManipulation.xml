@@ -66,9 +66,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrSnakeCaseAction" />
-        <option name="description" value="Toggle: kebab-case / snake_case" />
-        <option name="textWithMnemonic" value="kebab-case / snake_case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToScreamingSnakeCaseAction" />
+        <option name="description" value="To SCREAMING_SNAKE_CASE" />
+        <option name="textWithMnemonic" value="To SCREAMING_SNAKE_CASE" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
