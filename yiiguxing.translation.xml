@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="clear recipients" />
       <item value="楽天ペイコールバックエラー" />
       <item value="Smartpay 決済登録状況確認結果" />
       <item value="管理者向け" />
@@ -57,14 +58,13 @@
       <item value="異常 時間停止" />
       <item value="全返品（decisionの送信）" />
       <item value="Sift情報連携" />
-      <item value="石の有無" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="JAPANESE" value="86" />
-        <entry key="VIETNAMESE" value="42" />
+        <entry key="VIETNAMESE" value="43" />
       </map>
     </option>
   </component>
