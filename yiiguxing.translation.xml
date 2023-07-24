@@ -8,6 +8,19 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="web hookのリクエストを処理" />
+      <item value="商品がギフトに使用できるかどうかを確認してください" />
+      <item value="キャンセルリクエストを送信する" />
+      <item value="受注の状態を配送準備完了" />
+      <item value="受注の状態を配送保留にする" />
+      <item value="キャンセル（decisionの送信）" />
+      <item value="ートから受注を登録する処理で、受注を登録完了した後の処理" />
+      <item value="管理者へエラーメールを送る" />
+      <item value="anygiftに関連する情報をorder customer attributeリストに追加してください" />
+      <item value="受注登録完了メールを通知" />
+      <item value="注文情報に anygift_flag を追加" />
+      <item value="レスポンス" />
+      <item value="から通知を受け取る" />
       <item value="Anygiftを使用して注文を確認しますか" />
       <item value="clear recipients" />
       <item value="楽天ペイコールバックエラー" />
@@ -17,7 +30,6 @@
       <item value="メールテンプレートID" />
       <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
       <item value="全てをTOに代入しなおし" />
-      <item value="管理者へエラーメールを送る" />
       <item value="配送準備完了" />
       <item value="発送完了" />
       <item value="anygiftを使用しているかどうかを確認して注文を確認してください" />
@@ -46,25 +58,13 @@
       <item value="インク" />
       <item value="会員登録について" />
       <item value="長刀" />
-      <item value="レギュラー" />
-      <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
-      <item value="カスタマイズ：ペン先長刀選択時挙動" />
-      <item value="メタル" />
-      <item value="片方作製のデメリット" />
-      <item value="片方作製" />
-      <item value="有" />
-      <item value="decisionを実行" />
-      <item value="商品変更" />
-      <item value="マスター在庫を使用する場合の後処理" />
-      <item value="異常 時間停止" />
-      <item value="全返品（decisionの送信）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="62" />
-        <entry key="JAPANESE" value="87" />
-        <entry key="VIETNAMESE" value="44" />
+        <entry key="JAPANESE" value="100" />
+        <entry key="VIETNAMESE" value="57" />
       </map>
     </option>
   </component>
