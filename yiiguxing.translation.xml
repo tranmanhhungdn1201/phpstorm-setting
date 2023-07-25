@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="管理者へエラーメールを送る" />
       <item value="d払い: 仮受注自動キャンセル" />
       <item value="すでに通常購入の商品がカートに入っています" />
       <item value="cart has anygift" />
@@ -21,7 +22,6 @@
       <item value="受注の状態を配送保留にする" />
       <item value="キャンセル（decisionの送信）" />
       <item value="ートから受注を登録する処理で、受注を登録完了した後の処理" />
-      <item value="管理者へエラーメールを送る" />
       <item value="anygiftに関連する情報をorder customer attributeリストに追加してください" />
       <item value="受注登録完了メールを通知" />
       <item value="注文情報に anygift_flag を追加" />
@@ -62,8 +62,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="104" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="JAPANESE" value="105" />
         <entry key="VIETNAMESE" value="62" />
       </map>
     </option>
