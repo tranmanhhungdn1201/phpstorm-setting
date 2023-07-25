@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カテゴリ名" />
+      <item value="セール商品" />
       <item value="管理者へエラーメールを送る" />
       <item value="d払い: 仮受注自動キャンセル" />
       <item value="すでに通常購入の商品がカートに入っています" />
@@ -56,14 +58,12 @@
       <item value="商品一覧" />
       <item value="オーダーメイド万年筆を作る" />
       <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
-      <item value="商品詳細" />
-      <item value="商品特徴" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="67" />
-        <entry key="JAPANESE" value="105" />
+        <entry key="ENGLISH" value="69" />
+        <entry key="JAPANESE" value="107" />
         <entry key="VIETNAMESE" value="62" />
       </map>
     </option>
