@@ -66,9 +66,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.WordsCapitalizeAction" />
-        <option name="description" value="Capitalize using apache-commons WordUtils#capitalizeFully" />
-        <option name="textWithMnemonic" value="Capitalize" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
+        <option name="description" value="To snake_case" />
+        <option name="textWithMnemonic" value="To snake_case" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">

@@ -13,6 +13,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="es" approved="true" type="ActionScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
