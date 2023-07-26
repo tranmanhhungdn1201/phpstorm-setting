@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690168431140" />
+    <option name="lastTrimTime" value="1689616221685" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,63 +8,63 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="pankuzu list" />
-      <item value="新作一覧" />
-      <item value="カテゴリ名" />
-      <item value="セール商品" />
-      <item value="管理者へエラーメールを送る" />
-      <item value="d払い: 仮受注自動キャンセル" />
-      <item value="すでに通常購入の商品がカートに入っています" />
-      <item value="cart has anygift" />
-      <item value="cart has regular" />
-      <item value="通常購入とeギフトで贈る商品を同時に購入できません" />
-      <item value="すでにeギフトで贈る商品がカートに入っています" />
-      <item value="web hookのリクエストを処理" />
-      <item value="商品がギフトに使用できるかどうかを確認してください" />
-      <item value="キャンセルリクエストを送信する" />
-      <item value="受注の状態を配送準備完了" />
-      <item value="受注の状態を配送保留にする" />
-      <item value="キャンセル（decisionの送信）" />
-      <item value="ートから受注を登録する処理で、受注を登録完了した後の処理" />
-      <item value="anygiftに関連する情報をorder customer attributeリストに追加してください" />
-      <item value="受注登録完了メールを通知" />
-      <item value="注文情報に anygift_flag を追加" />
-      <item value="レスポンス" />
-      <item value="から通知を受け取る" />
-      <item value="Anygiftを使用して注文を確認しますか" />
-      <item value="clear recipients" />
-      <item value="楽天ペイコールバックエラー" />
-      <item value="Smartpay 決済登録状況確認結果" />
-      <item value="管理者向け" />
-      <item value="スマートペイ注文作成時のエラー" />
-      <item value="メールテンプレートID" />
-      <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
-      <item value="全てをTOに代入しなおし" />
-      <item value="配送準備完了" />
-      <item value="発送完了" />
-      <item value="anygiftを使用しているかどうかを確認して注文を確認してください" />
-      <item value="受注状態が変更された場合の決済 処理" />
-      <item value="STEP 03のチェック" />
-      <item value="受注作成" />
-      <item value="受注作成ロックを解除" />
-      <item value="ステータス200（正常）以外" />
-      <item value="タイプ" />
-      <item value="Smartpay決済ログ" />
-      <item value="Anygift決済ログ" />
-      <item value="決済方法がd払いの場合" />
-      <item value="受注を登録" />
-      <item value="size remakeが保存されるように値を設定" />
-      <item value="特別価格" />
-      <item value="会員登録する" />
-      <item value="商品を選択してください" />
-      <item value="商品一覧" />
+      <item value="Indicate that the model's email address should be unverified." />
+      <item value="unverified" />
+      <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
+      <item value="商品詳細" />
+      <item value="商品特徴" />
+      <item value="keはお客様が仕様や色などを指定" />
+      <item value="SAILOR bespokeはお客様が仕様や色などを指定することができるカスタマイズ商品となります為、イメージが違う等のお客様都合による返品はお受けいたしかねます。 品質管理には万全を期しておりますが、万一商品に不具合がございましたら、商品到着日から７日以内にご連絡をお願いいたします。" />
+      <item value="– テンプレートのファイルパス" />
+      <item value="インク" />
+      <item value="会員登録について" />
+      <item value="長刀" />
+      <item value="レギュラー" />
+      <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
+      <item value="カスタマイズ：ペン先長刀選択時挙動" />
+      <item value="メタル" />
+      <item value="片方作製のデメリット" />
+      <item value="片方作製" />
+      <item value="有" />
+      <item value="decisionを実行" />
+      <item value="商品変更" />
+      <item value="マスター在庫を使用する場合の後処理" />
+      <item value="異常 時間停止" />
+      <item value="全返品（decisionの送信）" />
+      <item value="Sift情報連携" />
+      <item value="石の有無" />
+      <item value="郵便番号" />
+      <item value="仕上げ直し" />
+      <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
+      <item value="石取れ石割れ" />
+      <item value="時間が遅れる" />
+      <item value="刻印" />
+      <item value="※注意" />
+      <item value="号サイズへお直し希望" />
+      <item value="石が付いたお修理のデメリット" />
+      <item value="月" />
+      <item value="年" />
+      <item value="不明" />
+      <item value="お修理品の品番" />
+      <item value="&lt;br&gt;両耳用のピアス・イヤリング・ピアスチャームの場合は、ペアでお送りください" />
+      <item value="IPが日本の時、または海外発送を選択した時" />
+      <item value="OTS送信済みフラグ 1：送信済み" />
+      <item value="OTS連携済みかの判定" />
+      <item value="※ 注文キャンセル・返品対象外" />
+      <item value="メール設定確認済み" />
+      <item value="お問い合わせ内容" />
+      <item value="メールが届かない場合は、ご入力されたメールアドレスに誤りがある・迷惑メールフォルダに" />
+      <item value="自動振り分けされている等の可能性がございます" />
+      <item value="ご確認の上、再度お問合せいただきますようお願い申し上げます。" />
+      <item value="内容を確認の上、担当者よりあらためてご連絡いたします。" />
+      <item value="お問合せありがとうございます" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="72" />
-        <entry key="JAPANESE" value="108" />
-        <entry key="VIETNAMESE" value="63" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="JAPANESE" value="58" />
+        <entry key="VIETNAMESE" value="20" />
       </map>
     </option>
   </component>
