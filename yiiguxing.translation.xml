@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689616221685" />
+    <option name="lastTrimTime" value="1690365240973" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="納品書について" />
       <item value="Indicate that the model's email address should be unverified." />
       <item value="unverified" />
       <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
@@ -57,13 +58,12 @@
       <item value="自動振り分けされている等の可能性がございます" />
       <item value="ご確認の上、再度お問合せいただきますようお願い申し上げます。" />
       <item value="内容を確認の上、担当者よりあらためてご連絡いたします。" />
-      <item value="お問合せありがとうございます" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="54" />
-        <entry key="JAPANESE" value="58" />
+        <entry key="ENGLISH" value="55" />
+        <entry key="JAPANESE" value="59" />
         <entry key="VIETNAMESE" value="20" />
       </map>
     </option>
