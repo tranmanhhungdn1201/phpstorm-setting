@@ -8,9 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="納品書について" />
+      <item value="商品コード" />
       <item value="受け取らない" />
       <item value="ブランドがギフトラッピング対象か" />
-      <item value="納品書について" />
       <item value="Indicate that the model's email address should be unverified." />
       <item value="unverified" />
       <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
@@ -57,13 +58,12 @@
       <item value="メール設定確認済み" />
       <item value="お問い合わせ内容" />
       <item value="メールが届かない場合は、ご入力されたメールアドレスに誤りがある・迷惑メールフォルダに" />
-      <item value="自動振り分けされている等の可能性がございます" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="61" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="JAPANESE" value="63" />
         <entry key="VIETNAMESE" value="20" />
       </map>
     </option>
