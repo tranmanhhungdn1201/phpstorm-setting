@@ -8,9 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="決済手数料" />
+      <item value="代引き手数料" />
       <item value="ギフト" />
       <item value="送料" />
-      <item value="決済手数料" />
       <item value="代引手数料" />
       <item value="税抜き" />
       <item value="包装料（税抜き） : 包装料（税抜き）" />
@@ -57,14 +58,13 @@
       <item value="号サイズへお直し希望" />
       <item value="石が付いたお修理のデメリット" />
       <item value="月" />
-      <item value="年" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="62" />
-        <entry key="JAPANESE" value="76" />
-        <entry key="VIETNAMESE" value="32" />
+        <entry key="JAPANESE" value="78" />
+        <entry key="VIETNAMESE" value="34" />
       </map>
     </option>
   </component>
