@@ -8,6 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ギフト" />
+      <item value="送料" />
+      <item value="決済手数料" />
+      <item value="代引手数料" />
+      <item value="税抜き" />
+      <item value="包装料（税抜き） : 包装料（税抜き）" />
+      <item value="ギフト（税抜き" />
       <item value="有料ラッピング対象外" />
       <item value="ギフトラッピング対象外カテゴリ" />
       <item value="リング" />
@@ -51,20 +58,13 @@
       <item value="石が付いたお修理のデメリット" />
       <item value="月" />
       <item value="年" />
-      <item value="不明" />
-      <item value="お修理品の品番" />
-      <item value="&lt;br&gt;両耳用のピアス・イヤリング・ピアスチャームの場合は、ペアでお送りください" />
-      <item value="IPが日本の時、または海外発送を選択した時" />
-      <item value="OTS送信済みフラグ 1：送信済み" />
-      <item value="OTS連携済みかの判定" />
-      <item value="※ 注文キャンセル・返品対象外" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="61" />
-        <entry key="JAPANESE" value="66" />
-        <entry key="VIETNAMESE" value="22" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="JAPANESE" value="76" />
+        <entry key="VIETNAMESE" value="32" />
       </map>
     </option>
   </component>
