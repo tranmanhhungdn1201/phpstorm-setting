@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="修　正" />
+      <item value="価格を記載する" />
       <item value="その他入力" />
       <item value="ご依頼主様情報" />
       <item value="Cookieに会員情報なし" />
@@ -56,15 +58,13 @@
       <item value="異常 時間停止" />
       <item value="全返品（decisionの送信）" />
       <item value="Sift情報連携" />
-      <item value="石の有無" />
-      <item value="郵便番号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="67" />
-        <entry key="JAPANESE" value="90" />
-        <entry key="VIETNAMESE" value="46" />
+        <entry key="JAPANESE" value="91" />
+        <entry key="VIETNAMESE" value="48" />
       </map>
     </option>
   </component>
