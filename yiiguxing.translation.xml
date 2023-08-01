@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ファイル名が一致すれば処理対象" />
       <item value="ログに移動" />
       <item value="実店舗在庫ファイルをGoldwinから受信バッチ" />
       <item value="代引き手数料" />
@@ -57,14 +58,13 @@
       <item value="石取れ石割れ" />
       <item value="時間が遅れる" />
       <item value="刻印" />
-      <item value="※注意" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="84" />
-        <entry key="VIETNAMESE" value="40" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="JAPANESE" value="85" />
+        <entry key="VIETNAMESE" value="41" />
       </map>
     </option>
   </component>
