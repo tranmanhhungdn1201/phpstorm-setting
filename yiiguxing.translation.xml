@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690365240973" />
+    <option name="lastTrimTime" value="1690861787331" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,9 +8,15 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="conditions" />
-      <item value="決済手数料" />
+      <item value="Cookieに会員情報なし" />
+      <item value="ゲスト購入する" />
+      <item value="会員登録して購入する" />
+      <item value="ファイル名が一致すれば処理対象" />
+      <item value="ログに移動" />
+      <item value="実店舗在庫ファイルをGoldwinから受信バッチ" />
       <item value="代引き手数料" />
+      <item value="決済手数料" />
+      <item value="conditions" />
       <item value="ギフト" />
       <item value="送料" />
       <item value="代引手数料" />
@@ -52,19 +58,13 @@
       <item value="郵便番号" />
       <item value="仕上げ直し" />
       <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
-      <item value="石取れ石割れ" />
-      <item value="時間が遅れる" />
-      <item value="刻印" />
-      <item value="※注意" />
-      <item value="号サイズへお直し希望" />
-      <item value="石が付いたお修理のデメリット" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="63" />
-        <entry key="JAPANESE" value="78" />
-        <entry key="VIETNAMESE" value="35" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="JAPANESE" value="88" />
+        <entry key="VIETNAMESE" value="44" />
       </map>
     </option>
   </component>
