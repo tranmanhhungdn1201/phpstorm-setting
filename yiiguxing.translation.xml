@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ご依頼主様情報" />
       <item value="Cookieに会員情報なし" />
       <item value="ゲスト購入する" />
       <item value="会員登録して購入する" />
@@ -57,14 +58,13 @@
       <item value="石の有無" />
       <item value="郵便番号" />
       <item value="仕上げ直し" />
-      <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="67" />
-        <entry key="JAPANESE" value="88" />
-        <entry key="VIETNAMESE" value="44" />
+        <entry key="JAPANESE" value="89" />
+        <entry key="VIETNAMESE" value="45" />
       </map>
     </option>
   </component>
