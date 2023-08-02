@@ -8,9 +8,23 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Cookieに会員情報なし" />
+      <item value="購入と同時に会員登録を行う" />
+      <item value="生年月日" />
       <item value="ゲスト購入する" />
       <item value="会員登録して購入する" />
+      <item value="会員登録がまだの方" />
+      <item value="会員登録がお済でない方" />
+      <item value="POST情報" />
+      <item value="レンタルをチェックする" />
+      <item value="EC OrderとAnygiftを同期する" />
+      <item value="d払い: 上限金額チェック" />
+      <item value="個別に設定する" />
+      <item value="を入力して下さい" />
+      <item value="修　正" />
+      <item value="価格を記載する" />
+      <item value="その他入力" />
+      <item value="ご依頼主様情報" />
+      <item value="Cookieに会員情報なし" />
       <item value="ファイル名が一致すれば処理対象" />
       <item value="ログに移動" />
       <item value="実店舗在庫ファイルをGoldwinから受信バッチ" />
@@ -44,27 +58,13 @@
       <item value="レギュラー" />
       <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
-      <item value="メタル" />
-      <item value="片方作製のデメリット" />
-      <item value="片方作製" />
-      <item value="有" />
-      <item value="decisionを実行" />
-      <item value="商品変更" />
-      <item value="マスター在庫を使用する場合の後処理" />
-      <item value="異常 時間停止" />
-      <item value="全返品（decisionの送信）" />
-      <item value="Sift情報連携" />
-      <item value="石の有無" />
-      <item value="郵便番号" />
-      <item value="仕上げ直し" />
-      <item value="天然素材を使用しているお品物は、左右で色味・風合い・サイズ・形状に差が出る可能性があります。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="67" />
-        <entry key="JAPANESE" value="88" />
-        <entry key="VIETNAMESE" value="44" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="72" />
+        <entry key="JAPANESE" value="103" />
+        <entry key="VIETNAMESE" value="57" />
       </map>
     </option>
   </component>
