@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="EC OrderとAnygiftを同期する" />
       <item value="d払い: 上限金額チェック" />
       <item value="個別に設定する" />
       <item value="を入力して下さい" />
@@ -57,13 +58,12 @@
       <item value="有" />
       <item value="decisionを実行" />
       <item value="商品変更" />
-      <item value="マスター在庫を使用する場合の後処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="70" />
-        <entry key="JAPANESE" value="94" />
+        <entry key="ENGLISH" value="71" />
+        <entry key="JAPANESE" value="95" />
         <entry key="VIETNAMESE" value="48" />
       </map>
     </option>
