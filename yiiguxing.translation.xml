@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="購入と同時に会員登録を行う" />
+      <item value="生年月日" />
+      <item value="ゲスト購入する" />
+      <item value="会員登録して購入する" />
+      <item value="会員登録がまだの方" />
+      <item value="会員登録がお済でない方" />
       <item value="POST情報" />
       <item value="レンタルをチェックする" />
       <item value="EC OrderとAnygiftを同期する" />
@@ -19,8 +25,6 @@
       <item value="その他入力" />
       <item value="ご依頼主様情報" />
       <item value="Cookieに会員情報なし" />
-      <item value="ゲスト購入する" />
-      <item value="会員登録して購入する" />
       <item value="ファイル名が一致すれば処理対象" />
       <item value="ログに移動" />
       <item value="実店舗在庫ファイルをGoldwinから受信バッチ" />
@@ -54,17 +58,13 @@
       <item value="レギュラー" />
       <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
-      <item value="メタル" />
-      <item value="片方作製のデメリット" />
-      <item value="片方作製" />
-      <item value="有" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="72" />
-        <entry key="JAPANESE" value="96" />
-        <entry key="VIETNAMESE" value="50" />
+        <entry key="JAPANESE" value="103" />
+        <entry key="VIETNAMESE" value="57" />
       </map>
     </option>
   </component>
