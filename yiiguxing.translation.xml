@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690861787331" />
+    <option name="lastTrimTime" value="1691397693739" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="直営店表示エリア" />
+      <item value="Credits" />
+      <item value="This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors." />
+      <item value="IGNITION LOCAL SITES PATH" />
+      <item value="ランキング" />
       <item value="購入と同時に会員登録を行う" />
       <item value="生年月日" />
       <item value="ゲスト購入する" />
@@ -53,18 +58,13 @@
       <item value="SAILOR bespokeはお客様が仕様や色などを指定することができるカスタマイズ商品となります為、イメージが違う等のお客様都合による返品はお受けいたしかねます。 品質管理には万全を期しておりますが、万一商品に不具合がございましたら、商品到着日から７日以内にご連絡をお願いいたします。" />
       <item value="– テンプレートのファイルパス" />
       <item value="インク" />
-      <item value="会員登録について" />
-      <item value="長刀" />
-      <item value="レギュラー" />
-      <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
-      <item value="カスタマイズ：ペン先長刀選択時挙動" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="72" />
-        <entry key="JAPANESE" value="103" />
-        <entry key="VIETNAMESE" value="57" />
+        <entry key="ENGLISH" value="79" />
+        <entry key="JAPANESE" value="105" />
+        <entry key="VIETNAMESE" value="61" />
       </map>
     </option>
   </component>
