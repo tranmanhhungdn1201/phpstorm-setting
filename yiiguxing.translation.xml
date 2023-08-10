@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="有" />
       <item value="直営店表示エリア" />
       <item value="Credits" />
       <item value="This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors." />
@@ -57,12 +58,11 @@
       <item value="keはお客様が仕様や色などを指定" />
       <item value="SAILOR bespokeはお客様が仕様や色などを指定することができるカスタマイズ商品となります為、イメージが違う等のお客様都合による返品はお受けいたしかねます。 品質管理には万全を期しておりますが、万一商品に不具合がございましたら、商品到着日から７日以内にご連絡をお願いいたします。" />
       <item value="– テンプレートのファイルパス" />
-      <item value="インク" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="80" />
         <entry key="JAPANESE" value="105" />
         <entry key="VIETNAMESE" value="61" />
       </map>
