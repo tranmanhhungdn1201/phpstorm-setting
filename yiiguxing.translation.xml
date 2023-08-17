@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691397693739" />
+    <option name="lastTrimTime" value="1692242754744" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ご注文完了" />
+      <item value="ショッピング" />
       <item value="有" />
       <item value="直営店表示エリア" />
       <item value="Credits" />
@@ -56,14 +58,12 @@
       <item value="商品詳細" />
       <item value="商品特徴" />
       <item value="keはお客様が仕様や色などを指定" />
-      <item value="SAILOR bespokeはお客様が仕様や色などを指定することができるカスタマイズ商品となります為、イメージが違う等のお客様都合による返品はお受けいたしかねます。 品質管理には万全を期しておりますが、万一商品に不具合がございましたら、商品到着日から７日以内にご連絡をお願いいたします。" />
-      <item value="– テンプレートのファイルパス" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="80" />
-        <entry key="JAPANESE" value="105" />
+        <entry key="ENGLISH" value="82" />
+        <entry key="JAPANESE" value="107" />
         <entry key="VIETNAMESE" value="61" />
       </map>
     </option>
