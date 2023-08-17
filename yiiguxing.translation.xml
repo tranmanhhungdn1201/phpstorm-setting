@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ページtitleを設定" />
+      <item value="注文内容確認" />
+      <item value="会員登録完了" />
       <item value="ご注文完了" />
       <item value="ショッピング" />
       <item value="有" />
@@ -55,15 +58,12 @@
       <item value="Indicate that the model's email address should be unverified." />
       <item value="unverified" />
       <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
-      <item value="商品詳細" />
-      <item value="商品特徴" />
-      <item value="keはお客様が仕様や色などを指定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="82" />
-        <entry key="JAPANESE" value="107" />
+        <entry key="ENGLISH" value="85" />
+        <entry key="JAPANESE" value="110" />
         <entry key="VIETNAMESE" value="61" />
       </map>
     </option>
