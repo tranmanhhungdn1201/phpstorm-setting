@@ -8,6 +8,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="会員情報登録：55, 会員情報更新：56, 会員情報削除：57, 会員情報統合：66" />
+      <item value="統合の場合、会員IDとPINコードを入力してください。" />
+      <item value="統合の場合、会員IDとPINコードを入力してください。 memberId = '00123456'; pinCd = '0012';" />
+      <item value="------------------ このバッチを手動実行する場合、api_numberとcustomer_idを指定してください。 実行するバッチのAPI番号を入力してください。 会員情報登録：55, 会員情報更新：56, 会員情報削除：57, 会員情報統合：66" />
+      <item value="対象の会員id（customer id）を入力してください。" />
       <item value="ストア" />
       <item value="ページtitleを設定" />
       <item value="注文内容確認" />
@@ -53,18 +58,13 @@
       <item value="ギフトラッピング対象外カテゴリ" />
       <item value="リング" />
       <item value="納品書について" />
-      <item value="商品コード" />
-      <item value="受け取らない" />
-      <item value="ブランドがギフトラッピング対象か" />
-      <item value="Indicate that the model's email address should be unverified." />
-      <item value="unverified" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="86" />
-        <entry key="JAPANESE" value="111" />
-        <entry key="VIETNAMESE" value="61" />
+        <entry key="ENGLISH" value="88" />
+        <entry key="JAPANESE" value="116" />
+        <entry key="VIETNAMESE" value="65" />
       </map>
     </option>
   </component>
