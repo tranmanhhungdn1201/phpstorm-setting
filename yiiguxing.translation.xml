@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692242754744" />
+    <option name="lastTrimTime" value="1692692742353" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="otsパッケージ用のルーティング設定" />
       <item value="会員情報登録：55, 会員情報更新：56, 会員情報削除：57, 会員情報統合：66" />
       <item value="統合の場合、会員IDとPINコードを入力してください。" />
       <item value="統合の場合、会員IDとPINコードを入力してください。 memberId = '00123456'; pinCd = '0012';" />
@@ -57,14 +58,13 @@
       <item value="有料ラッピング対象外" />
       <item value="ギフトラッピング対象外カテゴリ" />
       <item value="リング" />
-      <item value="納品書について" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="88" />
-        <entry key="JAPANESE" value="116" />
-        <entry key="VIETNAMESE" value="65" />
+        <entry key="ENGLISH" value="89" />
+        <entry key="JAPANESE" value="117" />
+        <entry key="VIETNAMESE" value="66" />
       </map>
     </option>
   </component>
