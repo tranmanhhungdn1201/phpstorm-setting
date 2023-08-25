@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="新規購入売上" />
       <item value="main Contents Inner" />
       <item value="&quot;申し訳ございません。&lt;br&gt;お客様のご注文は、すでに完了している可能性がございます。&lt;br&gt;お手数ですが、注文履歴画面にてご注文情報をご確認ください。&quot;," />
       <item value="申し訳ございません。&lt;br&gt;お客様のご注文は、すでに完了している可能性がございます。&lt;br&gt;お手数ですが、注文履歴画面にてご注文情報をご確認ください。" />
@@ -57,13 +58,12 @@
       <item value="送料" />
       <item value="代引手数料" />
       <item value="税抜き" />
-      <item value="包装料（税抜き） : 包装料（税抜き）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="92" />
-        <entry key="JAPANESE" value="120" />
+        <entry key="ENGLISH" value="93" />
+        <entry key="JAPANESE" value="121" />
         <entry key="VIETNAMESE" value="66" />
       </map>
     </option>
