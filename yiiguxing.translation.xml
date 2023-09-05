@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693198255833" />
+    <option name="lastTrimTime" value="1693882480692" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="チェックアウト セッションの作成中にエラーが発生しました" />
       <item value="ギフトラッピング" />
       <item value="その他アクセサリー" />
       <item value="チャーム" />
@@ -57,13 +58,12 @@
       <item value="会員登録がお済でない方" />
       <item value="POST情報" />
       <item value="レンタルをチェックする" />
-      <item value="EC OrderとAnygiftを同期する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="105" />
-        <entry key="JAPANESE" value="137" />
+        <entry key="ENGLISH" value="106" />
+        <entry key="JAPANESE" value="138" />
         <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
