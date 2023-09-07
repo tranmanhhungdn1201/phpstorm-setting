@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="楽天ペイについて" />
       <item value="本サイトは、株式会社サザビーリーグ エーアンドエス カンパニーが運営するサイトです。" />
       <item value="チェックアウト セッションの作成中にエラーが発生しました" />
       <item value="ギフトラッピング" />
@@ -57,13 +58,12 @@
       <item value="会員登録して購入する" />
       <item value="会員登録がまだの方" />
       <item value="会員登録がお済でない方" />
-      <item value="POST情報" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="107" />
-        <entry key="JAPANESE" value="139" />
+        <entry key="ENGLISH" value="108" />
+        <entry key="JAPANESE" value="140" />
         <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
