@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693882480692" />
+    <option name="lastTrimTime" value="1694405297455" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="顧客のお気に入り商品を全て削除する" />
       <item value="楽天ペイについて" />
       <item value="本サイトは、株式会社サザビーリーグ エーアンドエス カンパニーが運営するサイトです。" />
       <item value="チェックアウト セッションの作成中にエラーが発生しました" />
@@ -57,13 +58,12 @@
       <item value="ゲスト購入する" />
       <item value="会員登録して購入する" />
       <item value="会員登録がまだの方" />
-      <item value="会員登録がお済でない方" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="108" />
-        <entry key="JAPANESE" value="140" />
+        <entry key="ENGLISH" value="109" />
+        <entry key="JAPANESE" value="141" />
         <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
