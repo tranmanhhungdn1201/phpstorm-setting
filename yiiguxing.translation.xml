@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="子コーディネート" />
+      <item value="親コーディネート" />
+      <item value="コーディネートタイプ" />
       <item value="コーディネートグループ" />
       <item value="二件以上同時削除" />
       <item value="購入品に関するお問合せは" />
@@ -55,15 +58,12 @@
       <item value="Credits" />
       <item value="This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors." />
       <item value="IGNITION LOCAL SITES PATH" />
-      <item value="ランキング" />
-      <item value="購入と同時に会員登録を行う" />
-      <item value="生年月日" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="112" />
-        <entry key="JAPANESE" value="145" />
+        <entry key="ENGLISH" value="115" />
+        <entry key="JAPANESE" value="148" />
         <entry key="VIETNAMESE" value="78" />
       </map>
     </option>
