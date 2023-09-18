@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="リストを取得" />
       <item value="子コーディネート" />
       <item value="親コーディネート" />
       <item value="コーディネートタイプ" />
@@ -57,13 +58,12 @@
       <item value="直営店表示エリア" />
       <item value="Credits" />
       <item value="This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors." />
-      <item value="IGNITION LOCAL SITES PATH" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="115" />
-        <entry key="JAPANESE" value="148" />
+        <entry key="ENGLISH" value="116" />
+        <entry key="JAPANESE" value="149" />
         <entry key="VIETNAMESE" value="78" />
       </map>
     </option>
