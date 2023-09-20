@@ -5,10 +5,10 @@
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
     <option name="targetLanguageSelection" value="LAST" />
-    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="recomputation" />
       <item value="RESERVE" />
       <item value="OUTLET" />
       <item value="顧客購入履歴を取得" />
@@ -58,14 +58,13 @@
       <item value="注文内容確認" />
       <item value="会員登録完了" />
       <item value="ご注文完了" />
-      <item value="ショッピング" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="127" />
         <entry key="JAPANESE" value="152" />
-        <entry key="VIETNAMESE" value="82" />
+        <entry key="VIETNAMESE" value="84" />
       </map>
     </option>
   </component>
