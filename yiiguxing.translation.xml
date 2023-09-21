@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="プロモーションが指定された商品に適用されるかを判定" />
       <item value="プロモーショングループの対象商品が重複している" />
       <item value="プロモーショングループの対象商品が重複している Parameters:" />
       <item value="recomputation" />
@@ -57,14 +58,13 @@
       <item value="対象の会員id（customer id）を入力してください。" />
       <item value="ストア" />
       <item value="ページtitleを設定" />
-      <item value="注文内容確認" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="127" />
-        <entry key="JAPANESE" value="154" />
-        <entry key="VIETNAMESE" value="86" />
+        <entry key="ENGLISH" value="129" />
+        <entry key="JAPANESE" value="155" />
+        <entry key="VIETNAMESE" value="87" />
       </map>
     </option>
   </component>
