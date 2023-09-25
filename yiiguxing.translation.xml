@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="デザインと耐久性　この美しさは、やわじゃない" />
       <item value="から送信されたステータスが成功しなかった場合に通知メールを送信する" />
       <item value="登録処理中" />
       <item value="対象商品があるかを判定" />
@@ -57,14 +58,13 @@
       <item value="otsパッケージ用のルーティング設定" />
       <item value="会員情報登録：55, 会員情報更新：56, 会員情報削除：57, 会員情報統合：66" />
       <item value="統合の場合、会員IDとPINコードを入力してください。" />
-      <item value="統合の場合、会員IDとPINコードを入力してください。 memberId = '00123456'; pinCd = '0012';" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="132" />
-        <entry key="JAPANESE" value="159" />
-        <entry key="VIETNAMESE" value="90" />
+        <entry key="ENGLISH" value="133" />
+        <entry key="JAPANESE" value="160" />
+        <entry key="VIETNAMESE" value="91" />
       </map>
     </option>
   </component>
