@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="顧客へのメール" />
+      <item value="お問い合わせ完了のお知らせメール送信" />
       <item value="受注コード" />
       <item value="対象受注存在判定" />
       <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
@@ -56,15 +58,13 @@
       <item value="おりません" />
       <item value="ただいま受付して" />
       <item value="リピート購入商品TOP 20" />
-      <item value="ランキングは15位まで取得" />
-      <item value="新規購入売上" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="140" />
-        <entry key="JAPANESE" value="167" />
-        <entry key="VIETNAMESE" value="91" />
+        <entry key="ENGLISH" value="141" />
+        <entry key="JAPANESE" value="170" />
+        <entry key="VIETNAMESE" value="94" />
       </map>
     </option>
   </component>
