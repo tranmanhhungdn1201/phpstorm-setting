@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="商品についてのお問合せ" />
       <item value="顧客へのメール" />
       <item value="お問い合わせ完了のお知らせメール送信" />
       <item value="受注コード" />
@@ -57,14 +58,13 @@
       <item value="新しいパスワード" />
       <item value="おりません" />
       <item value="ただいま受付して" />
-      <item value="リピート購入商品TOP 20" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="141" />
-        <entry key="JAPANESE" value="170" />
-        <entry key="VIETNAMESE" value="94" />
+        <entry key="JAPANESE" value="171" />
+        <entry key="VIETNAMESE" value="95" />
       </map>
     </option>
   </component>
