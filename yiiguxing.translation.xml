@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="顧客へのキャンセルメール" />
       <item value="配送修理受付フォーム" />
       <item value="商品についてのお問合せ" />
       <item value="顧客へのメール" />
@@ -57,14 +58,13 @@
       <item value="購入商品TOP 15（数量）がひとつもない場合" />
       <item value="unmatch field" />
       <item value="新しいパスワード" />
-      <item value="おりません" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="141" />
-        <entry key="JAPANESE" value="172" />
-        <entry key="VIETNAMESE" value="96" />
+        <entry key="ENGLISH" value="142" />
+        <entry key="JAPANESE" value="173" />
+        <entry key="VIETNAMESE" value="97" />
       </map>
     </option>
   </component>
