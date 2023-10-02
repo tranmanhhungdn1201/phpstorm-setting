@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="リカバリ用（指定日をバッチ実行日としてデータ集計。 ex.2021-11-01 00:00:00）" />
       <item value="Mobile Detectのインスタンスを設定" />
       <item value="本番用" />
       <item value="各色の最初の 2 つの画像を示します" />
@@ -57,14 +58,13 @@
       <item value="ギフトラッピング対象カテゴリ" />
       <item value="gift-paid" />
       <item value="ネックレス" />
-      <item value="新しいパスワードが新しいパスワードと一致することを確認してください" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="145" />
-        <entry key="JAPANESE" value="179" />
-        <entry key="VIETNAMESE" value="100" />
+        <entry key="ENGLISH" value="146" />
+        <entry key="JAPANESE" value="180" />
+        <entry key="VIETNAMESE" value="101" />
       </map>
     </option>
   </component>
