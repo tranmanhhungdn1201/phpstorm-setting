@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Mobile Detectのインスタンスを設定" />
       <item value="本番用" />
       <item value="各色の最初の 2 つの画像を示します" />
       <item value="商品説明" />
@@ -57,13 +58,12 @@
       <item value="gift-paid" />
       <item value="ネックレス" />
       <item value="新しいパスワードが新しいパスワードと一致することを確認してください" />
-      <item value="金額" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="144" />
-        <entry key="JAPANESE" value="178" />
+        <entry key="ENGLISH" value="145" />
+        <entry key="JAPANESE" value="179" />
         <entry key="VIETNAMESE" value="100" />
       </map>
     </option>
