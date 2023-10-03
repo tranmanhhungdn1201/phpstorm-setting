@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ゴールド" />
+      <item value="レギュラー" />
+      <item value="商品ペン先" />
+      <item value="商品蓋栓飾り" />
       <item value="ホワイト" />
       <item value="画像ファイルのキャッシュ対策用パラメータを付与" />
       <item value="設定ファイルの内容を上書きしたい" />
@@ -54,17 +58,13 @@
       <item value="チェックアウト セッションの作成中にエラーが発生しました" />
       <item value="ギフトラッピング" />
       <item value="その他アクセサリー" />
-      <item value="チャーム" />
-      <item value="ブレスレット" />
-      <item value="ピアス" />
-      <item value="リング" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="149" />
-        <entry key="JAPANESE" value="183" />
-        <entry key="VIETNAMESE" value="101" />
+        <entry key="ENGLISH" value="150" />
+        <entry key="JAPANESE" value="188" />
+        <entry key="VIETNAMESE" value="106" />
       </map>
     </option>
   </component>
