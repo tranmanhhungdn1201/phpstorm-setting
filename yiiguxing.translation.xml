@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="画像ファイルのキャッシュ対策用パラメータを付与" />
+      <item value="設定ファイルの内容を上書きしたい" />
       <item value="リカバリ用（指定日をバッチ実行日としてデータ集計。 ex.2021-11-01 00:00:00）" />
       <item value="Mobile Detectのインスタンスを設定" />
       <item value="本番用" />
@@ -56,14 +58,12 @@
       <item value="ピアス" />
       <item value="リング" />
       <item value="ギフトラッピング対象カテゴリ" />
-      <item value="gift-paid" />
-      <item value="ネックレス" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="146" />
-        <entry key="JAPANESE" value="180" />
+        <entry key="ENGLISH" value="148" />
+        <entry key="JAPANESE" value="182" />
         <entry key="VIETNAMESE" value="101" />
       </map>
     </option>
