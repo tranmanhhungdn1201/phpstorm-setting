@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="対象受注存在判定" />
       <item value="ゴールド" />
       <item value="レギュラー" />
       <item value="商品ペン先" />
@@ -26,7 +27,6 @@
       <item value="配送修理受付フォーム" />
       <item value="商品についてのお問合せ" />
       <item value="受注コード" />
-      <item value="対象受注存在判定" />
       <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
       <item value="スマートペイ注文作成時のエラー。 管理者向け" />
       <item value="レスポンス" />
@@ -62,8 +62,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="150" />
-        <entry key="JAPANESE" value="188" />
+        <entry key="ENGLISH" value="151" />
+        <entry key="JAPANESE" value="189" />
         <entry key="VIETNAMESE" value="106" />
       </map>
     </option>
