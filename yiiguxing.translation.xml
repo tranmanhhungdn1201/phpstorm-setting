@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="リピート購入11回目以上受注件数" />
+      <item value="リピート購入6回～10回目受注件数" />
+      <item value="リピート購入3回～5回目受注件数" />
       <item value="対象受注存在判定" />
       <item value="ゴールド" />
       <item value="レギュラー" />
@@ -55,16 +58,13 @@
       <item value="顧客のお気に入り商品を全て削除する" />
       <item value="楽天ペイについて" />
       <item value="本サイトは、株式会社サザビーリーグ エーアンドエス カンパニーが運営するサイトです。" />
-      <item value="チェックアウト セッションの作成中にエラーが発生しました" />
-      <item value="ギフトラッピング" />
-      <item value="その他アクセサリー" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="151" />
-        <entry key="JAPANESE" value="189" />
-        <entry key="VIETNAMESE" value="106" />
+        <entry key="ENGLISH" value="152" />
+        <entry key="JAPANESE" value="192" />
+        <entry key="VIETNAMESE" value="109" />
       </map>
     </option>
   </component>
