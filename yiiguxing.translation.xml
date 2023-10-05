@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="page canonical" />
       <item value="塗りつぶし" />
       <item value="リピート購入11回目以上受注件数" />
       <item value="リピート購入6回～10回目受注件数" />
@@ -57,14 +58,13 @@
       <item value="二件以上同時削除" />
       <item value="購入品に関するお問合せは" />
       <item value="顧客のお気に入り商品を全て削除する" />
-      <item value="楽天ペイについて" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="154" />
         <entry key="JAPANESE" value="193" />
-        <entry key="VIETNAMESE" value="110" />
+        <entry key="VIETNAMESE" value="111" />
       </map>
     </option>
   </component>
