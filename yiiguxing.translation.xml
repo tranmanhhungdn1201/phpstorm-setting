@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691397693739" />
+    <option name="lastTrimTime" value="1696214721595" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,63 +8,63 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="直営店表示エリア" />
-      <item value="Credits" />
-      <item value="This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors." />
-      <item value="IGNITION LOCAL SITES PATH" />
-      <item value="ランキング" />
-      <item value="購入と同時に会員登録を行う" />
-      <item value="生年月日" />
-      <item value="ゲスト購入する" />
-      <item value="会員登録して購入する" />
-      <item value="会員登録がまだの方" />
-      <item value="会員登録がお済でない方" />
-      <item value="POST情報" />
-      <item value="レンタルをチェックする" />
-      <item value="EC OrderとAnygiftを同期する" />
-      <item value="d払い: 上限金額チェック" />
-      <item value="個別に設定する" />
-      <item value="を入力して下さい" />
-      <item value="修　正" />
-      <item value="価格を記載する" />
-      <item value="その他入力" />
-      <item value="ご依頼主様情報" />
-      <item value="Cookieに会員情報なし" />
-      <item value="ファイル名が一致すれば処理対象" />
-      <item value="ログに移動" />
-      <item value="実店舗在庫ファイルをGoldwinから受信バッチ" />
-      <item value="代引き手数料" />
-      <item value="決済手数料" />
-      <item value="conditions" />
-      <item value="ギフト" />
-      <item value="送料" />
-      <item value="代引手数料" />
-      <item value="税抜き" />
-      <item value="包装料（税抜き） : 包装料（税抜き）" />
-      <item value="ギフト（税抜き" />
-      <item value="有料ラッピング対象外" />
-      <item value="ギフトラッピング対象外カテゴリ" />
-      <item value="リング" />
-      <item value="納品書について" />
-      <item value="商品コード" />
-      <item value="受け取らない" />
-      <item value="ブランドがギフトラッピング対象か" />
-      <item value="Indicate that the model's email address should be unverified." />
-      <item value="unverified" />
-      <item value="※ 配送地域、天候、配送会社の事情等により、数日前後する場合もございます。 ※予約商品引渡し時期につきましては、各予約商品掲載ページをご確認ください。" />
-      <item value="商品詳細" />
-      <item value="商品特徴" />
-      <item value="keはお客様が仕様や色などを指定" />
-      <item value="SAILOR bespokeはお客様が仕様や色などを指定することができるカスタマイズ商品となります為、イメージが違う等のお客様都合による返品はお受けいたしかねます。 品質管理には万全を期しておりますが、万一商品に不具合がございましたら、商品到着日から７日以内にご連絡をお願いいたします。" />
-      <item value="– テンプレートのファイルパス" />
-      <item value="インク" />
+      <item value="get social network" />
+      <item value="page canonical" />
+      <item value="塗りつぶし" />
+      <item value="リピート購入11回目以上受注件数" />
+      <item value="リピート購入6回～10回目受注件数" />
+      <item value="リピート購入3回～5回目受注件数" />
+      <item value="対象受注存在判定" />
+      <item value="ゴールド" />
+      <item value="レギュラー" />
+      <item value="商品ペン先" />
+      <item value="商品蓋栓飾り" />
+      <item value="ホワイト" />
+      <item value="画像ファイルのキャッシュ対策用パラメータを付与" />
+      <item value="設定ファイルの内容を上書きしたい" />
+      <item value="リカバリ用（指定日をバッチ実行日としてデータ集計。 ex.2021-11-01 00:00:00）" />
+      <item value="Mobile Detectのインスタンスを設定" />
+      <item value="本番用" />
+      <item value="各色の最初の 2 つの画像を示します" />
+      <item value="商品説明" />
+      <item value="顧客へのメール" />
+      <item value="お問い合わせ完了のお知らせメール送信" />
+      <item value="顧客へのキャンセルメール" />
+      <item value="配送修理受付フォーム" />
+      <item value="商品についてのお問合せ" />
+      <item value="受注コード" />
+      <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
+      <item value="スマートペイ注文作成時のエラー。 管理者向け" />
+      <item value="レスポンス" />
+      <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
+      <item value="全てをTOに代入しなおし" />
+      <item value="デザインと耐久性　この美しさは、やわじゃない" />
+      <item value="から送信されたステータスが成功しなかった場合に通知メールを送信する" />
+      <item value="登録処理中" />
+      <item value="対象商品があるかを判定" />
+      <item value="適用される商品があるか" />
+      <item value="プロモーションが指定された商品に適用されるかを判定" />
+      <item value="プロモーショングループの対象商品が重複している" />
+      <item value="プロモーショングループの対象商品が重複している Parameters:" />
+      <item value="recomputation" />
+      <item value="RESERVE" />
+      <item value="OUTLET" />
+      <item value="顧客購入履歴を取得" />
+      <item value="楽天ペイ" />
+      <item value="リストを取得" />
+      <item value="子コーディネート" />
+      <item value="親コーディネート" />
+      <item value="コーディネートタイプ" />
+      <item value="コーディネートグループ" />
+      <item value="二件以上同時削除" />
+      <item value="購入品に関するお問合せは" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="79" />
-        <entry key="JAPANESE" value="105" />
-        <entry key="VIETNAMESE" value="61" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="155" />
+        <entry key="JAPANESE" value="193" />
+        <entry key="VIETNAMESE" value="112" />
       </map>
     </option>
   </component>
