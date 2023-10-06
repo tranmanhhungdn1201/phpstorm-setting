@@ -3,11 +3,13 @@
     <option name="lastTrimTime" value="1696214721595" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="ENGLISH" />
-    <option name="targetLanguageSelection" value="LAST" />
+    <option name="primaryLanguage" value="VIETNAMESE" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="品番毎の合計オンフラグ" />
+      <item value="sales data" />
       <item value="get social network" />
       <item value="page canonical" />
       <item value="塗りつぶし" />
@@ -56,15 +58,13 @@
       <item value="親コーディネート" />
       <item value="コーディネートタイプ" />
       <item value="コーディネートグループ" />
-      <item value="二件以上同時削除" />
-      <item value="購入品に関するお問合せは" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="155" />
-        <entry key="JAPANESE" value="193" />
-        <entry key="VIETNAMESE" value="112" />
+        <entry key="ENGLISH" value="156" />
+        <entry key="JAPANESE" value="194" />
+        <entry key="VIETNAMESE" value="114" />
       </map>
     </option>
   </component>
