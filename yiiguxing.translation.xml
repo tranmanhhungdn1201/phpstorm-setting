@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696214721595" />
+    <option name="lastTrimTime" value="1696654672282" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,8 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="品番毎の合計オンフラグ" />
-      <item value="sales data" />
+      <item value="extends" />
       <item value="get social network" />
       <item value="page canonical" />
       <item value="塗りつぶし" />
@@ -58,13 +57,14 @@
       <item value="親コーディネート" />
       <item value="コーディネートタイプ" />
       <item value="コーディネートグループ" />
+      <item value="二件以上同時削除" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="156" />
-        <entry key="JAPANESE" value="194" />
-        <entry key="VIETNAMESE" value="114" />
+        <entry key="ENGLISH" value="157" />
+        <entry key="JAPANESE" value="193" />
+        <entry key="VIETNAMESE" value="113" />
       </map>
     </option>
   </component>
