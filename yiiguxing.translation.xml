@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="登録情報取得：form作成のために仮でデータを取得" />
       <item value="在庫が存在する商品を取得" />
       <item value="合計購入回数、合計支払金額、最小支払金額、最大支払金額、購入開始日時、最新購入日を取得" />
       <item value="extends" />
@@ -57,14 +58,13 @@
       <item value="リストを取得" />
       <item value="子コーディネート" />
       <item value="親コーディネート" />
-      <item value="コーディネートタイプ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="157" />
-        <entry key="JAPANESE" value="195" />
-        <entry key="VIETNAMESE" value="115" />
+        <entry key="JAPANESE" value="196" />
+        <entry key="VIETNAMESE" value="116" />
       </map>
     </option>
   </component>
