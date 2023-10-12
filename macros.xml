@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="past">
+      <action id="SelectNextOccurrence" />
+      <action id="SelectNextOccurrence" />
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
