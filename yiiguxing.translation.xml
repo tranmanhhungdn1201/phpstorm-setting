@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="定型文" />
+      <item value="use reverse commodity number" />
+      <item value="with your charm商品のみ（フォントコードの指定で判定）" />
       <item value="枯れることのない花を咲かそう" />
       <item value="in flore" />
       <item value="いま、光が生まれる" />
@@ -55,18 +58,15 @@
       <item value="デザインと耐久性　この美しさは、やわじゃない" />
       <item value="から送信されたステータスが成功しなかった場合に通知メールを送信する" />
       <item value="登録処理中" />
-      <item value="対象商品があるかを判定" />
-      <item value="適用される商品があるか" />
-      <item value="プロモーションが指定された商品に適用されるかを判定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="158" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="204" />
+        <entry key="JAPANESE" value="205" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="126" />
+        <entry key="VIETNAMESE" value="130" />
       </map>
     </option>
   </component>
