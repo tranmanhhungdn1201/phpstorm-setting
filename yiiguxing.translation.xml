@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="枯れることのない花を咲かそう" />
+      <item value="in flore" />
+      <item value="いま、光が生まれる" />
+      <item value="末永い未来へ" />
+      <item value="刻印フォントコード" />
+      <item value="定型文グループ" />
       <item value="hieroglyph" />
       <item value="アップロードタイプID" />
       <item value="入力エラー" />
@@ -52,20 +58,15 @@
       <item value="対象商品があるかを判定" />
       <item value="適用される商品があるか" />
       <item value="プロモーションが指定された商品に適用されるかを判定" />
-      <item value="プロモーショングループの対象商品が重複している" />
-      <item value="プロモーショングループの対象商品が重複している Parameters:" />
-      <item value="recomputation" />
-      <item value="RESERVE" />
-      <item value="OUTLET" />
-      <item value="顧客購入履歴を取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="157" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="199" />
-        <entry key="VIETNAMESE" value="120" />
+        <entry key="JAPANESE" value="204" />
+        <entry key="LATIN" value="1" />
+        <entry key="VIETNAMESE" value="126" />
       </map>
     </option>
   </component>
