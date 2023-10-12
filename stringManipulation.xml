@@ -66,9 +66,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
-        <option name="description" value="To snake_case" />
-        <option name="textWithMnemonic" value="To snake_case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.IncrementAction" />
+        <option name="description" value="Increment numbers inside selected text" />
+        <option name="textWithMnemonic" value="Increment" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">

@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696654672282" />
+    <option name="lastTrimTime" value="1697095863723" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="クリアブラック" />
+      <item value="クリアグリーン" />
+      <item value="クリアブラウン" />
       <item value="定型文" />
       <item value="use reverse commodity number" />
       <item value="with your charm商品のみ（フォントコードの指定で判定）" />
@@ -55,18 +58,15 @@
       <item value="レスポンス" />
       <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
       <item value="全てをTOに代入しなおし" />
-      <item value="デザインと耐久性　この美しさは、やわじゃない" />
-      <item value="から送信されたステータスが成功しなかった場合に通知メールを送信する" />
-      <item value="登録処理中" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="158" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="205" />
+        <entry key="JAPANESE" value="208" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="130" />
+        <entry key="VIETNAMESE" value="133" />
       </map>
     </option>
   </component>
