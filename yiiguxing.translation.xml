@@ -8,9 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="お問合せありがとうございます" />
       <item value="お問い合わせ確認メール" />
       <item value="一部返品時メール送信" />
-      <item value="お問合せありがとうございます" />
       <item value="未引当の受注の在庫引き当て結果通知（管理者へ送信）" />
       <item value="ポイントログタイプ" />
       <item value="注文受付完了のお知らせ" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="159" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="228" />
+        <entry key="JAPANESE" value="229" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="155" />
+        <entry key="VIETNAMESE" value="156" />
       </map>
     </option>
   </component>
