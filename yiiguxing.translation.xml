@@ -8,8 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="クリアイエロー" />
       <item value="クリアブラック" />
+      <item value="クリアイエロー" />
       <item value="字幅" />
       <item value="クリアグリーン" />
       <item value="クリアブラウン" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="158" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="210" />
+        <entry key="JAPANESE" value="211" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="136" />
+        <entry key="VIETNAMESE" value="137" />
       </map>
     </option>
   </component>
