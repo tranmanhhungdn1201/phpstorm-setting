@@ -8,8 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="字幅" />
+      <item value="クリアイエロー" />
       <item value="クリアブラック" />
+      <item value="字幅" />
       <item value="クリアグリーン" />
       <item value="クリアブラウン" />
       <item value="定型文" />
@@ -57,16 +58,15 @@
       <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
       <item value="スマートペイ注文作成時のエラー。 管理者向け" />
       <item value="レスポンス" />
-      <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="158" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="208" />
+        <entry key="JAPANESE" value="210" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="134" />
+        <entry key="VIETNAMESE" value="136" />
       </map>
     </option>
   </component>
