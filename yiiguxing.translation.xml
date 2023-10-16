@@ -8,11 +8,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="クリアブラウン" />
+      <item value="クリアグリーン" />
+      <item value="クリアブルー" />
+      <item value="クリアレッド" />
+      <item value="クリアナチュラル" />
       <item value="クリアブラック" />
       <item value="クリアイエロー" />
       <item value="字幅" />
-      <item value="クリアグリーン" />
-      <item value="クリアブラウン" />
       <item value="定型文" />
       <item value="use reverse commodity number" />
       <item value="with your charm商品のみ（フォントコードの指定で判定）" />
@@ -55,18 +58,15 @@
       <item value="配送修理受付フォーム" />
       <item value="商品についてのお問合せ" />
       <item value="受注コード" />
-      <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
-      <item value="スマートペイ注文作成時のエラー。 管理者向け" />
-      <item value="レスポンス" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="158" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="211" />
+        <entry key="JAPANESE" value="216" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="137" />
+        <entry key="VIETNAMESE" value="142" />
       </map>
     </option>
   </component>
