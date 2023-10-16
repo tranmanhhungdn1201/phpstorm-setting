@@ -8,6 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="お問い合わせ確認メール" />
+      <item value="一部返品時メール送信" />
+      <item value="お問合せありがとうございます" />
+      <item value="未引当の受注の在庫引き当て結果通知（管理者へ送信）" />
+      <item value="ポイントログタイプ" />
+      <item value="注文受付完了のお知らせ" />
+      <item value="即時決済バッチ：バッチ実行エラーメール" />
       <item value="marble" />
       <item value="バイオレット" />
       <item value="クリアブラウン" />
@@ -51,22 +58,15 @@
       <item value="設定ファイルの内容を上書きしたい" />
       <item value="リカバリ用（指定日をバッチ実行日としてデータ集計。 ex.2021-11-01 00:00:00）" />
       <item value="Mobile Detectのインスタンスを設定" />
-      <item value="本番用" />
-      <item value="各色の最初の 2 つの画像を示します" />
-      <item value="商品説明" />
-      <item value="顧客へのメール" />
-      <item value="お問い合わせ完了のお知らせメール送信" />
-      <item value="顧客へのキャンセルメール" />
-      <item value="配送修理受付フォーム" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="159" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="217" />
+        <entry key="JAPANESE" value="228" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="144" />
+        <entry key="VIETNAMESE" value="155" />
       </map>
     </option>
   </component>
