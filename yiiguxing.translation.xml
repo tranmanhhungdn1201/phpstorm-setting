@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="内容" />
+      <item value="{name} 様 お問い合せをいただき、誠にありがとうございました。" />
+      <item value="お問い合わせ" />
+      <item value="お問い合わせ内容" />
+      <item value="※このメールは、弊社ホームページからお問い合せをいただいた際、ご入力い 　ただいたメールアドレス宛に自動で送信しています。 　お心あたりの無い方は、お手数ですが、全文引用のうえ、本メールにご返信 　ください" />
+      <item value="お問い合せをいただき、誠にありがとうございました。 担当者よりメールを送信させていただきますので、今しばらくお待ちください。 お問い合せの内容によりましては、調査等に時間を必要とする場合がございます。 あらかじめご了承ください。" />
       <item value="お問合せありがとうございます" />
       <item value="お問い合わせ確認メール" />
       <item value="一部返品時メール送信" />
@@ -52,21 +58,15 @@
       <item value="ゴールド" />
       <item value="レギュラー" />
       <item value="商品ペン先" />
-      <item value="商品蓋栓飾り" />
-      <item value="ホワイト" />
-      <item value="画像ファイルのキャッシュ対策用パラメータを付与" />
-      <item value="設定ファイルの内容を上書きしたい" />
-      <item value="リカバリ用（指定日をバッチ実行日としてデータ集計。 ex.2021-11-01 00:00:00）" />
-      <item value="Mobile Detectのインスタンスを設定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="159" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="229" />
+        <entry key="JAPANESE" value="234" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="156" />
+        <entry key="VIETNAMESE" value="162" />
       </map>
     </option>
   </component>
