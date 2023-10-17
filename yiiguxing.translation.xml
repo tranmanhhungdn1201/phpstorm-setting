@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="※購入品に関するお問合せは、購入履歴より、過去に購入された商品の品番をご確認いただけます。" />
       <item value="会員登録済みでない" />
       <item value="内容" />
       <item value="{name} 様 お問い合せをいただき、誠にありがとうございました。" />
@@ -57,16 +58,15 @@
       <item value="リピート購入3回～5回目受注件数" />
       <item value="対象受注存在判定" />
       <item value="ゴールド" />
-      <item value="レギュラー" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="159" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="235" />
+        <entry key="JAPANESE" value="236" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="163" />
+        <entry key="VIETNAMESE" value="164" />
       </map>
     </option>
   </component>
