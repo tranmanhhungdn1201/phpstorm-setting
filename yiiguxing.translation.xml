@@ -62,11 +62,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="238" />
+        <entry key="JAPANESE" value="239" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="166" />
+        <entry key="VIETNAMESE" value="167" />
       </map>
     </option>
   </component>
