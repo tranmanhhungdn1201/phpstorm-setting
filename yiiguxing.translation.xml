@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="一部返品" />
       <item value="必須" />
       <item value="レギュラー" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
@@ -57,16 +58,15 @@
       <item value="入力エラー" />
       <item value="DBカラムのマッピング" />
       <item value="登録情報取得：form作成のために仮でデータを取得" />
-      <item value="在庫が存在する商品を取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="251" />
+        <entry key="JAPANESE" value="252" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="180" />
+        <entry key="VIETNAMESE" value="181" />
       </map>
     </option>
   </component>
