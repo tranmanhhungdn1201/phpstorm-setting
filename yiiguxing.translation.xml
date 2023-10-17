@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="レギュラー" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
       <item value="ペン先「レギュラー」を選択すると金属部分が選択できます" />
       <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
@@ -57,16 +58,15 @@
       <item value="登録情報取得：form作成のために仮でデータを取得" />
       <item value="在庫が存在する商品を取得" />
       <item value="合計購入回数、合計支払金額、最小支払金額、最大支払金額、購入開始日時、最新購入日を取得" />
-      <item value="extends" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="249" />
+        <entry key="JAPANESE" value="251" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="177" />
+        <entry key="VIETNAMESE" value="179" />
       </map>
     </option>
   </component>
