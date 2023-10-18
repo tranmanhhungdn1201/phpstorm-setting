@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ブラックIP" />
+      <item value="シルバー" />
+      <item value="ゴールド" />
       <item value="刻印" />
       <item value="サイズ直し" />
       <item value="リング" />
@@ -55,18 +58,15 @@
       <item value="クリアイエロー" />
       <item value="字幅" />
       <item value="定型文" />
-      <item value="use reverse commodity number" />
-      <item value="with your charm商品のみ（フォントコードの指定で判定）" />
-      <item value="枯れることのない花を咲かそう" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="263" />
+        <entry key="JAPANESE" value="266" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="192" />
+        <entry key="VIETNAMESE" value="195" />
       </map>
     </option>
   </component>
