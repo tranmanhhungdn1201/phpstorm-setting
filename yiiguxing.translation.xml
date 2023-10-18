@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="刻印" />
+      <item value="サイズ直し" />
+      <item value="リング" />
+      <item value="その他" />
+      <item value="有り" />
+      <item value="修理するアイテム" />
       <item value="お見積りご了承のご連絡がつかないなどの理由により、お品物のお預かりが長期にわたり、その後にお品物の変色、品質劣化などが生じました場合は、責任を負いかねます" />
       <item value="配送中の紛失・破損の責任は一切負いかねます。&lt;br&gt;補償のある配送方法のご利用をおすすめいたします。" />
       <item value="配送修理は、お送りいただく片道の送料をお客様にご負担いただいてお" />
@@ -20,7 +26,6 @@
       <item value="ペン先「レギュラー」を選択すると金属部分が選択できます" />
       <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
       <item value="ただいま受付して" />
-      <item value="有り" />
       <item value="なし" />
       <item value="時間が遅れる" />
       <item value="時間が進む" />
@@ -53,20 +58,15 @@
       <item value="use reverse commodity number" />
       <item value="with your charm商品のみ（フォントコードの指定で判定）" />
       <item value="枯れることのない花を咲かそう" />
-      <item value="in flore" />
-      <item value="いま、光が生まれる" />
-      <item value="末永い未来へ" />
-      <item value="刻印フォントコード" />
-      <item value="定型文グループ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="257" />
+        <entry key="JAPANESE" value="263" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="186" />
+        <entry key="VIETNAMESE" value="192" />
       </map>
     </option>
   </component>
