@@ -8,13 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ブラックIP" />
       <item value="シルバー" />
       <item value="ゴールド" />
       <item value="商品ペン先" />
       <item value="商品蓋栓飾り" />
       <item value="長刀" />
       <item value="金具部分" />
-      <item value="ブラックIP" />
       <item value="刻印" />
       <item value="サイズ直し" />
       <item value="リング" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="286" />
+        <entry key="JAPANESE" value="287" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="215" />
+        <entry key="VIETNAMESE" value="216" />
       </map>
     </option>
   </component>
