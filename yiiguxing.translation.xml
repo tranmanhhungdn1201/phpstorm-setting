@@ -8,12 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ゴールド" />
+      <item value="レギュラー" />
       <item value="ご住所（都道府県）" />
       <item value="有り" />
       <item value="金具部分" />
       <item value="ブラックIP" />
       <item value="シルバー" />
-      <item value="ゴールド" />
       <item value="商品ペン先" />
       <item value="商品蓋栓飾り" />
       <item value="長刀" />
@@ -29,7 +30,6 @@
       <item value="お見積りご了承のご連絡がつかないなどの理由により、お品物のお預かりが長期にわたり、その後にお品物の変色、品質劣化などが生じました場合は、責任を負いかねます。" />
       <item value="一部返品" />
       <item value="必須" />
-      <item value="レギュラー" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
       <item value="ペン先「レギュラー」を選択すると金属部分が選択できます" />
       <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="290" />
+        <entry key="JAPANESE" value="292" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="219" />
+        <entry key="VIETNAMESE" value="221" />
       </map>
     </option>
   </component>
