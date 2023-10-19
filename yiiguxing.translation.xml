@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ご住所（都道府県）" />
       <item value="有り" />
       <item value="金具部分" />
       <item value="ブラックIP" />
@@ -57,16 +58,15 @@
       <item value="クリアグリーン" />
       <item value="クリアブルー" />
       <item value="クリアレッド" />
-      <item value="クリアナチュラル" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="289" />
+        <entry key="JAPANESE" value="290" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="218" />
+        <entry key="VIETNAMESE" value="219" />
       </map>
     </option>
   </component>
