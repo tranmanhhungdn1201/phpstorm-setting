@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="有り" />
       <item value="金具部分" />
       <item value="ブラックIP" />
       <item value="シルバー" />
@@ -19,7 +20,6 @@
       <item value="サイズ直し" />
       <item value="リング" />
       <item value="その他" />
-      <item value="有り" />
       <item value="修理するアイテム" />
       <item value="お見積りご了承のご連絡がつかないなどの理由により、お品物のお預かりが長期にわたり、その後にお品物の変色、品質劣化などが生じました場合は、責任を負いかねます" />
       <item value="配送中の紛失・破損の責任は一切負いかねます。&lt;br&gt;補償のある配送方法のご利用をおすすめいたします。" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="288" />
+        <entry key="JAPANESE" value="289" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="217" />
+        <entry key="VIETNAMESE" value="218" />
       </map>
     </option>
   </component>
