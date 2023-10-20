@@ -8,8 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="ゴールド" />
       <item value="レギュラー" />
+      <item value="ゴールド" />
       <item value="ご住所（都道府県）" />
       <item value="有り" />
       <item value="金具部分" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="292" />
+        <entry key="JAPANESE" value="293" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="221" />
+        <entry key="VIETNAMESE" value="222" />
       </map>
     </option>
   </component>
