@@ -8,11 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="レギュラー" />
+      <item value="コード" />
+      <item value="レギュラーコード" />
       <item value="金と銀の価格差（税抜" />
       <item value="金とブラックIPの価格差（税抜" />
       <item value="レギュラーと長刀の価格差（税抜" />
       <item value="メタル" />
-      <item value="レギュラー" />
       <item value="ゴールド" />
       <item value="ご住所（都道府県）" />
       <item value="有り" />
@@ -56,17 +58,15 @@
       <item value="ポイントログタイプ" />
       <item value="注文受付完了のお知らせ" />
       <item value="即時決済バッチ：バッチ実行エラーメール" />
-      <item value="marble" />
-      <item value="バイオレット" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="297" />
+        <entry key="JAPANESE" value="301" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="226" />
+        <entry key="VIETNAMESE" value="230" />
       </map>
     </option>
   </component>
