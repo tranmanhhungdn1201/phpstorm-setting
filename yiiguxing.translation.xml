@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="指定なし" />
       <item value="注文処理を受け付けました。&lt;br&gt; 注文完了後に注文完了メールが届きます。" />
       <item value="ご注文ありがとうございました" />
       <item value="レギュラー" />
@@ -57,16 +58,15 @@
       <item value="お問い合わせ確認メール" />
       <item value="一部返品時メール送信" />
       <item value="未引当の受注の在庫引き当て結果通知（管理者へ送信）" />
-      <item value="ポイントログタイプ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="304" />
+        <entry key="JAPANESE" value="305" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="233" />
+        <entry key="VIETNAMESE" value="234" />
       </map>
     </option>
   </component>
