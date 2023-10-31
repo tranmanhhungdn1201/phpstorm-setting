@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="長刀" />
+      <item value="レギュラー" />
+      <item value="1: シルバー, 2: ゴールド, 3: ブラック" />
       <item value="fukidashi" />
       <item value="細字" />
       <item value="カスタマイズ" />
@@ -19,7 +22,6 @@
       <item value="指定なし" />
       <item value="注文処理を受け付けました。&lt;br&gt; 注文完了後に注文完了メールが届きます。" />
       <item value="ご注文ありがとうございました" />
-      <item value="レギュラー" />
       <item value="コード" />
       <item value="レギュラーコード" />
       <item value="金と銀の価格差（税抜" />
@@ -34,7 +36,6 @@
       <item value="シルバー" />
       <item value="商品ペン先" />
       <item value="商品蓋栓飾り" />
-      <item value="長刀" />
       <item value="刻印" />
       <item value="サイズ直し" />
       <item value="リング" />
@@ -57,16 +58,15 @@
       <item value="※購入品に関するお問合せは、購入履歴より、過去に購入された商品の品番をご確認いただけます。" />
       <item value="会員登録済みでない" />
       <item value="内容" />
-      <item value="{name} 様 お問い合せをいただき、誠にありがとうございました。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="313" />
+        <entry key="JAPANESE" value="317" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="242" />
+        <entry key="VIETNAMESE" value="246" />
       </map>
     </option>
   </component>
