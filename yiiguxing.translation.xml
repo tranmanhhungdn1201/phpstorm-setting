@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ペン先のデフォルト画像を設定する" />
+      <item value="字幅の設定が表示されます" />
+      <item value="メタリックカラーの設定が表示されます" />
       <item value="長刀" />
       <item value="レギュラー" />
       <item value="1: シルバー, 2: ゴールド, 3: ブラック" />
@@ -55,18 +58,15 @@
       <item value="なし" />
       <item value="時間が遅れる" />
       <item value="時間が進む" />
-      <item value="※購入品に関するお問合せは、購入履歴より、過去に購入された商品の品番をご確認いただけます。" />
-      <item value="会員登録済みでない" />
-      <item value="内容" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="317" />
+        <entry key="JAPANESE" value="320" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="246" />
+        <entry key="VIETNAMESE" value="249" />
       </map>
     </option>
   </component>
