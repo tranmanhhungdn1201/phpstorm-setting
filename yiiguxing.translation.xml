@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="お届け日時" />
       <item value="判定に用いる支払い方法ID" />
       <item value="ペン先のデフォルト画像を設定する" />
       <item value="字幅の設定が表示されます" />
@@ -57,16 +58,15 @@
       <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
       <item value="ただいま受付して" />
       <item value="なし" />
-      <item value="時間が遅れる" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="321" />
+        <entry key="JAPANESE" value="322" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="250" />
+        <entry key="VIETNAMESE" value="251" />
       </map>
     </option>
   </component>
