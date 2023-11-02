@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Expose" />
       <item value="ペン先のデフォルト画像を設定する" />
       <item value="スタンダード" />
       <item value="コード" />
@@ -57,16 +58,15 @@
       <item value="一部返品" />
       <item value="必須" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
-      <item value="ペン先「レギュラー」を選択すると金属部分が選択できます" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="FILIPINO" value="1" />
         <entry key="JAPANESE" value="331" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="260" />
+        <entry key="VIETNAMESE" value="261" />
       </map>
     </option>
   </component>
