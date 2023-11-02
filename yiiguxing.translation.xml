@@ -8,10 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="スタンダード" />
+      <item value="ペン先のデフォルト画像を設定する" />
+      <item value="コード" />
+      <item value="スタンダードコード" />
       <item value="ペン先「レギュラー" />
       <item value="お届け日時" />
       <item value="判定に用いる支払い方法ID" />
-      <item value="ペン先のデフォルト画像を設定する" />
       <item value="字幅の設定が表示されます" />
       <item value="メタリックカラーの設定が表示されます" />
       <item value="長刀" />
@@ -28,7 +31,6 @@
       <item value="指定なし" />
       <item value="注文処理を受け付けました。&lt;br&gt; 注文完了後に注文完了メールが届きます。" />
       <item value="ご注文ありがとうございました" />
-      <item value="コード" />
       <item value="レギュラーコード" />
       <item value="金と銀の価格差（税抜" />
       <item value="金とブラックIPの価格差（税抜" />
@@ -56,17 +58,15 @@
       <item value="必須" />
       <item value="カスタマイズ：ペン先長刀選択時挙動" />
       <item value="ペン先「レギュラー」を選択すると金属部分が選択できます" />
-      <item value="&lt;!-- 2022年2月中旬出荷分の&lt;br&gt;長刀パーツ受付終了しました。&lt;br&gt;次回は2022年1月頃&lt;br&gt;受付予定 --&gt;" />
-      <item value="ただいま受付して" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="323" />
+        <entry key="JAPANESE" value="329" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="252" />
+        <entry key="VIETNAMESE" value="258" />
       </map>
     </option>
   </component>
