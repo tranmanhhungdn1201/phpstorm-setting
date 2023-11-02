@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="交換お申込み" />
       <item value="Expose" />
       <item value="ペン先のデフォルト画像を設定する" />
       <item value="スタンダード" />
@@ -57,16 +58,15 @@
       <item value="お見積りご了承のご連絡がつかないなどの理由により、お品物のお預かりが長期にわたり、その後にお品物の変色、品質劣化などが生じました場合は、責任を負いかねます。" />
       <item value="一部返品" />
       <item value="必須" />
-      <item value="カスタマイズ：ペン先長刀選択時挙動" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="161" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="331" />
+        <entry key="JAPANESE" value="332" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="261" />
+        <entry key="VIETNAMESE" value="262" />
       </map>
     </option>
   </component>
