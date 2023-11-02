@@ -8,8 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="スタンダード" />
       <item value="ペン先のデフォルト画像を設定する" />
+      <item value="スタンダード" />
       <item value="コード" />
       <item value="スタンダードコード" />
       <item value="ペン先「レギュラー" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="160" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="329" />
+        <entry key="JAPANESE" value="331" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="258" />
+        <entry key="VIETNAMESE" value="260" />
       </map>
     </option>
   </component>
