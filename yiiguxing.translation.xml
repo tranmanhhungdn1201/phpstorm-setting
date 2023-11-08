@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ログタイプ" />
+      <item value="anygiftログタイプ" />
       <item value="RESERVE" />
       <item value="受注情報変更処理" />
       <item value="在庫を戻す" />
@@ -56,17 +58,15 @@
       <item value="修理するアイテム" />
       <item value="お見積りご了承のご連絡がつかないなどの理由により、お品物のお預かりが長期にわたり、その後にお品物の変色、品質劣化などが生じました場合は、責任を負いかねます" />
       <item value="配送中の紛失・破損の責任は一切負いかねます。&lt;br&gt;補償のある配送方法のご利用をおすすめいたします。" />
-      <item value="配送修理は、お送りいただく片道の送料をお客様にご負担いただいてお" />
-      <item value="お修理にかかる期間・料金は、破損状態のほか、お品物のデザインによって異なります。&lt;br&gt;通常、お見積り期間を含め1.5カ月から2カ月ほどのお時間を頂戴しておりますが、お品物によっては、上記期間以上のお時間をいただく場合がございます。&lt;br&gt;詳細は、修理担当者がお品物を拝見してからのご案内となります。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="162" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="334" />
+        <entry key="JAPANESE" value="336" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="265" />
+        <entry key="VIETNAMESE" value="267" />
       </map>
     </option>
   </component>
