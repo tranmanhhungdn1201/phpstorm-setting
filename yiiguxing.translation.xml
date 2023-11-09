@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="シルバー" />
       <item value="スタンダード" />
       <item value="レギュラーコード" />
       <item value="Anygift配送先テーブル" />
@@ -49,7 +50,6 @@
       <item value="有り" />
       <item value="金具部分" />
       <item value="ブラックIP" />
-      <item value="シルバー" />
       <item value="商品ペン先" />
       <item value="商品蓋栓飾り" />
       <item value="刻印" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="162" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="341" />
+        <entry key="JAPANESE" value="342" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="272" />
+        <entry key="VIETNAMESE" value="273" />
       </map>
     </option>
   </component>
