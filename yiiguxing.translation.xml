@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="管理者へエラーメールを送る" />
       <item value="ブラックIP" />
       <item value="字幅のデフォルト画像を設定する" />
       <item value="字幅の設定が表示されます" />
@@ -57,16 +58,15 @@
       <item value="金と銀の価格差（税抜" />
       <item value="金とブラックIPの価格差（税抜" />
       <item value="レギュラーと長刀の価格差（税抜" />
-      <item value="ご住所（都道府県）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
         <entry key="ENGLISH" value="163" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="363" />
+        <entry key="JAPANESE" value="364" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="295" />
+        <entry key="VIETNAMESE" value="296" />
       </map>
     </option>
   </component>
