@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="スタンダード" />
+      <item value="レギュラーコード" />
       <item value="Anygift配送先テーブル" />
       <item value="ログタイプ" />
       <item value="anygiftログタイプ" />
@@ -17,7 +19,6 @@
       <item value="交換お申込み" />
       <item value="Expose" />
       <item value="ペン先のデフォルト画像を設定する" />
-      <item value="スタンダード" />
       <item value="コード" />
       <item value="スタンダードコード" />
       <item value="ペン先「レギュラー" />
@@ -39,7 +40,6 @@
       <item value="指定なし" />
       <item value="注文処理を受け付けました。&lt;br&gt; 注文完了後に注文完了メールが届きます。" />
       <item value="ご注文ありがとうございました" />
-      <item value="レギュラーコード" />
       <item value="金と銀の価格差（税抜" />
       <item value="金とブラックIPの価格差（税抜" />
       <item value="レギュラーと長刀の価格差（税抜" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="162" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="337" />
+        <entry key="JAPANESE" value="341" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="268" />
+        <entry key="VIETNAMESE" value="272" />
       </map>
     </option>
   </component>
