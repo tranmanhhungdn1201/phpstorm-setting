@@ -8,11 +8,21 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ブラックIP" />
+      <item value="字幅のデフォルト画像を設定する" />
+      <item value="字幅の設定が表示されます" />
+      <item value="メタリックカラーの設定が表示されます" />
+      <item value="デフォルトのペン先を取り付けます" />
+      <item value="ペン先のデフォルト画像を設定する" />
+      <item value="表示されるペン先の種類を設定します" />
+      <item value="リスト商品が表示できます" />
+      <item value="カスタマイズ可能な製品ID" />
+      <item value="プロダクトIDはプロギアです" />
+      <item value="プロダクトIDはマーブルです" />
       <item value="ブラック" />
       <item value="ゴールド" />
       <item value="シルバー" />
       <item value="スタンダード" />
-      <item value="字幅のデフォルト画像を設定する" />
       <item value="ペンタイプの値を割り当てます" />
       <item value="商品大先" />
       <item value="メタル" />
@@ -25,14 +35,11 @@
       <item value="在庫を戻す" />
       <item value="交換お申込み" />
       <item value="Expose" />
-      <item value="ペン先のデフォルト画像を設定する" />
       <item value="コード" />
       <item value="スタンダードコード" />
       <item value="ペン先「レギュラー" />
       <item value="お届け日時" />
       <item value="判定に用いる支払い方法ID" />
-      <item value="字幅の設定が表示されます" />
-      <item value="メタリックカラーの設定が表示されます" />
       <item value="長刀" />
       <item value="レギュラー" />
       <item value="1: シルバー, 2: ゴールド, 3: ブラック" />
@@ -51,22 +58,15 @@
       <item value="金とブラックIPの価格差（税抜" />
       <item value="レギュラーと長刀の価格差（税抜" />
       <item value="ご住所（都道府県）" />
-      <item value="有り" />
-      <item value="金具部分" />
-      <item value="ブラックIP" />
-      <item value="商品ペン先" />
-      <item value="商品蓋栓飾り" />
-      <item value="刻印" />
-      <item value="サイズ直し" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
         <entry key="ENGLISH" value="163" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="352" />
+        <entry key="JAPANESE" value="363" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="284" />
+        <entry key="VIETNAMESE" value="295" />
       </map>
     </option>
   </component>
