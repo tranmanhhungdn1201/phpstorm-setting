@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Any Gift利用" />
       <item value="任意のギフトアドレスを保存" />
       <item value="登録した属性" />
       <item value="受注属性を登録する" />
@@ -57,16 +58,15 @@
       <item value="判定に用いる支払い方法ID" />
       <item value="長刀" />
       <item value="レギュラー" />
-      <item value="1: シルバー, 2: ゴールド, 3: ブラック" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
+        <entry key="CHINESE" value="22" />
         <entry key="ENGLISH" value="165" />
         <entry key="FILIPINO" value="1" />
         <entry key="JAPANESE" value="376" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="311" />
+        <entry key="VIETNAMESE" value="312" />
       </map>
     </option>
   </component>
