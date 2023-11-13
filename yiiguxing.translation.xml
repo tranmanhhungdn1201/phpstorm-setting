@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699415096771" />
+    <option name="lastTrimTime" value="1699847346622" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="任意のギフトアドレスを保存" />
+      <item value="登録した属性" />
+      <item value="受注属性を登録する" />
       <item value="荷送人名" />
       <item value="国内発送ではない場合はstore情報を設定" />
       <item value="prohibited" />
@@ -55,18 +58,15 @@
       <item value="長刀" />
       <item value="レギュラー" />
       <item value="1: シルバー, 2: ゴールド, 3: ブラック" />
-      <item value="fukidashi" />
-      <item value="細字" />
-      <item value="カスタマイズ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="165" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="373" />
+        <entry key="JAPANESE" value="376" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="308" />
+        <entry key="VIETNAMESE" value="311" />
       </map>
     </option>
   </component>
