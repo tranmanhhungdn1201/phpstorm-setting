@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696654672282" />
+    <option name="lastTrimTime" value="1699847346622" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,63 +8,65 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="extends" />
-      <item value="get social network" />
-      <item value="page canonical" />
-      <item value="塗りつぶし" />
-      <item value="リピート購入11回目以上受注件数" />
-      <item value="リピート購入6回～10回目受注件数" />
-      <item value="リピート購入3回～5回目受注件数" />
-      <item value="対象受注存在判定" />
-      <item value="ゴールド" />
-      <item value="レギュラー" />
-      <item value="商品ペン先" />
-      <item value="商品蓋栓飾り" />
-      <item value="ホワイト" />
-      <item value="画像ファイルのキャッシュ対策用パラメータを付与" />
-      <item value="設定ファイルの内容を上書きしたい" />
-      <item value="リカバリ用（指定日をバッチ実行日としてデータ集計。 ex.2021-11-01 00:00:00）" />
-      <item value="Mobile Detectのインスタンスを設定" />
-      <item value="本番用" />
-      <item value="各色の最初の 2 つの画像を示します" />
-      <item value="商品説明" />
-      <item value="顧客へのメール" />
-      <item value="お問い合わせ完了のお知らせメール送信" />
-      <item value="顧客へのキャンセルメール" />
-      <item value="配送修理受付フォーム" />
-      <item value="商品についてのお問合せ" />
-      <item value="受注コード" />
+      <item value="ノジェス取り扱い店舗" />
+      <item value="Any Gift利用" />
+      <item value="任意のギフトアドレスを保存" />
+      <item value="登録した属性" />
+      <item value="受注属性を登録する" />
+      <item value="荷送人名" />
+      <item value="国内発送ではない場合はstore情報を設定" />
+      <item value="prohibited" />
+      <item value="_convert ots convert prohibited" />
+      <item value="ギフトラッピング選択タイプID　1：受注毎、2：明細毎'," />
+      <item value="配送先情報" />
+      <item value="OTSダウンロードタイプID" />
       <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
-      <item value="スマートペイ注文作成時のエラー。 管理者向け" />
-      <item value="レスポンス" />
-      <item value="CCに設定されているメールアドレスを配列に代入して、一旦クリア" />
-      <item value="全てをTOに代入しなおし" />
-      <item value="デザインと耐久性　この美しさは、やわじゃない" />
-      <item value="から送信されたステータスが成功しなかった場合に通知メールを送信する" />
-      <item value="登録処理中" />
-      <item value="対象商品があるかを判定" />
-      <item value="適用される商品があるか" />
-      <item value="プロモーションが指定された商品に適用されるかを判定" />
-      <item value="プロモーショングループの対象商品が重複している" />
-      <item value="プロモーショングループの対象商品が重複している Parameters:" />
-      <item value="recomputation" />
+      <item value="管理者へエラーメールを送る" />
+      <item value="nygift 作成注文エラー" />
+      <item value="Anygift Webhook 送信者がエラーを受信しました" />
+      <item value="Anygift Webhook ギフト受信エラー', '処理実行時刻" />
+      <item value="ブラックIP" />
+      <item value="字幅のデフォルト画像を設定する" />
+      <item value="字幅の設定が表示されます" />
+      <item value="メタリックカラーの設定が表示されます" />
+      <item value="デフォルトのペン先を取り付けます" />
+      <item value="ペン先のデフォルト画像を設定する" />
+      <item value="表示されるペン先の種類を設定します" />
+      <item value="リスト商品が表示できます" />
+      <item value="カスタマイズ可能な製品ID" />
+      <item value="プロダクトIDはプロギアです" />
+      <item value="プロダクトIDはマーブルです" />
+      <item value="ブラック" />
+      <item value="ゴールド" />
+      <item value="シルバー" />
+      <item value="スタンダード" />
+      <item value="ペンタイプの値を割り当てます" />
+      <item value="商品大先" />
+      <item value="メタル" />
+      <item value="レギュラーコード" />
+      <item value="Anygift配送先テーブル" />
+      <item value="ログタイプ" />
+      <item value="anygiftログタイプ" />
       <item value="RESERVE" />
-      <item value="OUTLET" />
-      <item value="顧客購入履歴を取得" />
-      <item value="楽天ペイ" />
-      <item value="リストを取得" />
-      <item value="子コーディネート" />
-      <item value="親コーディネート" />
-      <item value="コーディネートタイプ" />
-      <item value="コーディネートグループ" />
-      <item value="二件以上同時削除" />
+      <item value="受注情報変更処理" />
+      <item value="在庫を戻す" />
+      <item value="交換お申込み" />
+      <item value="Expose" />
+      <item value="コード" />
+      <item value="スタンダードコード" />
+      <item value="ペン先「レギュラー" />
+      <item value="お届け日時" />
+      <item value="判定に用いる支払い方法ID" />
+      <item value="長刀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="157" />
-        <entry key="JAPANESE" value="193" />
-        <entry key="VIETNAMESE" value="113" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="165" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="JAPANESE" value="378" />
+        <entry key="LATIN" value="1" />
+        <entry key="VIETNAMESE" value="314" />
       </map>
     </option>
   </component>
