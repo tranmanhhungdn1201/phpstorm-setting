@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699847346622" />
+    <option name="lastTrimTime" value="1700476918263" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="フロント非表示カテゴリID(ストア別)" />
+      <item value="NEWの表示期間を設定" />
+      <item value="検索条件がJANのみかつ検索結果が1件の場合、商品詳細へリダイレクト meguri アプリの場合、上記に加え utm_source・utm_medium が設定されていればリダイレクト" />
       <item value="裏面有りの品番を取得" />
       <item value="is Individual" />
       <item value="お届け日時指定" />
@@ -55,18 +58,15 @@
       <item value="在庫を戻す" />
       <item value="交換お申込み" />
       <item value="Expose" />
-      <item value="コード" />
-      <item value="スタンダードコード" />
-      <item value="ペン先「レギュラー" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
         <entry key="ENGLISH" value="166" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="380" />
+        <entry key="JAPANESE" value="384" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="317" />
+        <entry key="VIETNAMESE" value="321" />
       </map>
     </option>
   </component>
