@@ -8,6 +8,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Anygift ID" />
+      <item value="Anygift受取URL" />
+      <item value="このアイテムは e Gift として送信できません。" />
+      <item value="通常購入とe Giftで贈る商品を同時に購入できません。" />
+      <item value="すでにe Giftで贈る商品がカートに入っています" />
+      <item value="e-Gift Card利用" />
+      <item value="eギフト受取URL" />
+      <item value="eギフトID" />
       <item value="フロント非表示カテゴリID(ストア別)" />
       <item value="NEWの表示期間を設定" />
       <item value="検索条件がJANのみかつ検索結果が1件の場合、商品詳細へリダイレクト meguri アプリの場合、上記に加え utm_source・utm_medium が設定されていればリダイレクト" />
@@ -50,23 +58,15 @@
       <item value="商品大先" />
       <item value="メタル" />
       <item value="レギュラーコード" />
-      <item value="Anygift配送先テーブル" />
-      <item value="ログタイプ" />
-      <item value="anygiftログタイプ" />
-      <item value="RESERVE" />
-      <item value="受注情報変更処理" />
-      <item value="在庫を戻す" />
-      <item value="交換お申込み" />
-      <item value="Expose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="384" />
+        <entry key="JAPANESE" value="390" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="321" />
+        <entry key="VIETNAMESE" value="329" />
       </map>
     </option>
   </component>
