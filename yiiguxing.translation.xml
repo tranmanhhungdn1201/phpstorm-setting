@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="engrave type" />
+      <item value="裏面" />
+      <item value="表面" />
       <item value="別のカテゴリで検索するときに拡張カテゴリを追加する" />
       <item value="Anygift ID" />
       <item value="Anygift受取URL" />
@@ -55,18 +58,15 @@
       <item value="ゴールド" />
       <item value="シルバー" />
       <item value="スタンダード" />
-      <item value="ペンタイプの値を割り当てます" />
-      <item value="商品大先" />
-      <item value="メタル" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="168" />
         <entry key="FILIPINO" value="1" />
         <entry key="JAPANESE" value="391" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="330" />
+        <entry key="VIETNAMESE" value="333" />
       </map>
     </option>
   </component>
