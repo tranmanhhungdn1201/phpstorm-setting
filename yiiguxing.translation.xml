@@ -8,6 +8,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="定型文" />
+      <item value="message reverse group only" />
+      <item value="自由入力" />
+      <item value="自由入力文字" />
+      <item value="刻印なし" />
       <item value="刻印する文字の入力と、留めるストーンを選択してください。" />
       <item value="engrave type" />
       <item value="裏面" />
@@ -53,20 +58,15 @@
       <item value="表示されるペン先の種類を設定します" />
       <item value="リスト商品が表示できます" />
       <item value="カスタマイズ可能な製品ID" />
-      <item value="プロダクトIDはプロギアです" />
-      <item value="プロダクトIDはマーブルです" />
-      <item value="ブラック" />
-      <item value="ゴールド" />
-      <item value="シルバー" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="169" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="392" />
+        <entry key="JAPANESE" value="395" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="334" />
+        <entry key="VIETNAMESE" value="340" />
       </map>
     </option>
   </component>
