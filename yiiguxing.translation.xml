@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ヒエログリフ" />
+      <item value="Engrave Type" />
+      <item value="Engrave" />
       <item value="定型文" />
       <item value="message reverse group only" />
       <item value="自由入力" />
@@ -55,18 +58,15 @@
       <item value="メタリックカラーの設定が表示されます" />
       <item value="デフォルトのペン先を取り付けます" />
       <item value="ペン先のデフォルト画像を設定する" />
-      <item value="表示されるペン先の種類を設定します" />
-      <item value="リスト商品が表示できます" />
-      <item value="カスタマイズ可能な製品ID" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="395" />
+        <entry key="JAPANESE" value="396" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="340" />
+        <entry key="VIETNAMESE" value="343" />
       </map>
     </option>
   </component>
