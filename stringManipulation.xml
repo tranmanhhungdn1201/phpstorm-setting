@@ -66,9 +66,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
-        <option name="description" value="Toggle: snake_case / camelCase" />
-        <option name="textWithMnemonic" value="snake_case / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
+        <option name="description" value="Keep first number, replace all other by incrementing. Carets without a selection will add a number." />
+        <option name="textWithMnemonic" value="Create Sequence" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
