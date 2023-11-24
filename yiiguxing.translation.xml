@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="定型文ポップアップの表示" />
       <item value="ガーネット（牡羊座）" />
       <item value="set none engrave img" />
       <item value="刻印なし" />
@@ -57,16 +58,15 @@
       <item value="Anygift Webhook 送信者がエラーを受信しました" />
       <item value="Anygift Webhook ギフト受信エラー', '処理実行時刻" />
       <item value="ブラックIP" />
-      <item value="字幅のデフォルト画像を設定する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="174" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="398" />
+        <entry key="JAPANESE" value="399" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="348" />
+        <entry key="VIETNAMESE" value="349" />
       </map>
     </option>
   </component>
