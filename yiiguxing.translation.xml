@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="刻印する文字の入力と、留めるストーンを選択してください。" />
       <item value="engrave type" />
       <item value="裏面" />
       <item value="表面" />
@@ -57,16 +58,15 @@
       <item value="ブラック" />
       <item value="ゴールド" />
       <item value="シルバー" />
-      <item value="スタンダード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="168" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="391" />
+        <entry key="JAPANESE" value="392" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="333" />
+        <entry key="VIETNAMESE" value="334" />
       </map>
     </option>
   </component>
