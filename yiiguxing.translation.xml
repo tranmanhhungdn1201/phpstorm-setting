@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Capricorn" />
+      <item value="ルビー" />
+      <item value="牡羊座" />
       <item value="シリーズ" />
       <item value="カテゴリーのシリーズタグを表示" />
       <item value="シリーズタグを表示するカテゴリーID" />
@@ -55,18 +58,15 @@
       <item value="ギフトラッピング選択タイプID　1：受注毎、2：明細毎'," />
       <item value="配送先情報" />
       <item value="OTSダウンロードタイプID" />
-      <item value="エラー応答を受信したときに管理者に電子メール通知を送信する" />
-      <item value="管理者へエラーメールを送る" />
-      <item value="nygift 作成注文エラー" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="175" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="402" />
+        <entry key="JAPANESE" value="403" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="352" />
+        <entry key="VIETNAMESE" value="355" />
       </map>
     </option>
   </component>
