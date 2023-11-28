@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カートにすでに商品が入っている場合C" />
+      <item value="商品がギフトに使用できるかどうかを確認してください" />
+      <item value="このアイテムは e Gift で購入できません。" />
       <item value="カスタマイズをチェックする" />
       <item value="ガーネット" />
       <item value="牡羊座" />
@@ -55,18 +58,15 @@
       <item value="登録した属性" />
       <item value="受注属性を登録する" />
       <item value="荷送人名" />
-      <item value="国内発送ではない場合はstore情報を設定" />
-      <item value="prohibited" />
-      <item value="_convert ots convert prohibited" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="175" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="408" />
+        <entry key="JAPANESE" value="411" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="363" />
+        <entry key="VIETNAMESE" value="366" />
       </map>
     </option>
   </component>
