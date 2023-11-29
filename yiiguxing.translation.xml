@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Leave blank if wanna use auto detective" />
       <item value="刻印なし" />
       <item value="chipedの刻印を入れる" />
       <item value="裏面" />
@@ -57,16 +58,15 @@
       <item value="Any Gift利用" />
       <item value="任意のギフトアドレスを保存" />
       <item value="登録した属性" />
-      <item value="受注属性を登録する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="ENGLISH" value="176" />
         <entry key="FILIPINO" value="1" />
         <entry key="JAPANESE" value="413" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="369" />
+        <entry key="VIETNAMESE" value="370" />
       </map>
     </option>
   </component>
