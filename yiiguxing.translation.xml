@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="engrave reverse type" />
+      <item value="engrave message code" />
+      <item value="engrave reverse font code" />
       <item value="Leave blank if wanna use auto detective" />
       <item value="刻印なし" />
       <item value="chipedの刻印を入れる" />
@@ -28,7 +31,6 @@
       <item value="ガーネット（牡羊座）" />
       <item value="set none engrave img" />
       <item value="form reverse text type 1" />
-      <item value="engrave reverse type" />
       <item value="ヒエログリフ" />
       <item value="Engrave Type" />
       <item value="Engrave" />
@@ -56,17 +58,15 @@
       <item value="お届け日時指定" />
       <item value="ノジェス取り扱い店舗" />
       <item value="Any Gift利用" />
-      <item value="任意のギフトアドレスを保存" />
-      <item value="登録した属性" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="ENGLISH" value="180" />
         <entry key="FILIPINO" value="1" />
         <entry key="JAPANESE" value="413" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="370" />
+        <entry key="VIETNAMESE" value="374" />
       </map>
     </option>
   </component>
