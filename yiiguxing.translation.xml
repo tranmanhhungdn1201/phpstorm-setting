@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="注文履歴／配送状況確認" />
+      <item value="ご注文内容の確認・変更ページ" />
       <item value="engrave reverse type" />
       <item value="engrave message code" />
       <item value="engrave reverse font code" />
@@ -56,17 +58,15 @@
       <item value="裏面有りの品番を取得" />
       <item value="is Individual" />
       <item value="お届け日時指定" />
-      <item value="ノジェス取り扱い店舗" />
-      <item value="Any Gift利用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
         <entry key="ENGLISH" value="180" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="413" />
+        <entry key="JAPANESE" value="415" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="374" />
+        <entry key="VIETNAMESE" value="376" />
       </map>
     </option>
   </component>
