@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="設定済" />
+      <item value="未設定です" />
+      <item value="ストーン" />
+      <item value="刻印（内側）" />
+      <item value="裏面" />
+      <item value="表面" />
       <item value="reverse flag" />
       <item value="文字入力(microchippedの選択がある場合は未入力でも可)" />
       <item value="注文履歴／配送状況確認" />
@@ -18,7 +24,6 @@
       <item value="Leave blank if wanna use auto detective" />
       <item value="刻印なし" />
       <item value="chipedの刻印を入れる" />
-      <item value="裏面" />
       <item value="カートにすでに商品が入っている場合C" />
       <item value="商品がギフトに使用できるかどうかを確認してください" />
       <item value="このアイテムは e Gift で購入できません。" />
@@ -44,7 +49,6 @@
       <item value="自由入力文字" />
       <item value="刻印する文字の入力と、留めるストーンを選択してください。" />
       <item value="engrave type" />
-      <item value="表面" />
       <item value="別のカテゴリで検索するときに拡張カテゴリを追加する" />
       <item value="Anygift ID" />
       <item value="Anygift受取URL" />
@@ -54,19 +58,15 @@
       <item value="e-Gift Card利用" />
       <item value="eギフト受取URL" />
       <item value="eギフトID" />
-      <item value="フロント非表示カテゴリID(ストア別)" />
-      <item value="NEWの表示期間を設定" />
-      <item value="検索条件がJANのみかつ検索結果が1件の場合、商品詳細へリダイレクト meguri アプリの場合、上記に加え utm_source・utm_medium が設定されていればリダイレクト" />
-      <item value="裏面有りの品番を取得" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="181" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="417" />
+        <entry key="JAPANESE" value="421" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="379" />
+        <entry key="VIETNAMESE" value="385" />
       </map>
     </option>
   </component>
