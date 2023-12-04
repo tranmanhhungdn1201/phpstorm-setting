@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701052954464" />
+    <option name="lastTrimTime" value="1701658817587" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ポイント付与最終日" />
+      <item value="ポイントご利用の皆様最終日" />
       <item value="未設定です" />
       <item value="設定済" />
       <item value="ストーン" />
@@ -56,17 +58,15 @@
       <item value="通常購入とe Giftで贈る商品を同時に購入できません。" />
       <item value="すでにe Giftで贈る商品がカートに入っています" />
       <item value="e-Gift Card利用" />
-      <item value="eギフト受取URL" />
-      <item value="eギフトID" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="181" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="422" />
+        <entry key="JAPANESE" value="424" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="386" />
+        <entry key="VIETNAMESE" value="388" />
       </map>
     </option>
   </component>
