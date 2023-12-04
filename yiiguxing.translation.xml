@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ご選択いただいた定型文の商品イメージは参考画像となります" />
+      <item value="刻印内容(裏面)" />
       <item value="刻印テキストの設定" />
       <item value="刻印テキストの設定(裏面)" />
       <item value="定型文も未使用になった為、文字入力を指定" />
@@ -56,17 +58,15 @@
       <item value="set none engrave img" />
       <item value="form reverse text type 1" />
       <item value="ヒエログリフ" />
-      <item value="Engrave Type" />
-      <item value="Engrave" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="185" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="437" />
+        <entry key="JAPANESE" value="439" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="407" />
+        <entry key="VIETNAMESE" value="409" />
       </map>
     </option>
   </component>
