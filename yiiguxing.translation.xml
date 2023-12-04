@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="stamped Text" />
+      <item value="刻印書体(裏面)" />
       <item value="ご選択いただいた定型文の商品イメージは参考画像となります" />
       <item value="刻印内容(裏面)" />
       <item value="刻印テキストの設定" />
@@ -56,17 +58,15 @@
       <item value="定型文ポップアップの表示" />
       <item value="ガーネット（牡羊座）" />
       <item value="set none engrave img" />
-      <item value="form reverse text type 1" />
-      <item value="ヒエログリフ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="439" />
+        <entry key="JAPANESE" value="440" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="409" />
+        <entry key="VIETNAMESE" value="411" />
       </map>
     </option>
   </component>
