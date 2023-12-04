@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="刻印内容" />
+      <item value="刻印書体" />
+      <item value="表面" />
       <item value="未設定です" />
       <item value="form engrave reverse text" />
       <item value="メッセージ入力" />
@@ -15,7 +18,6 @@
       <item value="engrave type" />
       <item value="engrave reverse message code" />
       <item value="文字入力(microchippedの選択がある場合は未入力でも可)" />
-      <item value="表面" />
       <item value="刻印テキスト" />
       <item value="ポイント付与最終日" />
       <item value="ポイントご利用の皆様最終日" />
@@ -56,17 +58,15 @@
       <item value="自由入力" />
       <item value="自由入力文字" />
       <item value="刻印する文字の入力と、留めるストーンを選択してください。" />
-      <item value="別のカテゴリで検索するときに拡張カテゴリを追加する" />
-      <item value="Anygift ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="185" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="430" />
+        <entry key="JAPANESE" value="432" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="399" />
+        <entry key="VIETNAMESE" value="402" />
       </map>
     </option>
   </component>
