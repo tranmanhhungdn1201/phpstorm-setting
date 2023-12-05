@@ -8,6 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="engrave stone type" />
+      <item value="カスタマイズ刻印タイプ" />
+      <item value="カスタマイズ刻印フラグ" />
+      <item value="カスタマイズ刻印フォント(裏面)" />
+      <item value="カスタマイズ刻印タイプ(裏面)" />
+      <item value="use reverse commodity number" />
+      <item value="with your charm flag" />
       <item value="テキストグループとヒエログリフの設定" />
       <item value="定型文" />
       <item value="カスタマイズできない組み合わせです" />
@@ -51,22 +58,15 @@
       <item value="刻印なし" />
       <item value="chipedの刻印を入れる" />
       <item value="カートにすでに商品が入っている場合C" />
-      <item value="商品がギフトに使用できるかどうかを確認してください" />
-      <item value="このアイテムは e Gift で購入できません。" />
-      <item value="カスタマイズをチェックする" />
-      <item value="ガーネット" />
-      <item value="牡羊座" />
-      <item value="裏面の処理" />
-      <item value="Capricorn" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="448" />
+        <entry key="JAPANESE" value="452" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="420" />
+        <entry key="VIETNAMESE" value="427" />
       </map>
     </option>
   </component>
