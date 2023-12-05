@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ストーン有り" />
+      <item value="刻印タイプの設定(裏面) 定型文も未使用になった為、文字入力を指定" />
+      <item value="自由入力文字" />
+      <item value="刻印なし" />
       <item value="カスタマイズ商品フォントコード" />
       <item value="刻印書体" />
       <item value="engrave stone type" />
@@ -32,7 +36,6 @@
       <item value="刻印テキストの設定(裏面)" />
       <item value="定型文も未使用になった為、文字入力を指定" />
       <item value="刻印タイプの設定(裏面)" />
-      <item value="刻印タイプの設定(裏面) 定型文も未使用になった為、文字入力を指定" />
       <item value="刻印内容" />
       <item value="表面" />
       <item value="未設定です" />
@@ -55,18 +58,15 @@
       <item value="engrave reverse type" />
       <item value="engrave message code" />
       <item value="engrave reverse font code" />
-      <item value="Leave blank if wanna use auto detective" />
-      <item value="刻印なし" />
-      <item value="chipedの刻印を入れる" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="189" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="454" />
+        <entry key="JAPANESE" value="459" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="429" />
+        <entry key="VIETNAMESE" value="434" />
       </map>
     </option>
   </component>
