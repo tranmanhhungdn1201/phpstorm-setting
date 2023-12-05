@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カスタマイズされた石のコード" />
       <item value="ストーン有り" />
       <item value="刻印タイプの設定(裏面) 定型文も未使用になった為、文字入力を指定" />
       <item value="自由入力文字" />
@@ -57,16 +58,15 @@
       <item value="ご注文内容の確認・変更ページ" />
       <item value="engrave reverse type" />
       <item value="engrave message code" />
-      <item value="engrave reverse font code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="189" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="459" />
+        <entry key="JAPANESE" value="460" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="434" />
+        <entry key="VIETNAMESE" value="435" />
       </map>
     </option>
   </component>
