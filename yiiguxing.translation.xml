@@ -8,6 +8,16 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="アイオライト" />
+      <item value="タンザナイト" />
+      <item value="ブルートパーズ" />
+      <item value="エメラルド" />
+      <item value="グリーントルマリン" />
+      <item value="ムーンストーン" />
+      <item value="ピンクサイファイア" />
+      <item value="ガーネット" />
+      <item value="ルビー" />
+      <item value="シトリン" />
       <item value="裏面の処理を追加" />
       <item value="カスタマイズされた石のコード" />
       <item value="ストーン有り" />
@@ -48,25 +58,15 @@
       <item value="engrave reverse message code" />
       <item value="文字入力(microchippedの選択がある場合は未入力でも可)" />
       <item value="刻印テキスト" />
-      <item value="ポイント付与最終日" />
-      <item value="ポイントご利用の皆様最終日" />
-      <item value="設定済" />
-      <item value="ストーン" />
-      <item value="刻印（内側）" />
-      <item value="裏面" />
-      <item value="reverse flag" />
-      <item value="注文履歴／配送状況確認" />
-      <item value="ご注文内容の確認・変更ページ" />
-      <item value="engrave reverse type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="461" />
+        <entry key="JAPANESE" value="473" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="436" />
+        <entry key="VIETNAMESE" value="448" />
       </map>
     </option>
   </component>
