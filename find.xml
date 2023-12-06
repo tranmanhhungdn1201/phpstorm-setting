@@ -19,8 +19,8 @@
     <mask>*.html</mask>
     <mask>*blade.php</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
