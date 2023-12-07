@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="レタリングカスタマイズ受注のお知らせ" />
       <item value="裏面" />
       <item value="半角英数字または一部記号" />
       <item value="刻印（内側）" />
@@ -57,16 +58,15 @@
       <item value="定型文も未使用になった為、文字入力を指定" />
       <item value="刻印タイプの設定(裏面)" />
       <item value="刻印内容" />
-      <item value="未設定です" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="193" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="480" />
+        <entry key="JAPANESE" value="481" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="461" />
+        <entry key="VIETNAMESE" value="462" />
       </map>
     </option>
   </component>
