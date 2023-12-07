@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="{ cart.jsで再描画しているため変更時はcart.jsも変更すること！ }" />
       <item value="定型文画像" />
       <item value="アイオライト" />
       <item value="タンザナイト" />
@@ -57,16 +58,15 @@
       <item value="engrave type" />
       <item value="engrave reverse message code" />
       <item value="文字入力(microchippedの選択がある場合は未入力でも可)" />
-      <item value="刻印テキスト" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="193" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="475" />
+        <entry key="JAPANESE" value="476" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="450" />
+        <entry key="VIETNAMESE" value="451" />
       </map>
     </option>
   </component>
