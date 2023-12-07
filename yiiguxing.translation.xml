@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="刻印フラグ" />
+      <item value="カスタマイズされた石のテキスト" />
+      <item value="トップページリニューアル2023" />
       <item value="レタリングカスタマイズ受注のお知らせ" />
       <item value="裏面" />
       <item value="半角英数字または一部記号" />
@@ -55,18 +58,15 @@
       <item value="刻印内容(裏面)" />
       <item value="刻印テキストの設定" />
       <item value="刻印テキストの設定(裏面)" />
-      <item value="定型文も未使用になった為、文字入力を指定" />
-      <item value="刻印タイプの設定(裏面)" />
-      <item value="刻印内容" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="193" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="481" />
+        <entry key="JAPANESE" value="484" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="462" />
+        <entry key="VIETNAMESE" value="465" />
       </map>
     </option>
   </component>
