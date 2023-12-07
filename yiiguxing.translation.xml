@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="定型文画像" />
       <item value="アイオライト" />
       <item value="タンザナイト" />
       <item value="ブルートパーズ" />
@@ -39,7 +40,6 @@
       <item value="カスタマイズ商品分類" />
       <item value="表示画像の設定" />
       <item value="商品画像" />
-      <item value="定型文画像" />
       <item value="stamped Text" />
       <item value="刻印書体(裏面)" />
       <item value="ご選択いただいた定型文の商品イメージは参考画像となります" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="193" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="473" />
+        <entry key="JAPANESE" value="475" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="448" />
+        <entry key="VIETNAMESE" value="450" />
       </map>
     </option>
   </component>
