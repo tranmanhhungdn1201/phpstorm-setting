@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="anygift 情報を order_customer_attributes に追加します" />
       <item value="ギフト受信エラー" />
       <item value="送信者がエラーを受信しました" />
       <item value="anygift Webhook 送信者がエラーを受信しました。 管理者向け" />
@@ -57,16 +58,15 @@
       <item value="定型文" />
       <item value="カスタマイズできない組み合わせです" />
       <item value="カスタマイズ商品分類" />
-      <item value="表示画像の設定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="194" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="494" />
+        <entry key="JAPANESE" value="495" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="475" />
+        <entry key="VIETNAMESE" value="476" />
       </map>
     </option>
   </component>
