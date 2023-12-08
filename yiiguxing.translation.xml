@@ -8,12 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="n支払いに失敗しました" />
       <item value="成功を生み出す" />
       <item value="anygift 情報を order_customer_attributes に追加します" />
       <item value="ギフト受信エラー" />
       <item value="送信者がエラーを受信しました" />
       <item value="anygift Webhook 送信者がエラーを受信しました。 管理者向け" />
-      <item value="n支払いに失敗しました" />
       <item value="処理実行時刻" />
       <item value="Anygift Webhook 送信者がエラーを受信しました" />
       <item value="{レタリングカスタマイズ イニシャル シグネットスキニー リング}" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="194" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="497" />
+        <entry key="JAPANESE" value="498" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="478" />
+        <entry key="VIETNAMESE" value="479" />
       </map>
     </option>
   </component>
