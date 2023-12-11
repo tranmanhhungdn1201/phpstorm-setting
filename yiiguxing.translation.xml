@@ -8,12 +8,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="確認済み" />
+      <item value="期限切れ" />
+      <item value="成功を生み出す" />
       <item value="注文顧客が「anygift」の場合、データ anygift_address を取得します" />
       <item value="出荷先電話番号" />
       <item value="出荷先郵便番号" />
       <item value="荷送人名" />
       <item value="n支払いに失敗しました" />
-      <item value="成功を生み出す" />
       <item value="anygift 情報を order_customer_attributes に追加します" />
       <item value="ギフト受信エラー" />
       <item value="送信者がエラーを受信しました" />
@@ -56,17 +58,15 @@
       <item value="カスタマイズ刻印タイプ" />
       <item value="カスタマイズ刻印フラグ" />
       <item value="カスタマイズ刻印フォント(裏面)" />
-      <item value="カスタマイズ刻印タイプ(裏面)" />
-      <item value="use reverse commodity number" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="194" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="501" />
+        <entry key="JAPANESE" value="505" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="483" />
+        <entry key="VIETNAMESE" value="487" />
       </map>
     </option>
   </component>
