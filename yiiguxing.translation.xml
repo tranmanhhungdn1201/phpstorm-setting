@@ -8,6 +8,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="レンタル商品をチェックする" />
+      <item value="予約商品をチェックする" />
+      <item value="レンタル商品" />
+      <item value="レンタルをチェックする" />
+      <item value="サイズを確認_備考" />
+      <item value="カスタマイズをチェックする" />
+      <item value="rental category ids" />
+      <item value="array intersect" />
+      <item value="予約商品エラー" />
+      <item value="すでにカートに入っている商品と同じパラメータ anygif_flag 値で新しい商品を検証します" />
+      <item value="商品がギフトに使用できるかどうかを確認してください" />
+      <item value="カートにすでに商品が入っている場合" />
       <item value="確認済み" />
       <item value="期限切れ" />
       <item value="成功を生み出す" />
@@ -46,27 +58,15 @@
       <item value="ガーネット" />
       <item value="ルビー" />
       <item value="シトリン" />
-      <item value="裏面の処理を追加" />
-      <item value="カスタマイズされた石のコード" />
-      <item value="ストーン有り" />
-      <item value="刻印タイプの設定(裏面) 定型文も未使用になった為、文字入力を指定" />
-      <item value="自由入力文字" />
-      <item value="刻印なし" />
-      <item value="カスタマイズ商品フォントコード" />
-      <item value="刻印書体" />
-      <item value="engrave stone type" />
-      <item value="カスタマイズ刻印タイプ" />
-      <item value="カスタマイズ刻印フラグ" />
-      <item value="カスタマイズ刻印フォント(裏面)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="196" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="505" />
+        <entry key="JAPANESE" value="522" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="487" />
+        <entry key="VIETNAMESE" value="506" />
       </map>
     </option>
   </component>
