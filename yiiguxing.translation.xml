@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="管理者へエラーメールを送る" />
+      <item value="anygift 情報を order_customer_attributes に追加します" />
+      <item value="お問い合わせからご連絡ください" />
+      <item value="決済を完了する事が出来ませんでした" />
+      <item value="決済前後のエラー取得" />
+      <item value="ECで注文を作成した後、anygiftでの注文の作成を処理します" />
       <item value="レンタル商品をチェックする" />
       <item value="予約商品をチェックする" />
       <item value="レンタル商品" />
@@ -28,7 +34,6 @@
       <item value="出荷先郵便番号" />
       <item value="荷送人名" />
       <item value="n支払いに失敗しました" />
-      <item value="anygift 情報を order_customer_attributes に追加します" />
       <item value="ギフト受信エラー" />
       <item value="送信者がエラーを受信しました" />
       <item value="anygift Webhook 送信者がエラーを受信しました。 管理者向け" />
@@ -53,20 +58,15 @@
       <item value="ブルートパーズ" />
       <item value="エメラルド" />
       <item value="グリーントルマリン" />
-      <item value="ムーンストーン" />
-      <item value="ピンクサイファイア" />
-      <item value="ガーネット" />
-      <item value="ルビー" />
-      <item value="シトリン" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="196" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="522" />
+        <entry key="JAPANESE" value="529" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="506" />
+        <entry key="VIETNAMESE" value="513" />
       </map>
     </option>
   </component>
