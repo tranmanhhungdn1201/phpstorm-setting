@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="レンタルのカテゴリー" />
       <item value="注文キャンセル時のエラー" />
       <item value="anygift 情報を order_customer_attributes に追加します" />
       <item value="配送保留" />
@@ -57,16 +58,15 @@
       <item value="数量" />
       <item value="{ cart.jsで再描画しているため変更時はcart.jsも変更すること！ }" />
       <item value="定型文画像" />
-      <item value="アイオライト" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
         <entry key="ENGLISH" value="196" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="535" />
+        <entry key="JAPANESE" value="537" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="520" />
+        <entry key="VIETNAMESE" value="522" />
       </map>
     </option>
   </component>
