@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="通常ギフトパッケージ" />
       <item value="eligible" />
       <item value="e Giftの贈り方" />
       <item value="e Giftとは" />
@@ -57,16 +58,15 @@
       <item value="{レタリングカスタマイズ イニシャル シグネットスキニー リング}" />
       <item value="刻印フラグ" />
       <item value="カスタマイズされた石のテキスト" />
-      <item value="トップページリニューアル2023" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
         <entry key="ENGLISH" value="199" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="546" />
+        <entry key="JAPANESE" value="547" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="533" />
+        <entry key="VIETNAMESE" value="534" />
       </map>
     </option>
   </component>
