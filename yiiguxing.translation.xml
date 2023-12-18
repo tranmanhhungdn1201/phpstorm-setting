@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702267240094" />
+    <option name="lastTrimTime" value="1702890371202" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Prepend Current Sheet" />
       <item value="get currency unit" />
       <item value="通常ギフトパッケージ" />
       <item value="eligible" />
@@ -57,16 +58,15 @@
       <item value="処理実行時刻" />
       <item value="Anygift Webhook 送信者がエラーを受信しました" />
       <item value="{レタリングカスタマイズ イニシャル シグネットスキニー リング}" />
-      <item value="刻印フラグ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="FILIPINO" value="1" />
         <entry key="JAPANESE" value="547" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="535" />
+        <entry key="VIETNAMESE" value="536" />
       </map>
     </option>
   </component>
