@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="すでにカートに入っている商品と同じパラメータ anygif_flag 値で新しい商品を検証します" />
       <item value="天秤座" />
       <item value="嫁座" />
       <item value="Prepend Current Sheet" />
@@ -43,7 +44,6 @@
       <item value="rental category ids" />
       <item value="array intersect" />
       <item value="予約商品エラー" />
-      <item value="すでにカートに入っている商品と同じパラメータ anygif_flag 値で新しい商品を検証します" />
       <item value="商品がギフトに使用できるかどうかを確認してください" />
       <item value="カートにすでに商品が入っている場合" />
       <item value="確認済み" />
@@ -64,9 +64,9 @@
         <entry key="CHINESE" value="47" />
         <entry key="ENGLISH" value="201" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="547" />
+        <entry key="JAPANESE" value="548" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="538" />
+        <entry key="VIETNAMESE" value="539" />
       </map>
     </option>
   </component>
