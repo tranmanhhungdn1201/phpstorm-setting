@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ピンクサイファイア" />
       <item value="すでにカートに入っている商品と同じパラメータ anygif_flag 値で新しい商品を検証します" />
       <item value="天秤座" />
       <item value="嫁座" />
@@ -57,16 +58,15 @@
       <item value="ギフト受信エラー" />
       <item value="送信者がエラーを受信しました" />
       <item value="anygift Webhook 送信者がエラーを受信しました。 管理者向け" />
-      <item value="処理実行時刻" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="47" />
         <entry key="ENGLISH" value="201" />
         <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="548" />
+        <entry key="JAPANESE" value="549" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="539" />
+        <entry key="VIETNAMESE" value="540" />
       </map>
     </option>
   </component>
