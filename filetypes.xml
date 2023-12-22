@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="apache" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
@@ -14,6 +14,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="es" approved="true" type="ActionScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext=".model" type="Tabnine project model file" />
