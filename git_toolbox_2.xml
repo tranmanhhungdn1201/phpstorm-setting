@@ -1,0 +1,7 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="checkPushed" value="false" />
+    <option name="checkUncommittedFiles" value="false" />
+    <option name="startupNotificationVersion" value="1" />
+  </component>
+</application>

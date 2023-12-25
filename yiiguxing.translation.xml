@@ -1,0 +1,17 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1703228931960" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Any Gift（info@anygift.jp）からのメールに記載がございます「eギフト受け取りURL」をお相手にお知らせください。" />
+      <item value="購入完了後" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="JAPANESE" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
