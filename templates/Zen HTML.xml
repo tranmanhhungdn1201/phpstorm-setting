@@ -1,8 +1,0 @@
-<templateSet group="Zen HTML">
-  <template name="comb" value="&lt;!-- begin:: $EDIT$ --&gt;&#10;&#10;&lt;!-- end:: $EDIT$ --&gt;" description="comment block" toReformat="false" toShortenFQNames="true">
-    <variable name="EDIT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>

@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeGlance Pro">
-    <option name="diffWidth" value="63" />
-    <option name="mainWidth" value="85" />
-    <option name="mouseWheelMoveEditorToolTip" value="true" />
-    <option name="previewWidth" value="74" />
-    <option name="showFilterMarkupHighlight" value="false" />
-  </component>
-</application>
