@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
       <item value="在庫アップロードタイプID" />
       <item value="更新用データ" />
       <item value="最新のファイルのみ処理" />
@@ -18,9 +19,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
         <entry key="JAPANESE" value="7" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
   </component>
