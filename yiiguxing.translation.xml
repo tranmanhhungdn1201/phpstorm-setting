@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="在庫アップロードタイプID" />
+      <item value="更新用データ" />
+      <item value="最新のファイルのみ処理" />
+      <item value="OTSが在庫ファイルを配置するのは金曜日のみのため金曜日以外はアラートを抑止" />
       <item value="多重起動の制御を行う" />
       <item value="Any Gift（info@anygift.jp）からのメールに記載がございます「eギフト受け取りURL」をお相手にお知らせください。" />
       <item value="購入完了後" />
@@ -15,8 +19,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="JAPANESE" value="3" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="JAPANESE" value="7" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
