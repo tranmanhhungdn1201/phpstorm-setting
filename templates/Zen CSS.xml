@@ -1,8 +1,0 @@
-<templateSet group="Zen CSS">
-  <template name="comb" value="/**** Start $EDIT$ ****/&#10;    &#10;/**** End $EDIT$ ****/" description="comment block" toReformat="false" toShortenFQNames="true">
-    <variable name="EDIT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="CSS_RULESET_LIST" value="true" />
-    </context>
-  </template>
-</templateSet>

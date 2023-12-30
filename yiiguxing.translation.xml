@@ -1,72 +1,28 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702890371202" />
+    <option name="lastTrimTime" value="1703665415043" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="VIETNAMESE" />
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="primaryLanguage" value="ENGLISH" />
+    <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="設定済" />
-      <item value="未設定です" />
-      <item value="ピンクサイファイア" />
-      <item value="すでにカートに入っている商品と同じパラメータ anygif_flag 値で新しい商品を検証します" />
-      <item value="天秤座" />
-      <item value="嫁座" />
-      <item value="Prepend Current Sheet" />
-      <item value="get currency unit" />
-      <item value="通常ギフトパッケージ" />
-      <item value="eligible" />
-      <item value="e Giftの贈り方" />
-      <item value="e Giftとは" />
-      <item value="送り状番号" />
-      <item value="配送業者" />
-      <item value="変更" />
-      <item value="カート情報を更新" />
-      <item value="同じ商品がない場合は追加" />
-      <item value="予約商品をチェックする" />
-      <item value="チェックグッズはどんなギフトにも使えます" />
-      <item value="RESERVE" />
-      <item value="レンタルのカテゴリー" />
-      <item value="注文キャンセル時のエラー" />
-      <item value="anygift 情報を order_customer_attributes に追加します" />
-      <item value="配送保留" />
-      <item value="受注の状態を配送準備完了" />
-      <item value="注文のステータスを変更する" />
-      <item value="管理者へエラーメールを送る" />
-      <item value="お問い合わせからご連絡ください" />
-      <item value="決済を完了する事が出来ませんでした" />
-      <item value="決済前後のエラー取得" />
-      <item value="ECで注文を作成した後、anygiftでの注文の作成を処理します" />
-      <item value="レンタル商品をチェックする" />
-      <item value="レンタル商品" />
-      <item value="レンタルをチェックする" />
-      <item value="サイズを確認_備考" />
-      <item value="カスタマイズをチェックする" />
-      <item value="rental category ids" />
-      <item value="array intersect" />
-      <item value="予約商品エラー" />
-      <item value="商品がギフトに使用できるかどうかを確認してください" />
-      <item value="カートにすでに商品が入っている場合" />
-      <item value="確認済み" />
-      <item value="期限切れ" />
-      <item value="成功を生み出す" />
-      <item value="注文顧客が「anygift」の場合、データ anygift_address を取得します" />
-      <item value="出荷先電話番号" />
-      <item value="出荷先郵便番号" />
-      <item value="荷送人名" />
-      <item value="n支払いに失敗しました" />
-      <item value="ギフト受信エラー" />
+      <item value="collapse" />
+      <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
+      <item value="在庫アップロードタイプID" />
+      <item value="更新用データ" />
+      <item value="最新のファイルのみ処理" />
+      <item value="OTSが在庫ファイルを配置するのは金曜日のみのため金曜日以外はアラートを抑止" />
+      <item value="多重起動の制御を行う" />
+      <item value="Any Gift（info@anygift.jp）からのメールに記載がございます「eギフト受け取りURL」をお相手にお知らせください。" />
+      <item value="購入完了後" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="201" />
-        <entry key="FILIPINO" value="1" />
-        <entry key="JAPANESE" value="551" />
-        <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="542" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="JAPANESE" value="7" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
