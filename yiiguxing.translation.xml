@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703665415043" />
+    <option name="lastTrimTime" value="1704354341008" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get File Name Suffix" />
       <item value="collapse" />
       <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
       <item value="在庫アップロードタイプID" />
@@ -20,9 +21,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="7" />
         <entry key="JAPANESE" value="7" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
