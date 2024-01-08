@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="寿司" />
       <item value="get File Name Suffix" />
       <item value="collapse" />
       <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="JAPANESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="JAPANESE" value="8" />
         <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
