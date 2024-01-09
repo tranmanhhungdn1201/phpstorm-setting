@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="現在の言語" />
       <item value="abroad hidden page list" />
       <item value="Translateテーブルで保持する言語の配列" />
       <item value="寿司" />
@@ -25,8 +26,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="10" />
-        <entry key="JAPANESE" value="9" />
-        <entry key="VIETNAMESE" value="9" />
+        <entry key="JAPANESE" value="10" />
+        <entry key="VIETNAMESE" value="10" />
       </map>
     </option>
   </component>
