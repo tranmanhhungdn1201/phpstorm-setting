@@ -12,9 +12,9 @@
     <mask>*.module</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.tpl</mask>
+    <mask>*.php</mask>
   </component>
 </application>
