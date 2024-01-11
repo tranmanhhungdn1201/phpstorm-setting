@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="地域選択" />
       <item value="価格を記載しない" />
       <item value="anchor" />
       <item value="現在の注文をキャンセルする" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="13" />
-        <entry key="JAPANESE" value="13" />
+        <entry key="JAPANESE" value="14" />
         <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
