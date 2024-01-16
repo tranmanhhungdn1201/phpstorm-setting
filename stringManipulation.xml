@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.ShiftQuoteAction" />
-        <option name="description" value="Shift all double quote, single quote, backtick to the next type (or wrap if none present)" />
-        <option name="textWithMnemonic" value="Wrap or Shift Between &quot; and ' and `" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.WordsCapitalizeAction" />
+        <option name="description" value="Capitalize using apache-commons WordUtils#capitalizeFully" />
+        <option name="textWithMnemonic" value="Capitalize" />
       </UniversalActionModel>
     </option>
   </component>
