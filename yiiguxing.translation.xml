@@ -8,12 +8,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カテゴリ選択" />
+      <item value="予約名" />
+      <item value="日時・人数　第1候補" />
       <item value="shop tittle" />
       <item value="shop title" />
       <item value="水" />
       <item value="人数" />
       <item value="時間" />
-      <item value="カテゴリ選択" />
       <item value="東京・寿司" />
       <item value="鮨さいとう" />
       <item value="地域選択" />
@@ -40,8 +42,8 @@
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="21" />
-        <entry key="JAPANESE" value="19" />
-        <entry key="VIETNAMESE" value="12" />
+        <entry key="JAPANESE" value="22" />
+        <entry key="VIETNAMESE" value="15" />
       </map>
     </option>
   </component>
