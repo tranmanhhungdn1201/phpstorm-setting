@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="shop tittle" />
+      <item value="shop title" />
       <item value="水" />
       <item value="人数" />
       <item value="時間" />
@@ -37,9 +39,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="21" />
         <entry key="JAPANESE" value="19" />
-        <entry key="VIETNAMESE" value="11" />
+        <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
   </component>
