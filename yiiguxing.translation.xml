@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="第一希望" />
       <item value="アリペイ" />
       <item value="銀聯" />
       <item value="予約確保内容" />
@@ -45,10 +46,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="25" />
         <entry key="JAPANESE" value="25" />
-        <entry key="VIETNAMESE" value="18" />
+        <entry key="VIETNAMESE" value="19" />
       </map>
     </option>
   </component>
