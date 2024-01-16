@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="公式通販サイト" />
+      <item value="ショッピングカート" />
       <item value="第一希望" />
       <item value="アリペイ" />
       <item value="銀聯" />
@@ -48,8 +50,8 @@
       <map>
         <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="25" />
-        <entry key="JAPANESE" value="25" />
-        <entry key="VIETNAMESE" value="19" />
+        <entry key="JAPANESE" value="28" />
+        <entry key="VIETNAMESE" value="22" />
       </map>
     </option>
   </component>
