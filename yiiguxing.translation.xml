@@ -8,6 +8,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="受注作成処理をロック" />
+      <item value="受注コードに対して受注作成処理をロック" />
+      <item value="同梱不可の商品が同梱されているかを判定" />
+      <item value="予約商品と通常商品が同梱されているかを判定" />
+      <item value="登録処理中" />
       <item value="公式通販サイト" />
       <item value="ショッピングカート" />
       <item value="第一希望" />
@@ -49,9 +54,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="25" />
-        <entry key="JAPANESE" value="28" />
-        <entry key="VIETNAMESE" value="22" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="JAPANESE" value="33" />
+        <entry key="VIETNAMESE" value="27" />
       </map>
     </option>
   </component>
