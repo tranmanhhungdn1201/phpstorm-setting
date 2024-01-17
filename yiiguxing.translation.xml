@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="日付を選択してください" />
       <item value="受注作成処理をロック" />
       <item value="受注コードに対して受注作成処理をロック" />
       <item value="同梱不可の商品が同梱されているかを判定" />
@@ -55,8 +56,8 @@
       <map>
         <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="26" />
-        <entry key="JAPANESE" value="33" />
-        <entry key="VIETNAMESE" value="27" />
+        <entry key="JAPANESE" value="34" />
+        <entry key="VIETNAMESE" value="28" />
       </map>
     </option>
   </component>
