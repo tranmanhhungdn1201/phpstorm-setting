@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="変更" />
       <item value="日付を選択してください" />
       <item value="受注作成処理をロック" />
       <item value="受注コードに対して受注作成処理をロック" />
@@ -56,8 +57,8 @@
       <map>
         <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="26" />
-        <entry key="JAPANESE" value="34" />
-        <entry key="VIETNAMESE" value="28" />
+        <entry key="JAPANESE" value="35" />
+        <entry key="VIETNAMESE" value="29" />
       </map>
     </option>
   </component>
