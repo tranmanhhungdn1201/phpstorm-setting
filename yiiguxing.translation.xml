@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ショップレストラン名を表示" />
       <item value="設定ファイル読み込み" />
       <item value="Amazonペイメントのライブラリをネームスペースに追加" />
       <item value="変更" />
@@ -59,8 +60,8 @@
       <map>
         <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="28" />
-        <entry key="JAPANESE" value="38" />
-        <entry key="VIETNAMESE" value="31" />
+        <entry key="JAPANESE" value="39" />
+        <entry key="VIETNAMESE" value="32" />
       </map>
     </option>
   </component>
