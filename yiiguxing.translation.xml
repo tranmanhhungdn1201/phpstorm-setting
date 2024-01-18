@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="設定ファイル読み込み" />
+      <item value="Amazonペイメントのライブラリをネームスペースに追加" />
       <item value="変更" />
       <item value="日付を選択してください" />
       <item value="受注作成処理をロック" />
@@ -56,9 +58,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="26" />
-        <entry key="JAPANESE" value="35" />
-        <entry key="VIETNAMESE" value="29" />
+        <entry key="ENGLISH" value="28" />
+        <entry key="JAPANESE" value="38" />
+        <entry key="VIETNAMESE" value="31" />
       </map>
     </option>
   </component>
