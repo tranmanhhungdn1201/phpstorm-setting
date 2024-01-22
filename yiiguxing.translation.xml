@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705288671953" />
+    <option name="lastTrimTime" value="1705890385986" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="「swiper」の「active」項目までスクロールします" />
       <item value="予約名" />
       <item value="Import Customer External" />
       <item value="予約する" />
@@ -61,8 +62,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="32" />
-        <entry key="JAPANESE" value="41" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="JAPANESE" value="42" />
         <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
