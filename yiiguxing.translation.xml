@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value=":label は :param:2 で入力して下さい" />
       <item value="半角数字" />
       <item value="人数" />
       <item value="日時" />
@@ -57,13 +58,12 @@
       <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
       <item value="在庫アップロードタイプID" />
       <item value="更新用データ" />
-      <item value="最新のファイルのみ処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="42" />
-        <entry key="JAPANESE" value="50" />
+        <entry key="ENGLISH" value="43" />
+        <entry key="JAPANESE" value="51" />
         <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
