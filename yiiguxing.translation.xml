@@ -8,8 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="「swiper」の「active」項目までスクロールします" />
+      <item value="人数" />
+      <item value="日時" />
+      <item value="日時・人数　第1候補" />
       <item value="予約名" />
+      <item value="店舗" />
+      <item value="店舗ID" />
+      <item value="「swiper」の「active」項目までスクロールします" />
       <item value="Import Customer External" />
       <item value="予約する" />
       <item value="ショップレストラン名を表示" />
@@ -31,11 +36,9 @@
       <item value="名" />
       <item value="天寿し京町店" />
       <item value="カテゴリ選択" />
-      <item value="日時・人数　第1候補" />
       <item value="shop tittle" />
       <item value="shop title" />
       <item value="水" />
-      <item value="人数" />
       <item value="時間" />
       <item value="東京・寿司" />
       <item value="鮨さいとう" />
@@ -55,15 +58,12 @@
       <item value="更新用データ" />
       <item value="最新のファイルのみ処理" />
       <item value="OTSが在庫ファイルを配置するのは金曜日のみのため金曜日以外はアラートを抑止" />
-      <item value="多重起動の制御を行う" />
-      <item value="Any Gift（info@anygift.jp）からのメールに記載がございます「eギフト受け取りURL」をお相手にお知らせください。" />
-      <item value="購入完了後" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="33" />
-        <entry key="JAPANESE" value="42" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="40" />
+        <entry key="JAPANESE" value="48" />
         <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
