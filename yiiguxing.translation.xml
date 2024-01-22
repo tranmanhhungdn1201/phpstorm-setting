@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="半角数字" />
       <item value="人数" />
       <item value="日時" />
       <item value="日時・人数　第1候補" />
@@ -57,13 +58,12 @@
       <item value="在庫アップロードタイプID" />
       <item value="更新用データ" />
       <item value="最新のファイルのみ処理" />
-      <item value="OTSが在庫ファイルを配置するのは金曜日のみのため金曜日以外はアラートを抑止" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="40" />
-        <entry key="JAPANESE" value="48" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="JAPANESE" value="50" />
         <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
