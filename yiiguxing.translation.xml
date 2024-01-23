@@ -8,13 +8,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="店舗" />
+      <item value="レンタルのカテゴリー" />
       <item value="半角数字" />
       <item value=":label は :param:2 で入力して下さい" />
       <item value="人数" />
       <item value="日時" />
       <item value="日時・人数　第1候補" />
       <item value="予約名" />
-      <item value="店舗" />
       <item value="店舗ID" />
       <item value="「swiper」の「active」項目までスクロールします" />
       <item value="Import Customer External" />
@@ -57,13 +58,12 @@
       <item value="collapse" />
       <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
       <item value="在庫アップロードタイプID" />
-      <item value="更新用データ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="44" />
-        <entry key="JAPANESE" value="52" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="JAPANESE" value="54" />
         <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
