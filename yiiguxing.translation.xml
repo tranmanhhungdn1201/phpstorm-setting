@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value=":label は :param:2 で入力して下さい。" />
       <item value="店舗" />
       <item value="レンタルのカテゴリー" />
       <item value="半角数字" />
@@ -57,13 +58,12 @@
       <item value="get File Name Suffix" />
       <item value="collapse" />
       <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
-      <item value="在庫アップロードタイプID" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="46" />
-        <entry key="JAPANESE" value="54" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="JAPANESE" value="55" />
         <entry key="VIETNAMESE" value="33" />
       </map>
     </option>
