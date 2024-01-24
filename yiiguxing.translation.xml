@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="vendors" />
       <item value="鮨一幸 寿司" />
       <item value="ご指定の日時で、予約確認を行いましたが、&lt;br&gt; 空き枠を確保する事ができませんでした。&lt;br&gt; また、その前後日時の空き枠も確認したのですが、&lt;br&gt; 確保する事ができませんでした。&lt;br&gt; ご希望に沿う事ができず申し訳ございません。&lt;br&gt; またのご利用をお待ちしております。" />
       <item value=":label は :param:2 で入力して下さい。" />
@@ -57,14 +58,13 @@
       <item value="abroad hidden page list" />
       <item value="Translateテーブルで保持する言語の配列" />
       <item value="寿司" />
-      <item value="get File Name Suffix" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="ENGLISH" value="51" />
         <entry key="JAPANESE" value="57" />
-        <entry key="VIETNAMESE" value="34" />
+        <entry key="VIETNAMESE" value="35" />
       </map>
     </option>
   </component>
