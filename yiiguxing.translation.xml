@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="予約する" />
       <item value="見つかりません" />
       <item value="withdraw" />
       <item value="退会時のログイン関連処理" />
@@ -27,7 +28,6 @@
       <item value="店舗ID" />
       <item value="「swiper」の「active」項目までスクロールします" />
       <item value="Import Customer External" />
-      <item value="予約する" />
       <item value="ショップレストラン名を表示" />
       <item value="設定ファイル読み込み" />
       <item value="Amazonペイメントのライブラリをネームスペースに追加" />
@@ -62,8 +62,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="53" />
-        <entry key="JAPANESE" value="60" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="JAPANESE" value="61" />
         <entry key="VIETNAMESE" value="38" />
       </map>
     </option>
