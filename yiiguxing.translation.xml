@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="予約の基本状態を確認する" />
       <item value="hook check reserve expired" />
       <item value="予約の支払い期限が切れる" />
       <item value="予約する" />
@@ -57,14 +58,13 @@
       <item value="鮨さいとう" />
       <item value="地域選択" />
       <item value="現在の注文をキャンセルする" />
-      <item value="価格を記載しない" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="62" />
-        <entry key="VIETNAMESE" value="39" />
+        <entry key="JAPANESE" value="63" />
+        <entry key="VIETNAMESE" value="40" />
       </map>
     </option>
   </component>
