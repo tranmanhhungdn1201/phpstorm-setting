@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705890385986" />
+    <option name="lastTrimTime" value="1706495318269" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カスタマイズをチェックする" />
+      <item value="anygift 情報をカート レコードに追加します" />
       <item value="期限切れの予約のみがこのリソースにアクセスできます" />
       <item value="予約の基本状態を確認する" />
       <item value="hook check reserve expired" />
@@ -56,15 +58,13 @@
       <item value="水" />
       <item value="時間" />
       <item value="東京・寿司" />
-      <item value="鮨さいとう" />
-      <item value="地域選択" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="64" />
-        <entry key="VIETNAMESE" value="41" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="JAPANESE" value="66" />
+        <entry key="VIETNAMESE" value="42" />
       </map>
     </option>
   </component>
