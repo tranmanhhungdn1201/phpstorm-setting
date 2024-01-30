@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="固有のコードで予約金を受け取る" />
+      <item value="ユニークコード" />
       <item value="商品グループ" />
       <item value="カスタマイズをチェックする" />
       <item value="anygift 情報をカート レコードに追加します" />
@@ -56,14 +58,12 @@
       <item value="カテゴリ選択" />
       <item value="shop tittle" />
       <item value="shop title" />
-      <item value="水" />
-      <item value="時間" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="60" />
-        <entry key="JAPANESE" value="68" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="JAPANESE" value="70" />
         <entry key="VIETNAMESE" value="44" />
       </map>
     </option>
