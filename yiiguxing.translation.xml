@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="別の住所に配送する" />
       <item value="国チェック用のパラメーターを設定。" />
       <item value="固有のコードで予約金を受け取る" />
       <item value="ユニークコード" />
@@ -57,14 +58,13 @@
       <item value="名" />
       <item value="天寿し京町店" />
       <item value="カテゴリ選択" />
-      <item value="shop tittle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="63" />
-        <entry key="JAPANESE" value="71" />
-        <entry key="VIETNAMESE" value="45" />
+        <entry key="JAPANESE" value="72" />
+        <entry key="VIETNAMESE" value="46" />
       </map>
     </option>
   </component>
