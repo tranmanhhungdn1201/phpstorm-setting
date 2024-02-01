@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="予約商品をチェックする" />
       <item value="リクエストされたAPIは存在しません。URLをお確かめください。" />
       <item value="リクエストされたAPIは存在しません" />
       <item value="別の住所に配送する" />
@@ -57,14 +58,13 @@
       <item value="アリペイ" />
       <item value="銀聯" />
       <item value="予約確保内容" />
-      <item value="名" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="65" />
-        <entry key="JAPANESE" value="74" />
-        <entry key="VIETNAMESE" value="46" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="JAPANESE" value="75" />
+        <entry key="VIETNAMESE" value="47" />
       </map>
     </option>
   </component>
