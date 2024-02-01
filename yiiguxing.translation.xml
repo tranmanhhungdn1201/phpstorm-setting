@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="JSON文字列をBASE 64エンコード（URL Safe／文字コード：UTF-8）" />
+      <item value="BASE 64エンコードしたJSONに「.(ドット)」及び、SHA 256ハッシュを文字列結合" />
+      <item value="BASE 64エンコードしたJSONとショップパスワードを文字列結合し、SHA 256でハッシュ化" />
       <item value="決済URL、ショップID、機能種別(※)、ハッシュ付き実行パラメータセットを文字列結合しURLを生成 (※)決済：checkout、カード編集：member" />
       <item value="接続URL" />
       <item value="予約商品をチェックする" />
@@ -55,16 +58,13 @@
       <item value="予約商品と通常商品が同梱されているかを判定" />
       <item value="登録処理中" />
       <item value="公式通販サイト" />
-      <item value="ショッピングカート" />
-      <item value="第一希望" />
-      <item value="アリペイ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="67" />
-        <entry key="JAPANESE" value="77" />
-        <entry key="VIETNAMESE" value="49" />
+        <entry key="JAPANESE" value="80" />
+        <entry key="VIETNAMESE" value="52" />
       </map>
     </option>
   </component>
