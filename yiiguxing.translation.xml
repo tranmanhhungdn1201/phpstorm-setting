@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="銀聯" />
       <item value="JSON文字列をBASE 64エンコード（URL Safe／文字コード：UTF-8）" />
       <item value="BASE 64エンコードしたJSONに「.(ドット)」及び、SHA 256ハッシュを文字列結合" />
       <item value="BASE 64エンコードしたJSONとショップパスワードを文字列結合し、SHA 256でハッシュ化" />
@@ -57,12 +58,11 @@
       <item value="同梱不可の商品が同梱されているかを判定" />
       <item value="予約商品と通常商品が同梱されているかを判定" />
       <item value="登録処理中" />
-      <item value="公式通販サイト" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="68" />
         <entry key="JAPANESE" value="80" />
         <entry key="VIETNAMESE" value="52" />
       </map>
