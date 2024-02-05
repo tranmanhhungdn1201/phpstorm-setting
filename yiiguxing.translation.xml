@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706495318269" />
+    <option name="lastTrimTime" value="1707122646105" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="GMOから得られた情報をデータベースに保存する形式に変換する" />
       <item value="予約の支払いが完了しました" />
       <item value="キャンセル" />
       <item value="決済期限切れ" />
@@ -57,13 +58,12 @@
       <item value="Import Customer External" />
       <item value="ショップレストラン名を表示" />
       <item value="設定ファイル読み込み" />
-      <item value="Amazonペイメントのライブラリをネームスペースに追加" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="76" />
-        <entry key="JAPANESE" value="88" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="JAPANESE" value="89" />
         <entry key="VIETNAMESE" value="52" />
       </map>
     </option>
