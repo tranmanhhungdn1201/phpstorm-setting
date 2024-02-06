@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="予約する" />
       <item value="INSTRUMENT DECLINED" />
       <item value="合計" />
       <item value="GMOから得られた情報をデータベースに保存する形式に変換する" />
@@ -39,7 +40,6 @@
       <item value="予約の基本状態を確認する" />
       <item value="hook check reserve expired" />
       <item value="予約の支払い期限が切れる" />
-      <item value="予約する" />
       <item value="見つかりません" />
       <item value="withdraw" />
       <item value="退会時のログイン関連処理" />
@@ -62,8 +62,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="80" />
-        <entry key="JAPANESE" value="90" />
+        <entry key="ENGLISH" value="81" />
+        <entry key="JAPANESE" value="91" />
         <entry key="VIETNAMESE" value="52" />
       </map>
     </option>
