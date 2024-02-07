@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="現在の注文状況を確認する" />
+      <item value="予約の支払いに失敗しました" />
       <item value="支払い保留ステータスにある予約のみにアクセスできます" />
       <item value="予約する" />
       <item value="INSTRUMENT DECLINED" />
@@ -56,14 +58,12 @@
       <item value="日時" />
       <item value="日時・人数　第1候補" />
       <item value="予約名" />
-      <item value="店舗ID" />
-      <item value="「swiper」の「active」項目までスクロールします" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="82" />
-        <entry key="JAPANESE" value="92" />
+        <entry key="ENGLISH" value="84" />
+        <entry key="JAPANESE" value="94" />
         <entry key="VIETNAMESE" value="52" />
       </map>
     </option>
