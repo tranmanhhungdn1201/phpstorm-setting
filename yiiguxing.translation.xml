@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="お問い合わせ内容" />
       <item value="同じ住所に配送の場合は依頼主情報をコピーする" />
       <item value="登録済の住所への配送の場合は、登録済の値をコピーする" />
       <item value="登録されている住所に配送する" />
@@ -57,14 +58,13 @@
       <item value="予約の支払い期限が切れる" />
       <item value="見つかりません" />
       <item value="withdraw" />
-      <item value="退会時のログイン関連処理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="88" />
-        <entry key="JAPANESE" value="105" />
-        <entry key="VIETNAMESE" value="62" />
+        <entry key="ENGLISH" value="90" />
+        <entry key="JAPANESE" value="107" />
+        <entry key="VIETNAMESE" value="63" />
       </map>
     </option>
   </component>
