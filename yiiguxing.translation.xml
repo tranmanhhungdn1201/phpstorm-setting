@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="顧客属性種別" />
+      <item value="顧客属性ID" />
+      <item value="顧客属性種別ID" />
+      <item value="入力チェック項目" />
       <item value="お問い合わせ内容" />
       <item value="同じ住所に配送の場合は依頼主情報をコピーする" />
       <item value="登録済の住所への配送の場合は、登録済の値をコピーする" />
@@ -54,17 +58,13 @@
       <item value="anygift 情報をカート レコードに追加します" />
       <item value="期限切れの予約のみがこのリソースにアクセスできます" />
       <item value="予約の基本状態を確認する" />
-      <item value="hook check reserve expired" />
-      <item value="予約の支払い期限が切れる" />
-      <item value="見つかりません" />
-      <item value="withdraw" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="90" />
-        <entry key="JAPANESE" value="107" />
-        <entry key="VIETNAMESE" value="63" />
+        <entry key="ENGLISH" value="94" />
+        <entry key="JAPANESE" value="110" />
+        <entry key="VIETNAMESE" value="67" />
       </map>
     </option>
   </component>
