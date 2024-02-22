@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="登録処理" />
       <item value="配送会社" />
       <item value="顧客属性種別" />
       <item value="顧客属性ID" />
@@ -57,13 +58,12 @@
       <item value="商品グループ" />
       <item value="カスタマイズをチェックする" />
       <item value="anygift 情報をカート レコードに追加します" />
-      <item value="期限切れの予約のみがこのリソースにアクセスできます" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="95" />
-        <entry key="JAPANESE" value="111" />
+        <entry key="ENGLISH" value="96" />
+        <entry key="JAPANESE" value="112" />
         <entry key="VIETNAMESE" value="67" />
       </map>
     </option>
