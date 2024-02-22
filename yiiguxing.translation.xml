@@ -8,6 +8,23 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Inquiries" />
+      <item value="お問い合わせ" />
+      <item value="商品の選択" />
+      <item value="ご購入の前に" />
+      <item value="万一到着した商品が「不良品」、「誤配送」の場合、大変申し訳ございませんが、商品到着後5日以内にこちらまでご連絡頂き、返品理由をお伝えください。" />
+      <item value="返品・交換について" />
+      <item value="こちら" />
+      <item value="佐川急便荷物問い合わせサービス" />
+      <item value="佐川急便" />
+      <item value="楽天ID決済" />
+      <item value="株式会社ゼウス" />
+      <item value="支払い回数は一括のみとさせていただいております" />
+      <item value="カスタマーサポート" />
+      <item value="合計お支払金額" />
+      <item value="商品詳細ページにて、色／サイズを選択して、「カートに入れる」ボタンをクリックしてください" />
+      <item value="こちらの" />
+      <item value="会員登録を希望される方は、こちらの" />
       <item value="登録処理" />
       <item value="配送会社" />
       <item value="顧客属性種別" />
@@ -41,30 +58,13 @@
       <item value="店舗予約完了" />
       <item value="決済完了" />
       <item value="決済待ち" />
-      <item value="新規受付" />
-      <item value="銀聯" />
-      <item value="JSON文字列をBASE 64エンコード（URL Safe／文字コード：UTF-8）" />
-      <item value="BASE 64エンコードしたJSONに「.(ドット)」及び、SHA 256ハッシュを文字列結合" />
-      <item value="BASE 64エンコードしたJSONとショップパスワードを文字列結合し、SHA 256でハッシュ化" />
-      <item value="決済URL、ショップID、機能種別(※)、ハッシュ付き実行パラメータセットを文字列結合しURLを生成 (※)決済：checkout、カード編集：member" />
-      <item value="接続URL" />
-      <item value="予約商品をチェックする" />
-      <item value="リクエストされたAPIは存在しません。URLをお確かめください。" />
-      <item value="リクエストされたAPIは存在しません" />
-      <item value="別の住所に配送する" />
-      <item value="国チェック用のパラメーターを設定。" />
-      <item value="固有のコードで予約金を受け取る" />
-      <item value="ユニークコード" />
-      <item value="商品グループ" />
-      <item value="カスタマイズをチェックする" />
-      <item value="anygift 情報をカート レコードに追加します" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="96" />
-        <entry key="JAPANESE" value="112" />
-        <entry key="VIETNAMESE" value="67" />
+        <entry key="ENGLISH" value="114" />
+        <entry key="JAPANESE" value="128" />
+        <entry key="VIETNAMESE" value="68" />
       </map>
     </option>
   </component>
