@@ -8,6 +8,20 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="第2条 (登録)" />
+      <item value="本規約は、全ての会員に適用され、登録手続時および登録後にお守りいただく規約です。" />
+      <item value="「会員情報」とは、会員が当社に開示した会員の属性に関する情報および会員の取引に関する履歴等の情報をいいます" />
+      <item value="会員」とは、当社が定める手続に従い本規約に同意の上、入会の申し込みを行う個人をいいます" />
+      <item value="利用規約" />
+      <item value="プライバシーポリシー（個人情報保護方針）" />
+      <item value="クレジットカード" />
+      <item value="お客様の決済方法・長期休業・在庫状況・お届け先地域等により、商品のお届けが多少前後する場合がございます。" />
+      <item value="イベント商品などは発送開始日の指定などがある場合がございますので" />
+      <item value="ご注文確認後、通常3営業日以内に発送致します。セール及びイベント開催時等は多少前後する場合がございます。" />
+      <item value="各商品ページをご参照ください" />
+      <item value="商品の販売価格" />
+      <item value="代表取締役 小島鉄平" />
+      <item value="責任者" />
       <item value="Inquiries" />
       <item value="お問い合わせ" />
       <item value="商品の選択" />
@@ -44,27 +58,13 @@
       <item value="typeが指定されていない場合に表示する画像のタイプ" />
       <item value="ただいまオンラインストアでご購入いただいた際、商品とともに、こちらの香りを吹きかけてお届けしています" />
       <item value="ゴールド ダイヤモンド" />
-      <item value="現在の注文状況を確認する" />
-      <item value="予約の支払いに失敗しました" />
-      <item value="支払い保留ステータスにある予約のみにアクセスできます" />
-      <item value="予約する" />
-      <item value="INSTRUMENT DECLINED" />
-      <item value="合計" />
-      <item value="GMOから得られた情報をデータベースに保存する形式に変換する" />
-      <item value="予約の支払いが完了しました" />
-      <item value="キャンセル" />
-      <item value="決済期限切れ" />
-      <item value="空き枠なし" />
-      <item value="店舗予約完了" />
-      <item value="決済完了" />
-      <item value="決済待ち" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="114" />
-        <entry key="JAPANESE" value="128" />
-        <entry key="VIETNAMESE" value="68" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="JAPANESE" value="141" />
+        <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
   </component>
