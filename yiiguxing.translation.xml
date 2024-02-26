@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1708315532501" />
+    <option name="lastTrimTime" value="1708915007674" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="注文顧客が「anygift」の場合、データ anygift_address を取得します" />
       <item value=":param:1 を入力した場合は :label も入力して下さい。" />
       <item value=":param:1 が 「:param:2」 の場合は :label も入力して下さい。" />
       <item value="送信する" />
@@ -57,13 +58,12 @@
       <item value="住所" />
       <item value="recomputation" />
       <item value="ご依頼主（会員様" />
-      <item value="ホバー時表示用商品画像" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="128" />
-        <entry key="JAPANESE" value="146" />
+        <entry key="ENGLISH" value="129" />
+        <entry key="JAPANESE" value="147" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
