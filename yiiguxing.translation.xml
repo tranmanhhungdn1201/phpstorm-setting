@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ご注文履歴はありません" />
+      <item value="メールアドレス・パスワードなどお客様情報の確認・変更" />
       <item value="様" />
       <item value="都道府県" />
       <item value="配送会社" />
@@ -56,14 +58,12 @@
       <item value="登録処理" />
       <item value="顧客属性種別" />
       <item value="顧客属性ID" />
-      <item value="顧客属性種別ID" />
-      <item value="入力チェック項目" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="138" />
-        <entry key="JAPANESE" value="156" />
+        <entry key="ENGLISH" value="140" />
+        <entry key="JAPANESE" value="158" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
