@@ -8,6 +8,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="あと" />
+      <item value="円のお買い物で送料無料" />
+      <item value="商品コード" />
+      <item value="メールアドレスに送信" />
+      <item value="会員登録する" />
       <item value="会員情報1" />
       <item value="注文顧客が「anygift」の場合、データ anygift_address を取得します" />
       <item value=":param:1 を入力した場合は :label も入力して下さい。" />
@@ -53,17 +58,12 @@
       <item value="入力チェック項目" />
       <item value="お問い合わせ内容" />
       <item value="同じ住所に配送の場合は依頼主情報をコピーする" />
-      <item value="登録済の住所への配送の場合は、登録済の値をコピーする" />
-      <item value="登録されている住所に配送する" />
-      <item value="誕生日ポイント最終付与年" />
-      <item value="住所" />
-      <item value="recomputation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="130" />
-        <entry key="JAPANESE" value="148" />
+        <entry key="ENGLISH" value="135" />
+        <entry key="JAPANESE" value="153" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
