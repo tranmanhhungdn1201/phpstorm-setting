@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="リストを取得" />
       <item value="言語コード" />
       <item value="WHERE句を設定" />
       <item value="ログアウトしました" />
@@ -57,13 +58,12 @@
       <item value="支払い回数は一括のみとさせていただいております" />
       <item value="カスタマーサポート" />
       <item value="合計お支払金額" />
-      <item value="商品詳細ページにて、色／サイズを選択して、「カートに入れる」ボタンをクリックしてください" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="146" />
-        <entry key="JAPANESE" value="164" />
+        <entry key="ENGLISH" value="147" />
+        <entry key="JAPANESE" value="165" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
