@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="アフターケア" />
       <item value="店舗" />
       <item value="リストを取得" />
       <item value="言語コード" />
@@ -57,13 +58,12 @@
       <item value="楽天ID決済" />
       <item value="株式会社ゼウス" />
       <item value="支払い回数は一括のみとさせていただいております" />
-      <item value="カスタマーサポート" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="148" />
-        <entry key="JAPANESE" value="166" />
+        <entry key="ENGLISH" value="149" />
+        <entry key="JAPANESE" value="167" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
