@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="生年月日" />
+      <item value="生年月日の月" />
       <item value="お問い合わせ内容詳細" />
       <item value="アフターケア" />
       <item value="店舗" />
@@ -56,14 +58,12 @@
       <item value="こちら" />
       <item value="佐川急便荷物問い合わせサービス" />
       <item value="佐川急便" />
-      <item value="楽天ID決済" />
-      <item value="株式会社ゼウス" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="150" />
-        <entry key="JAPANESE" value="168" />
+        <entry key="ENGLISH" value="152" />
+        <entry key="JAPANESE" value="170" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
