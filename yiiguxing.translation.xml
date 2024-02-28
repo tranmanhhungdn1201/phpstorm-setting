@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ユニークなコード" />
+      <item value="予約商品" />
+      <item value="発送時期テキスト" />
+      <item value="brandのリストを作成" />
       <item value="ブランド情報を登録しました" />
       <item value="ブランド" />
       <item value="ブラン" />
@@ -54,16 +58,12 @@
       <item value="利用規約" />
       <item value="プライバシーポリシー（個人情報保護方針）" />
       <item value="クレジットカード" />
-      <item value="お客様の決済方法・長期休業・在庫状況・お届け先地域等により、商品のお届けが多少前後する場合がございます。" />
-      <item value="イベント商品などは発送開始日の指定などがある場合がございますので" />
-      <item value="ご注文確認後、通常3営業日以内に発送致します。セール及びイベント開催時等は多少前後する場合がございます。" />
-      <item value="各商品ページをご参照ください" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="164" />
-        <entry key="JAPANESE" value="182" />
+        <entry key="ENGLISH" value="168" />
+        <entry key="JAPANESE" value="186" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
