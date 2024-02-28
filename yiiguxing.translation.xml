@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="URL登録" />
       <item value="生年月日" />
       <item value="生年月日の月" />
       <item value="お問い合わせ内容詳細" />
@@ -57,13 +58,12 @@
       <item value="返品・交換について" />
       <item value="こちら" />
       <item value="佐川急便荷物問い合わせサービス" />
-      <item value="佐川急便" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="152" />
-        <entry key="JAPANESE" value="170" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="JAPANESE" value="171" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
