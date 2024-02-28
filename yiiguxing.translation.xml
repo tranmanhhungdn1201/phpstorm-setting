@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="バッチを実行して期限切れの注文を確認する" />
       <item value="ユニークなコード" />
       <item value="予約商品" />
       <item value="発送時期テキスト" />
@@ -57,13 +58,12 @@
       <item value="会員」とは、当社が定める手続に従い本規約に同意の上、入会の申し込みを行う個人をいいます" />
       <item value="利用規約" />
       <item value="プライバシーポリシー（個人情報保護方針）" />
-      <item value="クレジットカード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="168" />
-        <entry key="JAPANESE" value="186" />
+        <entry key="ENGLISH" value="169" />
+        <entry key="JAPANESE" value="187" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
