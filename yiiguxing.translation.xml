@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ブランド情報を登録しました" />
+      <item value="ブランド" />
+      <item value="ブラン" />
+      <item value="ブランドを登録" />
+      <item value="登録されるテーブル" />
+      <item value="新規登録処理" />
       <item value="戻る" />
       <item value="ブランド登録確認" />
       <item value="ブランド情報を入力し、「確認」ボタンを押してください。" />
@@ -52,18 +58,12 @@
       <item value="イベント商品などは発送開始日の指定などがある場合がございますので" />
       <item value="ご注文確認後、通常3営業日以内に発送致します。セール及びイベント開催時等は多少前後する場合がございます。" />
       <item value="各商品ページをご参照ください" />
-      <item value="商品の販売価格" />
-      <item value="代表取締役 小島鉄平" />
-      <item value="責任者" />
-      <item value="Inquiries" />
-      <item value="お問い合わせ" />
-      <item value="商品の選択" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="158" />
-        <entry key="JAPANESE" value="176" />
+        <entry key="ENGLISH" value="164" />
+        <entry key="JAPANESE" value="182" />
         <entry key="VIETNAMESE" value="75" />
       </map>
     </option>
