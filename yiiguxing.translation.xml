@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Any Gift利用" />
       <item value="hook check url register expired" />
       <item value="バッチを実行して期限切れの注文を確認する" />
       <item value="ユニークなコード" />
@@ -57,12 +58,11 @@
       <item value="本規約は、全ての会員に適用され、登録手続時および登録後にお守りいただく規約です。" />
       <item value="「会員情報」とは、会員が当社に開示した会員の属性に関する情報および会員の取引に関する履歴等の情報をいいます" />
       <item value="会員」とは、当社が定める手続に従い本規約に同意の上、入会の申し込みを行う個人をいいます" />
-      <item value="利用規約" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="172" />
         <entry key="JAPANESE" value="187" />
         <entry key="VIETNAMESE" value="76" />
       </map>
