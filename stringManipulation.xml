@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSentenceCaseOrCamelCaseAction" />
-        <option name="description" value="Toggle: First word capitalized / camelCase" />
-        <option name="textWithMnemonic" value="First word capitalized / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
+        <option name="description" value="Keep first number, replace all other by incrementing. Carets without a selection will add a number." />
+        <option name="textWithMnemonic" value="Create Sequence" />
       </UniversalActionModel>
     </option>
   </component>
