@@ -8,6 +8,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="性別ID変換" />
+      <item value="男性" />
+      <item value="女性" />
+      <item value="列" />
+      <item value="取込実行中です" />
+      <item value="購入回数" />
+      <item value="id変換処理" />
       <item value="処理中ファイル" />
       <item value="Any Gift利用" />
       <item value="hook check url register expired" />
@@ -51,19 +58,12 @@
       <item value="会員登録する" />
       <item value="会員情報1" />
       <item value="注文顧客が「anygift」の場合、データ anygift_address を取得します" />
-      <item value=":param:1 を入力した場合は :label も入力して下さい。" />
-      <item value=":param:1 が 「:param:2」 の場合は :label も入力して下さい。" />
-      <item value="送信する" />
-      <item value="を入力して下さい。" />
-      <item value="第2条 (登録)" />
-      <item value="本規約は、全ての会員に適用され、登録手続時および登録後にお守りいただく規約です。" />
-      <item value="「会員情報」とは、会員が当社に開示した会員の属性に関する情報および会員の取引に関する履歴等の情報をいいます" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="173" />
-        <entry key="JAPANESE" value="188" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="181" />
+        <entry key="JAPANESE" value="195" />
         <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
