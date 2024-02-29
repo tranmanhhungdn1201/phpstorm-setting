@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ファイルが見つかりませんでした。" />
       <item value="取込実行中です。時間を置いて再度実行ください。" />
       <item value="処理中ファイル" />
       <item value="有効フラグ変換" />
@@ -57,13 +58,12 @@
       <item value="円のお買い物で送料無料" />
       <item value="商品コード" />
       <item value="メールアドレスに送信" />
-      <item value="会員登録する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="186" />
-        <entry key="JAPANESE" value="200" />
+        <entry key="ENGLISH" value="187" />
+        <entry key="JAPANESE" value="201" />
         <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
