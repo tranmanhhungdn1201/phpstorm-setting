@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="購入回数" />
       <item value="都道府県(名称)" />
       <item value="パスワードを暗号化" />
       <item value="ファイルが見つかりませんでした。" />
@@ -19,7 +20,6 @@
       <item value="性別ID変換" />
       <item value="列" />
       <item value="取込実行中です" />
-      <item value="購入回数" />
       <item value="id変換処理" />
       <item value="Any Gift利用" />
       <item value="hook check url register expired" />
@@ -62,8 +62,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="189" />
-        <entry key="JAPANESE" value="203" />
+        <entry key="ENGLISH" value="190" />
+        <entry key="JAPANESE" value="204" />
         <entry key="VIETNAMESE" value="76" />
       </map>
     </option>
