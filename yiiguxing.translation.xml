@@ -8,6 +8,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="GMO 本人認証サービス(3Dセキュア)利用フラグ　0：利用しない、1：利用する（3DS1.0を利用）、2：利用する（3DS2.0を利用）" />
+      <item value="指定されたカードが存在しません" />
+      <item value="指定されたサイトIDと会員IDの会員が存在しません。" />
+      <item value="管理画面の設定と一致しません" />
+      <item value="決済実行 カード会社と通信を行い決済を実施する" />
+      <item value="取引登録 決済取引で必要となる取引 ID と取引パスワードの発行を行う" />
       <item value="サイトID" />
       <item value="GMO サイトID" />
       <item value="通常価格" />
@@ -52,19 +58,13 @@
       <item value="店舗" />
       <item value="リストを取得" />
       <item value="言語コード" />
-      <item value="WHERE句を設定" />
-      <item value="ログアウトしました" />
-      <item value="市区町村" />
-      <item value="ご注文のキャンセル" />
-      <item value="様" />
-      <item value="ご注文履歴はありません" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="196" />
-        <entry key="JAPANESE" value="210" />
-        <entry key="VIETNAMESE" value="76" />
+        <entry key="ENGLISH" value="197" />
+        <entry key="JAPANESE" value="216" />
+        <entry key="VIETNAMESE" value="82" />
       </map>
     </option>
   </component>
