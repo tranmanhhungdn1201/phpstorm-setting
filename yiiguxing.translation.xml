@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="販売種別(名称)" />
       <item value="登録" />
       <item value="GMO 本人認証サービス(3Dセキュア)利用フラグ　0：利用しない、1：利用する（3DS1.0を利用）、2：利用する（3DS2.0を利用）" />
       <item value="指定されたカードが存在しません" />
@@ -57,14 +58,13 @@
       <item value="お問い合わせ内容詳細" />
       <item value="アフターケア" />
       <item value="店舗" />
-      <item value="リストを取得" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="197" />
-        <entry key="JAPANESE" value="217" />
-        <entry key="VIETNAMESE" value="83" />
+        <entry key="JAPANESE" value="218" />
+        <entry key="VIETNAMESE" value="84" />
       </map>
     </option>
   </component>
