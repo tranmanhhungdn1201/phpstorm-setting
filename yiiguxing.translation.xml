@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="顧客取込でエラーが発生しました" />
+      <item value="顧客取込が正常に完了しました" />
       <item value="どちらかのadd infoに登録があれば別レコードとして登録する" />
       <item value="カート登録時に同じ商品をグルーピングする、true：カート登録時に同じ商品をグルーピングしない" />
       <item value="カート登録時に同じ商品としてグルーピングするかを設定する" />
@@ -56,14 +58,12 @@
       <item value="指定された条件のユーザーは登録されていません" />
       <item value="指定された条件のブランドは登録されていません" />
       <item value="URL登録" />
-      <item value="生年月日" />
-      <item value="生年月日の月" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="198" />
-        <entry key="JAPANESE" value="221" />
+        <entry key="ENGLISH" value="200" />
+        <entry key="JAPANESE" value="223" />
         <entry key="VIETNAMESE" value="87" />
       </map>
     </option>
