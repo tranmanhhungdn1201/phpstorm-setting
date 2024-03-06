@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="quote identifier" />
+      <item value="escape" />
       <item value="顧客取込でエラーが発生しました" />
       <item value="顧客取込が正常に完了しました" />
       <item value="どちらかのadd infoに登録があれば別レコードとして登録する" />
@@ -56,15 +58,13 @@
       <item value="ブランド登録確認" />
       <item value="ブランド情報を入力し、「確認」ボタンを押してください。" />
       <item value="指定された条件のユーザーは登録されていません" />
-      <item value="指定された条件のブランドは登録されていません" />
-      <item value="URL登録" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="ENGLISH" value="204" />
         <entry key="JAPANESE" value="224" />
-        <entry key="VIETNAMESE" value="87" />
+        <entry key="VIETNAMESE" value="89" />
       </map>
     </option>
   </component>
