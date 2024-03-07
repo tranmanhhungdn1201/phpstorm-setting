@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="1日1度 （2時～9時の間：最終は9時代）" />
+      <item value="※1日1度 16時台" />
       <item value="※1日1度 （2時～9時の間：最終は9時代）" />
       <item value="選択した店舗に予約候補日①～③、氏名、メールアドレスを入力して予約とする" />
       <item value="店舗、仲介人、VERBALさん(仮)にメール送付する" />
@@ -56,15 +58,13 @@
       <item value="ブラン" />
       <item value="ブランドを登録" />
       <item value="登録されるテーブル" />
-      <item value="新規登録処理" />
-      <item value="戻る" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="207" />
-        <entry key="JAPANESE" value="227" />
-        <entry key="VIETNAMESE" value="90" />
+        <entry key="ENGLISH" value="210" />
+        <entry key="JAPANESE" value="230" />
+        <entry key="VIETNAMESE" value="92" />
       </map>
     </option>
   </component>
