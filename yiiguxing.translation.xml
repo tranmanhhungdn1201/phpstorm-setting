@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cart logテーブルにデータを登録するか" />
       <item value="カート登録時に同じ商品をグルーピングするか：デフォルトはtrue" />
       <item value="同じ商品をグルーピングするか" />
       <item value="rder customer detailはデフォルトtrue、それ以外はデフォルトfalse" />
@@ -57,14 +58,13 @@
       <item value="バッチを実行して期限切れの注文を確認する" />
       <item value="ユニークなコード" />
       <item value="予約商品" />
-      <item value="発送時期テキスト" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="212" />
-        <entry key="JAPANESE" value="235" />
-        <entry key="VIETNAMESE" value="98" />
+        <entry key="JAPANESE" value="236" />
+        <entry key="VIETNAMESE" value="99" />
       </map>
     </option>
   </component>
