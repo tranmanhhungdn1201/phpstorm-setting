@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カート登録時に同じ商品をグルーピングするか：デフォルトはtrue" />
+      <item value="同じ商品をグルーピングするか" />
+      <item value="rder customer detailはデフォルトtrue、それ以外はデフォルトfalse" />
       <item value="| Translate abbreviated language from Google Translate into its full language name. | Utilized for generating prompts in AI models." />
       <item value="CSVデータをS 3へアップロード" />
       <item value="バッチ実行結果: 失敗 バッチ実行時刻: {\smarty.now|date_format:&quot;Y-m-d H:i:s&quot;}" />
@@ -55,16 +58,13 @@
       <item value="ユニークなコード" />
       <item value="予約商品" />
       <item value="発送時期テキスト" />
-      <item value="brandのリストを作成" />
-      <item value="ブランド情報を登録しました" />
-      <item value="ブランド" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="211" />
-        <entry key="JAPANESE" value="232" />
-        <entry key="VIETNAMESE" value="95" />
+        <entry key="ENGLISH" value="212" />
+        <entry key="JAPANESE" value="235" />
+        <entry key="VIETNAMESE" value="98" />
       </map>
     </option>
   </component>
