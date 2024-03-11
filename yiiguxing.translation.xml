@@ -8,8 +8,25 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="カスタマイズ商品" />
+      <item value="カスタマイズ商品フォントコード_裏面" />
+      <item value="カスタマイズ商品定型文コード" />
       <item value="返品不可フラグ" />
+      <item value="対象ギフトラッピングタイプコード" />
+      <item value="アテンション" />
+      <item value="付属品" />
+      <item value="購入制限数量_2" />
+      <item value="カスタマイズ商品" />
+      <item value="予約商品フラグ" />
+      <item value="抽選商品フラグ" />
+      <item value="再入荷リクエストフラグ" />
+      <item value="レコメンダー" />
+      <item value="レコメンダーコメント" />
+      <item value="洗濯記号コード" />
+      <item value="納期コメント" />
+      <item value="ブランド説明表示" />
+      <item value="商品区分" />
+      <item value="サイズ直しフラグ" />
+      <item value="返却可否フラグ" />
       <item value="ギフトラッピング（無料）" />
       <item value="ギフトラッピング" />
       <item value="再入荷フラグ" />
@@ -17,8 +34,6 @@
       <item value="セット商品区分" />
       <item value="税率" />
       <item value="税計算方法" />
-      <item value="返却可否フラグ" />
-      <item value="サイズ直しフラグ" />
       <item value="付属品（予定）" />
       <item value="購入制限数量" />
       <item value="再入荷リクエスト不可フラグ" />
@@ -43,28 +58,13 @@
       <item value="| Translate abbreviated language from Google Translate into its full language name. | Utilized for generating prompts in AI models." />
       <item value="CSVデータをS 3へアップロード" />
       <item value="バッチ実行結果: 失敗 バッチ実行時刻: {\smarty.now|date_format:&quot;Y-m-d H:i:s&quot;}" />
-      <item value="1日1度 （2時～9時の間：最終は9時代）" />
-      <item value="※1日1度 16時台" />
-      <item value="※1日1度 （2時～9時の間：最終は9時代）" />
-      <item value="選択した店舗に予約候補日①～③、氏名、メールアドレスを入力して予約とする" />
-      <item value="店舗、仲介人、VERBALさん(仮)にメール送付する" />
-      <item value="quote identifier" />
-      <item value="escape" />
-      <item value="顧客取込でエラーが発生しました" />
-      <item value="顧客取込が正常に完了しました" />
-      <item value="どちらかのadd infoに登録があれば別レコードとして登録する" />
-      <item value="カート登録時に同じ商品をグルーピングする、true：カート登録時に同じ商品をグルーピングしない" />
-      <item value="カート登録時に同じ商品としてグルーピングするかを設定する" />
-      <item value="販売種別(名称)" />
-      <item value="登録" />
-      <item value="GMO 本人認証サービス(3Dセキュア)利用フラグ　0：利用しない、1：利用する（3DS1.0を利用）、2：利用する（3DS2.0を利用）" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="218" />
-        <entry key="JAPANESE" value="269" />
-        <entry key="VIETNAMESE" value="133" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="227" />
+        <entry key="JAPANESE" value="291" />
+        <entry key="VIETNAMESE" value="151" />
       </map>
     </option>
   </component>
