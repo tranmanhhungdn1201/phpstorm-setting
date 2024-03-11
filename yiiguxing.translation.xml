@@ -8,6 +8,21 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="カスタマイズ商品" />
+      <item value="返品不可フラグ" />
+      <item value="ギフトラッピング（無料）" />
+      <item value="ギフトラッピング" />
+      <item value="再入荷フラグ" />
+      <item value="同梱グループ" />
+      <item value="セット商品区分" />
+      <item value="税率" />
+      <item value="税計算方法" />
+      <item value="返却可否フラグ" />
+      <item value="サイズ直しフラグ" />
+      <item value="付属品（予定）" />
+      <item value="購入制限数量" />
+      <item value="再入荷リクエスト不可フラグ" />
+      <item value="再入荷リクエスト非表示フラグ" />
       <item value="商品名1 EN" />
       <item value="カテゴリー名変換" />
       <item value="カテゴリの内シリーズ親のカテゴリ名" />
@@ -43,28 +58,13 @@
       <item value="販売種別(名称)" />
       <item value="登録" />
       <item value="GMO 本人認証サービス(3Dセキュア)利用フラグ　0：利用しない、1：利用する（3DS1.0を利用）、2：利用する（3DS2.0を利用）" />
-      <item value="指定されたカードが存在しません" />
-      <item value="指定されたサイトIDと会員IDの会員が存在しません。" />
-      <item value="管理画面の設定と一致しません" />
-      <item value="決済実行 カード会社と通信を行い決済を実施する" />
-      <item value="取引登録 決済取引で必要となる取引 ID と取引パスワードの発行を行う" />
-      <item value="サイトID" />
-      <item value="GMO サイトID" />
-      <item value="通常価格" />
-      <item value="顧客データ移行" />
-      <item value="出荷先電話番号" />
-      <item value="購入回数" />
-      <item value="都道府県(名称)" />
-      <item value="パスワードを暗号化" />
-      <item value="ファイルが見つかりませんでした。" />
-      <item value="取込実行中です。時間を置いて再度実行ください。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="214" />
-        <entry key="JAPANESE" value="250" />
-        <entry key="VIETNAMESE" value="113" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="218" />
+        <entry key="JAPANESE" value="269" />
+        <entry key="VIETNAMESE" value="133" />
       </map>
     </option>
   </component>
