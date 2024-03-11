@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="発送スケジュール" />
       <item value="商品区分" />
       <item value="カスタマイズ商品フォントコード_裏面" />
       <item value="カスタマイズ商品定型文コード" />
@@ -57,14 +58,13 @@
       <item value="rder customer detailはデフォルトtrue、それ以外はデフォルトfalse" />
       <item value="| Translate abbreviated language from Google Translate into its full language name. | Utilized for generating prompts in AI models." />
       <item value="CSVデータをS 3へアップロード" />
-      <item value="バッチ実行結果: 失敗 バッチ実行時刻: {\smarty.now|date_format:&quot;Y-m-d H:i:s&quot;}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="227" />
-        <entry key="JAPANESE" value="291" />
-        <entry key="VIETNAMESE" value="152" />
+        <entry key="JAPANESE" value="292" />
+        <entry key="VIETNAMESE" value="153" />
       </map>
     </option>
   </component>
