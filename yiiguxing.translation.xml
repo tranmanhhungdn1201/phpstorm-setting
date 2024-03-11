@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709534024859" />
+    <option name="lastTrimTime" value="1710123799515" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="受注ダウンロード" />
       <item value="同じ商品がある場合は１レコードとして配列に入れる" />
       <item value="order customer detailはデフォルトtrue、それ以外はデフォルトfalse" />
       <item value="カート登録時に同じ商品をグルーピングするか：デフォルトはtrue" />
@@ -57,13 +58,12 @@
       <item value="取込実行中です" />
       <item value="id変換処理" />
       <item value="Any Gift利用" />
-      <item value="hook check url register expired" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="212" />
-        <entry key="JAPANESE" value="240" />
+        <entry key="ENGLISH" value="213" />
+        <entry key="JAPANESE" value="241" />
         <entry key="VIETNAMESE" value="103" />
       </map>
     </option>
