@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="商品名1 EN" />
       <item value="カテゴリー名変換" />
       <item value="カテゴリの内シリーズ親のカテゴリ名" />
       <item value="カテゴリの内カテゴリのカテゴリ名" />
@@ -57,14 +58,13 @@
       <item value="パスワードを暗号化" />
       <item value="ファイルが見つかりませんでした。" />
       <item value="取込実行中です。時間を置いて再度実行ください。" />
-      <item value="処理中ファイル" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="214" />
         <entry key="JAPANESE" value="250" />
-        <entry key="VIETNAMESE" value="112" />
+        <entry key="VIETNAMESE" value="113" />
       </map>
     </option>
   </component>
