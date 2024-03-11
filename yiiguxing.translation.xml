@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="商品ダウンロード" />
       <item value="クーポンログ" />
       <item value="お気に入り集計" />
       <item value="ブライダルカスタマイズ商品フラグ" />
@@ -57,14 +58,13 @@
       <item value="女性" />
       <item value="男性" />
       <item value="性別ID変換" />
-      <item value="列" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="214" />
-        <entry key="JAPANESE" value="244" />
-        <entry key="VIETNAMESE" value="106" />
+        <entry key="JAPANESE" value="245" />
+        <entry key="VIETNAMESE" value="107" />
       </map>
     </option>
   </component>
