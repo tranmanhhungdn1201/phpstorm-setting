@@ -8,6 +8,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ARTIDA OUDンラインストア データ連携バッチ実行結果通知" />
+      <item value="ンラインストア" />
+      <item value="ロンハーマンオ" />
+      <item value="ロンハーマンオンラインストア" />
+      <item value="ロンハーマンオンラインストア データ連携バッチ実行結果通知" />
       <item value="情報" />
       <item value="在庫情報のCSV作成" />
       <item value="会員コード" />
@@ -53,17 +58,12 @@
       <item value="商品ダウンロード" />
       <item value="クーポンログ" />
       <item value="お気に入り集計" />
-      <item value="ブライダルカスタマイズ商品フラグ" />
-      <item value="受注ダウンロード" />
-      <item value="同じ商品がある場合は１レコードとして配列に入れる" />
-      <item value="order customer detailはデフォルトtrue、それ以外はデフォルトfalse" />
-      <item value="カート登録時に同じ商品をグルーピングするか：デフォルトはtrue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="234" />
-        <entry key="JAPANESE" value="299" />
+        <entry key="ENGLISH" value="239" />
+        <entry key="JAPANESE" value="304" />
         <entry key="VIETNAMESE" value="153" />
       </map>
     </option>
