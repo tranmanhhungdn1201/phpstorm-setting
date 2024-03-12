@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="情報" />
+      <item value="在庫情報のCSV作成" />
       <item value="会員コード" />
       <item value="データ連携" />
       <item value="店舗売上CSVフォーマット" />
@@ -56,14 +58,12 @@
       <item value="同じ商品がある場合は１レコードとして配列に入れる" />
       <item value="order customer detailはデフォルトtrue、それ以外はデフォルトfalse" />
       <item value="カート登録時に同じ商品をグルーピングするか：デフォルトはtrue" />
-      <item value="カートStep 01～03の表示" />
-      <item value="cart logテーブルにデータを登録するか" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="232" />
-        <entry key="JAPANESE" value="297" />
+        <entry key="ENGLISH" value="234" />
+        <entry key="JAPANESE" value="299" />
         <entry key="VIETNAMESE" value="153" />
       </map>
     </option>
