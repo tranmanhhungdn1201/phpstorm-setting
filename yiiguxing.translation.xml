@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="前回連携時の在庫" />
       <item value="ARTIDA OUDンラインストア データ連携バッチ実行結果通知" />
       <item value="ンラインストア" />
       <item value="ロンハーマンオ" />
@@ -57,13 +58,12 @@
       <item value="データ連携 商品：最終更新日時を返す" />
       <item value="商品ダウンロード" />
       <item value="クーポンログ" />
-      <item value="お気に入り集計" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="239" />
-        <entry key="JAPANESE" value="304" />
+        <entry key="ENGLISH" value="240" />
+        <entry key="JAPANESE" value="305" />
         <entry key="VIETNAMESE" value="153" />
       </map>
     </option>
