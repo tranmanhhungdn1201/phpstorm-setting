@@ -8,6 +8,19 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="受付日" />
+      <item value="予約名" />
+      <item value="決済完了のお知らせ" />
+      <item value="期限切れの予約" />
+      <item value="こちらの予約確保用決済は期限を越えてしまったため" />
+      <item value="支払いメールを通知する" />
+      <item value="ユーザ認証" />
+      <item value="支払い通知メールのサンプル" />
+      <item value="予約確認メールのサンプル" />
+      <item value="This configuration options determines the ingest driver that will be used | to capture entries from Pulse's recorders. Ingest drivers are great to | free up your request workers quickly by offloading the data storage." />
+      <item value="Pulse Ingest Driver" />
+      <item value="For data integrity and upserts.." />
+      <item value="For fast lookups and purging" />
       <item value="前回連携時の在庫" />
       <item value="ARTIDA OUDンラインストア データ連携バッチ実行結果通知" />
       <item value="ンラインストア" />
@@ -45,26 +58,13 @@
       <item value="再入荷フラグ" />
       <item value="同梱グループ" />
       <item value="セット商品区分" />
-      <item value="税率" />
-      <item value="税計算方法" />
-      <item value="付属品（予定）" />
-      <item value="購入制限数量" />
-      <item value="再入荷リクエスト不可フラグ" />
-      <item value="再入荷リクエスト非表示フラグ" />
-      <item value="商品名1 EN" />
-      <item value="カテゴリー名変換" />
-      <item value="カテゴリの内シリーズ親のカテゴリ名" />
-      <item value="カテゴリの内カテゴリのカテゴリ名" />
-      <item value="データ連携 商品：最終更新日時を返す" />
-      <item value="商品ダウンロード" />
-      <item value="クーポンログ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="240" />
-        <entry key="JAPANESE" value="305" />
-        <entry key="VIETNAMESE" value="153" />
+        <entry key="ENGLISH" value="245" />
+        <entry key="JAPANESE" value="317" />
+        <entry key="VIETNAMESE" value="169" />
       </map>
     </option>
   </component>
