@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Slept for yet another whole second" />
       <item value="予約が完了しました" />
       <item value="支払いが完了したら顧客にメールを送信する" />
       <item value="支払い完了メール通知のサンプル" />
@@ -57,14 +58,13 @@
       <item value="サイズ直しフラグ" />
       <item value="返却可否フラグ" />
       <item value="ギフトラッピング（無料）" />
-      <item value="ギフトラッピング" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="ENGLISH" value="247" />
         <entry key="JAPANESE" value="320" />
-        <entry key="VIETNAMESE" value="172" />
+        <entry key="VIETNAMESE" value="173" />
       </map>
     </option>
   </component>
