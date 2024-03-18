@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710123799515" />
+    <option name="lastTrimTime" value="1710749126976" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ショップ用メモ欄" />
+      <item value="領収書を印刷" />
+      <item value="領収書の宛名の入力と住所記載の有無" />
+      <item value="領収書を印刷する" />
       <item value="Slept for yet another whole second" />
       <item value="予約が完了しました" />
       <item value="支払いが完了したら顧客にメールを送信する" />
@@ -54,16 +58,12 @@
       <item value="レコメンダーコメント" />
       <item value="洗濯記号コード" />
       <item value="納期コメント" />
-      <item value="ブランド説明表示" />
-      <item value="サイズ直しフラグ" />
-      <item value="返却可否フラグ" />
-      <item value="ギフトラッピング（無料）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="247" />
-        <entry key="JAPANESE" value="320" />
+        <entry key="ENGLISH" value="252" />
+        <entry key="JAPANESE" value="325" />
         <entry key="VIETNAMESE" value="173" />
       </map>
     </option>
