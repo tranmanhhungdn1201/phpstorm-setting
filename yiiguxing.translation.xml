@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="通常価格" />
+      <item value="指定されたサイズコードとサイズ名に該当する色を取得" />
       <item value="ショップ用メモ欄" />
       <item value="領収書を印刷" />
       <item value="領収書の宛名の入力と住所記載の有無" />
@@ -56,14 +58,12 @@
       <item value="再入荷リクエストフラグ" />
       <item value="レコメンダー" />
       <item value="レコメンダーコメント" />
-      <item value="洗濯記号コード" />
-      <item value="納期コメント" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="252" />
-        <entry key="JAPANESE" value="325" />
+        <entry key="ENGLISH" value="254" />
+        <entry key="JAPANESE" value="327" />
         <entry key="VIETNAMESE" value="173" />
       </map>
     </option>
