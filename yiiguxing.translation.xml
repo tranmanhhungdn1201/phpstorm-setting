@@ -8,6 +8,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="category nameで返す" />
+      <item value="すべてのアイテム" />
+      <item value="カテゴリ管理機能でリンクを表示するときのベースURL" />
       <item value="ショップ用メモ欄" />
       <item value="公開" />
       <item value="非公開" />
@@ -55,16 +58,13 @@
       <item value="付属品" />
       <item value="購入制限数量_2" />
       <item value="カスタマイズ商品" />
-      <item value="予約商品フラグ" />
-      <item value="抽選商品フラグ" />
-      <item value="再入荷リクエストフラグ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="257" />
-        <entry key="JAPANESE" value="330" />
-        <entry key="VIETNAMESE" value="173" />
+        <entry key="ENGLISH" value="258" />
+        <entry key="JAPANESE" value="333" />
+        <entry key="VIETNAMESE" value="176" />
       </map>
     </option>
   </component>
