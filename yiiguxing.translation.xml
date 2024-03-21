@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="メディア掲載" />
       <item value="該当の値を変更" />
       <item value="category nameで返す" />
       <item value="すべてのアイテム" />
@@ -57,14 +58,13 @@
       <item value="対象ギフトラッピングタイプコード" />
       <item value="アテンション" />
       <item value="付属品" />
-      <item value="購入制限数量_2" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="258" />
-        <entry key="JAPANESE" value="334" />
-        <entry key="VIETNAMESE" value="177" />
+        <entry key="JAPANESE" value="335" />
+        <entry key="VIETNAMESE" value="178" />
       </map>
     </option>
   </component>
