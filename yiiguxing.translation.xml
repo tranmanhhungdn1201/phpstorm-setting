@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="サイズ直し" />
       <item value="フリー" />
       <item value="upper limit" />
       <item value="在庫なし" />
@@ -57,13 +58,12 @@
       <item value="会員コード" />
       <item value="データ連携" />
       <item value="店舗売上CSVフォーマット" />
-      <item value="データ連携 店舗売上CSVフォーマット" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="268" />
-        <entry key="JAPANESE" value="343" />
+        <entry key="ENGLISH" value="269" />
+        <entry key="JAPANESE" value="344" />
         <entry key="VIETNAMESE" value="178" />
       </map>
     </option>
