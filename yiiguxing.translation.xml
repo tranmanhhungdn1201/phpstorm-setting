@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710749126976" />
+    <option name="lastTrimTime" value="1711335961520" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="在庫なし" />
       <item value="再入荷" />
       <item value="お気に入り登録" />
       <item value="初期表示に必要なデータを順次取得" />
@@ -57,13 +58,12 @@
       <item value="データ連携 店舗売上CSVフォーマット" />
       <item value="発送スケジュール" />
       <item value="商品区分" />
-      <item value="カスタマイズ商品フォントコード_裏面" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="263" />
-        <entry key="JAPANESE" value="340" />
+        <entry key="ENGLISH" value="264" />
+        <entry key="JAPANESE" value="341" />
         <entry key="VIETNAMESE" value="178" />
       </map>
     </option>
