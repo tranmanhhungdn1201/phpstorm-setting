@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="FIGURE" />
       <item value="トラッドマンズ ボンサイ" />
       <item value="シークレット" />
       <item value="サイズ直し" />
@@ -57,14 +58,13 @@
       <item value="ロンハーマンオンラインストア データ連携バッチ実行結果通知" />
       <item value="情報" />
       <item value="在庫情報のCSV作成" />
-      <item value="会員コード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="ENGLISH" value="273" />
         <entry key="JAPANESE" value="346" />
-        <entry key="VIETNAMESE" value="178" />
+        <entry key="VIETNAMESE" value="179" />
       </map>
     </option>
   </component>
