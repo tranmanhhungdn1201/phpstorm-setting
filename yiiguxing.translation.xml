@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ユーザ認証', 'ユーザ認証" />
       <item value="期限切れの予約" />
       <item value="決済完了のお知らせ" />
       <item value="ユーザ認証" />
@@ -57,13 +58,12 @@
       <item value="This configuration options determines the ingest driver that will be used | to capture entries from Pulse's recorders. Ingest drivers are great to | free up your request workers quickly by offloading the data storage." />
       <item value="Pulse Ingest Driver" />
       <item value="For data integrity and upserts.." />
-      <item value="For fast lookups and purging" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="285" />
-        <entry key="JAPANESE" value="354" />
+        <entry key="ENGLISH" value="286" />
+        <entry key="JAPANESE" value="355" />
         <entry key="VIETNAMESE" value="179" />
       </map>
     </option>
