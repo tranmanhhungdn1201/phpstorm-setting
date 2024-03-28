@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="第二の希望" />
+      <item value="第一希望" />
       <item value="商品の配送料" />
       <item value="利用規約" />
       <item value="新着順" />
@@ -56,14 +58,12 @@
       <item value="前回連携時の在庫" />
       <item value="ARTIDA OUDンラインストア データ連携バッチ実行結果通知" />
       <item value="ンラインストア" />
-      <item value="ロンハーマンオ" />
-      <item value="ロンハーマンオンラインストア" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="276" />
-        <entry key="JAPANESE" value="349" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="279" />
+        <entry key="JAPANESE" value="350" />
         <entry key="VIETNAMESE" value="179" />
       </map>
     </option>
