@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="本番用" />
+      <item value="連携先バケット(開発用)" />
       <item value="設定ファイル読み込み" />
       <item value="カラー名" />
       <item value="カラーコード" />
@@ -56,14 +58,12 @@
       <item value="支払い完了メール通知のサンプル" />
       <item value="受付日" />
       <item value="予約名" />
-      <item value="こちらの予約確保用決済は期限を越えてしまったため" />
-      <item value="支払いメールを通知する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="291" />
-        <entry key="JAPANESE" value="360" />
+        <entry key="ENGLISH" value="293" />
+        <entry key="JAPANESE" value="362" />
         <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
