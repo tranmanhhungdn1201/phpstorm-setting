@@ -8,6 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="返品に伴う返金には、利息を付さないものとします。" />
+      <item value="当社から利用者に対し返品等に伴う売買代金を返却する場合、返却（受領）の方法は、次のいずれかの方法とさせていただきます。現金書留等の他の方法でのご返金は承っておりません。" />
+      <item value="共同利用者：株式会社 松葉屋" />
+      <item value="共同利用者：株式会社■■■■【ブランド等個人情報を利用する取引先名】" />
       <item value="本番用" />
       <item value="連携先バケット(開発用)" />
       <item value="設定ファイル読み込み" />
@@ -54,16 +58,12 @@
       <item value="領収書を印刷する" />
       <item value="Slept for yet another whole second" />
       <item value="予約が完了しました" />
-      <item value="支払いが完了したら顧客にメールを送信する" />
-      <item value="支払い完了メール通知のサンプル" />
-      <item value="受付日" />
-      <item value="予約名" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="293" />
-        <entry key="JAPANESE" value="362" />
+        <entry key="ENGLISH" value="297" />
+        <entry key="JAPANESE" value="366" />
         <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
