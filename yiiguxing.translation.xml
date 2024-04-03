@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="日付指定なし" />
       <item value="お支払い方法を変更して購入する" />
       <item value="返品に伴う返金には、利息を付さないものとします。" />
       <item value="当社から利用者に対し返品等に伴う売買代金を返却する場合、返却（受領）の方法は、次のいずれかの方法とさせていただきます。現金書留等の他の方法でのご返金は承っておりません。" />
@@ -57,13 +58,12 @@
       <item value="領収書を印刷" />
       <item value="領収書の宛名の入力と住所記載の有無" />
       <item value="領収書を印刷する" />
-      <item value="Slept for yet another whole second" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="299" />
-        <entry key="JAPANESE" value="368" />
+        <entry key="ENGLISH" value="300" />
+        <entry key="JAPANESE" value="369" />
         <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
