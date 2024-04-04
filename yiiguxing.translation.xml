@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="楽天ID決済" />
       <item value="日付指定なし" />
       <item value="お支払い方法を変更して購入する" />
       <item value="返品に伴う返金には、利息を付さないものとします。" />
@@ -57,13 +58,12 @@
       <item value="指定されたサイズコードとサイズ名に該当する色を取得" />
       <item value="領収書を印刷" />
       <item value="領収書の宛名の入力と住所記載の有無" />
-      <item value="領収書を印刷する" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="300" />
-        <entry key="JAPANESE" value="369" />
+        <entry key="ENGLISH" value="301" />
+        <entry key="JAPANESE" value="370" />
         <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
