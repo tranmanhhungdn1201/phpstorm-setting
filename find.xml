@@ -15,7 +15,7 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
-    <mask>*.tpl</mask>
     <mask>*.sql</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
