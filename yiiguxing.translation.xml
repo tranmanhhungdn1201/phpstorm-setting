@@ -8,8 +8,10 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="名" />
+      <item value="お名前" />
+      <item value="氏名" />
       <item value="姓" />
+      <item value="名" />
       <item value="特定商取引法に基づく表記" />
       <item value="楽天ID決済" />
       <item value="日付指定なし" />
@@ -56,14 +58,12 @@
       <item value="カテゴリ管理機能でリンクを表示するときのベースURL" />
       <item value="ショップ用メモ欄" />
       <item value="公開" />
-      <item value="非公開" />
-      <item value="通常価格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="304" />
-        <entry key="JAPANESE" value="371" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="307" />
+        <entry key="JAPANESE" value="373" />
         <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
