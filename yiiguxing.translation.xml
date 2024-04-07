@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712025229693" />
+    <option name="lastTrimTime" value="1712501644621" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Positioned" />
       <item value="その他" />
       <item value="主婦" />
       <item value="学生・フリーター" />
@@ -57,14 +58,13 @@
       <item value="利用規約" />
       <item value="新着順" />
       <item value="FIGURE" />
-      <item value="トラッドマンズ ボンサイ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="ENGLISH" value="327" />
         <entry key="JAPANESE" value="389" />
-        <entry key="VIETNAMESE" value="182" />
+        <entry key="VIETNAMESE" value="183" />
       </map>
     </option>
   </component>
