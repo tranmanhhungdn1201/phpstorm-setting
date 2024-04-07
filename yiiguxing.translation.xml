@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703665415043" />
+    <option name="lastTrimTime" value="1712025229693" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,21 +8,63 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="collapse" />
-      <item value="But as soon as the &quot;Regenerate Response&quot; or so is clicked, then it must be loaded again" />
-      <item value="在庫アップロードタイプID" />
-      <item value="更新用データ" />
-      <item value="最新のファイルのみ処理" />
-      <item value="OTSが在庫ファイルを配置するのは金曜日のみのため金曜日以外はアラートを抑止" />
-      <item value="多重起動の制御を行う" />
-      <item value="Any Gift（info@anygift.jp）からのメールに記載がございます「eギフト受け取りURL」をお相手にお知らせください。" />
-      <item value="購入完了後" />
+      <item value="その他" />
+      <item value="主婦" />
+      <item value="学生・フリーター" />
+      <item value="出版・マスコミ関係" />
+      <item value="会社経営・役員" />
+      <item value="デザイン関係" />
+      <item value="企画・マーケティング" />
+      <item value="広報・宣伝" />
+      <item value="研究・開発" />
+      <item value="営業・販売" />
+      <item value="総務・人事・事務" />
+      <item value="医師" />
+      <item value="金融関係" />
+      <item value="コンピューター関連以外の技術職" />
+      <item value="コンピューター関連技術職" />
+      <item value="コンサルタント" />
+      <item value="公務員" />
+      <item value="お名前" />
+      <item value="氏名" />
+      <item value="姓" />
+      <item value="名" />
+      <item value="特定商取引法に基づく表記" />
+      <item value="楽天ID決済" />
+      <item value="日付指定なし" />
+      <item value="お支払い方法を変更して購入する" />
+      <item value="返品に伴う返金には、利息を付さないものとします。" />
+      <item value="当社から利用者に対し返品等に伴う売買代金を返却する場合、返却（受領）の方法は、次のいずれかの方法とさせていただきます。現金書留等の他の方法でのご返金は承っておりません。" />
+      <item value="共同利用者：株式会社 松葉屋" />
+      <item value="共同利用者：株式会社■■■■【ブランド等個人情報を利用する取引先名】" />
+      <item value="本番用" />
+      <item value="連携先バケット(開発用)" />
+      <item value="設定ファイル読み込み" />
+      <item value="カラー名" />
+      <item value="カラーコード" />
+      <item value="exclude country key" />
+      <item value="日本IPの時のみ表示" />
+      <item value="ユーザ認証', 'ユーザ認証" />
+      <item value="期限切れの予約" />
+      <item value="決済完了のお知らせ" />
+      <item value="ユーザ認証" />
+      <item value="予約リクエストに応答する" />
+      <item value="第一候选确定" />
+      <item value="时间" />
+      <item value="第二の希望" />
+      <item value="第一希望" />
+      <item value="商品の配送料" />
+      <item value="利用規約" />
+      <item value="新着順" />
+      <item value="FIGURE" />
+      <item value="トラッドマンズ ボンサイ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="JAPANESE" value="7" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="325" />
+        <entry key="JAPANESE" value="389" />
+        <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
   </component>
