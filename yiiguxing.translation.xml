@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="verbosity" />
       <item value="is Positioned" />
       <item value="その他" />
       <item value="主婦" />
@@ -57,14 +58,13 @@
       <item value="商品の配送料" />
       <item value="利用規約" />
       <item value="新着順" />
-      <item value="FIGURE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="JAPANESE" value="389" />
-        <entry key="VIETNAMESE" value="183" />
+        <entry key="VIETNAMESE" value="184" />
       </map>
     </option>
   </component>
