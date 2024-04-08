@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="取込を開始しました。" />
       <item value="邮件" />
       <item value="认证页面" />
       <item value="支払いURLがメールに送信されましたので、ご確認ください" />
@@ -57,13 +58,12 @@
       <item value="ユーザ認証', 'ユーザ認証" />
       <item value="期限切れの予約" />
       <item value="決済完了のお知らせ" />
-      <item value="ユーザ認証" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="335" />
-        <entry key="JAPANESE" value="395" />
+        <entry key="ENGLISH" value="336" />
+        <entry key="JAPANESE" value="396" />
         <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
