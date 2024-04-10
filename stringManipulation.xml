@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.ShiftQuoteAction" />
-        <option name="description" value="Shift all double quote, single quote, backtick to the next type (or wrap if none present)" />
-        <option name="textWithMnemonic" value="Wrap or Shift Between &quot; and ' and `" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
+        <option name="description" value="Toggle: snake_case / camelCase" />
+        <option name="textWithMnemonic" value="snake_case / camelCase" />
       </UniversalActionModel>
     </option>
   </component>

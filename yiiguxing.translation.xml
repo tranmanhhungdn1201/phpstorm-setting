@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712501644621" />
+    <option name="lastTrimTime" value="1712541722500" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -8,8 +8,22 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="verbosity" />
-      <item value="is Positioned" />
+      <item value="Advanced" />
+      <item value="路面店" />
+      <item value="会員対象店" />
+      <item value="複数顧客の顧客属性を取得" />
+      <item value="penultimate Row" />
+      <item value="取込を開始しました。" />
+      <item value="邮件" />
+      <item value="认证页面" />
+      <item value="支払いURLがメールに送信されましたので、ご確認ください" />
+      <item value="予約は失効しました" />
+      <item value="決済が完了すると予約が確定します。" />
+      <item value="内容を確認いただき、決済が完了してください。" />
+      <item value="预订确定详情 预订详情" />
+      <item value="人数を選択してください" />
+      <item value="変更" />
+      <item value="名称变更" />
       <item value="その他" />
       <item value="主婦" />
       <item value="学生・フリーター" />
@@ -44,27 +58,13 @@
       <item value="設定ファイル読み込み" />
       <item value="カラー名" />
       <item value="カラーコード" />
-      <item value="exclude country key" />
-      <item value="日本IPの時のみ表示" />
-      <item value="ユーザ認証', 'ユーザ認証" />
-      <item value="期限切れの予約" />
-      <item value="決済完了のお知らせ" />
-      <item value="ユーザ認証" />
-      <item value="予約リクエストに応答する" />
-      <item value="第一候选确定" />
-      <item value="时间" />
-      <item value="第二の希望" />
-      <item value="第一希望" />
-      <item value="商品の配送料" />
-      <item value="利用規約" />
-      <item value="新着順" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="328" />
-        <entry key="JAPANESE" value="389" />
-        <entry key="VIETNAMESE" value="184" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="342" />
+        <entry key="JAPANESE" value="398" />
+        <entry key="VIETNAMESE" value="185" />
       </map>
     </option>
   </component>
