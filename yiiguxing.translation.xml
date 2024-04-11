@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="拠点コード" />
       <item value="店舗在庫連携最終更新日時" />
       <item value="属性を取得" />
       <item value="Advanced" />
@@ -57,13 +58,12 @@
       <item value="共同利用者：株式会社■■■■【ブランド等個人情報を利用する取引先名】" />
       <item value="本番用" />
       <item value="連携先バケット(開発用)" />
-      <item value="設定ファイル読み込み" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="344" />
-        <entry key="JAPANESE" value="400" />
+        <entry key="ENGLISH" value="345" />
+        <entry key="JAPANESE" value="401" />
         <entry key="VIETNAMESE" value="185" />
       </map>
     </option>
