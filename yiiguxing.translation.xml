@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="属性を取得" />
       <item value="Advanced" />
       <item value="路面店" />
       <item value="会員対象店" />
@@ -57,13 +58,12 @@
       <item value="連携先バケット(開発用)" />
       <item value="設定ファイル読み込み" />
       <item value="カラー名" />
-      <item value="カラーコード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="342" />
-        <entry key="JAPANESE" value="398" />
+        <entry key="ENGLISH" value="343" />
+        <entry key="JAPANESE" value="399" />
         <entry key="VIETNAMESE" value="185" />
       </map>
     </option>
