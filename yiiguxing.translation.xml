@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="表示用店舗在庫の更新" />
+      <item value="在庫アップロードタイプID" />
       <item value="バッチエラーの検知（開発へ送信）" />
       <item value="バッチ多重起動エラーの検知（開発へ送信）" />
       <item value="拠点コード" />
@@ -56,15 +58,13 @@
       <item value="お支払い方法を変更して購入する" />
       <item value="返品に伴う返金には、利息を付さないものとします。" />
       <item value="当社から利用者に対し返品等に伴う売買代金を返却する場合、返却（受領）の方法は、次のいずれかの方法とさせていただきます。現金書留等の他の方法でのご返金は承っておりません。" />
-      <item value="共同利用者：株式会社 松葉屋" />
-      <item value="共同利用者：株式会社■■■■【ブランド等個人情報を利用する取引先名】" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="346" />
-        <entry key="JAPANESE" value="403" />
-        <entry key="VIETNAMESE" value="187" />
+        <entry key="JAPANESE" value="405" />
+        <entry key="VIETNAMESE" value="189" />
       </map>
     </option>
   </component>
