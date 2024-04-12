@@ -8,6 +8,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="E.g" />
+      <item value="Ex" />
       <item value="店舗在庫連携最終更新日時" />
       <item value="ストア詳細情報設定" />
       <item value="店舗在庫連携バッチ多重起動エラー（開発へ送信）" />
@@ -56,15 +58,14 @@
       <item value="お名前" />
       <item value="氏名" />
       <item value="姓" />
-      <item value="名" />
-      <item value="特定商取引法に基づく表記" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="JAPANESE" value="409" />
-        <entry key="VIETNAMESE" value="195" />
+        <entry key="VIETNAMESE" value="197" />
       </map>
     </option>
   </component>
