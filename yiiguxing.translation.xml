@@ -8,13 +8,17 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="店舗在庫連携最終更新日時" />
+      <item value="ストア詳細情報設定" />
+      <item value="店舗在庫連携バッチ多重起動エラー（開発へ送信）" />
+      <item value="連携ファイルが存在しません" />
+      <item value="Crystal Stock Mutex Exception" />
       <item value="Inflector" />
       <item value="表示用店舗在庫の更新" />
       <item value="在庫アップロードタイプID" />
       <item value="バッチエラーの検知（開発へ送信）" />
       <item value="バッチ多重起動エラーの検知（開発へ送信）" />
       <item value="拠点コード" />
-      <item value="店舗在庫連携最終更新日時" />
       <item value="属性を取得" />
       <item value="Advanced" />
       <item value="路面店" />
@@ -54,17 +58,13 @@
       <item value="姓" />
       <item value="名" />
       <item value="特定商取引法に基づく表記" />
-      <item value="楽天ID決済" />
-      <item value="日付指定なし" />
-      <item value="お支払い方法を変更して購入する" />
-      <item value="返品に伴う返金には、利息を付さないものとします。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="348" />
-        <entry key="JAPANESE" value="405" />
-        <entry key="VIETNAMESE" value="190" />
+        <entry key="ENGLISH" value="349" />
+        <entry key="JAPANESE" value="409" />
+        <entry key="VIETNAMESE" value="195" />
       </map>
     </option>
   </component>
