@@ -8,6 +8,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="テーブルごとに、プライマリキーと最新の日時を取得するクエリを作成" />
       <item value="cart idを指定してカート変更" />
       <item value="Custom Transform" />
       <item value="E.g" />
@@ -57,14 +58,13 @@
       <item value="コンピューター関連技術職" />
       <item value="コンサルタント" />
       <item value="公務員" />
-      <item value="お名前" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="352" />
-        <entry key="JAPANESE" value="410" />
+        <entry key="ENGLISH" value="353" />
+        <entry key="JAPANESE" value="411" />
         <entry key="VIETNAMESE" value="198" />
       </map>
     </option>
