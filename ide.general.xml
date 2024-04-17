@@ -7,5 +7,6 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="terminal.new.ui" value="true" />
   </component>
 </application>
