@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713171594523" />
+    <option name="lastTrimTime" value="1713758408240" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="連携ファイルが存在しません。" />
+      <item value="バッチ起動：店舗在庫連携処理" />
       <item value="名" />
       <item value="姓" />
       <item value="フリー" />
@@ -59,16 +61,14 @@
       <item value="広報・宣伝" />
       <item value="研究・開発" />
       <item value="営業・販売" />
-      <item value="総務・人事・事務" />
-      <item value="医師" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="359" />
-        <entry key="JAPANESE" value="413" />
-        <entry key="VIETNAMESE" value="198" />
+        <entry key="ENGLISH" value="360" />
+        <entry key="JAPANESE" value="415" />
+        <entry key="VIETNAMESE" value="200" />
       </map>
     </option>
   </component>
