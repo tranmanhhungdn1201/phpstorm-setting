@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="名" />
+      <item value="姓" />
       <item value="フリー" />
       <item value="店舗（Shop）在庫を確認する" />
       <item value="If modifying these scopes, delete token.json." />
@@ -59,14 +61,12 @@
       <item value="営業・販売" />
       <item value="総務・人事・事務" />
       <item value="医師" />
-      <item value="金融関係" />
-      <item value="コンピューター関連以外の技術職" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="359" />
         <entry key="JAPANESE" value="413" />
         <entry key="VIETNAMESE" value="198" />
       </map>
