@@ -177,6 +177,16 @@
               </list>
             </value>
           </entry>
+          <entry key="javascript">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}/javascript/user.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="kotlin">
             <value>
               <list>
