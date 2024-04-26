@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="magnitude" />
       <item value="データ連携" />
       <item value="楽天ファッション在庫情報連携(変動分）" />
       <item value="1日に1回AM 10:30" />
@@ -60,15 +61,14 @@
       <item value="名称变更" />
       <item value="その他" />
       <item value="主婦" />
-      <item value="学生・フリーター" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="ENGLISH" value="371" />
         <entry key="JAPANESE" value="420" />
-        <entry key="VIETNAMESE" value="203" />
+        <entry key="VIETNAMESE" value="204" />
       </map>
     </option>
   </component>
