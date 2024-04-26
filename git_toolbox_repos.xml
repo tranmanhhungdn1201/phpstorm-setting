@@ -1,5 +1,62 @@
 <application>
   <component name="GitToolBoxRepositoriesAppConfig">
+    <option name="detectPullRequestCreation" value="false" />
     <option name="version" value="2" />
+    <configForRepoType>
+      <entry type="BITBUCKET_SERVER">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
+      <entry type="BITBUCKET_CLOUD">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
+      <entry type="GITHUB">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
+      <entry type="GITLAB">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
+      <entry type="AWS_CODE_COMMIT">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
+      <entry type="AZURE_REPOS">
+        <RepoTypeConfig>
+          <option name="fetchUriGlobs">
+            <list>
+              <option value="" />
+            </list>
+          </option>
+        </RepoTypeConfig>
+      </entry>
+    </configForRepoType>
   </component>
 </application>

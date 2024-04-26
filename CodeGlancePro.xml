@@ -1,6 +1,12 @@
 <application>
   <component name="CodeGlance Pro">
-    <option name="mainWidth" value="71" />
+    <option name="diffTwoSide" value="false" />
+    <option name="enableMarker" value="false" />
+    <option name="hideOriginalScrollBar" value="true" />
+    <option name="mainWidth" value="90" />
     <option name="previewWidth" value="82" />
+    <option name="showFilterMarkupHighlight" value="false" />
+    <option name="showVcsHighlight" value="false" />
+    <option name="syntaxHighlight" value="false" />
   </component>
 </application>
