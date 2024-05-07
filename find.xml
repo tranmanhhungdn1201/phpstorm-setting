@@ -17,5 +17,6 @@
     <mask>*.sql</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*blade.php</mask>
   </component>
 </application>
