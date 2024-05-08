@@ -11,6 +11,9 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="set Related" />
+      <item value="performed On" />
+      <item value="caused By" />
       <item value="STATUS MISSED" />
       <item value="STATUS BILLING ISSUED" />
       <item value="STATUS PROPOSING" />
@@ -58,17 +61,14 @@
       <item value="予約は失効しました" />
       <item value="決済が完了すると予約が確定します。" />
       <item value="内容を確認いただき、決済が完了してください。" />
-      <item value="预订确定详情 预订详情" />
-      <item value="人数を選択してください" />
-      <item value="変更" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="ENGLISH" value="379" />
         <entry key="JAPANESE" value="420" />
-        <entry key="VIETNAMESE" value="207" />
+        <entry key="VIETNAMESE" value="210" />
       </map>
     </option>
   </component>
