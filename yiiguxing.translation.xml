@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="Demand" />
+      <item value="Demand Controller" />
       <item value="reserved" />
       <item value="set Related" />
       <item value="performed On" />
@@ -59,16 +61,14 @@
       <item value="邮件" />
       <item value="认证页面" />
       <item value="支払いURLがメールに送信されましたので、ご確認ください" />
-      <item value="予約は失効しました" />
-      <item value="決済が完了すると予約が確定します。" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="ENGLISH" value="383" />
         <entry key="JAPANESE" value="420" />
-        <entry key="VIETNAMESE" value="211" />
+        <entry key="VIETNAMESE" value="213" />
       </map>
     </option>
   </component>
