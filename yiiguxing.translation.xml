@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="axes" />
+      <item value="axis" />
       <item value="add Summary Quarter Row" />
       <item value="add Sumarry Quarter Row" />
       <item value="Y年M月" />
@@ -59,16 +61,14 @@
       <item value="表示用店舗在庫の更新" />
       <item value="在庫アップロードタイプID" />
       <item value="バッチエラーの検知（開発へ送信）" />
-      <item value="バッチ多重起動エラーの検知（開発へ送信）" />
-      <item value="拠点コード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="ENGLISH" value="398" />
         <entry key="JAPANESE" value="420" />
-        <entry key="VIETNAMESE" value="223" />
+        <entry key="VIETNAMESE" value="225" />
       </map>
     </option>
   </component>
