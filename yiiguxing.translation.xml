@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="fill" />
       <item value="Note that i is preserved between yields." />
       <item value="Gapless Date Axis" />
       <item value="add range which will show current value" />
@@ -60,7 +61,6 @@
       <item value="Ex" />
       <item value="店舗在庫連携最終更新日時" />
       <item value="ストア詳細情報設定" />
-      <item value="店舗在庫連携バッチ多重起動エラー（開発へ送信）" />
     </histories>
     <option name="languageScores">
       <map>
