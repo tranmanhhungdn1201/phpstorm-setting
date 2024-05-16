@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="Note that i is preserved between yields." />
       <item value="Gapless Date Axis" />
       <item value="add range which will show current value" />
       <item value="minor Grid Enabled" />
@@ -60,15 +61,14 @@
       <item value="店舗在庫連携最終更新日時" />
       <item value="ストア詳細情報設定" />
       <item value="店舗在庫連携バッチ多重起動エラー（開発へ送信）" />
-      <item value="連携ファイルが存在しません" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="ENGLISH" value="407" />
         <entry key="JAPANESE" value="420" />
-        <entry key="VIETNAMESE" value="231" />
+        <entry key="VIETNAMESE" value="232" />
       </map>
     </option>
   </component>
