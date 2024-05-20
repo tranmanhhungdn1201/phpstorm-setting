@@ -11,8 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
-      <item value="実績" />
       <item value="予算" />
+      <item value="実績" />
       <item value="cost sga" />
       <item value="budget sga" />
       <item value="color columns by stock rules" />
@@ -67,8 +67,8 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="412" />
-        <entry key="JAPANESE" value="423" />
-        <entry key="VIETNAMESE" value="238" />
+        <entry key="JAPANESE" value="424" />
+        <entry key="VIETNAMESE" value="239" />
       </map>
     </option>
   </component>
