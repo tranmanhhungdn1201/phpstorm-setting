@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715570613281" />
+    <option name="lastTrimTime" value="1716187844572" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,9 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="予算" />
+      <item value="cost sga" />
+      <item value="budget sga" />
       <item value="color columns by stock rules" />
       <item value="fill" />
       <item value="Note that i is preserved between yields." />
@@ -58,17 +61,14 @@
       <item value="テーブルごとに、プライマリキーと最新の日時を取得するクエリを作成" />
       <item value="cart idを指定してカート変更" />
       <item value="Custom Transform" />
-      <item value="E.g" />
-      <item value="Ex" />
-      <item value="店舗在庫連携最終更新日時" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="409" />
-        <entry key="JAPANESE" value="420" />
-        <entry key="VIETNAMESE" value="233" />
+        <entry key="ENGLISH" value="412" />
+        <entry key="JAPANESE" value="421" />
+        <entry key="VIETNAMESE" value="236" />
       </map>
     </option>
   </component>
