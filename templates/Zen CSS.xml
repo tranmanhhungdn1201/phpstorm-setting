@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="comb" value="/* *** $EDIT$ *** */&#10;   $END$&#10;/* *** End $EDIT$ *** */" description="Comment Block" toReformat="false" toShortenFQNames="true">
+    <variable name="EDIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

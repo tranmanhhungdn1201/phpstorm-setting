@@ -1,70 +1,74 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712541722500" />
+    <option name="lastTrimTime" value="1716187844572" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="2579" />
+    <option name="translationDialogLocationY" value="394" />
     <histories>
-      <item value="Advanced" />
-      <item value="路面店" />
-      <item value="会員対象店" />
-      <item value="複数顧客の顧客属性を取得" />
-      <item value="penultimate Row" />
-      <item value="取込を開始しました。" />
-      <item value="邮件" />
-      <item value="认证页面" />
-      <item value="支払いURLがメールに送信されましたので、ご確認ください" />
-      <item value="予約は失効しました" />
-      <item value="決済が完了すると予約が確定します。" />
-      <item value="内容を確認いただき、決済が完了してください。" />
-      <item value="预订确定详情 预订详情" />
-      <item value="人数を選択してください" />
-      <item value="変更" />
-      <item value="名称变更" />
-      <item value="その他" />
-      <item value="主婦" />
-      <item value="学生・フリーター" />
-      <item value="出版・マスコミ関係" />
-      <item value="会社経営・役員" />
-      <item value="デザイン関係" />
-      <item value="企画・マーケティング" />
-      <item value="広報・宣伝" />
-      <item value="研究・開発" />
-      <item value="営業・販売" />
-      <item value="総務・人事・事務" />
-      <item value="医師" />
-      <item value="金融関係" />
-      <item value="コンピューター関連以外の技術職" />
-      <item value="コンピューター関連技術職" />
-      <item value="コンサルタント" />
-      <item value="公務員" />
-      <item value="お名前" />
-      <item value="氏名" />
-      <item value="姓" />
+      <item value="advance" />
+      <item value="Add paths need to ignore" />
+      <item value="予算" />
+      <item value="実績" />
+      <item value="cost sga" />
+      <item value="budget sga" />
+      <item value="color columns by stock rules" />
+      <item value="fill" />
+      <item value="Note that i is preserved between yields." />
+      <item value="Gapless Date Axis" />
+      <item value="add range which will show current value" />
+      <item value="minor Grid Enabled" />
+      <item value="extra Tooltip Precision" />
+      <item value="clustered" />
+      <item value="axes" />
+      <item value="axis" />
+      <item value="add Summary Quarter Row" />
+      <item value="add Sumarry Quarter Row" />
+      <item value="Y年M月" />
+      <item value="projected" />
+      <item value="this Quarter" />
+      <item value="normalize" />
+      <item value="expenses" />
+      <item value="accumulated" />
+      <item value="accumulated revenue value" />
+      <item value="Expense" />
+      <item value="Demand" />
+      <item value="Demand Controller" />
+      <item value="reserved" />
+      <item value="set Related" />
+      <item value="performed On" />
+      <item value="caused By" />
+      <item value="STATUS MISSED" />
+      <item value="STATUS BILLING ISSUED" />
+      <item value="STATUS PROPOSING" />
+      <item value="magnitude" />
+      <item value="データ連携" />
+      <item value="楽天ファッション在庫情報連携(変動分）" />
+      <item value="1日に1回AM 10:30" />
+      <item value="※1日1度 （2時～9時の間：最終は9時代）" />
+      <item value="bin Size" />
+      <item value="spread" />
+      <item value="generate Bell Curve" />
+      <item value="連携ファイルが存在しません。" />
+      <item value="バッチ起動：店舗在庫連携処理" />
       <item value="名" />
-      <item value="特定商取引法に基づく表記" />
-      <item value="楽天ID決済" />
-      <item value="日付指定なし" />
-      <item value="お支払い方法を変更して購入する" />
-      <item value="返品に伴う返金には、利息を付さないものとします。" />
-      <item value="当社から利用者に対し返品等に伴う売買代金を返却する場合、返却（受領）の方法は、次のいずれかの方法とさせていただきます。現金書留等の他の方法でのご返金は承っておりません。" />
-      <item value="共同利用者：株式会社 松葉屋" />
-      <item value="共同利用者：株式会社■■■■【ブランド等個人情報を利用する取引先名】" />
-      <item value="本番用" />
-      <item value="連携先バケット(開発用)" />
-      <item value="設定ファイル読み込み" />
-      <item value="カラー名" />
-      <item value="カラーコード" />
+      <item value="姓" />
+      <item value="フリー" />
+      <item value="店舗（Shop）在庫を確認する" />
+      <item value="If modifying these scopes, delete token.json." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="342" />
-        <entry key="JAPANESE" value="398" />
-        <entry key="VIETNAMESE" value="185" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="416" />
+        <entry key="JAPANESE" value="424" />
+        <entry key="VIETNAMESE" value="241" />
       </map>
     </option>
   </component>

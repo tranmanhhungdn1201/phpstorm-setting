@@ -1,0 +1,5 @@
+<application>
+  <component name="LogHighlightingSettings">
+    <readonlySizeThreshold>10000</readonlySizeThreshold>
+  </component>
+</application>
