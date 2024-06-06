@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="validate User" />
       <item value="decimal" />
       <item value="origin Object" />
       <item value="current Granularity" />
@@ -60,15 +61,14 @@
       <item value="generate Bell Curve" />
       <item value="連携ファイルが存在しません。" />
       <item value="バッチ起動：店舗在庫連携処理" />
-      <item value="名" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="ENGLISH" value="426" />
         <entry key="JAPANESE" value="424" />
-        <entry key="VIETNAMESE" value="245" />
+        <entry key="VIETNAMESE" value="246" />
       </map>
     </option>
   </component>
