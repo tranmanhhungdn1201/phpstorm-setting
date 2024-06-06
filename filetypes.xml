@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="data (2)" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping ext="local" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
