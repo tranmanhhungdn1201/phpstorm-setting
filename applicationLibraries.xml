@@ -1,5 +1,29 @@
 <application>
   <component name="libraryTable">
+    <library name="anychart-core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.anychart.com_releases_8.12.1_js_anychart-core.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.anychart.com_releases_8.12.1_js_anychart-core.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="anychart-stock" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.anychart.com_releases_8.12.1_js_anychart-stock.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.anychart.com_releases_8.12.1_js_anychart-stock.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
