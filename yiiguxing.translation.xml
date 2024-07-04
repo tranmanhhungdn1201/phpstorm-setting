@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719279617533" />
+    <option name="lastTrimTime" value="1720079288572" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="Comma" />
       <item value="heatmap settings presets" />
       <item value="handle chart" />
       <item value="crisp" />
@@ -60,15 +61,14 @@
       <item value="データ連携" />
       <item value="楽天ファッション在庫情報連携(変動分）" />
       <item value="1日に1回AM 10:30" />
-      <item value="※1日1度 （2時～9時の間：最終は9時代）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="JAPANESE" value="424" />
-        <entry key="VIETNAMESE" value="250" />
+        <entry key="VIETNAMESE" value="251" />
       </map>
     </option>
   </component>
