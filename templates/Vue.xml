@@ -29,6 +29,17 @@
   <template name="vstore2" value="export const state = () =&gt; ({&#10; value: 'myvalue'&#10;})&#10;&#10;export const getters = {&#10; getterValue: state =&gt; {&#10;  return state.value&#10; }&#10;}&#10;&#10;export const mutations = {&#10; updateValue: (state, payload) =&gt; {&#10;  state.value = payload&#10; }&#10;}&#10;&#10;export const actions = {&#10; updateActionValue({ commit }) {&#10;  commit('updateValue', payload)&#10; }&#10;}" description="Vuex store 2" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="vdispatch" value="$actionName$() {&#10; this.\$store$.dispatch('$actionName$', $payload$);&#10;}" description="Dispatch to vuex store in methods for action" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="store" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="actionName" expression="" defaultValue="&quot;actionName&quot;" alwaysStopAt="true" />
+    <variable name="payload" expression="" defaultValue="&quot;payload&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vfilter" value="filters: {&#10; $fnName$: function($value$) {&#10;  return $value$$END$;&#10; }&#10;}" description="Vue filter" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="fnName" expression="" defaultValue="&quot;fnName&quot;" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="vmapactions" value="import { mapActions } from 'vuex';&#10;&#10;export default {&#10; methods: {&#10;  ...mapActions([&#10;   $nameOfAction$, //also supports payload `this.nameOfAction(amount)` &#10;  ])&#10; },&#10;};" description="Mapactions inside a vue component" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="nameOfAction" expression="" defaultValue="&quot;'nameOfAction'&quot;" alwaysStopAt="true" />
     <context />
@@ -39,6 +50,10 @@
   </template>
   <template name="vmapmutations" value="import { mapMutations } from 'vuex';&#10;&#10;export default {&#10; methods: {&#10;  ...mapMutations([&#10;   $nameOfMutation$, //also supports payload `this.nameOfMutation(amount)` &#10;  ])&#10; },&#10;};" description="Mapmutations inside a vue component" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="nameOfMutation" expression="" defaultValue="&quot;'nameOfMutation'&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmapstate" value="import { mapState } from 'vuex';&#10;&#10;export default {&#10; computed: {&#10;  ...mapState([&#10;   $vmapstate$,&#10;  ])&#10; },&#10;};" description="Map getters inside a vue component" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="vmapstate" expression="" defaultValue="&quot;'nameOfState'&quot;" alwaysStopAt="true" />
     <context />
   </template>
   <template name="vmethod" value="methods: {&#10; $name$() {&#10;  $END$&#10; }&#10;}," description="Vue method" toReformat="true" toShortenFQNames="true" deactivated="true">

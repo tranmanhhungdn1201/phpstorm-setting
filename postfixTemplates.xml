@@ -6,7 +6,22 @@
     </template>
     <template id="dd@userDefined" key=".dd" provider="builtin.php" topmost="true">
       <conditions />
-      <template name="fakeKey" value="dd($EXPR$);" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="dd($EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.sql">
+        <value>
+          <set>
+            <option value="com.intellij.sql.postfixTemplates.SqlAllAliasedFromPostfixTemplate#.afrom" />
+            <option value="com.intellij.sql.postfixTemplates.SqlAllFromPostfixTemplate#.cfrom" />
+            <option value="com.intellij.sql.postfixTemplates.SqlCastPostfixTemplate#.cast" />
+            <option value="com.intellij.sql.postfixTemplates.SqlFromPostfixTemplate#.from" />
+            <option value="com.intellij.sql.postfixTemplates.SqlJoinPostfixTemplate#.join" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
   </component>
 </application>
