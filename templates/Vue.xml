@@ -1,8 +1,56 @@
 <templateSet group="Vue">
-  <template name="comb" value="// -------------------------------------------------------------------------------&#10;// $EDIT$&#10;// -------------------------------------------------------------------------------&#10;$END$&#10;// -------------------------------------------------------------------------------" description="Comment block" toReformat="false" toShortenFQNames="true">
+  <template name="comb" value="// -------------------------------------------------------------------------------&#10;// $EDIT$&#10;// -------------------------------------------------------------------------------&#10;$END$&#10;// -------------------------------------------------------------------------------" description="Comment block" toReformat="true" toShortenFQNames="true">
     <variable name="EDIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
+  </template>
+  <template name="vstore-import" value="import { store } from './store/index';" description="Import vuex store into main.js" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="vgetter" value="getters: {&#10; $value$: state =&gt; {&#10;  return state.$value$;&#10; }&#10;}" description="Vuex getter" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmodule" value="export default {&#10; state: {&#10;  value: 'my value'&#10; },&#10; getters: {&#10;  value: state =&gt; {&#10;   return state.value;&#10;  }&#10; },&#10; mutations: {&#10;  updateValue(state, payload) {&#10;   state.value = payload;&#10;  }&#10; },&#10; actions: {&#10;  updateValue({commit}, payload) {&#10;   commit('updateValue', payload);&#10;  }&#10; }&#10;};" description="Vuex module" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="vmutation" value="mutations: {&#10; $updateValue$(state, $payload$) {&#10;  state.$value$ = $payload$;&#10; }&#10;}" description="Vuex mutation" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="updateValue" expression="" defaultValue="&quot;updateValue&quot;" alwaysStopAt="true" />
+    <variable name="payload" expression="" defaultValue="&quot;payload&quot;" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vstore" value="import Vue from 'vue';&#10;import Vuex from 'vuex';&#10;&#10;Vue.use(Vuex);&#10;&#10;export const store = new Vuex.Store({&#10; state: {&#10;  $key$: $value$&#10; }&#10;});" description="Base for Vuex store" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="key" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vstore2" value="export const state = () =&gt; ({&#10; value: 'myvalue'&#10;})&#10;&#10;export const getters = {&#10; getterValue: state =&gt; {&#10;  return state.value&#10; }&#10;}&#10;&#10;export const mutations = {&#10; updateValue: (state, payload) =&gt; {&#10;  state.value = payload&#10; }&#10;}&#10;&#10;export const actions = {&#10; updateActionValue({ commit }) {&#10;  commit('updateValue', payload)&#10; }&#10;}" description="Vuex store 2" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="vmapactions" value="import { mapActions } from 'vuex';&#10;&#10;export default {&#10; methods: {&#10;  ...mapActions([&#10;   $nameOfAction$, //also supports payload `this.nameOfAction(amount)` &#10;  ])&#10; },&#10;};" description="Mapactions inside a vue component" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="nameOfAction" expression="" defaultValue="&quot;'nameOfAction'&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmapgetters" value="import { mapGetters } from 'vuex';&#10;&#10;export default {&#10; computed: {&#10;  ...mapGetters([&#10;   $nameOfGetter$,&#10;  ])&#10; },&#10;};" description="Mapgetters inside a vue component" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="nameOfGetter" expression="" defaultValue="&quot;'nameOfGetter'&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmapmutations" value="import { mapMutations } from 'vuex';&#10;&#10;export default {&#10; methods: {&#10;  ...mapMutations([&#10;   $nameOfMutation$, //also supports payload `this.nameOfMutation(amount)` &#10;  ])&#10; },&#10;};" description="Mapmutations inside a vue component" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="nameOfMutation" expression="" defaultValue="&quot;'nameOfMutation'&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmethod" value="methods: {&#10; $name$() {&#10;  $END$&#10; }&#10;}," description="Vue method" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmixin" value="const $mixinName$ = {&#10; mounted() {&#10;  console.log('hello from mixin!');&#10; },&#10;};" description="Vue mixin" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="mixinName" expression="" defaultValue="&quot;mixinName&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vmixin-use" value="mixins: [$mixinName$]," description="Vue use mixin" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="mixinName" expression="" defaultValue="&quot;mixinName&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
