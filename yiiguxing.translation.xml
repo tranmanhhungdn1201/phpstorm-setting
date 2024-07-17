@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1720079288572" />
+    <option name="lastTrimTime" value="1720768185611" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,9 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="serialize order book" />
+      <item value="Reconnecting does not guarantee us that we have not missed a websocket message. Missing a single message would put the order book in an invalid state. This is why we can't just reconnect." />
+      <item value="Rectangle" />
       <item value="user data is set on each redraw, so we use this to mark draw as dirty" />
       <item value="The URL of the image used as an icon of the notification as specified in the constructor's options parameter." />
       <item value="A boolean value indicating that a notification should remain active until the user clicks or dismisses it, rather than closing automatically." />
@@ -58,17 +61,14 @@
       <item value="performed On" />
       <item value="caused By" />
       <item value="STATUS MISSED" />
-      <item value="STATUS BILLING ISSUED" />
-      <item value="STATUS PROPOSING" />
-      <item value="magnitude" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="435" />
+        <entry key="ENGLISH" value="438" />
         <entry key="JAPANESE" value="424" />
-        <entry key="VIETNAMESE" value="254" />
+        <entry key="VIETNAMESE" value="257" />
       </map>
     </option>
   </component>
