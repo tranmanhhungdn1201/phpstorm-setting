@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721359373119" />
+    <option name="lastTrimTime" value="1721807826193" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="紹介" />
+      <item value="紹介コード" />
       <item value="referred users" />
       <item value="serialize" />
       <item value="erialize" />
@@ -59,16 +61,14 @@
       <item value="Expense" />
       <item value="Demand" />
       <item value="Demand Controller" />
-      <item value="reserved" />
-      <item value="set Related" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="441" />
-        <entry key="JAPANESE" value="424" />
-        <entry key="VIETNAMESE" value="259" />
+        <entry key="JAPANESE" value="426" />
+        <entry key="VIETNAMESE" value="261" />
       </map>
     </option>
   </component>
