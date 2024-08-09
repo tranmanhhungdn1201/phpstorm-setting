@@ -39,4 +39,11 @@
   <component name="ExternalDiffSettings">
     <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
 </application>
