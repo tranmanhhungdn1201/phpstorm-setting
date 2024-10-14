@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1723828976054" />
+    <option name="lastTrimTime" value="1728379220273" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,13 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="デバイスの数を調整" />
+      <item value="デバイスの数" />
+      <item value="device is bought" />
+      <item value="STATUS PAST DUE" />
+      <item value="change the next_cycle_date back to the previous date" />
+      <item value="Indicate that the price change should be prorated." />
+      <item value="Indicate that the price change should always be invoiced." />
       <item value="identities only" />
       <item value="Replaced all occurrences of" />
       <item value="コード" />
@@ -54,21 +61,14 @@
       <item value="axis" />
       <item value="add Summary Quarter Row" />
       <item value="add Sumarry Quarter Row" />
-      <item value="Y年M月" />
-      <item value="projected" />
-      <item value="this Quarter" />
-      <item value="normalize" />
-      <item value="expenses" />
-      <item value="accumulated" />
-      <item value="accumulated revenue value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="443" />
-        <entry key="JAPANESE" value="427" />
-        <entry key="VIETNAMESE" value="263" />
+        <entry key="ENGLISH" value="448" />
+        <entry key="JAPANESE" value="429" />
+        <entry key="VIETNAMESE" value="270" />
       </map>
     </option>
   </component>
