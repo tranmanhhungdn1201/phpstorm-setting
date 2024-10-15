@@ -2,7 +2,6 @@
   <component name="ScriptedLoadersAssociations">
     <extensions>
       <set>
-        <option value="json" />
         <option value="xls" />
         <option value="xlsx" />
       </set>
