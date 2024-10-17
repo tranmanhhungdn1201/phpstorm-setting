@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'vue3-english-player'" />
-    <option name="defaultScopeName" value="Project 'vue3-english-player'" />
-    <option name="SEARCH_SCOPE" value="Project 'vue3-english-player'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
