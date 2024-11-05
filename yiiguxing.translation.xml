@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1728379220273" />
+    <option name="lastTrimTime" value="1729155741912" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="dependent" />
+      <item value="Suppress logger output for asset requests." />
       <item value="デバイスの数を調整" />
       <item value="デバイスの数" />
       <item value="device is bought" />
@@ -59,16 +61,14 @@
       <item value="clustered" />
       <item value="axes" />
       <item value="axis" />
-      <item value="add Summary Quarter Row" />
-      <item value="add Sumarry Quarter Row" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="ENGLISH" value="450" />
         <entry key="JAPANESE" value="429" />
-        <entry key="VIETNAMESE" value="270" />
+        <entry key="VIETNAMESE" value="272" />
       </map>
     </option>
   </component>
