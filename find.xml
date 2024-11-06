@@ -18,5 +18,6 @@
     <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>*blade.php</mask>
+    <mask>.env*</mask>
   </component>
 </application>
