@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="テナントはプレミアム" />
       <item value="詳細" />
       <item value="referred individuals" />
       <item value="dependent" />
@@ -60,14 +61,13 @@
       <item value="add range which will show current value" />
       <item value="minor Grid Enabled" />
       <item value="extra Tooltip Precision" />
-      <item value="clustered" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="451" />
-        <entry key="JAPANESE" value="430" />
+        <entry key="JAPANESE" value="431" />
         <entry key="VIETNAMESE" value="273" />
       </map>
     </option>
