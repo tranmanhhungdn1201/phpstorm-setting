@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1731039968963" />
+    <option name="lastTrimTime" value="1732008337048" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="description" />
+      <item value="destination" />
       <item value="Subscription Successfully Registered" />
       <item value="サブスクリプションの登録を完了しました" />
       <item value="テナントはプレミアム" />
@@ -59,16 +61,14 @@
       <item value="color columns by stock rules" />
       <item value="fill" />
       <item value="Note that i is preserved between yields." />
-      <item value="Gapless Date Axis" />
-      <item value="add range which will show current value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="ENGLISH" value="454" />
         <entry key="JAPANESE" value="432" />
-        <entry key="VIETNAMESE" value="274" />
+        <entry key="VIETNAMESE" value="276" />
       </map>
     </option>
   </component>
