@@ -11,13 +11,13 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="referred individuals" />
       <item value="description" />
       <item value="destination" />
       <item value="Subscription Successfully Registered" />
       <item value="サブスクリプションの登録を完了しました" />
       <item value="テナントはプレミアム" />
       <item value="詳細" />
-      <item value="referred individuals" />
       <item value="dependent" />
       <item value="Suppress logger output for asset requests." />
       <item value="デバイスの数を調整" />
@@ -66,9 +66,9 @@
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="JAPANESE" value="432" />
-        <entry key="VIETNAMESE" value="276" />
+        <entry key="VIETNAMESE" value="277" />
       </map>
     </option>
   </component>
