@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.lang.jsgraphql" />
+        <option value="com.intellij.react" />
       </list>
     </option>
   </component>
