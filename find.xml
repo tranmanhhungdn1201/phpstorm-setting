@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".env*" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -19,7 +20,7 @@
     <mask>*.sql</mask>
     <mask>*.tpl</mask>
     <mask>*blade.php</mask>
-    <mask>.env*</mask>
     <mask>*.php</mask>
+    <mask>.env*</mask>
   </component>
 </application>
