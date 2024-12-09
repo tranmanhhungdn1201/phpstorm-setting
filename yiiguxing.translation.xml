@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1733128936886" />
+    <option name="lastTrimTime" value="1733712204800" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,8 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="is rest day" />
+      <item value="calc client income date" />
       <item value="ダウンロード" />
       <item value="referred individuals" />
       <item value="description" />
@@ -59,16 +61,14 @@
       <item value="実績" />
       <item value="cost sga" />
       <item value="budget sga" />
-      <item value="color columns by stock rules" />
-      <item value="fill" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="ENGLISH" value="457" />
         <entry key="JAPANESE" value="433" />
-        <entry key="VIETNAMESE" value="277" />
+        <entry key="VIETNAMESE" value="279" />
       </map>
     </option>
   </component>
