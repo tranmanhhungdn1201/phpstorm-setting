@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="担当者です" />
       <item value="is rest day" />
       <item value="calc client income date" />
       <item value="ダウンロード" />
@@ -60,14 +61,13 @@
       <item value="予算" />
       <item value="実績" />
       <item value="cost sga" />
-      <item value="budget sga" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="457" />
-        <entry key="JAPANESE" value="433" />
+        <entry key="JAPANESE" value="434" />
         <entry key="VIETNAMESE" value="279" />
       </map>
     </option>
