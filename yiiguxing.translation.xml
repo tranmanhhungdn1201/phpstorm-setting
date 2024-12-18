@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1733712204800" />
+    <option name="lastTrimTime" value="1734515943578" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="未円転" />
       <item value="set resize proportional" />
       <item value="担当者です" />
       <item value="is rest day" />
@@ -60,14 +61,13 @@
       <item value="advance" />
       <item value="Add paths need to ignore" />
       <item value="予算" />
-      <item value="実績" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="458" />
-        <entry key="JAPANESE" value="434" />
+        <entry key="JAPANESE" value="435" />
         <entry key="VIETNAMESE" value="280" />
       </map>
     </option>
