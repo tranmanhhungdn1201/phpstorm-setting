@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1736303406825" />
+    <option name="lastTrimTime" value="1736764393173" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="REQUESTER TYPE SPECIFIC" />
       <item value="is satisfy condition type" />
       <item value="get entitle by emp" />
       <item value="collision" />
@@ -60,15 +61,14 @@
       <item value="validate User" />
       <item value="decimal" />
       <item value="origin Object" />
-      <item value="current Granularity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="JAPANESE" value="436" />
-        <entry key="VIETNAMESE" value="283" />
+        <entry key="VIETNAMESE" value="284" />
       </map>
     </option>
   </component>
