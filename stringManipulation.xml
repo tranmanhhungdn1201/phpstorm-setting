@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.InvertCaseAction" />
-        <option name="description" value="Invert Case -&gt; iNVERT cASE" />
-        <option name="textWithMnemonic" value="Invert case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
+        <option name="description" value="To snake_case" />
+        <option name="textWithMnemonic" value="To snake_case" />
       </UniversalActionModel>
     </option>
   </component>
