@@ -17,7 +17,7 @@
     <mask>*.tpl</mask>
     <mask>.env*</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*blade.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
