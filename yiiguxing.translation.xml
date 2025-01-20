@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1736764393173" />
+    <option name="lastTrimTime" value="1737341631316" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="upsert" />
       <item value="REQUESTER TYPE SPECIFIC" />
       <item value="is satisfy condition type" />
       <item value="get entitle by emp" />
@@ -60,7 +61,6 @@
       <item value="Define auxiliary functions for evaluating colormaps" />
       <item value="validate User" />
       <item value="decimal" />
-      <item value="origin Object" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,8 @@
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="462" />
         <entry key="JAPANESE" value="436" />
-        <entry key="VIETNAMESE" value="284" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="VIETNAMESE" value="285" />
       </map>
     </option>
   </component>
