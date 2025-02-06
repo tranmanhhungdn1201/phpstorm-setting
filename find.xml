@@ -19,7 +19,8 @@
     <mask>*blade.php</mask>
     <mask>*.js</mask>
     <mask>*.conf</mask>
-    <mask>*.php</mask>
     <mask>.env</mask>
+    <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
