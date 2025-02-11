@@ -19,8 +19,8 @@
     <mask>.env</mask>
     <mask>*.json</mask>
     <mask>*.conf</mask>
-    <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
