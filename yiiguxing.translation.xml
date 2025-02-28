@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1740035702750" />
+    <option name="lastTrimTime" value="1740712230951" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="grand total" />
       <item value="インボイスパッキングリスト番号を入力" />
       <item value="PROPOSING" />
       <item value="三菱UFJ銀行　赤坂支店" />
@@ -60,16 +61,15 @@
       <item value="Comma" />
       <item value="heatmap settings presets" />
       <item value="handle chart" />
-      <item value="crisp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="JAPANESE" value="438" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="VIETNAMESE" value="288" />
+        <entry key="VIETNAMESE" value="289" />
       </map>
     </option>
   </component>
