@@ -1,36 +1,24 @@
 <application>
   <component name="PostfixTemplates">
-    <template id="logi@userDefined" key=".logi" provider="builtin.js" language-level="ES6" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: DodgerBlue&quot;, $EXPR$);" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="loge@userDefined" key=".loge" provider="builtin.js" language-level="ES6" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: red&quot;, $EXPR$);&#10;" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="logs@userDefined" key=".logs" provider="builtin.js" language-level="ES6" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: Green&quot;, $EXPR$);" toReformat="true" toShortenFQNames="true" />
-    </template>
     <template id="logw@userDefined" key=".logw" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
-      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: Orange&quot;, $EXPR$);" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="logd@userDefined" key=".logd" provider="builtin.js" language-level="ES6" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="console.log('$EXPR$ :',  $EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: Orange&quot;, $EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="logd@userDefined2" key=".logd" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
-      <template name="fakeKey" value="console.log('$EXPR$ :',  $EXPR$)" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="console.log('$EXPR$ :',  $EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="dd@userDefined" key=".dd" provider="builtin.php" topmost="true">
+    <template id="logs@userDefined" key=".logs" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
-      <template name="fakeKey" value="dd($EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: Green&quot;, $EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="dd@userDefined2" key=".dd" provider="builtin.php" topmost="true">
+    <template id="loge@userDefined" key=".loge" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
-      <template name="fakeKey" value="dd($EXPR$);" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: red&quot;, $EXPR$);&#10;" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="logi@userDefined" key=".logi" provider="builtin.js" language-level="ES6" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="console.log(`%c $EXPR$`, &quot;color: DodgerBlue&quot;, $EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
