@@ -24,7 +24,7 @@
   <component name="DeclarativeInlayHintsSettings">
     <option name="enabledOptions">
       <map>
-        <entry key="js.type.hints#function.returns" value="true" />
+        <entry key="js.type.hints#function.returns" value="false" />
         <entry key="js.type.hints#non.paren.single.param" value="true" />
         <entry key="js.type.hints#parameters.in.parens" value="true" />
         <entry key="js.type.hints#variables.and.fields" value="true" />
