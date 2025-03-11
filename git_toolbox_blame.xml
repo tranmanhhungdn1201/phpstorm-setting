@@ -1,5 +1,10 @@
 <application>
   <component name="GitToolBoxBlameAppConfig">
+    <option name="blameLargeFileConfig">
+      <LargeFileConfig>
+        <option name="linesThreshold" value="3000" />
+      </LargeFileConfig>
+    </option>
     <option name="version" value="2" />
   </component>
 </application>
