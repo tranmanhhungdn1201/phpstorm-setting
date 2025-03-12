@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="chatInlayEnabled" value="false" />
     <option name="firstInstall" value="false" />
     <option name="hasShownPreReleaseNotification" value="true" />
   </component>
