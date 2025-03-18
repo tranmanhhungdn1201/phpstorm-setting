@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1741230513423" />
+    <option name="lastTrimTime" value="1742270012001" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="仕入" />
       <item value="インポートに失敗しました。行エラー" />
       <item value="grand total" />
       <item value="インボイスパッキングリスト番号を入力" />
@@ -60,14 +61,13 @@
       <item value="The URL of the image used as an icon of the notification as specified in the constructor's options parameter." />
       <item value="A boolean value indicating that a notification should remain active until the user clicks or dismisses it, rather than closing automatically." />
       <item value="Comma" />
-      <item value="heatmap settings presets" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="465" />
-        <entry key="JAPANESE" value="439" />
+        <entry key="JAPANESE" value="440" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="VIETNAMESE" value="289" />
       </map>
