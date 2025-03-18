@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="function use to filter tax_default and ex tax" />
       <item value="仕入" />
       <item value="インポートに失敗しました。行エラー" />
       <item value="grand total" />
@@ -60,16 +61,15 @@
       <item value="user data is set on each redraw, so we use this to mark draw as dirty" />
       <item value="The URL of the image used as an icon of the notification as specified in the constructor's options parameter." />
       <item value="A boolean value indicating that a notification should remain active until the user clicks or dismisses it, rather than closing automatically." />
-      <item value="Comma" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="ENGLISH" value="466" />
         <entry key="JAPANESE" value="440" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="VIETNAMESE" value="289" />
+        <entry key="VIETNAMESE" value="290" />
       </map>
     </option>
   </component>
