@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.lang.jsgraphql" />
         <option value="com.intellij.react" />
+        <option value="com.deadlock.scsyntax" />
       </list>
     </option>
   </component>
