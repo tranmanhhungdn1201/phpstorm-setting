@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1743651613855" />
+    <option name="lastTrimTime" value="1744168569585" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="Salutation" />
       <item value="teeth loss" />
       <item value="loss" />
       <item value="STATUS PROOFREADING" />
@@ -60,16 +61,15 @@
       <item value="erialize" />
       <item value="serialize order book" />
       <item value="Reconnecting does not guarantee us that we have not missed a websocket message. Missing a single message would put the order book in an invalid state. This is why we can't just reconnect." />
-      <item value="Rectangle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="JAPANESE" value="440" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="VIETNAMESE" value="293" />
+        <entry key="VIETNAMESE" value="294" />
       </map>
     </option>
   </component>
