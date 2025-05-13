@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="未円転" />
       <item value="If exchange input do not fnished, set 0" />
       <item value="replication" />
       <item value="Send email every morning(AM09:00) till 3months to user didn’t change password while 2.5 months" />
@@ -35,7 +36,6 @@
       <item value="get entitle by emp" />
       <item value="collision" />
       <item value="イービス台湾" />
-      <item value="未円転" />
       <item value="set resize proportional" />
       <item value="担当者です" />
       <item value="is rest day" />
@@ -67,10 +67,10 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="475" />
-        <entry key="JAPANESE" value="440" />
+        <entry key="JAPANESE" value="441" />
         <entry key="LATIN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="VIETNAMESE" value="299" />
+        <entry key="VIETNAMESE" value="300" />
       </map>
     </option>
   </component>
