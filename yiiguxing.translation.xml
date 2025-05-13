@@ -11,6 +11,7 @@
     <option name="translationDialogLocationX" value="2579" />
     <option name="translationDialogLocationY" value="394" />
     <histories>
+      <item value="If exchange input do not fnished, set 0" />
       <item value="replication" />
       <item value="Send email every morning(AM09:00) till 3months to user didn’t change password while 2.5 months" />
       <item value="balance max shift" />
@@ -60,13 +61,12 @@
       <item value="Replaced all occurrences of" />
       <item value="コード" />
       <item value="紹介" />
-      <item value="紹介コード" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="ENGLISH" value="475" />
         <entry key="JAPANESE" value="440" />
         <entry key="LATIN" value="1" />
         <entry key="NORWEGIAN" value="1" />
