@@ -1,76 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1747883616272" />
-  </component>
-  <component name="Translation.Settings">
-    <option name="primaryLanguage" value="ENGLISH" />
-    <option name="targetLanguageSelection" value="LAST" />
+    <option name="lastTrimTime" value="1748251910531" />
   </component>
   <component name="Translation.States">
-    <option name="translationDialogHeight" value="260" />
-    <option name="translationDialogLocationX" value="2579" />
-    <option name="translationDialogLocationY" value="394" />
     <histories>
-      <item value="Piece" />
-      <item value="omit" />
-      <item value="未円転" />
-      <item value="If exchange input do not fnished, set 0" />
-      <item value="replication" />
-      <item value="Send email every morning(AM09:00) till 3months to user didn’t change password while 2.5 months" />
-      <item value="balance max shift" />
-      <item value="periodontitis exam" />
-      <item value="advanced search" />
-      <item value="Salutation" />
-      <item value="teeth loss" />
-      <item value="loss" />
-      <item value="STATUS PROOFREADING" />
-      <item value="function use to filter tax_default and ex tax" />
-      <item value="仕入" />
-      <item value="インポートに失敗しました。行エラー" />
-      <item value="grand total" />
-      <item value="インボイスパッキングリスト番号を入力" />
-      <item value="PROPOSING" />
-      <item value="三菱UFJ銀行　赤坂支店" />
-      <item value="Invalid Code: Please check your redemption code and try again" />
-      <item value="upsert" />
-      <item value="REQUESTER TYPE SPECIFIC" />
-      <item value="is satisfy condition type" />
-      <item value="get entitle by emp" />
-      <item value="collision" />
-      <item value="イービス台湾" />
-      <item value="set resize proportional" />
-      <item value="担当者です" />
-      <item value="is rest day" />
-      <item value="calc client income date" />
-      <item value="ダウンロード" />
-      <item value="referred individuals" />
-      <item value="description" />
-      <item value="destination" />
-      <item value="Subscription Successfully Registered" />
-      <item value="サブスクリプションの登録を完了しました" />
-      <item value="テナントはプレミアム" />
-      <item value="詳細" />
-      <item value="dependent" />
-      <item value="Suppress logger output for asset requests." />
-      <item value="デバイスの数を調整" />
-      <item value="デバイスの数" />
-      <item value="device is bought" />
-      <item value="STATUS PAST DUE" />
-      <item value="change the next_cycle_date back to the previous date" />
-      <item value="Indicate that the price change should be prorated." />
-      <item value="Indicate that the price change should always be invoiced." />
-      <item value="identities only" />
-      <item value="Replaced all occurrences of" />
+      <item value="Only save if there were actual changes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="477" />
-        <entry key="JAPANESE" value="441" />
-        <entry key="LATIN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="VIETNAMESE" value="302" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
